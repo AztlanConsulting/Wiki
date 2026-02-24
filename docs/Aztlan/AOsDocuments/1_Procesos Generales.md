@@ -38,7 +38,7 @@ Crear un punto de partida probado y funcional que puede servir para cualqueir pr
 Al realizar el starterpack de arquitectura del proyecto y como consulta en diferentes sugerencias de tecnologías que se necesite mas adelante.
 
 ### Lista de stacks
-[Al presionar aquí.](ENLACE)
+[Al presionar aquí.](https://www.youtube.com)
 
 ---
 
