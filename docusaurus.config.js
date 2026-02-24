@@ -10,9 +10,10 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
+  title: 'Aztlán Consulting',
   tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
+  trailingSlash: false, 
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -23,12 +24,12 @@ const config = {
   url: 'https://your-docusaurus-site.example.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/Wiki-Aztlan/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'AztlanConsulting', // Usually your GitHub org/user name.
+  projectName: 'Wiki-Aztlan', // Usually your repo name.
 
   onBrokenLinks: 'throw',
 
@@ -97,7 +98,7 @@ const config = {
           },
           {to: '/blog', label: 'Desarrolladores', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/AztlanConsulting/Wiki-Aztlan',
             label: 'GitHub',
             position: 'right',
           },
@@ -141,12 +142,12 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/AztlanConsulting/Wiki-Aztlan',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Aztlán Consulting, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
