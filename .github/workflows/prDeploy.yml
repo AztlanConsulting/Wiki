@@ -1,0 +1,12 @@
+name: Pull request to main
+
+on:
+  pull_request_review:
+    types: [submitted]
+
+jobs:
+  deploy:
+    if: >
+      github.event.review.state == 'approved' &&
+      github.event.pull_request.base.ref == 'main'
+    uses: ./.github/workflows/deploy.yml
