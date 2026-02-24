@@ -24,12 +24,13 @@ const config = {
   url: 'https://your-docusaurus-site.example.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/Wiki-Aztlan/',
+  baseUrl: '/Wiki/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'AztlanConsulting', // Usually your GitHub org/user name.
-  projectName: 'Wiki-Aztlan', // Usually your repo name.
+  projectName: 'Wiki', // Usually your repo name.
+  deploymentBranch: 'main',
 
   onBrokenLinks: 'throw',
 
