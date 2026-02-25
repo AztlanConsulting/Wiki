@@ -2,9 +2,9 @@
 title: "Architecture Owners – Procesos"
 ---
 
-## Introduccion
+## Introduccion HOLAAAA
 
-Este documento tiene el objetivo de identificar rapidamente los procesos propuestos por el departamento de AOs. Esto con el objetivo de estandarizar una forma en la que documentamos, diseñamos y tomamos desiciones tecnicas. Pasaremos a traves de coda componente explicando su definicion, objetivo, cuando utilizarlo, incluyendo enlaces a la guía de uso y plantilla correspondiente.
+Este documento tiene el objetivo de identificar rapidamente los procesos propuestos por el departamento de AOs. Esto con el objetivo de estandarizar una forma en la que documentamos, diseñamos y tomamos desiciones tecnicas. Pasaremos a traves de coda componente explicando su definicion, objetivo, cuando utilizarlo, incluyendo enlaces a la guía de uso y plantilla correspondiente
 
 ---
 
