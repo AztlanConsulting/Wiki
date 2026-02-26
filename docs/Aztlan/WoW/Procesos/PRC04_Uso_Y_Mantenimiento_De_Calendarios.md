@@ -15,7 +15,7 @@ Generar y mantener un plan de acción con las actividades importantes que se tie
 
 ## Descripción
 
-| Pasos         | Actividades                                                                                                                                                                                                                                               | Practicas asociadas al CMMI |
+| Pasos         | Actividades                                                                                                                                                                                                                                               | Prácticas asociadas al CMMI |
 | ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
 | Entendimiento | Identificar hitos                                                                                                                                                                                                                                         | PP.1.3                      |
 | Entendimiento | Identificar Supuestos de calendario                                                                                                                                                                                                                       | PP.1.2                      | 
@@ -33,5 +33,7 @@ Calendario de actividades
 
 | Version | Creado por: | Auditado por: | Descripción | Fecha |
 |---------|------------|--------------|---------------|-------|
-| 1.0     | Yael Charles Marin Y Santiago Alducin Villaseñor          |  | Proceso para el calendario  | 25/02/2026 |
-| 2.0     |  Yael Charles Marin Y Santiago Alducin Villaseñor |  | Adaptar al formato | 26/02/2026 |
+| 1.0     | Yael Charles Marin Y Santiago Alducin Villaseñor          | Edmundo  | Proceso para el calendario  | 25/02/2026 |
+| 2.0     |  Yael Charles Marin Y Santiago Alducin Villaseñor | Edmundo | Adaptar al formato | 26/02/2026 |
+| 2.1    |  Yael Charles Marin Y Santiago Alducin Villaseñor | Edmundo | Acento en Prácticas | 26/02/2026 |
+

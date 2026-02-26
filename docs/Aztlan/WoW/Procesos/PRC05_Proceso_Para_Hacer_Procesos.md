@@ -14,7 +14,7 @@ Objetivo:
 - Información recopilada entre miembros del departamento acerca de lo que se quiera lograr con el proceso.
 
 ## Descripción
-| Fases | Actividades | Practicas asociadas al CMMI |
+| Fases | Actividades | Prácticas asociadas al CMMI |
 |--------------|--------------|--------------|
 | Entendimiento | Identificar un área de mejora en la forma de trabajo del departamento |    |
 | Entendimiento | Verificar si ya hay un proceso definido que aborde la necesidad identificada |    | 
@@ -34,3 +34,4 @@ Un nuevo proceso documentado en el mapa de procesos y wiki.
 | Version | Creado por: | Auditado por: | Descripción | Fecha |
 |---------|------------|--------------|---------------|-------|
 | 1.0     | Yael Charles Marin           | Edmundo, Fatima | Proceso para hacer un proceso.  | 26/02/2026 |
+| 1.1     | Yael Charles Marin           | Edmundo, Fatima | Acento en Prácticas  | 26/02/2026 |

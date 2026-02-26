@@ -18,7 +18,7 @@ Petición de un miembro del departamento que no entendió el proceso.
 ---------------------------------------------------------------------------- -->
 
 ## Descripción
-| Fases | Actividades | Practicas asociadas al CMMI |
+| Fases | Actividades | Prácticas asociadas al CMMI |
 |--------------|--------------|--------------|
 | Identificación | Identificar un proceso o parte de este, que necesite una explicación   |    |
 | Investigación |  Recopilar formas y herramientas para el desarrollo del proceso  |    | 
@@ -37,3 +37,4 @@ Guía en la Wiki vinculada al proceso.
 | Version | Creado por: | Auditado por: | Descripción | Fecha |
 |---------|------------|--------------|---------------|-------|
 | 1.0     | Yael, Juan Manuel, Manuel  | Andre, Fatima y Kamila| Proceso para hacer Guías  | 26/02/2026 |
+| 1.1     | Yael, Juan Manuel, Manuel  | Andre, Fatima y Kamila| Acento en Prácticas  | 26/02/2026 |
