@@ -4,37 +4,42 @@ sidebar_position: 1
 ---
 # Proceso para conseguir una práctica del CMMI
 
-## Objetivo
-Plantear los artefactos de trabajo necesarios para implementar una práctica del CMMI.
+_v2.0 /_ PP
 
-## Inputs
-- Tener lista la planeación de acuerdo al WBS del CMMI.
+## Propósito
+Definir el procedimiento para identificar, registrar y desarrollar los artefactos necesarios para implementar una práctica del CMMI dentro del departamento.
+
+## Entradas
+- Planeación definida de acuerdo al WBS del CMMI.
 - Libro de texto CMMI.
+- Lista de prácticas de Planeación.
+- Backlog del departamento.
 
-## Paso a paso
-1. En conjunto con tu pareja, selecciona una de las prácticas enlistadas en la lista de Planeación para el CMMI.
-2. Leer y entender la práctica.
-3. Identificar el tipo de artefactos de trabajo necesario (política / proceso / guía).
-  - (Todo proceso o guía de practica obligatoria, debe tener una politica)
-4. Registrar el artefacto en el Backlog del departamento.
-  - Si ya está registrado y asignado:
-    - Anotar tu práctica en los comentarios para que se tome en cuenta.
-    - Platicar con los encargados del artefacto.
-  - Si ya está registrado pero no tiene a alguien asignado:
-    - Asígnense.
-  - Si no está registrado:
-    - Regístrenlo y asígnense.
-5. Definir y redactar el artefacto de trabajo
-  - Consultar: Consultar: [PLA02 - Plantilla de Procesos](../Plantillas/PLA02-Proceso.md).
-6. Recopilar el artefacto de trabajo en el proceso completo del área de proceso, con las parejas que estuvieron involucradas.
+---
 
-## Outputs
-- Políticas
-- Procesos de áreas
-- Guías
+## Descripción
+
+| Fases | Actividades | Prácticas asociadas al CMMI |
+|--------------|--------------|--------------|
+| Selección de práctica | Seleccionar en pareja una práctica de la lista de Planeación para CMMI. |  |
+| Análisis de práctica | Leer y comprender la práctica seleccionada para identificar su propósito y requerimientos. |  |
+| Identificación de artefacto | Determinar el tipo de artefacto necesario (política, proceso o guía). Toda práctica obligatoria debe contar con política asociada. | |
+| Registro en backlog | Verificar si el artefacto ya está registrado. Si existe y está asignado, coordinarse con responsables. Si existe sin asignación, asignarse. Si no existe, registrarlo y asignarse. |  |
+| Redacción del artefacto | Definir y redactar el artefacto utilizando la plantilla correspondiente. Consultar: [PLA02 - Plantilla de Procesos](../Plantillas/PLA02-Proceso.md). |  |
+| Integración al área de proceso | Integrar el artefacto dentro del proceso completo del área correspondiente junto con las demás parejas involucradas. |  |
+
+---
+
+## Salidas
+- Políticas documentadas.
+- Procesos de áreas definidos.
+- Guías operativas.
+
+---
 
 ## Control de versiones
 
 | Version | Creado por: | Auditado por: | Descripción | Fecha |
-|---------|------------|--------------|---|---|
-| 1.0     | Andrea Fátima Figueroa López           |  Yael  |  | 25/02/2026 |
+|---------|------------|--------------|---------------|-------|
+| 1.0     | Andrea Fátima Figueroa López | Yael | Versión inicial del proceso. | 25/02/2026 |
+| 2.0     | Andrea Fátima Figueroa López | Yael | Adaptación a plantilla v2.0 y estructuración por fases. | 26/02/2026 |

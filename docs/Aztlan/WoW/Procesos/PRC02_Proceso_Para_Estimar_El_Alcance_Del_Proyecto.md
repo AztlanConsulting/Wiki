@@ -22,7 +22,7 @@ Definir y estructurar el trabajo del proyecto de manera clara y organizada para 
 | Identificar entregables | Por cada módulo general, enlistar los entregables. | PP SP 1.1 |
 | Identificar paquetes de trabajo | Por cada entregable, establecer paquetes de trabajo. | PP SP 1.1 |
 | Identificar actividades | Para cada paquete de trabajo, enlistar actividades que puedan realizarse en máximo un día. | PP SP 1.1 |
-| Crear diagrama WBS | Con toda la información anterior, crear el WBS del proyecto. Guía WBS (link). | PP SP 1.1 |
+| Crear diagrama WBS | Con toda la información anterior, crear el WBS del proyecto. Consultar: Guía WBS (link). | PP SP 1.1 |
 
 ## Ejemplo
 ![WBS Example](/img/PRC02Example.webp)
