@@ -23,7 +23,7 @@ Petición de un miembro del departamento que no entendió el proceso.
 | Identificación | Identificar un proceso o parte de este, que necesite una explicación   |    |
 | Investigación |  Recopilar formas y herramientas para el desarrollo del proceso  |    | 
 | Ejecución |  Diseñar lista de pasos, en español, para la ejecución del proceso a explicar  |    | 
-| Ejecución | Describir la guía con la lista de pasos |    |  
+| Ejecución | Escribir la guía con la lista de pasos |    |  
 | Validación | Validar con un miembro del departamento la claridad de la guía y atender a la retroalimentación |    | 
 | Documentación | Añadir la guía a la Wiki departamental |    | 
 | Documentación | Vincular la guía al proceso correspondiente en la wiki |    | 
