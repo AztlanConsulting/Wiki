@@ -1,5 +1,5 @@
 ---
-title: "Proceso para hacer procesos"
+title: "PRC02-Proceso para hacer un artefacto de practica"
 sidebar_position: 2
 ---
 
