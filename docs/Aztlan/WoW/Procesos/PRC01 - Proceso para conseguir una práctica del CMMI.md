@@ -12,7 +12,6 @@ Definir el procedimiento para identificar, registrar y desarrollar los artefacto
 ## Entradas
 - Planeación definida de acuerdo al WBS del CMMI.
 - Libro de texto CMMI.
-- Lista de prácticas de Planeación.
 - Backlog del departamento.
 
 ---
