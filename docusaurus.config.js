@@ -12,7 +12,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Aztlán Consulting',
   tagline: 'Dinosaurs are cool',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/logoAztlan.png',
   trailingSlash: false, 
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -77,15 +77,15 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/logoAztlan.jpg',
       colorMode: {
         respectPrefersColorScheme: true,
       },
       navbar: {
         title: 'Aztlán',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/aztlanLogo.png',
+          alt: 'Aztlán Logo',
+          src: 'img/logoAztlan.png',
         },
         items: [
           {

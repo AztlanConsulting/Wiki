@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Misión',
-    img: require('@site/static/img/Misión.png').default,
+    img: require('@site/static/img/logoAztlan.png').default,
     description: (
       <>
         Escuchar, entender y transformar las ideas de nuestros SF 
@@ -15,7 +15,7 @@ const FeatureList = [
   },
   {
     title: 'Visión',
-    img: require('@site/static/img/Visión.png').default,
+    img: require('@site/static/img/logoAztlan.png').default,
     description: (
       <>
         Brindar soluciones que superen las expectativas de nuestros clientes, que tengan un impacto en el futuro de nuestro entorno.
@@ -24,7 +24,7 @@ const FeatureList = [
   },
   {
     title: 'Valores',
-    img: require('@site/static/img/Valores.png').default,
+    img: require('@site/static/img/logoAztlan.png').default,
     description: (
       <>
         IEIWSJSJAKAKJSJK.
