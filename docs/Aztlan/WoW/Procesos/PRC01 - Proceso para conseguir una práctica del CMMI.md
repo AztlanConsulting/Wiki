@@ -25,7 +25,7 @@ Plantear los artefactos de trabajo necesarios para implementar una práctica del
   - Si no está registrado:
     - Regístrenlo y asígnense.
 5. Definir y redactar el artefacto de trabajo
-  - Consultar: [PRC02- Proceso para hacer un artefacto de practica](PRC02-Proceso%20para%20hacer%20un%20artefacto%20de%20practica.md).
+  - Consultar: Consultar: [PLA02 - Plantilla de Procesos](../Plantillas/PLA02-Proceso.md).
 6. Recopilar el artefacto de trabajo en el proceso completo del área de proceso, con las parejas que estuvieron involucradas.
 
 ## Outputs
@@ -35,6 +35,6 @@ Plantear los artefactos de trabajo necesarios para implementar una práctica del
 
 ## Control de versiones
 
-| Version | Creado por: | Auditado por: | Descripción
-|---------|------------|--------------|---|
-| 1.0     | Andrea Fátima Figueroa López           |              |  |
+| Version | Creado por: | Auditado por: | Descripción | Fecha |
+|---------|------------|--------------|---|---|
+| 1.0     | Andrea Fátima Figueroa López           |  Yael  |  | 25/02/2026 |
