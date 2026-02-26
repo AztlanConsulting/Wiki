@@ -1,8 +1,8 @@
 {
-  "label": "Procesos",
+  "label": "Recursos",
   "position": 2,
   "link": {
     "type": "generated-index",
-    "description": "Documentación del Departamento de Procesos."
+    "description": "Documentación del Departamento de Recursos."
   }
 }

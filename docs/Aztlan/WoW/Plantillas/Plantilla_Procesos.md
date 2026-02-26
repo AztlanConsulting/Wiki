@@ -21,10 +21,10 @@ sidebar_position: 2 # CAMBIAR ESTE NUMERO DEPENDIENDO LA POSICION
 ## Descripción.
 | Fases | Actividades | Practicas asociadas al CMMI |
 |--------------|--------------|--------------|
-| 1 |    |    |
-| 2 |    |    | 
-| 3 |    |    | 
-| 4 |    |    | 
+| [Nombre de la fase] |    |    |
+| [Nombre de la fase] |    |    | 
+| [Nombre de la fase] |    |    | 
+| [Nombre de la fase] |    |    |  
 
 ## Salidas.
 [Resultado esperado con este proceso]
@@ -32,7 +32,7 @@ sidebar_position: 2 # CAMBIAR ESTE NUMERO DEPENDIENDO LA POSICION
 
 ## Control de versiones
 
-| Version | Creado por: | Auditado por: | Descripción
-|---------|------------|--------------|
+| Version | Creado por: | Auditado por: | Descripción |
+|---------|------------|--------------|---------------|
 | 1.0     | Yael Charles Marin           | Yessica, Manuel, Alejandra | Plantilla inicial para procesos.  |
-| 2.0     | Yael Charles Marin | | Eliminar responsable, notas y interesados para simplificar. |
+| 2.0     | Yael Charles Marin |  | Eliminar responsable, notas y interesados para simplificar. |
