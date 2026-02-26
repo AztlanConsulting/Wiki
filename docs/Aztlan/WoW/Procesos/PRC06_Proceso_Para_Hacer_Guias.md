@@ -1,14 +1,15 @@
 ---
-title: "Plantilla de Procesos" # CAMBIAR AL TITULO
+title: "PRC06 - Proceso para hacer guías" # CAMBIAR AL TITULO
 ---
 
-_v2.0 /_ <!--Poner practicas del CMMI-->
+_v1.0 /_ <!--Poner practicas del CMMI-->
 
 ## Propósito
-[Objetivo que se quiere lograr con el proceso]
+Establecer una guía de pasos formal y estructural para cumplir un proceso, y que sea entendible por cualquier miembro del departamento y externos.
 
 ## Entradas
-[Cualquier información que esté registrada en minutas, sesiones con el socio, etc.]
+Proceso
+Petición de un miembro del departamento que no entendió el proceso.
 
 <!-- ---------------------------------------------------------------------------
 - Las fases estan puestas como template
@@ -18,7 +19,7 @@ _v2.0 /_ <!--Poner practicas del CMMI-->
 ## Descripción
 | Fases | Actividades | Practicas asociadas al CMMI |
 |--------------|--------------|--------------|
-| [Nombre de la fase] |    |    |
+| Identificación | Identificar un proceso o parte de este, que necesite una explicación   |    |
 | [Nombre de la fase] |    |    | 
 | [Nombre de la fase] |    |    | 
 | [Nombre de la fase] |    |    |  

@@ -4,7 +4,7 @@ title: "PRC05 - Proceso para hacer procesos"
 
 _v1.0 /_ <!--Poner practicas del CMMI-->
 
-## Propósito.
+## Propósito
 Definir una serie de pasos para crear nuevos procesos que proporcionen al departamento una forma clara y entendible de trabajo.
 
 ## Entradas
@@ -13,7 +13,7 @@ Prácticas del departamento:
 Objetivo:
 - Información recopilada entre miembros del departamento acerca de lo que se quiera lograr con el proceso.
 
-## Descripción.
+## Descripción
 | Fases | Actividades | Practicas asociadas al CMMI |
 |--------------|--------------|--------------|
 | Entendimiento | Identificar un área de mejora en la forma de trabajo del departamento |    |
@@ -26,7 +26,7 @@ Objetivo:
 | Validación | Solicitar a un miembro del departamento que revise el proceso y seguir la retroalimentación otorgada|    |  
 | Documentación | Añadir el proceso a la Wiki y al mapa de procesos |    |  
 
-## Salidas.
+## Salidas
 Un nuevo proceso documentado en el mapa de procesos y wiki.
 
 ## Control de versiones

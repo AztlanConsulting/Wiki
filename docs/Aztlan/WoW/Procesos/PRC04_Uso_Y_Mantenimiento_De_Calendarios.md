@@ -4,7 +4,7 @@ title: "PRC04 - Uso y mantenimiento de Calendarios"
 
 _v2.0 /_ PP <!--Poner practicas del CMMI-->
 
-## Propósito.
+## Propósito
 
 Generar y mantener un plan de acción con las actividades importantes que se tienen que realizar para un correcto desempeño del equipo
 
@@ -13,7 +13,7 @@ Generar y mantener un plan de acción con las actividades importantes que se tie
 - Análisis de la estimación
 - Estimados de esfuerzo de trabajo
 
-## Descripción.
+## Descripción
 
 | Pasos         | Actividades                                                                                                                                                                                                                                               | Practicas asociadas al CMMI |
 | ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
@@ -25,7 +25,7 @@ Generar y mantener un plan de acción con las actividades importantes que se tie
 | Validación    | Usar datos reales para verificar el estado del calendario. En caso de no cumplir con las espectativas del plan buscar una mejor estrategia para el cumplimiento de los hitos. Validar con el departamento compromiso con el plan.                         | PP.2.1                      | 
 | Documentación | Actividades o cambios documentados                                                                                                                                                                                                                        | PP.2.1                      | Autor del proceso |
 
-## Salidas.
+## Salidas
 
 Calendario de actividades
 
