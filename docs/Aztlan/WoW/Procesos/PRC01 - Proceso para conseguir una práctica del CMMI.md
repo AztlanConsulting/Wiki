@@ -35,6 +35,6 @@ Plantear los artefactos de trabajo necesarios para implementar una práctica del
 
 ## Control de versiones
 
-| Version | Creado por: | Auditado por: |
-|---------|------------|--------------|
-| 1.0     | Andrea Fátima Figueroa López           |              |
+| Version | Creado por: | Auditado por: | Descripción
+|---------|------------|--------------|---|
+| 1.0     | Andrea Fátima Figueroa López           |              |  |
