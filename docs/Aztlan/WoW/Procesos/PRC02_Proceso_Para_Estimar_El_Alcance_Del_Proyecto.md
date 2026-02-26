@@ -12,7 +12,8 @@ Definir y estructurar el trabajo del proyecto de manera clara y organizada para 
 ## Entradas
 - Notas de apoyo  
 - Desarrollo del ciclo de vida de un proyecto  
-- Componentes externos a adquirir (en caso de ser necesario, incluir tareas para su adquisición)  
+- Componentes externos a adquirir (en caso de ser necesario, incluir tareas para su adquisición)
+    - APIs, Spikes, etc
 
 ## Descripción
 | Fase | Actividades | Prácticas CMMI |
