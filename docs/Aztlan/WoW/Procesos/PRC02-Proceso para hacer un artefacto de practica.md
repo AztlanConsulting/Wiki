@@ -3,6 +3,8 @@ title: "PRC02-Proceso para hacer un artefacto de practica"
 sidebar_position: 2
 ---
 
+# Proceso para hacer un artefacto de practica
+
 ## [Nombre del proceso].
 
 ## Propósito.
