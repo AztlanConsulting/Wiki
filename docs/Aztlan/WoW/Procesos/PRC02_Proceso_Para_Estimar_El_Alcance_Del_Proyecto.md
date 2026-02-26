@@ -24,8 +24,8 @@ Definir y estructurar el trabajo del proyecto de manera clara y organizada para 
 | Identificar actividades | Para cada paquete de trabajo, enlistar actividades que puedan realizarse en máximo un día. | PP SP 1.1 |
 | Crear diagrama WBS | Con toda la información anterior, crear el WBS del proyecto. Consultar: Guía WBS (link). | PP SP 1.1 |
 
-## Ejemplo
-![WBS Example](/img/PRC02Example.webp)
+## Diagrama de relación entre pasos
+![Diagram](/img/PRC02Example.webp)
 
 ## Salidas
 - Diagrama WBS  
