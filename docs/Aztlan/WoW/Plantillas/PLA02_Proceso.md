@@ -1,13 +1,8 @@
 ---
-title: "Plantilla de Procesos"
-sidebar_position: 2 # CAMBIAR ESTE NUMERO DEPENDIENDO LA POSICION
+title: "Plantilla de Procesos" # CAMBIAR AL TITULO
 ---
 
-# Plantilla para hacer procesos.
-
 _v2.0 /_ <!--Poner practicas del CMMI-->
-
-## [Nombre del proceso].
 
 ## Propósito.
 [Objetivo que se quiere lograr con el proceso]
