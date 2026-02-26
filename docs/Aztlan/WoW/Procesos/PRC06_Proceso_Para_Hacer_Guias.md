@@ -8,7 +8,8 @@ _v1.0 /_ <!--Poner practicas del CMMI-->
 Establecer una guía de pasos formal y estructural para cumplir un proceso, y que sea entendible por cualquier miembro del departamento y externos.
 
 ## Entradas
-Proceso
+Proceso existente
+
 Petición de un miembro del departamento que no entendió el proceso.
 
 <!-- ---------------------------------------------------------------------------
@@ -20,17 +21,19 @@ Petición de un miembro del departamento que no entendió el proceso.
 | Fases | Actividades | Practicas asociadas al CMMI |
 |--------------|--------------|--------------|
 | Identificación | Identificar un proceso o parte de este, que necesite una explicación   |    |
-| [Nombre de la fase] |    |    | 
-| [Nombre de la fase] |    |    | 
-| [Nombre de la fase] |    |    |  
+| Investigación |  Recopilar formas y herramientas para el desarrollo del proceso  |    | 
+| Ejecución |  Diseñar lista de pasos, en español, para la ejecución del proceso a explicar  |    | 
+| Ejecución | Describir la guía con la lista de pasos |    |  
+| Validación | Validar con un miembro del departamento la claridad de la guía y atender a la retroalimentación |    | 
+| Documentación | Añadir la guía a la Wiki departamental |    | 
+| Documentación | Vincular la guía al proceso correspondiente en la wiki |    | 
 
 ## Salidas
-[Resultado esperado con este proceso]
+Guía en la Wiki vinculada al proceso.
 
 
 ## Control de versiones
 
 | Version | Creado por: | Auditado por: | Descripción | Fecha |
 |---------|------------|--------------|---------------|-------|
-| 1.0     | Yael Charles Marin           | Yessica, Manuel, Alejandra | Plantilla inicial para procesos.  | 26/02/2026 |
-| 2.0     | Yael Charles Marin | Manuel, Alejandra, Edmundo, Andre  | Eliminar responsable, notas y interesados para simplificar. | 26/02/2026 |
+| 1.0     | Yael, Juan Manuel, Manuel  | Andre, Fatima y Kamila| Proceso para hacer Guías  | 26/02/2026 |
