@@ -13,5 +13,5 @@ jobs:
   deploy:
     if: >
       github.event.review.state == 'approved' &&
-      github.event.pull_request.base.ref == 'main'
+      github.event.pull_request.base.ref == 'develop'
     uses: ./.github/workflows/deploy.yml
