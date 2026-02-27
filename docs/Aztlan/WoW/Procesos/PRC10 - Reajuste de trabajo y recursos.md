@@ -6,7 +6,7 @@ title: "PRRC10 - Reajuste de trabajo y recursos" # CAMBIAR AL TITULO
 
 ## Propósito
 
-Reajustar el plan de trabajo de acuerdo al estimado para que el plán sea realizable.
+(SP 3.2) Reajustar el plan de trabajo de acuerdo al estimado para que el plán sea realizable.
 Obtener compromiso de los interesados a los cambios.
 Negociar cambios a requerimientos, incrementar productividad, ajustar personal, revisar los planes y programa.
 
