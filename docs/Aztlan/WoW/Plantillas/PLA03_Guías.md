@@ -25,3 +25,9 @@ Descripción detallada del paso.
 - **Nombre del recurso** – Imagen de referencia (ver archivo adjunto)
 <!-- - Así se importa una imagen -->
 <!-- - **Nombre del recurso** – ![Imagen del recurso](ruta-o-url-de-la-imagen) -->
+
+## Control de versiones
+
+| Version | Creado por: | Auditado por: | Descripción | Fecha |
+|---------|------------|--------------|---------------|-------|
+| 1.0     | Manuel Bajos Rivera| Yessica,Alejandra,Fer | Plantilla inicial para guías.  | 26/02/2026 |
