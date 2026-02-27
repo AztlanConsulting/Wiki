@@ -1,8 +1,8 @@
 ---
-title: "PRC02 - Proceso para estimar el alcance del proyecto"
+title: "PRC02 - Proceso para definir el alcance del proyecto"
 ---
 
-# Proceso para estimar el alcance del proyecto
+# Proceso para definir el alcance del proyecto
 
 _v1.0 /_ PP
 
@@ -35,4 +35,4 @@ Definir y estructurar el trabajo del proyecto de manera clara y organizada para 
 
 | Versión | Creado por | Auditado por | Descripción | Fecha |
 |----------|------------|--------------|------------|--------|
-| 1.0 | Fátima Figueroa, Kamila Martinez, Yessica Lora |    |    | 26/02/2026 |
+| 1.0 | Fátima Figueroa, Kamila Martinez, Yessica Lora | Manuel Bajos, Yael Charles    |    | 26/02/2026 |
