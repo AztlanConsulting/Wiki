@@ -7,7 +7,7 @@ Aprender a usar la guia de **Plantilla para estimar tamaño y costo de tareas** 
 
 ## Desarrollo
 
-### Paso 1: Define la escala que estaras usando
+### Paso 1: Definir escala númerica
 El equipo debe llegar a un consenso para elegir la escala numérica que utilizará para estimar los Story Points.
 
 **Restricciones**
