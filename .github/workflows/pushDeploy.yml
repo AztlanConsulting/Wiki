@@ -3,7 +3,7 @@ name: Push to main
 on:
   push:
     branches:
-      - develop
+      - main
       
 permissions:
     pages: write
