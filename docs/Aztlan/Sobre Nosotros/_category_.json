@@ -1,6 +1,6 @@
 {
-  "label": "Aztlan Consulting",
-  "position": 1,
+  "label": "Sobre Nosotros",
+  "position": 0,
   "link": {
     "type": "generated-index",
     "description": "Documentación General del Departamento."

@@ -1,0 +1,8 @@
+{
+  "label": "ADRs",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "Documentación del Departamento de ADR."
+  }
+}
