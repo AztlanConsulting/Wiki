@@ -1,4 +1,5 @@
 ---
+id: prc1o
 title: "PRRC10 - Reajuste de trabajo y recursos" # CAMBIAR AL TITULO
 ---
 

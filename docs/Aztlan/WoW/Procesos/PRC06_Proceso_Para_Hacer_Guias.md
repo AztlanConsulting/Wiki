@@ -1,4 +1,5 @@
 ---
+id: prc06
 title: "PRC06 - Proceso para hacer guías" # CAMBIAR AL TITULO
 ---
 
