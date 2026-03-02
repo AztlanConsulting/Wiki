@@ -28,5 +28,5 @@ Garantizar una comunicación estructurada, profesional y respetuosa que favorezc
 
 | Version | Creado por: | Auditado por: | Descripción | Fecha |
 |---------|------------|--------------|---------------|-------|
-| 1.0     |      Manuel Bajos Rivera      |        Juan manuel Murillo López      |       Política inicial        |    01/03/2026   |
+| 1.0     |      Manuel Bajos Rivera      |        Juan Manuel Murillo López      |       Política inicial        |    01/03/2026   |
 
