@@ -1,7 +1,9 @@
 ---
 title: "GUI02 - Guía para elegir ciclo de vida y definir fases"
+sidebar_position: 2
 ---
 
+# Guía para elegir ciclo de vida y definir fases
 
 ## Propósito
 Ayudar a elegir un ciclo de vida adecuado para cada proyecto en el departamento, definiendo sus fases, entregables, puntos de decisión, hitos y dependencias principales para calendarizarlo y monitorearlo (ver [PRC04](../Procesos/PRC04_Uso_Y_Mantenimiento_De_Calendarios.md)).

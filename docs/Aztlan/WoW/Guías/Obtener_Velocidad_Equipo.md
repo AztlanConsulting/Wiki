@@ -1,3 +1,8 @@
+---
+title: "GUI07 - Guía para calcular la velocidad del equipo"
+sidebar_position: 7
+---
+
 # ¿Cómo calculo la velocidad de mi equipo?
 
 ## Propósito

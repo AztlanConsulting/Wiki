@@ -1,3 +1,8 @@
+---
+title: "GUI03 - Guía para convertir story points a tiempo"
+sidebar_position: 3
+---
+
 # ¿Cómo convierto hago mi escala de Story Points a Tiempo?
 
 ## Propósito
