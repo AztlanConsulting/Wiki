@@ -54,8 +54,8 @@ Incentivar la cooperación entre departamentos y mantener el uso adecuado de las
 
 ### Respeto y Manejo de las áreas del Chantli
 - En caso de que algo se pierda o sufra un daño por uso indebido, será cubierto por el departamento del responsable del agravio.
-- En caso de que no se conozca el responsable se deberá pagar por los dos departamentos
-- No se podrá tener reuniones de trabajo o cualquier tipo en el chantli que implique el desalojo del mismo
+- En caso de que no se conozca el responsable se deberá pagar por los dos departamentos.
+- No se podrá tener reuniones de trabajo o cualquier tipo en el chantli que implique el desalojo del mismo.
 
 
 ### Área de Trabajo
@@ -66,13 +66,15 @@ Incentivar la cooperación entre departamentos y mantener el uso adecuado de las
 - No monopolizar los equipos del área más de tres horas a menos de que nadie lo necesite por el momento.
 - No alzar la voz y respetar el nivel de volumen que existe en el área de trabajo.
 - El uso de la bocina deberá estar acompañada por un Jam o una playlist que todos los integrantes puedan modificar.
+- Al finalizar de usar los pizarrones, se deberá borrar todo lo escrito en ellos.
+- En caso de que el área de trabajo huela mal, se deberá de encender el humificador colocando unas gotas de aceite esencial en el mismo. Al finalizar la semana, se deberá de vaciar el agua del humificador y limpiar el mismo para evitar malos olores.
 
 ### Área de bebidas
 - No alzar la voz y respetar el nivel de volumen que existe en el área de trabajo.
 - Utilizar la porción establecida de las bebidas para servirte correctamente.
 - Se deberá pagar lo correspondiente por cada porción de bebida utilizada.
 - Se podrá abonar dinero en efectivo en la alcancía del Chantli o por transferencia a la cuenta establecida.
-- Anotar todo lo consumido y abonado en el excel del Chantli Consulta tu saldo donde podrás ver cual es tu saldo actual, ya sea positivo o negativo.
+- Anotar todo lo consumido y abonado en el [Excel del Chantli](https://docs.google.com/spreadsheets/d/1OuupaJrEJTmPTOI4GjYNvZrHKfAxqKxHHi3SV-1O6TE/edit?gid=0#gid=0) Consulta tu saldo donde podrás ver cual es tu saldo actual, ya sea positivo o negativo.
 - Se podrá comprar algo de la tienda Honesta sin anotarse en el excel si se ingresa el efectivo correspondiente en la alcancía.
 
 ### Área de comida
@@ -102,3 +104,4 @@ Incentivar la cooperación entre departamentos y mantener el uso adecuado de las
 | Versión | Responsable | Razón | Fecha |
 |---|---|---|---|
 | 1.0 | Yessica Lora|  | 01/03/2026 |
+| 1.1 | Alejandra Arredondo| Actualización del apartado del área de trabajo | 02/03/2026|
