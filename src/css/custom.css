@@ -6,25 +6,42 @@
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #2e8555;
-  --ifm-color-primary-dark: #29784c;
-  --ifm-color-primary-darker: #277148;
-  --ifm-color-primary-darkest: #205d3b;
-  --ifm-color-primary-light: #33925d;
-  --ifm-color-primary-lighter: #359962;
-  --ifm-color-primary-lightest: #3cad6e;
+   --ifm-color-primary: #d86b2b;        /* naranja base más intenso */
+  --ifm-color-primary-dark: #c15f26;   /* un poco más oscuro */
+  --ifm-color-primary-darker: #a95120; /* más profundo */
+  --ifm-color-primary-darkest: #8f4219;/* el más oscuro */
+  --ifm-color-primary-light: #e07d44;  /* más claro */
+  --ifm-color-primary-lighter: #e89060;/* aún más claro */
+  --ifm-color-primary-lightest: #f1a57e;/* el más suave */
+  /* --ifm-background-color: #ff0000;
+  --ifm-navbar-background-color: #ff0000;
+  --ifm-footer-background-color: #1a1532; */
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: #21af90;
-  --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
-  --ifm-color-primary-light: #29d5b0;
-  --ifm-color-primary-lighter: #32d8b4;
-  --ifm-color-primary-lightest: #4fddbf;
+  --ifm-color-primary: #f5a623;
+  --ifm-color-primary-dark: #e59819;
+  --ifm-color-primary-darker: #d4881a;
+  --ifm-color-primary-darkest: #b37115;
+  --ifm-color-primary-light: #f7b74c;
+  --ifm-color-primary-lighter: #f8c67a;
+  --ifm-color-primary-lightest: #f9d6a7;
+  
+  --ifm-background-color: #080809;
+  --ifm-navbar-background-color: #000000;
+  --ifm-footer-background-color: #000000;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+/*
+* {
+  font-family: "Outfit", sans-serif;
+}
+
+.theme-code-block *, code {
+  font-family: monospace;
+}*/
