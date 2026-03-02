@@ -5,7 +5,7 @@ title: "Política de Colaboración"
 _v1.0 
 
 ## Propósito
-Fomentar una cultura de trabajo colaborativa y empática, en la que cada miembro del departamento facilite activamente el trabajo de los demñas, reduciendo bloqueos y retrabajo.
+Fomentar una cultura de trabajo colaborativa y empática, en la que cada miembro del departamento facilite activamente el trabajo de los demás, reduciendo bloqueos y retrabajo.
 
 ## Áreas de proceso y prácticas en las que se aplica
 
@@ -29,5 +29,5 @@ Activándose un plan formal de contingencia.
 
 | Version | Creado por: | Auditado por: | Descripción | Fecha |
 |---------|------------|--------------|---------------|-------|
-| 1.0     |      Juan Manuel Murillo      |        Manuel Bajos Rivera López      |       Política inicial        |    01/03/2026   |
+| 1.0     |      Juan Manuel Murillo      |        Manuel Bajos Rivera      |       Política inicial        |    01/03/2026   |
 

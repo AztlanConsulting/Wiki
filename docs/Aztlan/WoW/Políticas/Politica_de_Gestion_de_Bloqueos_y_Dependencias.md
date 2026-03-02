@@ -13,12 +13,7 @@ Establecer un marco de referencia para identificar, comunicar, dar seguimiento y
 
 ## Política
 
-1. Un **bloqueo** es considerado como cualquier situación que:
-- Impida el avance de una tarea asignada.
-- Genera una espera mayor a un día.
-- Dependa de un tercero, decisión o recurso que aún no esté disponible.
-
-2. Todo bloqueo deberá: 
+2. Todo [bloqueo](../Glosario.md#bloqueo) deberá: 
 - Ser comunicado oportunamente al TL o PM.
 - Incluir causa, impacto y requerimiento.
 - Registrar la fecha de su detección.
