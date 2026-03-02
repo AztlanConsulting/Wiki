@@ -1,3 +1,8 @@
+---
+title: "GUI04 - Guía para definir objetivo de sprint"
+sidebar_position: 4
+---
+
 # Todo lo que necesitas saber para generar el objetivo del sprint
 
 ## Propósito

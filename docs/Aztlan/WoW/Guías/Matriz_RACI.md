@@ -1,3 +1,8 @@
+---
+title: "GUI06 - Guía para generar matriz RACI"
+sidebar_position: 6
+---
+
 # ¿Qué es y cómo generar una matriz RACI?
 
 ## Propósito

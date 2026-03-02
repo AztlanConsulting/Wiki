@@ -1,4 +1,9 @@
-## Architecture Starter Pack Guide
+---
+title: "GUI05 - Guía del starter pack de arquitectura"
+sidebar_position: 5
+---
+
+# Architecture Starter Pack Guide
 
 Este documento sirve para saber qué pasos seguir para llenar el ASP (Architecture Starter Pack) para cada uno de los proyectos.
 
