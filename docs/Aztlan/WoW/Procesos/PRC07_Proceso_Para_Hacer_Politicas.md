@@ -40,3 +40,4 @@ Política documentada en la wiki.
 | Version | Creado por: | Auditado por: | Descripción | Fecha |
 |---------|------------|--------------|---------------|-------|
 | 1.0     | Yael, Juan Manuel, Manuel | Edmundo |  Proceso para hacer politicas | 26/02/2026 |
+| 1.1     | Marco Iván Flores Villanueva | Edmundo Canedo |  Cambio de nombre de archivo por inconsistencia | 02/03/2026 |
