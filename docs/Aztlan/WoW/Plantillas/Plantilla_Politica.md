@@ -17,9 +17,4 @@ _v1.0
 
 | Version | Creado por: | Auditado por: | Descripción | Fecha |
 |---------|------------|--------------|---------------|-------|
-| 1.0     |            |              |               |       |
-
-
-| Version | Creado por: | Auditado por: | Descripción | Fecha |
-|---------|------------|--------------|---------------|-------|
 | 1.0     |      Juan Manuel Murillo López      |              |       Plantilla inicial de políticas        |    01/03/2026   |
