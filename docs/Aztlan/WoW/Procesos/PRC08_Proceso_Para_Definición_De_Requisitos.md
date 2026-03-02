@@ -1,5 +1,6 @@
 ---
 title: "PRC08 - Proceso para definición de requisitos" # CAMBIAR AL TITULO
+sidebar_position: 8
 ---
 
 _v1.0 / RM_ <!--Poner practicas del CMMI-->

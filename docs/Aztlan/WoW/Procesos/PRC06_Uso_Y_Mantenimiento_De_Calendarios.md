@@ -1,6 +1,6 @@
 ---
-id: prc04
-title: "PRC04 - Uso y mantenimiento de Calendarios"
+title: "PRC06 - Proceso para el uso y mantenimiento de Calendarios"
+sidebar_position: 6
 ---
 
 _v2.0 /_ PP <!--Poner practicas del CMMI-->

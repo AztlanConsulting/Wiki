@@ -1,6 +1,6 @@
 ---
-id: prc11
 title: "PRC11 - Proceso para Sprint Planning"
+sidebar_position: 11
 ---
 
 _v1.0 /_ PP <!--Poner practicas del CMMI-->

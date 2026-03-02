@@ -1,6 +1,6 @@
 ---
-id: prc02
-title: "PRC02 - Proceso para definir el alcance del proyecto"
+title: "PRC05 - Proceso para definir el alcance del proyecto"
+sidebar_position: 5
 ---
 
 # Proceso para definir el alcance del proyecto
