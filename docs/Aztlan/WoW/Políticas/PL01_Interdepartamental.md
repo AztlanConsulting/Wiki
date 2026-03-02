@@ -3,7 +3,8 @@ title: 'Políticas Interdepartamentales del Uso del Chantli'
 sidebar_position: 1
 ---
 
-# Políticas Interdepartamentales del Uso del Chantli
+_v1.0 
+
 ---
 
 ## Propósito
