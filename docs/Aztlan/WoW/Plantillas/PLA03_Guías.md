@@ -1,3 +1,8 @@
+---
+title: 'Nombre de la guía'
+sidebar_position: 1
+---
+
 # Plantilla de Guía
 # Nombre de la Guía
 
@@ -30,4 +35,4 @@ Descripción detallada del paso.
 
 | Version | Creado por: | Auditado por: | Descripción | Fecha |
 |---------|------------|--------------|---------------|-------|
-| 1.0     | Manuel Bajos Rivera| Yessica,Alejandra,Fer | Plantilla inicial para guías.  | 26/02/2026 |
+| 1.0     | Manuel Bajos Rivera, Alejandra | Yessica,Fer | Plantilla inicial para guías.  | 26/02/2026 |
