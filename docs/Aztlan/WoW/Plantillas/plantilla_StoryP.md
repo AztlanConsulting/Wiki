@@ -1,5 +1,5 @@
 ---
-title: "PLA08 - Plantilla para estimar tamaño y costo de tareas" # CAMBIAR AL TITULO
+title: "PLA08 - Plantilla para estimar tamaño y costo de tareas"
 sidebar_position: 8
 ---
 
