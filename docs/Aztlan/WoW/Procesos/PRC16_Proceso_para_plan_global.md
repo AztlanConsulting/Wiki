@@ -6,10 +6,7 @@ _v1.0 /_ PP <!--Poner practicas del CMMI-->
 
 
 ## Propósito
-* Abordar todos los elementos relevantes de planificación del proyecto.
-* Consideraciones sobre el ciclo de vida del proyecto.
-* Identificación de riesgos
-* Consideración de infraestructura
+Elaborar un plan documentado que aborde todos los elementos relevantes de planificación del proyecto. 
 
 
 ## Entradas
@@ -42,4 +39,4 @@ _v1.0 /_ PP <!--Poner practicas del CMMI-->
 
 | Version | Creado por: | Auditado por: | Descripción | Fecha |
 |---------|------------|--------------|---------------|-------|
-| 1.0     | Alejandro Adrián, Emilia Cárdenas | Pendiente | Creación del proceso | 02/03/2026 |
+| 1.0     | Alejandro Adrián, Emilia Cárdenas | Horacio Villela | Creación del proceso | 02/03/2026 |
