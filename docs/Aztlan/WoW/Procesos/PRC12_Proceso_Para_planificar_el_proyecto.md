@@ -22,7 +22,7 @@ Definir el desarrollo y ejecución del proyecto a través de su alcance.
 | Definir Iteraciones | Definir la estructura de cada ciclo del proyecto | |
 | Priorizar entregables | Enlistar los entregables y priorizarlos de acuerdo a la herramienta elegida por el equipo (ABC, MoSCoW, etc). Además de crear un diagrama de despliegue para identificar la arquitectura del proyecto |  |
 | Herramientas para el desarrollo | Basado en el WBS y Architecture Starter Pack, identificar las tecnologías a utilizar para el desarrollo |  |
-| Metodología del desarrollo | Por cada iteración se debe establecer una planificación del proyecto y su respectivo seguimiento en base al presupuesto. | |
+| Metodología del desarrollo | Por cada iteración (Ciclo del proyecto) se debe establecer una planificación del proyecto y su respectivo seguimiento en base al presupuesto. | |
 | Carga de trabajo | En base a las habilidades de cada integrante, se debe elegir la carga de trabajo para cada uno | |
 | Plan de comunicación | Establecer los medios de comunicación y generar un plan de seguimiento en base a los acuerdos definidos por el equipo. | [PP](/docs/Aztlan/WoW/Practicas/PP) SP 2.4 |
 | Gestión de Recurso | Definir los recursos del proyecto respecto al WBS y la carga de trabajo de cada integrante. | [PP](/docs/Aztlan/WoW/Practicas/PP) SP 2.4 |
