@@ -1,5 +1,10 @@
-# Plantilla de Guía
-# Nombre de la Guía
+---
+title: "PLA03 - Plantilla para hacer una Guía"
+sidebar_position: 3
+---
+
+
+## Nombre de la Guía
 
 ## Propósito
 [Lo que se busca explicar con la guía]

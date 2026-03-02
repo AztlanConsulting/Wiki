@@ -1,5 +1,6 @@
 ---
-title: "Plantilla de Procesos" # CAMBIAR AL TITULO
+title: "PLA02 - Plantilla de Procesos" # CAMBIAR AL TITULO
+sidebar_position: 2
 ---
 
 _v2.0 /_ <!--Poner practicas del CMMI-->
