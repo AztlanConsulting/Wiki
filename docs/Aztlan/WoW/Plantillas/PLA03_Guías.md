@@ -1,10 +1,10 @@
 ---
-title: "PLA03 - Plantilla para hacer una Guía"
-sidebar_position: 3
+title: 'Nombre de la guía'
+sidebar_position: 1
 ---
 
-
-## Nombre de la Guía
+# Plantilla de Guía
+# Nombre de la Guía
 
 ## Propósito
 [Lo que se busca explicar con la guía]
@@ -35,4 +35,4 @@ Descripción detallada del paso.
 
 | Version | Creado por: | Auditado por: | Descripción | Fecha |
 |---------|------------|--------------|---------------|-------|
-| 1.0     | Manuel Bajos Rivera| Yessica,Alejandra,Fer | Plantilla inicial para guías.  | 26/02/2026 |
+| 1.0     | Manuel Bajos Rivera, Alejandra | Yessica,Fer | Plantilla inicial para guías.  | 26/02/2026 |
