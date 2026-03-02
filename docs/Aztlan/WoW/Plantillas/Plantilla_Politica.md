@@ -4,8 +4,6 @@ title: "Plantilla para Políticas"
 
 _v1.0 
 
-# Nombre de la política
-
 ## Propósito
 
 
