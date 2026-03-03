@@ -28,5 +28,3 @@ Identificar, analizar y mitigar riesgos que puedan afectar el cumplimiento de ob
 |---------|------------|--------------|---------------|-------|
 | 1.0     |      Manuel Bajos Rivera, Alejandra Arredondo      |        Juan manuel Murillo López      |       Política inicial        |    01/03/2026   |
 | 1.1 | Alejandra Arredondo | Juan Manuel Murillo | Actualización de la frecuencia de ejecución del proceso de gestión de riesgos.  | 02/03/2026 |
-
-git 

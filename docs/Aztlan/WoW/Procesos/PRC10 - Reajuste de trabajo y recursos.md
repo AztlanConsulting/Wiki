@@ -1,5 +1,6 @@
 ---
-title: "PRC10 - Proceso para el reajuste de trabajo y recursos" # CAMBIAR AL TITULO
+=======
+title: "PRC10 - Proceso para el ajuste de trabajo y recursos" # CAMBIAR AL TITULO
 sidebar_position: 10
 ---
 
@@ -40,4 +41,5 @@ Plan revisado y ajustado para que sea feasible y realizable
 
 | Version | Creado por: | Auditado por: | Descripción                            | Fecha      |
 | ------- | ----------- | ------------- | -------------------------------------- | ---------- |
-| 1.0     | Alducin     | [FALTA]       | Reajuste de plan de trabajo y recursos | 27/02/2026 |
+| 1.0     | Alducin     | Juan Manuel Murillo       | Reajuste de plan de trabajo y recursos | 27/02/2026 |
+| 1.0     | Juan Manuel Murillo     | [FALTA]       | Corrección de error en el título | 03/03/2026 |
