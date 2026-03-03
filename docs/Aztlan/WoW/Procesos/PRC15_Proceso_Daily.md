@@ -34,5 +34,5 @@ de los miembros del equipo
 
 | Version | Creado por: | Auditado por: | Descripción | Fecha |
 |---------|------------|--------------|---------------|-------|
-| 1.0     | Juan Manuel Murillo          | Luisa Fernanda Valdez  | Proceso para la Daily  | 28/02/2026 |
+| 1.0     | Juan Manuel Murillo, Alejandra Arredondo          | Luisa Fernanda Valdez  | Proceso para la Daily  | 28/02/2026 |
 

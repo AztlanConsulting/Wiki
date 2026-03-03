@@ -18,7 +18,7 @@ Identificar, analizar y mitigar riesgos que puedan afectar el cumplimiento de ob
 - Impacto.
 - Responsable.
 - Plan de mitigación.
-3. Se revisará en cada reunión semanal.
+3. Se revisará en cada retrospective.
 4. Riesgos críticos activarán inmediatamente el plan de contingencia respectivo.
 
 
@@ -27,5 +27,6 @@ Identificar, analizar y mitigar riesgos que puedan afectar el cumplimiento de ob
 | Version | Creado por: | Auditado por: | Descripción | Fecha |
 |---------|------------|--------------|---------------|-------|
 | 1.0     |      Manuel Bajos Rivera, Alejandra Arredondo      |        Juan manuel Murillo López      |       Política inicial        |    01/03/2026   |
+| 1.1 | Alejandra Arredondo | Juan Manuel Murillo | Actualización de la frecuencia de ejecución del proceso de gestión de riesgos.  | 02/03/2026 |
 
 git 
