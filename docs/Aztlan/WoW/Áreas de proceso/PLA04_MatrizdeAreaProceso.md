@@ -20,7 +20,7 @@ Establecer y mantener planes que definan las actividades del proyecto.
 | **SP 2.2** | Identificar los riesgos del proyecto. |  |  |  |  | ☐ |  |
 | **SP 2.3** | Planificar la gestión de los datos. |  |  |  |  | ☐ |  |
 | **SP 2.4** | Planificar los recursos del proyecto. |  |  |  |  | ☐ |  |
-| **SP 2.5** | Planificar el conocimiento y las habilidades necesarias. |  |  |  |  | ☐ |  |
+| **SP 2.5** | Planificar el conocimiento y las habilidades necesarias. | - [Proceso para identificar habilidades requeridas](../Procesos/PRC21_Proceso_Para_Adquirir_Habilidades.md) <br /> - [Proceso para adquirir habilidades](../Procesos/PRC21_Proceso_Para_Adquirir_Habilidades.md) | - [Plantilla de Inventario de Skills](https://docs.google.com/spreadsheets/d/1fTEIn50jTNEAErV28CrP1KxcjjsE_eJUXX-Y_yDiCIM/edit?gid=13744931#gid=13744931) | - [Base de Skills](https://docs.google.com/spreadsheets/d/1fTEIn50jTNEAErV28CrP1KxcjjsE_eJUXX-Y_yDiCIM/edit?gid=0#gid=0) | - PP SP 2.1 <br /> - PP SP 2.2 <br /> - PP SP 2.4 <br /> - MA SP 1.1 <br /> - PMC SP 1.1 <br /> | ☑ | - Mauricio Olguín <br /> - Roberto Serna |
 | **SP 2.6** | Planificar la involucración de las partes interesadas. |  |  |  |  | ☐ |  |
 | **SP 2.7** | Establecer el plan de proyecto. |  |  |  |  | ☐ |  |
 | **SG 3** | Obtener el compromiso con el plan. |  |  |  |  | ☐ |  |
