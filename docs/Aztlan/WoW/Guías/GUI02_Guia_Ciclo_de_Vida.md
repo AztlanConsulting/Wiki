@@ -315,4 +315,4 @@ Con hitos y dependencias principales, crear/actualizar el calendario del proyect
 | Version | Creado por: | Auditado por: | Descripción | Fecha |
 |---------|------------|--------------|---------------|-------|
 | 1.0 | Marco Iván Flores Villanueva || Guía para elegir ciclo de vida y definir fases | 01/03/2026 |
-| 1.1 | Marco Iván Flores Villanueva || Links actualizados después de cambios de nombre en Wiki | 03/03/2026 |
+| 1.1 | Marco Iván Flores Villanueva | Juan Manuel Murillo López | Links actualizados después de cambios de nombre en Wiki | 03/03/2026 |
