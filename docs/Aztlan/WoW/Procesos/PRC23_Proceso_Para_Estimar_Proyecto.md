@@ -1,5 +1,5 @@
 ---
-title: "PRC22 - Proceso para Sacar Estimaciones del Esfuerzo/Coste del Proyecto"
+title: "PRC23 - Proceso para Sacar Estimaciones del Esfuerzo/Coste del Proyecto"
 ---
 
 _v2.0 /_ <!--Poner practicas del CMMI-->
@@ -19,11 +19,7 @@ El modelo razonado de análisis a nivel proyecto y las estimaciones de los produ
 | Fases | Actividades | Prácticas asociadas al CMMI |
 |--------------|--------------|--------------|
 | Preparación |  Ten a la mano las estimaciones de las tareas/productos de trabajo individuales  |  ...  |
-| Consideración de Overhead | Ya dentro del mismo modelo o acá, dado que esto no fue realizado a nivel tarea al momento de hacer estimaciones en 1.2, realizar un análisis de las implicaciones en el esfuerzo de las tareas en cuanto a:
-soporte de infraestructura
-coordinación
-contingencia
-   |  ...  | 
+| Consideración de Overhead | Ya dentro del mismo modelo o acá, dado que esto no fue realizado a nivel tarea al momento de hacer estimaciones en 1.2, realizar un análisis de las implicaciones en el esfuerzo de las tareas en cuanto a: <i>soporte de infraestructura, coordinación, contingencia </i>  |  ...  | 
 | Ejecución |  Utiliza el modelo/función definida para el coste con las entradas  |  ...  | 
 | Ejecución |  Utiliza el modelo/función definida para el coste con las entradas  |  ...  |  
 | Documentación |  Guarda y documenta los resultados de estas funciones  |  ...  |  

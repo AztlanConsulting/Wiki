@@ -19,13 +19,9 @@ Los datos y modelos históricos de sprints y proyectos anteriores que estén dis
 | Fases | Actividades | Prácticas asociadas al CMMI |
 |--------------|--------------|--------------|
 | Identificación |  Identificar datos y modelos anteriores relevantes al proyecto actual.  |  ...  |
-| Evaluación |  Obtener de los datos anteriores, cifras sobre su esfuerzo y costo.
-Tener en cuenta la infraestructura actual para el análisis.
-  |  ...  | 
+| Evaluación |  Obtener de los datos anteriores, cifras sobre su esfuerzo y costo. Tener en cuenta la infraestructura actual para el análisis.  |  ...  | 
 | Manejo | Definir un modelo formal que use las estimaciones para poder aproximar esfuerzo y coste total del proyecto.   |  ...  | 
-| Planificación |  Registrar y difundir con el departamento y/o equipo el análisis concluyente.
-Usar dicho análisis en el proceso de estimación de coste y esfuerzo.
-  |  ...  |  
+| Planificación |  Registrar y difundir con el departamento y/o equipo el análisis concluyente. Usar dicho análisis en el proceso de estimación de coste y esfuerzo.  |  ...  |  
 
 ## Salidas
 Análisis razonado de estimación
