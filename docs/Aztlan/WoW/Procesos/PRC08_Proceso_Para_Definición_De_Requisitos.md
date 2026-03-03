@@ -6,7 +6,7 @@ sidebar_position: 8
 _v1.0 / RM_ <!--Poner practicas del CMMI-->
 
 ## Propósito
-**Definir, analizar y documentar** los requisitos necesarios para elaborar un producto de **calidad** para el cliente.
+**Definir, analizar y documentar** los requisitos (historias de usuario, atributos de calidad, requisitos de información, etc.) necesarios para elaborar un producto de **calidad** para el cliente.
 
 ## Entradas
  - Objetivo del proyecto.
@@ -36,3 +36,4 @@ _v1.0 / RM_ <!--Poner practicas del CMMI-->
 | Version | Creado por: | Auditado por: | Descripción | Fecha |
 |-|-|-|-|-|
 | 1.0 | Emilio Santiago López Quiñonez y Edmundo Canedo Cervantes | FALTA | Creación del documento | 01/03/2026 |
+| 1.1 | Edmundo Canedo Cervantes | Alejandra Arredondo y Juan Manuel | Mención explícita de historias de usuario | 02/03/2026 |
