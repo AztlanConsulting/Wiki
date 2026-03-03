@@ -3,7 +3,6 @@ title: "WBS Historias de Usuario"
 sidebar_position: 2
 ---
 
-
 <details>
 <summary>Código PUML</summary>
 ```puml
