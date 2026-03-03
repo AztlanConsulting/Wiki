@@ -13,7 +13,7 @@ Establecer y mantener planes que definan las actividades del proyecto.
 | **SG 1**  | Establecer las estimaciones. |  |  |  |  |  |  |
 | **SP 1.1** | Estimar el alcance del proyecto. | <br /> [- Proceso para estimar el alcance del proyecto](../Procesos/PRC02_Proceso_Para_Estimar_El_Alcance_Del_Proyecto.md) <br /><br /> - [Guía WBS](../Guías/GUI01_Guia_del_WBS.md)<br /> |  | <br /> - [WBS-Departamental](../ArtefactosDepartamentales/WBS.md)<br />  <br />- [WBS-Cuitla](../../Nuestros%20Proyectos/Cuitla-Compospet/Artefactos/WBS.md)<br />  |  | ☑ | <br /> - Yessica Lora<br />  <br />- Kamila Martínez <br /> <br />- Fátima Figeroa <br /> |
 | **SP 1.2** | Establecer las estimaciones de los atributos de los productos de trabajo y de las tareas.   |  |  |  |  | ☐ |  |
-| **SP 1.3** | Definir las fases del ciclo de vida del proyecto. |  |  |  |  | ☐ |  |
+| **SP 1.3** | Definir las fases del ciclo de vida del proyecto. | - [PRC12 - Proceso para definir Ciclo de Vida del proyecto](../Procesos/PRC12_Proceso_Para_Definir_Ciclo_De_Vida.md) <br /><br /> - [GUI02 - Guía para elegir ciclo de vida y definir fases](../Guías/GUI02_Guia_Ciclo_de_Vida.md) |  |  | - PP SP 2.1 <br /> - PP SP 3.2 <br /> - OPD SP 1.2 <br /> - PMC SP 1.6 <br /> - PMC SP 1.7 <br /> - RSKM SP 1.1 / 1.2 / 2.1 / 3.1 <br /> - RM SP 1.3 <br /> - PPQA SP 1.2  | ☐ | - Iván Flores <br /><br /> - Oswaldo Hernández |
 | **SP 1.4** | Estimar el esfuerzo y el coste. |  |  |  |  | ☐  |  |
 | **SG 2** | Desarrollar un plan de proyecto. |  |  |  |  | ☐ |  |
 | **SP 2.1** | Establecer el presupuesto y el calendario. |  |  |  |  | ☐ |  |
