@@ -55,7 +55,7 @@ Establecer lineamientos claros de conducta, responsabilidad y colaboración para
 
 ### 4. Medidas Disciplinarias
 
-- Los desacuerdos deberán intentarse resolver primero entre las partes de manera respetuosa antes de escalarse.  
+- Los desacuerdos se deberán intentar resolver primero entre las partes de manera respetuosa antes de escalarse.  
 
 #### 4.1 Revisión según ámbito
 - Los incumplimientos relacionados con el proyecto serán atendidos por el Team Lead.  
