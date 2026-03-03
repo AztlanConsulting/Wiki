@@ -1,5 +1,6 @@
 ---
-title: "Plantilla para estimar tamaño y costo de tareas" # CAMBIAR AL TITULO
+title: "PLA08 - Plantilla para estimar tamaño y costo de tareas"
+sidebar_position: 8
 ---
 
 _v1.0 / PP - SP 1.2 <!--Poner practicas del CMMI-->

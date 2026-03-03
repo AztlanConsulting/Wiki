@@ -1,12 +1,13 @@
 ---
-title: "PM 1.3  Manejo de cambio de requisitos" # CAMBIAR AL TITULO
+title: "PRC18 - Proceso para el manejo de cambio de requisitos" # CAMBIAR AL TITULO
+sidebar_position: 18
 ---
 
 \_v2.0 /\_pp <!--Poner practicas del CMMI-->
 
 ## Propósito
 
-(SP 3.2) Establecer, definir y gestionar los cambios que se generen dentro de los requisitos durante el desarrollo del proyecto. Así mismo asegura que haya evaluaciones, documentación y tengan un control adecuado.
+Establecer, definir y gestionar los cambios que se generen dentro de los requisitos durante el desarrollo del proyecto. Así mismo asegura que haya evaluaciones, documentación y tengan un control adecuado.
 
 ## Entradas
 

@@ -1,6 +1,6 @@
 ---
-id: prc1o
-title: "PRRC10 - Reajuste de trabajo y recursos" # CAMBIAR AL TITULO
+title: "PRC10 - Proceso para el eajuste de trabajo y recursos" # CAMBIAR AL TITULO
+sidebar_position: 10
 ---
 
 \_v2.0 /\_pp <!--Poner practicas del CMMI-->

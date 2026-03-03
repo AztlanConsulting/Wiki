@@ -1,5 +1,6 @@
 ---
-title: "Plantilla de Daily"
+title: "PLA06 - Plantilla de Daily"
+sidebar_position: 6
 ---
 
 _v2.0 /_ <!--Poner practicas del CMMI-->

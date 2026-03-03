@@ -1,5 +1,6 @@
 ---
-title: "Plantilla sugerida de criterios de evaluación de requisitos"
+title: " PLA05 - Plantilla sugerida de criterios de evaluación de requisitos"
+sidebar_position: 5
 ---
 
 _v1.0 / RM_ 

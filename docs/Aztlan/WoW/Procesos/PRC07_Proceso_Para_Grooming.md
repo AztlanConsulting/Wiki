@@ -1,6 +1,6 @@
 ---
-id: prc03
-title: "PRC03 - Proceso para Backlog Grooming"
+title: "PRC07 - Proceso para Backlog Grooming"
+sidebar_position: 7
 ---
 
 _v1.0 /_ PP <!--Poner practicas del CMMI-->
