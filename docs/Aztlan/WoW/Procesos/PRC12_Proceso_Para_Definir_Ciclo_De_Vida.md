@@ -3,7 +3,7 @@ title: "PRC12 - Proceso para definir Ciclo de Vida del proyecto"
 sidebar_position: 12
 ---
 
-_v1.0 /_ PP
+_v1.1 /_ PP
 
 ## Propósito
 Estandarizar la selección del ciclo de vida del proyecto y la definición de sus fases, entregables e hitos para estimar mejor, asignar responsabilidades y tener control sobre nuestro progreso.
