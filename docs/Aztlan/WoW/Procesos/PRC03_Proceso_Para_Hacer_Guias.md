@@ -1,6 +1,6 @@
 ---
-id: prc06
-title: "PRC06 - Proceso para hacer guías" # CAMBIAR AL TITULO
+title: "PRC03 - Proceso para hacer guías" # CAMBIAR AL TITULO
+sidebar_position: 3
 ---
 
 _v1.0 /_ <!--Poner practicas del CMMI-->

@@ -1,3 +1,8 @@
+---
+title: "PLA09 - Plantilla Architecture Starter Pack"
+sidebar_position: 9
+---
+
 ## Architecture Starter Pack "Equipo" --- Plantilla MVP
 
 **Contexto:** \,[Cada Proyecto tiene diferente contexto] \,[Análisis]

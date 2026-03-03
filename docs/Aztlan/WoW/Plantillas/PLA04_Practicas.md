@@ -1,6 +1,6 @@
 ---
-id: pla04
-title: "Titulo de la practica"
+title: "PLA04 - Plantilla para definir practicas"
+sidebar_position: 4
 ---
 
 

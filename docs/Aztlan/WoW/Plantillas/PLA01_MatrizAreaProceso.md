@@ -1,9 +1,9 @@
 ---
-title: "Plantilla Matriz Área de Proceso"
-sidebar_position: 1
+title: "PLA01 - Plantilla Matriz Área de Proceso"
+sidebar_position: 3
 ---
 
-# [Nombre del Área de Proceso] - Nivel de madurez 2 
+## [Nombre del Área de Proceso] - Nivel de madurez 2 
 
 ### Propósito
 [Escribir el propósito del área de proceso; viene en el CMMI ].
@@ -32,3 +32,7 @@ sidebar_position: 1
 ### **Referencia:** 
 
 [CMMI® para Desarrollo, Versión 1.3](https://drive.google.com/file/d/1GhXQ0AIyRFuwJx0Kl2NPIhhyjc05bKI_/view?usp=drive_link)
+
+| Version | Creado por: | Auditado por: | Descripción | Fecha |
+|---------|------------|--------------|---------------|-------|
+| 1.0 | Yessica Lora | Juan Manuel Murillo    |    | 03/03/2026 |

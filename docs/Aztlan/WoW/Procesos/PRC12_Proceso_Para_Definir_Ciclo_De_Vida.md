@@ -1,5 +1,6 @@
 ---
 title: "PRC12 - Proceso para definir Ciclo de Vida del proyecto"
+sidebar_position: 12
 ---
 
 _v1.0 /_ PP
