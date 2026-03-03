@@ -30,6 +30,7 @@ En el Sprint Retrospective se inspecciona y se adapta el proceso de trabajo del 
 | Discusión     | Los TMs añaden post-its con sus comentarios en cada una de las secciones de la plantilla                                                                                                                        | PP.3.1                      |
 | Ejecución     | Se definen acciones de mejora para el próximo Sprint                                                                                                                                                            | PP.3.1 PP.2.7 PP.3.3        |
 | Ejecución     | Se elabora una [matriz RACI](../Guías/Matriz_RACI) para cada acción                                                                                                                                                                 | PP.3.1 PP.2.7 PP.3.3        |
+| Ejecución     | Se discuten los riesgos previamente identificados o nuevos riesgos. Se documentan siguiendo el [proceso de gestión de riesgos](../Procesos/PRC19_Proceso_Para_Gestionar_Riesgos.md)                                                                                                                                                                 | PP.2.2       |
 | Documentación | Se guarda el registro del Retrospective con las acciones definidas, su matriz correspondiente y el archivo de la Retrospectiva en la carpeta de Drive correspondiente                                           | PP.3.1 PP.3.3               |
 
 ## Salidas
@@ -41,4 +42,5 @@ En el Sprint Retrospective se inspecciona y se adapta el proceso de trabajo del 
 | Version | Creado por: | Auditado por: | Descripción | Fecha |
 |---------|------------|--------------|---------------|-------|
 | 1.0     | Juan Manuel Murillo          | Luisa Fernanda Valdez  | Proceso para el Sprint Retrospective  | 28/02/2026 |
+| 1.1 | Alejandra Arredondo | Juan Manuel Murillo | Actualización del proceso para el Sprint Retrospective. Se agregó la discusión de riesgos dentro del proceso. | 02/03/2026 |
 

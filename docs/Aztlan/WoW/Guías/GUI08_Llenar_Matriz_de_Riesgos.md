@@ -3,8 +3,7 @@ title: 'GUI08 - Guía para llenar la matriz de riesgos'
 sidebar_position: 8
 ---
 
-# Plantilla de Guía
-# Nombre de la Guía
+# GUI08 - Guía para llenar la matriz de riesgos
 
 ## Propósito
 Llenar o actualizar correctamente la matriz de riesgos. 
@@ -24,7 +23,6 @@ Llenar o actualizar correctamente la matriz de riesgos.
 3. Seleccionar cómo abarcar el riesgo. 
 4. Categorizar los riesgos identificados.
 5. Establecer la frecuencia; si el riesgo es nuevo, establecer la frecuencia en uno.
-6. Definir el estado del riesgo como “Activo” cuando se trate de un riesgo en proceso de atención. En caso de que el riesgo haya sido resuelto, asignar el estado “Inactivo”.
 7. Identificar si la causa del riesgo ya está registrada en el listado de causalidades; si no lo está, agregarla al listado.
 8. Elaborar el documento del plan de mitigación en caso de que aún no esté creado. En este documento se deberán definir los pasos a seguir para mitigar el riesgo. Agregar el link a dicho documento en el apartado de “Plan de Mitigación”. 
 9. Elaborar el documento del plan de contingencia en caso de que aún no esté creado. En este documento se deberán definir los pasos a seguir para contener el riesgo. Agregar el link a dicho documento en el apartado de “Plan de Contingencia”. 
@@ -33,7 +31,7 @@ Llenar o actualizar correctamente la matriz de riesgos.
 12. Calcular la magnitud del riesgo multiplicando la probabilidad por el impacto.
 13. Una vez que ya se tiene la magnitud, se prioriza la tabla donde la magnitud mayor va a ir hasta arriba y se ordena de forma descendente.
 14. Si el valor de la magnitud es mayor o igual a 60, se tiene que integrar dentro del plan del proyecto definido para mitigarlo.
-15. Agregar la fecha de identificación y la fecha de actualización del riesgo.
+
 
 ---
 

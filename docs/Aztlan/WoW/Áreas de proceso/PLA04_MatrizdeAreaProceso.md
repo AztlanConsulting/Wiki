@@ -17,7 +17,7 @@ Establecer y mantener planes que definan las actividades del proyecto.
 | **SP 1.4** | Estimar el esfuerzo y el coste. |  |  |  |  | ☐  |  |
 | **SG 2** | Desarrollar un plan de proyecto. |  |  |  |  | ☐ |  |
 | **SP 2.1** | Establecer el presupuesto y el calendario. |  |  |  |  | ☐ |  |
-| **SP 2.2** | Identificar los riesgos del proyecto. |  |  |  |  | ☐ |  |
+| **SP 2.2** | Identificar los riesgos del proyecto. | <br /> [- Proceso para gestionar riesgos ](../Procesos/PRC19_Proceso_Para_Gestionar_Riesgos.md) <br /> <br />  [- Guía para llenar la matriz de riesgos](../Guías/GUI08_Llenar_Matriz_de_Riesgos.md) <br /> <br /> [- Guía para identificar riesgos](../Guías/GUI09_Identificar_Riesgos.md) | <br /> [- Plantilla Matriz de Riesgos](https://docs.google.com/spreadsheets/d/1kg_PnTUw6GnHll7XnYxqXmGK9umSope4nmvp1Qzt5Nc/edit?gid=414176969#gid=414176969) | <br />[-Matriz de Riesgos Departamental](https://docs.google.com/spreadsheets/d/1YaAwQUqQF0v36ZIDc1gVEI62uhvYS7A_JSziCBf5Q34/edit?gid=414176969#gid=414176969) <br /> <br />[- Cuitla Matriz de Riesgos](https://docs.google.com/spreadsheets/d/1PyHPAv7n_Ok2TyG7pxqiGVQXgGVu5A58DYE56uI0Wo4/edit?gid=1206113592#gid=1206113592)| | ☐ | <br /> - Alejandra Arredondo <br /> <br /> - Manuel Bajos Rivera |
 | **SP 2.3** | Planificar la gestión de los datos. |  |  |  |  | ☐ |  |
 | **SP 2.4** | Planificar los recursos del proyecto. |  |  |  |  | ☐ |  |
 | **SP 2.5** | Planificar el conocimiento y las habilidades necesarias. |  |  |  |  | ☐ |  |
