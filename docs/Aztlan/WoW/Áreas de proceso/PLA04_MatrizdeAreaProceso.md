@@ -32,3 +32,8 @@ Establecer y mantener planes que definan las actividades del proyecto.
 ### **Referencia:** 
 
 [CMMI® para Desarrollo, Versión 1.3](https://drive.google.com/file/d/1GhXQ0AIyRFuwJx0Kl2NPIhhyjc05bKI_/view?usp=drive_link)
+
+
+| Version | Creado por: | Auditado por: | Descripción | Fecha |
+|---------|------------|--------------|---------------|-------|
+| 1.0 | Yessica Lora | Juan Manuel Murillo    |    | 03/03/2026 |
