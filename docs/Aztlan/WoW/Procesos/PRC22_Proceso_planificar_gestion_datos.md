@@ -23,10 +23,10 @@ Establecer que requisitos hay para los datos y cómo son moldeados para el proye
 ## Descripción
 | Fases | Actividades | Prácticas asociadas al CMMI |
 |--------------|--------------|--------------|
-| Análisis | Determinar los datos del proyecto que se identificarán, recopilarán y distribuirán. | PP |
-| Reglas de negocio y seguridad | Identificar las reglas de negocio relacionadas al manejo de datos en el proyecto. Definir requerimientos de seguridad para los datos | PP |
-| Planificación | Establecer procedimientos para garantizar la privacidad y la seguridad de los datos. | |
-| Mantenimiento y seguimiento | Verificar que se siguen los procedimientos para la protección y almacenamiento de los datos del proyecto | PP |
+| Análisis | Determinar los datos del proyecto que se identificarán, recopilarán y distribuirán. | PP 2.3 |
+| Reglas de negocio y seguridad | Identificar las reglas de negocio relacionadas al manejo de datos en el proyecto. Definir requerimientos de seguridad para los datos | PP 2.3, PP 2.6 |
+| Planificación | Establecer procedimientos para garantizar la privacidad y la seguridad de los datos. Se llena la siguiente [plantilla](https://docs.google.com/document/d/1w_4ONzbpQEPamMEOWhddCDMD1ZP8oKmpW9PfsBlkZfw/edit?usp=sharing) con los datos recabados. | PP 2.3 |
+| Mantenimiento y seguimiento | Verificar que se siguen los procedimientos para la protección y almacenamiento de los datos del proyecto | PP 2.3, PP 3.1 |
 
 
 ## Salidas
@@ -37,4 +37,4 @@ Establecer que requisitos hay para los datos y cómo son moldeados para el proye
 
 | Version | Creado por: | Auditado por: | Descripción | Fecha |
 |---------|------------|--------------|---------------|-------|
-| 1.0     | Alejandro Adrián, Emilia Cárdenas |  | Creación del proceso | 02/03/2026 |
+| 1.0     | Alejandro Adrián, Emilia Cárdenas | Horacio Villela | Creación del proceso | 03/03/2026 |
