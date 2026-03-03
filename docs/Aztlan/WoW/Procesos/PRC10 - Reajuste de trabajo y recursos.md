@@ -1,5 +1,4 @@
 ---
-=======
 title: "PRC10 - Proceso para el ajuste de trabajo y recursos" # CAMBIAR AL TITULO
 sidebar_position: 10
 ---
