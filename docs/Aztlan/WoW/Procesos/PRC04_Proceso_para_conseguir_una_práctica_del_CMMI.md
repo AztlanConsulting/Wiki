@@ -1,7 +1,6 @@
 ---
-id: prc01
-title: "PRC01 - Proceso para conseguir una práctica del CMMI"
-sidebar_position: 1
+title: "PRC04 - Proceso para conseguir una práctica del CMMI"
+sidebar_position: 4
 ---
 # Proceso para conseguir una práctica del CMMI
 

@@ -1,5 +1,6 @@
 ---
-title: "Plantilla para Políticas"
+title: "PLA07 - Plantilla para Políticas"
+sidebar_position: 7
 ---
 
 _v1.0 
