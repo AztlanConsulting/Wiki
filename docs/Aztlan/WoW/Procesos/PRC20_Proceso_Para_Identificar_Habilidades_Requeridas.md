@@ -1,5 +1,5 @@
 ---
-title: "PRC18 - Proceso para Identificar Habilidades Requeridas"
+title: "PRC20 - Proceso para Identificar Habilidades Requeridas"
 ---
 
 _v1.1 / PP SP 2.5_
@@ -23,7 +23,7 @@ Documentar y analizar las habilidades y conocimientos necesarios para el éxito 
 | Clasificación y nivel requerido | Categoriza cada habilidad por área (Frontend, Backend, Data, UX/UI, Despliegue, Seguridad, etc.), define el nivel requerido (Básico a Experto) y determina la fase del proyecto en la que será necesaria. | PP SP 2.2 |
 | Registro en Inventario | Registra cada habilidad identificada en el inventario de habilidades y conocimientos del equipo (plantilla en [Base de Skills](https://docs.google.com/spreadsheets/d/1fTEIn50jTNEAErV28CrP1KxcjjsE_eJUXX-Y_yDiCIM/edit?gid=0#gid=0)). | PP SP 2.5 |
 | Análisis de cobertura | Consulta la Base de Skills para verificar si la habilidad ya existe. | PMC SP 1.1 |
-| Corrección de cobertura | Escalar al PRC17 - Proceso para Adquirir Habilidades | PP SP 2.4 |
+| Corrección de cobertura | Escalar al PRC21 - Proceso para Adquirir Habilidades | PP SP 2.4 |
 | Validación | Valida que las habilidades documentadas cubran los requerimientos establecidos en el SRS y confirma su suficiencia con el AO antes de iniciar fases críticas del proyecto. | PPQA SP 1.1 |
 
 ## Salidas

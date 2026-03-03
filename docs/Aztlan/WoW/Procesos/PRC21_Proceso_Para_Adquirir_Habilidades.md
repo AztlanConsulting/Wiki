@@ -1,5 +1,5 @@
 ---
-title: "PRC17 - Proceso para Adquirir Habilidades"
+title: "PRC21 - Proceso para Adquirir Habilidades"
 ---
 
 _v1.1 / PP SP 2.5_
