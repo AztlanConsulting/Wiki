@@ -1,6 +1,6 @@
 ---
-id: prc05
-title: "PRC05 - Proceso para hacer procesos"
+title: "PRC02 - Proceso para hacer procesos"
+sidebar_position: 2
 ---
 
 _v1.0 /_ <!--Poner practicas del CMMI-->

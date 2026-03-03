@@ -1,6 +1,6 @@
 ---
-id: prc12
-title: "PRC12 - Proceso para planificar el proyecto"
+title: "PRC16 - Proceso para planificar el proyecto"
+sidebar_position: 16
 ---
 
 # Proceso para planificar el proyecto

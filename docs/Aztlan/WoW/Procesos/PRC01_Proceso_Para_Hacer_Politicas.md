@@ -1,6 +1,6 @@
 ---
-id: prc07
-title: "PRC07 - Proceso para hacer políticas" # CAMBIAR AL TITULO
+title: "PRC01 - Proceso para hacer políticas" # CAMBIAR AL TITULO
+sidebar_position: 1
 ---
 
 _v1.0 /_ <!--Poner practicas del CMMI-->
