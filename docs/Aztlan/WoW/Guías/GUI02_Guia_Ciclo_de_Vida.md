@@ -6,7 +6,7 @@ sidebar_position: 2
 # Guía para elegir ciclo de vida y definir fases
 
 ## Propósito
-Ayudar a elegir un ciclo de vida adecuado para cada proyecto en el departamento, definiendo sus fases, entregables, puntos de decisión, hitos y dependencias principales para calendarizarlo y monitorearlo (ver [PRC04](../Procesos/PRC04_Uso_Y_Mantenimiento_De_Calendarios.md)).
+Ayudar a elegir un ciclo de vida adecuado para cada proyecto en el departamento, definiendo sus fases, entregables, puntos de decisión, hitos y dependencias principales para calendarizarlo y monitorearlo (ver [PRC06 - Proceso para el uso y mantenimiento de Calendarios](../Procesos/PRC06_Uso_Y_Mantenimiento_De_Calendarios.md)).
 
 <!--## Áreas de proceso y prácticas en las que aplica
 - PP SP 1.3: Definir fases del ciclo de vida del proyecto.
@@ -295,12 +295,12 @@ Identificar bloqueos que afectan fases o hitos:
 - Lista de dependencias principales asociadas
 
 ### Paso 5: Calendarizar
-Con hitos y dependencias principales, crear/actualizar el calendario del proyecto según [PRC04](../Procesos/PRC04_Uso_Y_Mantenimiento_De_Calendarios.md)
+Con hitos y dependencias principales, crear/actualizar el calendario del proyecto según [PRC06 - Proceso para el uso y mantenimiento de Calendarios](../Procesos/PRC06_Uso_Y_Mantenimiento_De_Calendarios.md)
 
 ## Evidencias esperadas
 - Documento de ciclo de vida del proyecto (fases, entregables, decisiones)
 - Lista de hitos y dependencias principales
-- Calendario del proyecto actualizado con hitos (ver [PRC04](../Procesos/PRC04_Uso_Y_Mantenimiento_De_Calendarios.md))
+- Calendario del proyecto actualizado con hitos (ver [PRC06](../Procesos/PRC06_Uso_Y_Mantenimiento_De_Calendarios.md))
 - Replanificación registrada (si aplica, ver [PRC10](../Procesos/PRC10%20-%20Reajuste%20de%20trabajo%20y%20recursos.md))
 
 
@@ -315,3 +315,4 @@ Con hitos y dependencias principales, crear/actualizar el calendario del proyect
 | Version | Creado por: | Auditado por: | Descripción | Fecha |
 |---------|------------|--------------|---------------|-------|
 | 1.0 | Marco Iván Flores Villanueva || Guía para elegir ciclo de vida y definir fases | 01/03/2026 |
+| 1.1 | Marco Iván Flores Villanueva | Juan Manuel Murillo López | Links actualizados después de cambios de nombre en Wiki | 03/03/2026 |

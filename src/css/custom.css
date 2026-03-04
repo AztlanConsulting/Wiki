@@ -13,6 +13,8 @@
   --ifm-color-primary-light: #e07d44;  /* más claro */
   --ifm-color-primary-lighter: #e89060;/* aún más claro */
   --ifm-color-primary-lightest: #f1a57e;/* el más suave */
+  --ifm-color-info-contrast-background: #ecd3bf;
+  --ifm-color-info-dark: #e9a56d;
   /* --ifm-background-color: #ff0000;
   --ifm-navbar-background-color: #ff0000;
   --ifm-footer-background-color: #1a1532; */
@@ -29,6 +31,8 @@
   --ifm-color-primary-light: #f7b74c;
   --ifm-color-primary-lighter: #f8c67a;
   --ifm-color-primary-lightest: #f9d6a7;
+  --ifm-color-info-contrast-background: #473e19;
+  --ifm-color-info-dark: #a3881c;
   
   --ifm-background-color: #080809;
   --ifm-navbar-background-color: #000000;
