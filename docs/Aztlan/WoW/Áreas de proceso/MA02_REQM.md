@@ -27,4 +27,3 @@ Gestionar los requisitos de los productos y los componentes de producto del proy
 | Version | Creado por: | Auditado por: | Descripción | Fecha |
 |---------|------------|--------------|---------------|-------|
 | 1.0 | Elizabeth Orduña | Pendiente    | Creación de la matriz | 03/03/2026 |
-| 1.1 | Mauricio Olguín y Roberto Serna | Pendiente    | Proceso y plantilla para RTM | 04/03/2026 |
