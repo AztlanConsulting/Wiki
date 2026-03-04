@@ -22,13 +22,13 @@ Descripción clara y concisa del término.
 
 ## Acrónimos y Abreviaturas
 
-| Acrónimo | Significado completo                     | Descripción breve (opcional) |
+| Acrónimo | Significado completo                    | Descripción breve (opcional) |
 |--------|-------------------------------------------|------------------------------|
-| PM    | Program Manager                            |                              |
-| PO    | Product Owner                              |                              |
-| TL    | Team Leader                                |                              |
-| AO    | Arquitecture Owner                         |                              |
-| TM    | Team Member                                |                              |
+| PM    | [Program Manager](docs/Aztlan/WoW/Políticas/Politica_de_Comportamiento_Interno.md#31-obligaciones-por-rol)                          |                              |
+| PO    | [Product Owner](docs/Aztlan/WoW/Políticas/Politica_de_Comportamiento_Interno.md#31-obligaciones-por-rol)                          |                              |
+| TL    | [Team Leader](docs/Aztlan/WoW/Políticas/Politica_de_Comportamiento_Interno.md#31-obligaciones-por-rol)                          |                              |
+| AO    | [Arquitecture Owner](docs/Aztlan/WoW/Políticas/Politica_de_Comportamiento_Interno.md#31-obligaciones-por-rol)                          |                              |
+| TM    | [Team Member](docs/Aztlan/WoW/Políticas/Politica_de_Comportamiento_Interno.md#31-obligaciones-por-rol)                          |                              |
 ---
 
 ## Siglas Técnicas
