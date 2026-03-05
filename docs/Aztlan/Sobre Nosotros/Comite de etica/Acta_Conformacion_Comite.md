@@ -34,4 +34,4 @@ Los miembros arriba enlistados aceptan la responsabilidad de actuar con total im
 
 | Version | Creado por: | Auditado por: | Descripción | Fecha |
 |---------|------------|--------------|---------------|-------|
-| 1.0     | Yael Charles | | miembros del comité Andre, Andrea, Jorge, Oswaldo y Yael |05/03/2026 |
+| 1.0     | Yael Charles | Manuel Bajos| miembros del comité Andre, Andrea, Jorge, Oswaldo y Yael |05/03/2026 |

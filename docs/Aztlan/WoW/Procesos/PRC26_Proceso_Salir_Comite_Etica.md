@@ -31,4 +31,4 @@ Actualización de documentos:
 
 | Version | Creado por: | Auditado por: | Descripción | Fecha |
 |---------|------------|--------------|---------------|-------|
-| 1.0     | Yael Charles Marin y Fatima Figueroa López | | Proceso inicial.  | 05/03/2026 |
+| 1.0     | Yael Charles Marin y Fatima Figueroa López | Manuel Bajos| Proceso inicial.  | 05/03/2026 |
