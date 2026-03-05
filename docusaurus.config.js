@@ -11,8 +11,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Aztlán Consulting',
-  tagline: 'Dinosaurs are cool',
-  favicon: 'img/favicon.ico',
+  tagline: 'Página de documentación de Aztlán Consulting para TC3004B y TC3005B',
+  favicon: 'img/aztlanLogo.png',
   trailingSlash: false, 
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -103,7 +103,6 @@ const config = {
         ],
       },
       footer: {
-        style: 'dark',
         copyright: `Copyright © ${new Date().getFullYear()} Aztlán Consulting, Inc. Built with Docusaurus.`,
       },
       prism: {
