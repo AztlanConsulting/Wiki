@@ -15,4 +15,4 @@ Asignar un tiempo acordado a los story points para poder estimar las tareas más
 | 2 |  3  |Tarea de complejidad media-baja. <br/> Se necesita poca investigación técnica.|  
 | 3 |  5  |Tarea de complejidad media. <br/> Requiere cierta lógica. <br/> Implica más esfuerzo que un 2.| 
 | 5 |  6  |Tarea de complejidad media-alta. <br/> Puede involucrar varios componentes. <br/> Requiere investigación para comprender la tarea.| 
-| 8 |  8  |Tarea de complejidad alta. <br/> Involucra varias áreas. <br/> Involucra cierto riesgo. <br/> No se tienen los conocimientos técnicos.| 
+| 8 |  8  |Tarea de complejidad alta. <br/> Involucra varias áreas. <br/> Involucra cierto riesgo. <br/> No se tienen los conocimientos técnicos. | 
