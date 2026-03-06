@@ -22,7 +22,7 @@ Estandarizar la selección del ciclo de vida del proyecto y la definición de su
 | Selección | Seleccionar ciclo de vida a utilizar y documentar justificación. Consultar [GUI02 - Guía para elegir ciclo de vida y definir fases](../Guías/GUI02_Guia_Ciclo_de_Vida.md) | PP SP 1.3 | 
 | Definición | Definir las fases del ciclo de vida. Definir objetivo, entregables, criterios de salida y puntos de decisión | PP SP 1.3 | 
 | Planeación | Crear hitos y dependencias principales a partir del ciclo de vida definido para alimentar al calendario. Consultar [PRC06](./PRC06_Uso_Y_Mantenimiento_De_Calendarios.md) | PP SP 1.3, PP SP 2.1|  
-| Validación | Validar ciclo de vida con Team leader y acordar revisiones con interesados. Si se requiere replanificación por incumplimento de hitos o cambios mayores, consultar [PRC10](./PRC10%20-%20Reajuste%20de%20trabajo%20y%20recursos.md) | PP SP 1.3, PP SP 3.2|  
+| Validación | Validar ciclo de vida con Team leader y acordar revisiones con interesados. Si se requiere replanificación por incumplimento de hitos o cambios mayores, consultar [PRC10](./PRC10_Reajuste_de_trabajo_y_recursos.md) | PP SP 1.3, PP SP 3.2|  
 | Documentación | Añadir la documentación producida a la wiki | PP SP 1.3 |  
 
 ## Salidas

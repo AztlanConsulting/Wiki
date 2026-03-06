@@ -25,7 +25,7 @@ asignando el trabajo de este Sprint
 | Definición    | El PO lee la Definición de DONE al equipo                                                                              | RM.1.5                            |
 | Definición    | Obtener el presupuesto total del equipo en horas (La suma de horas que cada TM puede dedicarle al sprint)              | PP.1.2 PP.2.4 RM.1.2              |
 | Preparación   | Los Team Members eligen las tareas del Backlog acorde con la [velocidad del equipo](../Guías/Obtener_Velocidad_Equipo) | PP.2.1                            |
-| Preparación   | Si es necesario, hacer [Backlog Grooming](./PRC3_Proceso_Para_Grooming)                                                | PP.1.2 RM.1.1 RM.1.2              |
+| Preparación   | Si es necesario, hacer [Backlog Grooming](./PRC07_Proceso_Para_Grooming)                                                | PP.1.2 RM.1.1 RM.1.2              |
 | Ejecución     | Añadir prioridad a cada tarea                                                                                          | PP.2.1                            |
 | Ejecución     | Asignar la cantidad de story points a cada tarea                                                                       | PP.1.2                            |
 | Ejecución     | Asignar el mejor caso, peor caso y caso promedio en story points a cada tarea                                          | PP.1.2                            |
