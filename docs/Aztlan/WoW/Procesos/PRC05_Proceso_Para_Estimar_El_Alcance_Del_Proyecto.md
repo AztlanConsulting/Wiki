@@ -20,7 +20,7 @@ Definir y estructurar el trabajo del proyecto de manera clara y organizada para 
 | Fase | Actividades | Prácticas CMMI |
 |------|------------|----------------|
 | Definir de alcance y objetivos | Definir el alcance y objetivo del proyecto. Involucra entender los objetivos, restricciones, riesgos e historias de usuario del proyecto. | PP SP 1.1, PP SP 2.2 |
-| Identificar módulos generales | Enlistar los entregables en módulos generales. | PP SP 1.1 |
+| Identificar módulos generales | Enlistar los módulos generales. | PP SP 1.1 |
 | Identificar entregables | Por cada módulo general, enlistar los entregables. | PP SP 1.1 |
 | Identificar paquetes de trabajo | Por cada entregable, establecer paquetes de trabajo. | PP SP 1.1, PP SP 2.4 |
 | Identificar actividades | Para cada paquete de trabajo, enlistar actividades que puedan realizarse en máximo un día. | PP SP 1.1 |
