@@ -3,8 +3,7 @@ title: 'GUI09 - Guía para identificar riesgos'
 sidebar_position: 9
 ---
 
-# Plantilla de Guía
-# Nombre de la Guía
+# Guía para identificar riesgos
 
 ## Propósito
 Identificar si la situación es un riesgo para el proyecto.
@@ -43,7 +42,7 @@ Una vez que ya se asigne la categoría, se decide cómo se va a abordar el riesg
 - SWOT analysis
 
 ### Paso 4:
-Una vez que se decida cómo abordarlo, se tiene que llevar a cabo el [proceso para gestionar riesgos](../Procesos/PRC16_Proceso_Para_Gestionar_Riesgos.md).
+Una vez que se decida cómo abordarlo, se tiene que llevar a cabo el [proceso para gestionar riesgos](../Procesos/PRC19_Proceso_Para_Gestionar_Riesgos).
 
 ---
 
@@ -55,4 +54,4 @@ Una vez que se decida cómo abordarlo, se tiene que llevar a cabo el [proceso pa
 
 | Version | Creado por: | Auditado por: | Descripción | Fecha |
 |---------|------------|--------------|---------------|-------|
-| 1.0     | Manuel Bajos Rivera, Alejandra | Juan Manuel Murillo | Plantilla inicial para guías.  | 02/03/2026 |
+| 1.0     | Manuel Bajos Rivera, Alejandra | Juan Manuel Murillo | Guía para identificar riesgos  | 02/03/2026 |
