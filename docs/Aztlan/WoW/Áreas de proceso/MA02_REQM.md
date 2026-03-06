@@ -12,7 +12,7 @@ Gestionar los requisitos de los productos y los componentes de producto del proy
 |:---:|---|---|---|---|---|:---:|---|
 | **SG 1**  | Gestionar los requisitos |  |  |  |  |  |  |
 | **SP 1.1** | Comprender los requisitos. |  |  |  |  | ☐ |  |
-| **SP 1.2** | Obtener el compromiso sobre los requisitos. |  |  |  |  | ☐ |  |
+| **SP 1.2** | Obtener el compromiso sobre los requisitos. | [Proceso para obtener compromiso sobre los requisitos](../Procesos/PRC17_Proceso_Para_Obtener_Compromiso.md) |  |  |  | ☐ | Jorge Garzón <br />  <br /> Dongju Mun |
 | **SP 1.3** | Gestionar los cambios a los requisitos. |  |  |  |  | ☐ |  |
 | **SP 1.4** | Mantener la trazabilidad bidireccional de los requisitos. | [Proceso para mantener trazabilidad bidireccional de los requisitos (RTM)](../Procesos/PRC24_Proceso_Para_Realizar_Matriz_de_Trazabilidad_de_Requisitos.md) | [Plantilla de RTM](https://docs.google.com/spreadsheets/d/1yY1daMZ_oXeu3huJ-2UJ9qUKr4hWooPbJ5toUc0xc0U/edit?gid=0#gid=0) |  | REQM 1.4 | ☐  | Mauricio Olguín<br />  <br />Roberto Serna |
 | **SP 1.5** | Asegurar el alineamiento entre el trabajo del proyecto y los requisitos. | [- Proceso para Desarrollo de HU](../Procesos/PRC09_Proceso_Para_Desarrollo_De_Historia_De_Usuario.md) |  |  |  | ☐  | Elizabeth Orduña <br />  <br /> Alejandro Cruz |
