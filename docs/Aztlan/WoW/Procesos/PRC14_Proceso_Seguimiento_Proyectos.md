@@ -23,14 +23,14 @@ Tener trazabilidad del estado de cada uno de los proyectos entre equipos y PMs
 | Pasos         | Actividades                                                                                  | Prácticas asociadas al CMMI |
 |---------------|----------------------------------------------------------------------------------------------|-----------------------------|
 | Entendimiento | El PM lee el objetivo de la sesión a los participantes                                       | PP.3.1                      |
-| Entendimiento | El PM lee la agenda de la sesión a los participantes                                         | PP.3.1                      |
+| Entendimiento | El PM lee la agenda de la sesión a los participantes                                         | PP.2.3                      |
 | Ejecución     | Los participantes muestran el seguimiento de sus objetivos individuales                      | PP.3.1                      |
 | Ejecución     | Cada representante de los equipos presente su avance en su área de especialidad (TL, AO, PO) | PP.3.1                      |
 | Ejecución     | Se muestran las gráficas del PVG de cada proyecto                                            | PP.3.1 PP.2.7               |
-| Ejecución     | Se tiene una sesión de preguntas y retroalimentación para cada proyecto                      | PP.3.1                      |
-| Ejecución     | Se discuten temas adicionales de la agenda                                                   | PP.3.1                      |
-| Ejecución     | Se tiene una sección de Q&A general                                                          | PP.3.1                      |
-| Cierre        | Se discute cuándo será la siguiente sesión                                                   | PP.3.1                      |
+| Ejecución     | Se tiene una sesión de preguntas y retroalimentación para cada proyecto                      | RM.1.5                      |
+| Ejecución     | Se discuten temas adicionales de la agenda                                                   | PP.2.2                      |
+| Ejecución     | Se tiene una sección de Q&A general                                                          |                       |
+| Cierre        | Se discute cuándo será la siguiente sesión                                                   |                       |
 
 ## Salidas
 

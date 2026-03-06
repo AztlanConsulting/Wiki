@@ -35,6 +35,7 @@ export default function Home() {
       title={`Aztlán Consulting`}
       description="Description will go into a meta tag in <head />">
       <HomepageHeader />
+      <HomepageFeatures />
     </Layout>
   );
 }
