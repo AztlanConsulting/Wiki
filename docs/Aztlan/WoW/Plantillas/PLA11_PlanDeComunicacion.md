@@ -1,5 +1,5 @@
 ---
-title: "PLA011 - Plantilla de Plan de Comunicación"
+title: "PLA03 - Plantilla de Plan de Comunicación"
 sidebar_position: 3
 ---
 
@@ -31,13 +31,13 @@ _v1.0_
 
 ---
 
-## 4. Matriz de Participación (Stakeholder vs Actividades)
+## 4. Matriz de Participación - RACI (Stakeholder vs Actividades)
 
 **Leyenda sugerida:**  
 R = Responsable  
-A = Aprobador  
-C = Consultado  
-I = Informado  
+A = Accountable  
+C = Consulted  
+I = Informed  
 
 | Stakeholder | Requisitos | Diseño | Desarrollo | Pruebas | Entrega |
 |-------------|------------|--------|------------|---------|---------|
@@ -90,3 +90,4 @@ Ejemplo: cambios en alcance, incorporación de nuevos stakeholders, cambios en c
 | Version | Creado por | Auditado por | Descripción | Fecha |
 |---------|------------|--------------|-------------|-------|
 | 1.0 | Dongju Mun | Jorge Armando Garzón Varela | Creación del plan de comunicación | 04/03/2026 |
+| 1.1 | Dongju Mun | Jorge Armando Garzón Varela | Cambio de palabras de la plantilla de plan de comunicación | 06/03/2026 |
