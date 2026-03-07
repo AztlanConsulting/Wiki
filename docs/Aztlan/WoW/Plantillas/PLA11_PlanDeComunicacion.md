@@ -23,7 +23,7 @@ _v1.0_
 
 ## 3. Identificación de Stakeholders
 
-| ID | Stakeholder | Descripción del Stakeholder | Nivel de Influencia (Alto/Medio/Bajo) | Nivel de Interés (Alto/Medio/Bajo) |
+| ID del Stakeholder | Stakeholder | Descripción del Stakeholder | Nivel de Influencia (Alto/Medio/Bajo) | Nivel de Interés (Alto/Medio/Bajo) |
 |----|------------|-------------------|----------------------------------------|------------------------------------|
 | ST-01 | | | | |
 | ST-02 | | | | |
@@ -39,7 +39,7 @@ A = Accountable
 C = Consulted  
 I = Informed  
 
-| Stakeholder | Análisis | Diseño | Desarrollo | Pruebas | Entrega |
+| ID del Stakeholder | Stakeholder | Análisis | Diseño | Desarrollo | Pruebas | Entrega |
 |-------------|------------|--------|------------|---------|---------|
 | | | | | | |
 | | | | | | |
