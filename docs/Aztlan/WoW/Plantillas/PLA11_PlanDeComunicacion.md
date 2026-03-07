@@ -39,7 +39,7 @@ A = Accountable
 C = Consulted  
 I = Informed  
 
-| Stakeholder | Analisis | Diseño | Desarrollo | Pruebas | Entrega |
+| Stakeholder | Análisis | Diseño | Desarrollo | Pruebas | Entrega |
 |-------------|------------|--------|------------|---------|---------|
 | | | | | | |
 | | | | | | |
