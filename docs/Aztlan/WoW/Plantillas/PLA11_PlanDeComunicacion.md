@@ -1,5 +1,5 @@
 ---
-title: "PLA03 - Plantilla de Plan de Comunicación"
+title: "PLA11 - Plantilla de Plan de Comunicación"
 sidebar_position: 3
 ---
 
@@ -23,7 +23,7 @@ _v1.0_
 
 ## 3. Identificación de Stakeholders
 
-| ID | Stakeholder | Rol en el Proyecto | Nivel de Influencia (Alto/Medio/Bajo) | Nivel de Interés (Alto/Medio/Bajo) |
+| ID | Stakeholder | Descripción del Stakeholder | Nivel de Influencia (Alto/Medio/Bajo) | Nivel de Interés (Alto/Medio/Bajo) |
 |----|------------|-------------------|----------------------------------------|------------------------------------|
 | ST-01 | | | | |
 | ST-02 | | | | |
