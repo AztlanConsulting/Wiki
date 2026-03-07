@@ -1,0 +1,21 @@
+---
+title: "Estimación tamaño y costo de tareas - Fungivora"
+sidebar_position: 7
+---
+
+_v1.0 / PP - SP 1.2 <!--Poner practicas del CMMI-->
+
+## Propósito
+Asignar un tiempo acordado a los story points para poder estimar las tareas más facil. Tener metricas especificas para una planeación adecuada.
+
+## Story Points a Tiempo
+
+| Story Points | Tiempo estimado | Descripción |
+|--------------|--------------|--------------|
+| 1 |  0.5  |Tarea pequeña de complejidad baja. <br/> Sin dependencias. <br/> Se tienen los conocimientos técnicos necesarios.|
+| 2 |  3  |Tarea de complejidad media-baja. <br/> Se necesita poca investigación técnica.|  
+| 3 |  6  |Tarea de complejidad media. <br/> Requiere cierta lógica. <br/> Implica más esfuerzo que un 2.| 
+| 5 |  9  |Tarea de complejidad media-alta. <br/> Puede involucrar varios componentes. <br/> Requiere investigación para comprender la tarea.| 
+| 8 |  12  |Tarea de complejidad alta. <br/> Involucra varias áreas. <br/> Involucra cierto riesgo. <br/> No se tienen los conocimientos técnicos.| 
+| 13 |  18  |Tarea de complejidad muy alta. <br/> Tiene dependencias.|
+| 21 |  27  |Excesivo.| 

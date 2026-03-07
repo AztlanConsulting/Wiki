@@ -1,0 +1,19 @@
+---
+title: "PLA07 - Plantilla para Políticas"
+sidebar_position: 7
+---
+
+_v1.0 
+
+## Propósito
+
+
+## Áreas de proceso y prácticas en las que se aplica
+
+## Política
+
+## Control de versiones
+
+| Version | Creado por: | Auditado por: | Descripción | Fecha |
+|---------|------------|--------------|---------------|-------|
+| 1.0     |      Juan Manuel Murillo López      |              |       Plantilla inicial de políticas        |    01/03/2026   |
