@@ -31,6 +31,7 @@ Establecer, definir y gestionar los cambios que se generen dentro de los requisi
 ## Salidas
 
 Requisito modificado y documentacion.
+[RTM](https://docs.google.com/spreadsheets/d/1yY1daMZ_oXeu3huJ-2UJ9qUKr4hWooPbJ5toUc0xc0U/edit?gid=0#gid=0)
 
 ## Control de versiones
 
