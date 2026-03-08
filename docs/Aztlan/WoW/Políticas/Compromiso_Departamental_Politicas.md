@@ -14,5 +14,5 @@ No cambiar link, solo añadir la liga de la nueva versión
 
 | Version | Creado por: | Auditado por: | Descripción | Fecha |
 |---------|------------|--------------|---------------|-------|
-| 1.0     |   Fátima Figueroa,Yessica Lora, Kamila Martinez  |       |       Compromiso Departamental       |    04/03/2026   |
+| 1.0     |   Fátima Figueroa,Yessica Lora, Kamila Martinez  |   Juan Manuel Murillo López    |       Compromiso Departamental       |    04/03/2026   |
 

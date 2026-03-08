@@ -7,4 +7,4 @@ sidebar_position: 1
 
 | Version | Creado por: | Auditado por: | Descripción | Fecha |
 |---------|------------|--------------|---------------|-------|
-| 1.0 | Yessica Lora | Kamila Martínez   |    | 25/02/2026 |
+| 1.0 | Yessica Lora, Kamila Martínez, Fátima Figueroa, Fernanda Valdez, Alejandrea Aredondo | Juan Manuel Murillo  |    | 25/02/2026 |

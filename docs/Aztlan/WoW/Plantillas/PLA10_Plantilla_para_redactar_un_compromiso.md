@@ -12,4 +12,4 @@ Crea una copia de la plantilla y redacta tu documento
 
 | Version | Creado por: | Auditado por: | Descripción | Fecha |
 |---------|------------|--------------|---------------|-------|
-| 1.0 | Yessica Lora, Kamila Martínez, Fátima Figeroa |   |    | 03/03/2026 |
+| 1.0 | Yessica Lora, Kamila Martínez, Fátima Figeroa | Fernanda Valdez |    | 03/03/2026 |
