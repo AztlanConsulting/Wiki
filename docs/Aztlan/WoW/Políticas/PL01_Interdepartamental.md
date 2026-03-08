@@ -75,9 +75,9 @@ Incentivar la cooperación entre departamentos y mantener el uso adecuado de las
 
 ## Bitácora de cambios
 
-| Versión | Responsable | Razón | Fecha |
-|---|---|---|---|
-| 1.0 | Yessica Lora|  | 01/03/2026 |
-| 1.1 | Alejandra Arredondo| Actualización del apartado del área de trabajo | 02/03/2026|
-| 1.2 | Alejandra Arredondo | Actualización de políticas acorde a los acuerdos interdepartamentales | 02/03/2026 |
-| 1.3 | Yessica Lora | Actualización de políticas acorde a la negociación de espacios interdepartamentales | 02/03/2026 |
+| Version | Creado por: | Auditado por: | Descripción | Fecha |
+|---------|------------|--------------|---------------|-------|
+| 1.0 | Yessica Lora| Juan Manuel Murillo López | | 01/03/2026 |
+| 1.1 | Alejandra Arredondo| Juan Manuel Murillo López | Actualización del apartado del área de trabajo | 02/03/2026|
+| 1.2 | Alejandra Arredondo |Juan Manuel Murillo López | Actualización de políticas acorde a los acuerdos interdepartamentales | 02/03/2026 |
+| 1.3 | Yessica Lora | Juan Manuel Murillo López|  Actualización de políticas acorde a la negociación de espacios interdepartamentales | 02/03/2026 |
