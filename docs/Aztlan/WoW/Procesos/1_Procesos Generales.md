@@ -89,3 +89,7 @@ Mantener la aplicación en un estado usable, y que las funcionalidades terminada
 
 ### Cuando usarlo
 Cada que se termine de incorporar una historia de usuario.
+
+| Version | Creado por: | Auditado por: | Descripción | Fecha |
+|---------|------------|--------------|---------------|-------|
+| 1.0     | -Yessica Lora Vazquez -Edmundo Canedo -Alejandro Adrián García -Santiago Alducin Villaseñor  | Yael Charles Marin | Plantilla inicial para guías.  | 16/02/2026 |
