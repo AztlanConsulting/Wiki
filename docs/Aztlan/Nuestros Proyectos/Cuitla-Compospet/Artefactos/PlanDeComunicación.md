@@ -104,4 +104,4 @@ Grupo de Whatsapp
 
 | Version | Creado por | Auditado por | Descripción | Fecha |
 |---------|------------|--------------|-------------|-------|
-| 1.0 | Kamila Martinez, Yessica Vazquez |  | Creación del plan de comunicación | 06/03/2026 |
+| 1.0 | Kamila Martinez, Yessica Vazquez | Fátima Figueroa | Creación del plan de comunicación | 06/03/2026 |
