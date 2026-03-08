@@ -119,7 +119,7 @@ Incentivar la cooperación, motivación y sentido de comunidad en el departament
 
 ## Bitácora de cambios
 
-| Versión | Responsable | Razón | Fecha |
-|---|---|---|---|
-| 1.0 | Alejandra Arredondo, Yessica Lora|  | 02/03/2026 |
-| 1.0 | Yessica Lora|  | 03/03/2026 |
+| Version | Creado por: | Auditado por: | Descripción | Fecha |
+|---------|------------|--------------|---------------|-------|
+| 1.0 | Alejandra Arredondo, Yessica Lora| Juan Manuel Murillo López | | 02/03/2026 |
+| 1.0 | Yessica Lora| Juan Manuel Murillo López |  | 03/03/2026 |
