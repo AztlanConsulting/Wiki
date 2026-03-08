@@ -32,6 +32,6 @@ _v2.0 /_ <!--Poner practicas del CMMI-->
 
 | Version | Creado por: | Auditado por: | Descripción | Fecha |
 |---------|------------|--------------|---------------|-------|
-| 1.0     | Yael Charles Marin           | Yessica, Manuel, Alejandra | Plantilla inicial para procesos.  | 26/02/2026 |
+| 1.0     | Yael Charles Marin     | Yessica, Manuel, Alejandra | Plantilla inicial para procesos.  | 26/02/2026 |
 | 2.0     | Yael Charles Marin | Manuel, Alejandra, Edmundo, Andre  | Eliminar responsable, notas y interesados para simplificar. | 26/02/2026 |
 | 2.1   | Yael Charles Marin | Manuel, Alejandra, Edmundo, Andre  | Acento en Prácticas | 26/02/2026 |
