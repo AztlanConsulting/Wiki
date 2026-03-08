@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Misión',
-    img: require('@site/static/img/Misión.png').default,
+    img: require('@site/static/img/mision_png.png').default,
     description: (
       <>
         Escuchar, entender y transformar las ideas de nuestros SF 
@@ -15,7 +15,7 @@ const FeatureList = [
   },
   {
     title: 'Visión',
-    img: require('@site/static/img/Visión.png').default,
+    img: require('@site/static/img/vision_png.png').default,
     description: (
       <>
         Brindar soluciones que superen las expectativas de nuestros clientes, que tengan un impacto en el futuro de nuestro entorno.
@@ -24,10 +24,18 @@ const FeatureList = [
   },
   {
     title: 'Valores',
-    img: require('@site/static/img/Valores.png').default,
+    img: require('@site/static/img/valores_png.png').default,
     description: (
       <>
         IEIWSJSJAKAKJSJK.
+      </>
+    ),
+  },
+  {
+    title: <a href='https://docs.google.com/forms/d/e/1FAIpQLScuzZ2yLxtN8t_x7T3SqVmeWYvOxSSx8SZW5DpZVq5wO0famw/viewform?usp=sharing&ouid=109504095999872418361'>Buzón de Quejas</a>,
+    img: require('@site/static/img/buzon_png2.png').default,
+    description: (
+      <>
       </>
     ),
   },
@@ -55,6 +63,9 @@ export default function HomepageFeatures() {
           {FeatureList.map((props, idx) => (
             <Feature key={idx} {...props} />
           ))}
+          <div>
+
+          </div>
         </div>
       </div>
     </section>

@@ -9,10 +9,10 @@ Asignar un tiempo acordado a los story points para poder estimar las tareas más
 
 ## Story Points a Tiempo
 
-| Story Points | Tiempo estimado (horas) | Descripción |
+| Story Points | Tiempo estimado | Descripción |
 |--------------|--------------|--------------|
-| 1 |  0.5  |Tarea pequeña de complejidad baja. <br/> Sin dependencias. <br/> Se tienen los conocimientos técnicos necesarios.|
-| 2 |  1.5  |Tarea de complejidad media-baja. <br/> Se necesita poca investigación técnica.|  
-| 3 |  4  |Tarea de complejidad media. <br/> Requiere cierta lógica. <br/> Implica más esfuerzo que un 2.| 
+| 1 |  1.5  |Tarea pequeña de complejidad baja. <br/> Sin dependencias. <br/> Se tienen los conocimientos técnicos necesarios.|
+| 2 |  3  |Tarea de complejidad media-baja. <br/> Se necesita poca investigación técnica.|  
+| 3 |  5  |Tarea de complejidad media. <br/> Requiere cierta lógica. <br/> Implica más esfuerzo que un 2.| 
 | 5 |  6  |Tarea de complejidad media-alta. <br/> Puede involucrar varios componentes. <br/> Requiere investigación para comprender la tarea.| 
-| 8 |  8  |Tarea de complejidad alta. <br/> Involucra varias áreas. <br/> Involucra cierto riesgo. <br/> No se tienen los conocimientos técnicos.|  
+| 8 |  8  |Tarea de complejidad alta. <br/> Involucra varias áreas. <br/> Involucra cierto riesgo. <br/> No se tienen los conocimientos técnicos. | 

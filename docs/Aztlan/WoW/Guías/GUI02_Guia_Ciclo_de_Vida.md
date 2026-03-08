@@ -301,7 +301,7 @@ Con hitos y dependencias principales, crear/actualizar el calendario del proyect
 - Documento de ciclo de vida del proyecto (fases, entregables, decisiones)
 - Lista de hitos y dependencias principales
 - Calendario del proyecto actualizado con hitos (ver [PRC06](../Procesos/PRC06_Uso_Y_Mantenimiento_De_Calendarios.md))
-- Replanificación registrada (si aplica, ver [PRC10](../Procesos/PRC10%20-%20Reajuste%20de%20trabajo%20y%20recursos.md))
+- Replanificación registrada (si aplica, ver [PRC10](../Procesos/PRC10_Reajuste_de_trabajo_y_recursos))
 
 
 ## Referencias
