@@ -1,5 +1,5 @@
 ---
-title: Acta de conformación del Comité de ética.
+title: Acta de conformación del Comité de ética
 ---
 
 _v1.0_
@@ -24,7 +24,7 @@ Fomentando la equidad y la colaboración, este comité opera bajo la regla de qu
 
 Los miembros que asumen este compromiso son:
 - André Agle Saldivar
-- Andrea Fatima Figueroa López
+- Andrea Fátima Figueroa López
 - Jorge Armando Garzón
 - Oswaldo Isaías Hernández Santes
 - Yael Charles Marin
