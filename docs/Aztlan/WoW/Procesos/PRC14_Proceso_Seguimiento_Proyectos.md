@@ -25,7 +25,7 @@ Tener trazabilidad del estado de cada uno de los proyectos entre equipos y PMs
 | Entendimiento | El PM lee el objetivo de la sesión a los participantes                                       | PP.3.1                      |
 | Entendimiento | El PM lee la agenda de la sesión a los participantes                                         | PP.2.3                      |
 | Ejecución     | Los participantes muestran el seguimiento de sus objetivos individuales                      | PP.3.1                      |
-| Ejecución     | Cada representante de los equipos presente su avance en su área de especialidad (TL, AO, PO) | PP.3.1                      |
+| Ejecución     | Cada representante del equipo revisa el estado del plan del proyecto (PVG, objetivos, riesgos) y reporta su avance respecto a lo planeado | PP.3.1                      |
 | Ejecución     | Se muestran las gráficas del PVG de cada proyecto                                            | PP.3.1 PP.2.7               |
 | Ejecución     | Se tiene una sesión de preguntas y retroalimentación para cada proyecto                      | RM.1.5                      |
 | Ejecución     | Se discuten temas adicionales de la agenda                                                   | PP.2.2                      |
@@ -41,4 +41,5 @@ Tener trazabilidad del estado de cada uno de los proyectos entre equipos y PMs
 | Version | Creado por: | Auditado por: | Descripción | Fecha |
 |---------|------------|--------------|---------------|-------|
 | 1.0     | Juan Manuel Murillo          | Luisa Fernanda Valdez  | Proceso para el Seguimiento de Proyectos  | 28/02/2026 |
+| 1.1     | Juan Manuel Murillo          |   | Actualización de pasos  | 08/03/2026 |
 

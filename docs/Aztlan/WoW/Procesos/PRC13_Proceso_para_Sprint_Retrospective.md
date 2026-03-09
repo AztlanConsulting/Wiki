@@ -26,7 +26,7 @@ En el Sprint Retrospective se inspecciona y se adapta el proceso de trabajo del 
 | Preparación   | TL presenta la [plantilla para la Retrospectiva](https://www.canva.com/design/DAHCp2M3VaY/0hL_ErZC594xHfvOum1fGw/edit?utm_content=DAHCp2M3VaY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | PP.3.1                      |
 | Preparación   | Se presenta la [velocidad del equipo](../Guías/Obtener_Velocidad_Equipo)                                                                                                                                        | PP.1.4 PP.3.1                      |
 | Preparación   | Se presenta el objetivo del Sprint                                                                                                                                                                              | RM.1.1 PP.3.1                      |
-| Discusión     | Se discute si se cumplió el objetivo del Sprint                                                                                                                                                                 | PP.3.1 RM.1.5                      |
+| Discusión     | El equipo revisa los compromisos establecidos en el Sprint Planning y analiza si el trabajo realizado cumplió con lo planeado                                                                                                                                                                 | PP.3.1 RM.1.5                      |
 | Discusión     | Los TMs añaden post-its con sus comentarios en cada una de las secciones de la plantilla                                                                                                                        | PP.3.1                      |
 | Ejecución     | Se definen acciones de mejora para el próximo Sprint                                                                                                                                                            | PP.3.1 PP.2.7 PP.3.3        |
 | Ejecución     | Se elabora una [matriz RACI](../Guías/Matriz_RACI) para cada acción                                                                                                                                                                 | PP.3.1 PP.2.7 PP.3.3        |
@@ -43,4 +43,4 @@ En el Sprint Retrospective se inspecciona y se adapta el proceso de trabajo del 
 |---------|------------|--------------|---------------|-------|
 | 1.0     | Juan Manuel Murillo          | Luisa Fernanda Valdez  | Proceso para el Sprint Retrospective  | 28/02/2026 |
 | 1.1 | Alejandra Arredondo | Juan Manuel Murillo | Actualización del proceso para el Sprint Retrospective. Se agregó la discusión de riesgos dentro del proceso. | 02/03/2026 |
-
+| 1.2     | Juan Manuel Murillo          |   | Actualización de pasos  | 08/03/2026 |
