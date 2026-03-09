@@ -10,32 +10,45 @@ sidebar_position: 2
 * Wbs para US
 '-------------------------------------------
 ** Análisis
-*** Trazar en User story mapping
-*** Elaborar diagrama de actividad
-*** Trazar en el MER
-*** Aplicar la definición de ready
-*** Elaborar wireframes
+*** Diagrama de actividad
+*** MER
+*** Wireframes
+*** Vista de alta fidelidad
+*** User Story Mapping
+*** Impact Mapping
+*** Validar con el objetivo
 '-------------------------------------------
 ** Diseño
-*** Elaborar prototipo de vista de alta fidelidad
-*** Elaborar diagrama de secuencia
-*** Trazar en diagrama de despliegue
-*** Trazar en el MR
-*** Elaborar casos de prueba
+*** Diagrama de secuencia
+*** Diagrama de despliegue
+*** MR
+*** Pruebas para caso de Uso
+*** Diagrama de paquetes
+*** Verificar con estándares
+**** Heurísticas
 '-------------------------------------------
 ** Desarrollo
-*** Código fuente
-*** Crear pruebas unitarias
+*** Backend
+**** Modelo
+**** Vista
+**** Controlador
+*** Frontend
+**** Componentes
+*** Pruebas unitarias
+*** PR
+*** Pruebas de integración
 '-------------------------------------------
 ** Pruebas
-*** Probar requisitos no funcionales
+*** Medir requisitos no funcionales
 *** Realizar correcciones si aplica
 *** Aplicar la definición de done
 *** Realizar pruebas unitarias
 *** Realizar pruebas de integración
+*** Pruebas de pensamiento en voz alta
 '-------------------------------------------
 ** Despliegue
-*** Hacer el manual de usuario
+*** Manual de usuario
+*** Tutorial
 *** Desplegar US
 '-------------------------------------------
 @endwbs
@@ -46,3 +59,4 @@ sidebar_position: 2
 | Version | Creado por: | Auditado por: | Descripción | Fecha |
 |---------|------------|--------------|---------------|-------|
 | 1.0 | Yael Charles y Manuel Bajos | Edmundo Canedo | Creación del WBS | 02/03/2026 |
+|1.1 | Yael Charles | | Detallar fases de análisis, diseño y desarrollo | 09/03/2026|

@@ -15,10 +15,8 @@ sidebar_position: 1
 --------------------------------------------------------------'/
 ** Inicio
 '-------------------------------------------------------------
-***< Hacer equipos 
-'-------------------------------------------------------------
 ***< Visión del proyecto 
-****< Entender la necesidad del SF
+****< Necesidad del SF
 ****> Objetivo del equipo
 ****< Objetivo del proyecto
 ****< Necesidad de la empresa
@@ -33,28 +31,26 @@ sidebar_position: 1
 *****< Requisito tipo objetivo
 '-------------------------------------------------------------
 ***< Identificar arquitectura 
-****< Definir tecnologías
-****< Realizar comparativa de proveedores
-*****< Solicitar servidor
-*****> Redactar documento
-****< Realizar spikes
+****< tecnologías
+****< Proveedores
+***** Costos
+*****< Servidor
+*****> Documento de aprobación
+****< Spikes
 ***** Google Calendar API
 ***** Jenkins
 '-------------------------------------------------------------
 ***> Plan de release
-****< Definir MVP
-****> Definir MBI 1
-****< Definir MBI 2
+****< Fecha MVP
+****> Fecha MBI 1
+****< Fecha MBI 2
 '-------------------------------------------------------------
 ***< Plan de riesgos
 ****< Matriz de riesgos
 *****< Plan de contingencia
 ****< Identificar riesgos
-***> Hacer plan de calidad
+***> Plan de calidad
 ****< Procesos de pruebas
-****> Validar correcciones
-****< Documentar errores
-****> Ejecutar casos de prueba
 ****> Estandares
 *****> Commits
 *****< PR'S
@@ -62,7 +58,7 @@ sidebar_position: 1
 *****< Código
 *****> Definiciones
 ****** Ready
-****** Done
+******< Done
 ***< Plan de recursos
 ****< Identificar recursos
 *****> Humanos
@@ -71,29 +67,34 @@ sidebar_position: 1
 ******< Software
 ***** Financieros
 ***> Plan de comunicación
-**** Identificar stakeholders
+**** Stakeholders
 **** Canales de comunicación
 **** Disponibilidad
+*** Plan de compromisos
+**** Acta de compromiso de Requisitos
+**** Acta de validación de la visión del proyecto
 /'-------------------------------------------------------------
 ------------------ FASE DE CONSTRUCCIÓN -----------------------
 --------------------------------------------------------------'/
 ** Construcción
 '-------------------------------------------------------------
 *** Historias de usuario
-**** Diagrama WBS para US
-
+**** WBS para US
 *** Preparar el entorno
 **** Repositorios de github
 **** Estructura básica del proyecto
-**** Instalar dependencias y frameworks
+***** Crear proyecto de Node.js
+***** Crear proyecto de React
+**** Dependencias y frameworks
+***** UUID
+***** Express
 **** Linters
+**** Prueba de arquitectura
+**** Base de datos
+***** Tablas
+****** Campos
+***** Relaciones
 
-*** Prueba de concepto
-
-*** Revisión de código
-**** code reviews
-**** corregir bugs
-**** verificar DONE
 /'-------------------------------------------------------------
 -------------------- FASE DE TRANSICION -----------------------
 --------------------------------------------------------------'/
@@ -101,9 +102,9 @@ sidebar_position: 1
 '-------------------------------------------------------------
 *** Entregar la solución
 **** Capacitar usuarios
-***** Tutoriales
+***** Entregar Tutoriales
 ***** Dar capacitaciones
-***** Manuales de usuario
+***** Dar Manuales de usuario
 '-------------------------------------------------------------
 *** Desplegar la solución
 ****< Generar certificado SSL
@@ -119,3 +120,4 @@ sidebar_position: 1
 | Version | Creado por: | Auditado por: | Descripción | Fecha |
 |---------|------------|--------------|---------------|-------|
 | 1.0 | Yael Charles y Manuel Bajos | Edmundo Canedo | Creación del WBS | 27/02/2026 |
+| 1.1 | Yael Charles | Marco Ivan | Cambiar formato del WBS y simplificar | 09/03/2026|
