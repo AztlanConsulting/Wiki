@@ -5,10 +5,10 @@ title: "Ciclo de Vida"
 _v1.1_
 
 ## Propósito
-Definir el ciclo de vida del proyecto que seguirá el equipo al menos durante el próximo parcial, estableciendo sus fases, entregables, hitos y puntos de revisión para facilitar la planeación, el seguimiento y el control del trabajo.
+Definir el ciclo de vida del proyecto que seguirá el equipo, estableciendo sus fases, entregables, hitos y puntos de revisión para facilitar la planeación, el seguimiento y el control del trabajo.
 
 ## Ciclo de vida seleccionado
-Para el inicio de este segundo parcial, el equipo trabajará con un ciclo de vida iterativo, implementado mediante DAD.
+El equipo trabajará con un ciclo de vida iterativo, implementado mediante DAD.
 
 ## Justificación
 Se seleccionó DAD como marco de trabajo porque permite organizar el desarrollo en iteraciones cortas, dar seguimiento frecuente al avance del equipo y adaptarse a cambios en prioridades, requerimientos o restricciones del proyecto.
@@ -95,7 +95,7 @@ Los hitos principales definidos para este ciclo de vida son:
 ## Puntos de decisión
 Durante el desarrollo del siguiente parcial se tomarán decisiones en los siguientes puntos:
 - Al inicio del parcial, para confirmar el uso de DAD
-- Al cierre de cada sprint, para decidir si se continúa como está planeado o si se necesita reajustar
+- Al cierre de cada sprint, considerar retroalimentación generada por el equipo para decidir si el ciclo de vida continúa como planeado o si se necesita reajustar
 - Cuando exista un cambio relevante en alcance, tiempos, riesgos o disponibilidad
 - Antes del cierre de cada sprint, para validar que los entregables estén completos y documentados
 
