@@ -5,7 +5,10 @@ sidebar_position: 5
 
 # Architecture Starter Pack Guide
 
+## Propósito
 Este documento sirve para saber qué pasos seguir para llenar el ASP (Architecture Starter Pack) para cada uno de los proyectos.
+
+## Desarrollo
 
 ### Antes de empezar
 Antes de empezar el ASP, verificar que no se tenga uno previo por proyecto. Tener la plantilla del ASP para basarse en dicho documento. Y, en caso de ser posible, reunir al equipo para que todos aporten opiniones durante el desarrollo del documento.
@@ -25,3 +28,16 @@ Antes de empezar el ASP, verificar que no se tenga uno previo por proyecto. Tene
 
 ### Después de redactar el documento
 Con el ASP terminado, usarlo para ayudar a la planeación y detallado de requerimientos de software.
+
+---
+
+## Recursos adicionales
+
+- **Plantilla ASP** – [Plantilla ASP](../Plantillas/3_ASP_Plantilla.md)
+
+## Control de versiones
+
+| Version | Creado por: | Auditado por: | Descripción | Fecha |
+|---------|------------|--------------|---------------|-------|
+| 1.0     | -Yessica Lora Vazquez -Edmundo Canedo -Alejandro Adrián García -Santiago Alducin Villaseñor  |  Juan Manuel Murillo | Plantilla inicial para guías.  | 16/02/2026 |
+| 1.0     | -Yessica Lora Vazquez  | Kamila Jeannette Martínez | Actualización  | 06/02/2026 |
