@@ -11,8 +11,7 @@ Generar y mantener un plan de acción con las actividades importantes que se tie
 
 ## Entradas
 
-- Análisis de la estimación:
-- Estimados de esfuerzo de trabajo
+- Calendario de actividades.
 - Definir el equipo de trabajo
 
 ## Descripción
@@ -44,5 +43,5 @@ Calendario de actividades
 | 1.0     | Yael Charles Marin Y Santiago Alducin Villaseñor          | Edmundo  | Proceso para el calendario  | 25/02/2026 |
 | 2.0     |  Yael Charles Marin Y Santiago Alducin Villaseñor | Edmundo | Adaptar al formato | 26/02/2026 |
 | 2.1    |  Yael Charles Marin Y Santiago Alducin Villaseñor | Edmundo | Acento en Prácticas | 26/02/2026 |
-| 3.0    |  Yael Charles Marin Y Santiago Alducin Villaseñor | [falta] | Atender retro del SCAMPI | 09/03/2026 |
+| 3.0    |  Yael Charles Marin Y Santiago Alducin Villaseñor | Manuel | Atender retro del SCAMPI | 09/03/2026 |
 
