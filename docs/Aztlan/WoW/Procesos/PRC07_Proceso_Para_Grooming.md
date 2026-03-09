@@ -45,5 +45,5 @@ al dividir historias de usuario para su estimación
 | Version | Creado por: | Auditado por: | Descripción | Fecha |
 |---------|------------|--------------|---------------|-------|
 | 1.0     | Juan Manuel Murillo          | Luisa Fernanda Valdez  | Proceso para el Backlog Grooming  | 27/02/2026 |
-| 1.1     | Santiago Alducin    | [Falta]  | Referencia a Reajuste de trabajo y recursos  | 09/03/2026 |
+| 1.1     | Santiago Alducin    | Yael Charles  | Referencia a Reajuste de trabajo y recursos  | 09/03/2026 |
 
