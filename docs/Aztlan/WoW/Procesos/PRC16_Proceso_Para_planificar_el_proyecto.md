@@ -18,7 +18,8 @@ Definir el desarrollo y ejecución del proyecto a través de su alcance.
 ## Descripción
 | Fase | Actividades | Prácticas CMMI |
 |------|------------|----------------|
-| Definir el proyecto | Definir un plan y metodología de trabajo basada en iteraciones, así como los roles dentro del equipo. Identificar los entregables de cada fase de desarrollo |   |
+| Definir el proyecto | Definir un plan y metodología de trabajo basada en iteraciones, así como los roles dentro del equipo. Identificar los entregables de cada fase de desarrollo | | 
+| Definir Heramientas | Establecer las heramientas que los integrantes asi como los conocimientos que posean que esten integrados en el plan | |
 | Definir Iteraciones | Definir la estructura de cada ciclo del proyecto | |
 | Priorizar entregables | Enlistar los entregables y priorizarlos de acuerdo a la herramienta elegida por el equipo (ABC, MoSCoW, etc). Además de crear un diagrama de despliegue para identificar la arquitectura del proyecto |  |
 | Herramientas para el desarrollo | Basado en el WBS y Architecture Starter Pack, identificar las tecnologías a utilizar para el desarrollo |  |
@@ -41,4 +42,4 @@ Definir el desarrollo y ejecución del proyecto a través de su alcance.
 
 | Versión | Creado por | Auditado por | Descripción | Fecha |
 |----------|------------|--------------|------------|--------|
-| 1.0 | Horacio Villela | Edmundo         | Planificación de un proyecto | 28/02/2026 |
+| 1.0 | Horacio Villela |              | Planificación de un proyecto | 28/02/2026 |
