@@ -1,5 +1,5 @@
 ---
-title: "Compromiso Interdepartamentales Políticas Salón 2001 edificio 2"
+title: "Compromiso Interdepartamental: Políticas Salón 2001 edificio 2"
 position: 0
 ---
 

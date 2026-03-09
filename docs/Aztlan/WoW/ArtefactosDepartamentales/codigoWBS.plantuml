@@ -1,0 +1,495 @@
+@startwbs WBS CMMi
+* CMMi
+** SCAMPI C
+***< RM
+****< RM 1.1
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+****> RM 1.2
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica
+*****> Realizar artefacto-departamental neces<ario.
+****< RM 1.3
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+****> RM 1.4
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+****< RM 1.5
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica  
+*****> Realizar artefacto-departamental necesario.
+***< PP
+****< PP 1.1
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+****> PP 1.2
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+****< PP 1.3
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+****> PP 1.4
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+****< PP 2.1
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+****> PP 2.2
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+****< PP 2.3
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+****> PP 2.4
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+****< PP 2.5
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica
+*****> Realizar artefacto-departamental necesario.
+****> PP 2.6
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+****< PP 2.7
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+****> PP 3.1
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+****< PP 3.2
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+****> PP 3.3 
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+** SCAMPI B
+***< PMC
+****< PMC 1.1
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+****> PMC 1.2
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+****< PMC 1.3
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+****> PMC 1.4
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+****< PMC 1.5
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+****> PMC 1.6
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+****< PMC 1.7
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+****> PMC 2.1
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+****< PMC 2.2
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+****< PMC 2.3
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+***< MA
+****> MA 1.1
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+****< MA 1.2
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+****> MA 1.3
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+****< MA 1.4
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+****> MA 2.1
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+****< MA 2.2
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+****> MA 2.3
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+****< MA 2.4
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+*** PPQA
+****< PPQA 1.1
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+****> PPQA 1.2
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+****< PPQA 2.1
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+****> PPQA 2.2
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+*** CM
+****< CM 1.1
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+****> CM 1.2
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+****< CM 1.3
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+****> CM 2.1
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+****< CM 2.2
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+****> CM 3.1
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+****< CM 3.2
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+** SCAMPI A
+***< RD
+****< RD 1.1
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+****> RD 1.2
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+****< RD 2.1
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+****> RD 2.2
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+****< RD 2.3
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+****> RD 3.1
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+****< RD 3.2
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+****> RD 3.3
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+****< RD 3.4
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+****> RD 3.5
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+***> TS
+****< TS 1.1
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+****> TS 1.2
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+****< TS 1.3
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+****> TS 2.1
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+****< TS 2.2
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+****> TS 2.3
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+****< TS 2.4
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+****> TS 3.1
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+****< TS 3.2
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+***< VER
+****> VER 1.1
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+****< VER 1.2
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+****> VER 1.3
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+****< VER 2.1
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+****> VER 2.2
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+****< VER 2.3
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+****> VER 3.1
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+****< VER 3.2
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+***> VAL
+
+****> VAL 1.1
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+****< VAL 1.2
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+****> VAL 1.3
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+****< VAL 2.1
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+****> VAL 2.2
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+***< OPF
+
+****< OPF 1.1
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+****> OPF 1.2
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+****< OPF 1.3
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+****> OPF 2.1
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+****< OPF 2.2
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+****> OPF 3.1
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+****< OPF 3.2
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+****> OPF 3.3
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+****< OPF 3.4
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+***> OPD
+****> OPD 1.1
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+****< OPD 1.2
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+****> OPD 1.3
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+****< OPD 1.4
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+****> OPD 1.5
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+****> OPD 1.6
+*****< Entender
+*****> Identificar dónde definirla
+*****< Definir práctica 
+*****> Realizar artefacto-departamental necesario.
+@endwbs
