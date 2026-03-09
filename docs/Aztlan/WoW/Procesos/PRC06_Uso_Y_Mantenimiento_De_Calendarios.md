@@ -29,7 +29,7 @@ Generar y mantener un plan de acción con las actividades importantes que se tie
 |Definición | Tomando en cuenta el tamaño del equipo y su disponibilidad, definir las horas de trabajo semanales | PP.2.4 |
 | Precuación | Establecer un periodo de contingencia basado en nivel de confianza de cumplimiento y presupuesto.  | PP.2.1 |
 |Calendarización de entregas  |En base a la estimación de tareas, definir una fecha probable para cumplir cada tarea | PP.2.1 |
-| Validación    | Usar datos reales para verificar el estado del calendario. En caso de no cumplir con las espectativas del plan buscar una mejor estrategia para el cumplimiento de los hitos. Validar con el departamento compromiso con el plan.                         | PP.2.1                      | 
+| Validación    | Usar datos reales para verificar el estado del calendario. En caso de no cumplir con las espectativas del plan buscar una mejor estrategia para el cumplimiento de los hitos. Validar con el departamento compromiso con el plan.                         | PP SP 1.4 2.1 | 
 | Documentación | Actividades o cambios documentados                                                                                                                                                                                                                        | PP.2.1                      | Autor del proceso |
 
 ## Salidas
