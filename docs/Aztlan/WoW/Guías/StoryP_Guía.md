@@ -36,8 +36,15 @@ Es recomendable que cada miembro proponga su estimación y después se llegue a 
 
             Después de discutir y justificar las estimaciones:
 
-            Valor final: 40 min 🤗
+            Valor final: 40 min
 
 **Este proceso ayuda a alinear expectativas y mejorar la precisión de las estimaciones futuras.**
 
 ### Paso 3: Llenar la plantilla de Story Points a tiempo
+
+## Control de versiones
+
+| Version | Creado por: | Auditado por: | Descripción | Fecha |
+|---------|------------|--------------|---------------|-------|
+| 1.0     | Luisa Fernanda Valdez Guillen  | Juan Manuel Murillo  | Guía para story points  | 27/02/2026 |
+| 1.1     | Luisa Fernanda Valdez Guillen  | Juan Manuel Murillo | Actualización de pasos  | 09/03/2026 |
