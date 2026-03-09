@@ -2,13 +2,14 @@
 title: "PLA12 - Plantilla ADR (Architecture decision record)"
 ---
 
-## Plantilla ADR (Architecture decision record)
-
 # ADR-XXX: Título de la decisión
 
-**Estado:** Proposed | Accepted | Rejected | Deprecated 
 **Fecha:** YYYY-MM-DD  
+
+**Estado:** Proposed | Accepted | Rejected | Deprecated 
+
 **Equipo/Proyecto:** Cuitla, Xolo ,etc. 
+
 **Decisores:** AOwner, Team Lead, PO, PM
 
 ## Contexto
@@ -39,23 +40,21 @@ Describe el problema y por qué estamos tomando esta decisión ahora.
 
 Qué vamos a hacer (claro y concreto).
 
+
 ## Consecuencias
 
-### Positivas
+**Positivas**
 
 - 
 
-### Negativas / Trade-offs
+**Negativas / Trade-offs**
 
-- 
-
-## Plan de validación (si aplica)
-
-Cómo comprobaremos que la decisión fue correcta (spike, métrica, piloto).
 
 ## Notas / Links
 
-- ...
+- 
+
+---
 
 | Version | Creado por: | Auditado por: | Descripción | Fecha |
 |---------|------------|--------------|---------------|-------|
