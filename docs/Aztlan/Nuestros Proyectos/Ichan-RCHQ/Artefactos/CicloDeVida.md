@@ -5,10 +5,10 @@ title: "Ciclo de Vida"
 _v1.0_
 
 ## Propósito
-Definir el ciclo de vida del proyecto que seguirá el equipo durante el próximo parcial, estableciendo sus fases, entregables, hitos y puntos de revisión para facilitar la planeación, el seguimiento y el control del trabajo.
+Definir el ciclo de vida del proyecto que seguirá el equipo al menos durante el próximo parcial, estableciendo sus fases, entregables, hitos y puntos de revisión para facilitar la planeación, el seguimiento y el control del trabajo.
 
 ## Ciclo de vida seleccionado
-Para este segundo parcial, el equipo trabajará con un ciclo de vida iterativo, implementado mediante SCRUM.
+Para el inicio de este segundo parcial, el equipo trabajará con un ciclo de vida iterativo, implementado mediante SCRUM.
 
 ## Justificación
 Se seleccionó SCRUM como marco de trabajo porque permite organizar el desarrollo en iteraciones cortas, dar seguimiento frecuente al avance del equipo y adaptarse a cambios en prioridades, requerimientos o restricciones del proyecto.
@@ -20,7 +20,7 @@ Además, este ciclo de vida facilita:
 - La replanificación en caso de cambios mayores o incumplimiento de hitos
 
 ## Alcance de aplicación
-Este ciclo de vida aplica al trabajo del equipo durante el parcial en curso, incluyendo la planeación, ejecución, seguimiento y validación de los entregables del proyecto.
+Este ciclo de vida aplica al trabajo del equipo empezando el siguiente parcial, incluyendo la planeación, ejecución, seguimiento y validación de los entregables del proyecto.
 
 ## Fases del ciclo de vida
 
