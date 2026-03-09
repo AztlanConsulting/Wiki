@@ -75,7 +75,7 @@ Dentro de cada sprint se contemplan los siguientes momentos:
 ## Entregables del ciclo de vida
 Los entregables esperados dentro de este ciclo de vida son:
 - Documento de ciclo de vida
-- Backlog priorizado del parcial
+- Backlog priorizado del sprint
 - Planeación de sprints
 - Evidencias de avance por sprint
 - Entregables parciales del proyecto
@@ -84,26 +84,26 @@ Los entregables esperados dentro de este ciclo de vida son:
 
 ## Hitos principales
 Los hitos principales definidos para este ciclo de vida son:
-- Definición del ciclo de vida del parcial
-- Aprobación interna de la planeación del parcial
+- Definición del ciclo de vida
+- Aprobación interna de la planeación
 - Inicio de sprint
 - Cierre de sprint
 - Revisión de entregables del sprint
 - Validación de avances con stakeholders
-- Cierre del parcial con documentación completa
+- Cierre de cada sprint con documentación completa
 
 ## Puntos de decisión
-Durante el desarrollo del parcial se tomarán decisiones en los siguientes puntos:
+Durante el desarrollo del siguiente parcial se tomarán decisiones en los siguientes puntos:
 - Al inicio del parcial, para confirmar el uso de DAD
 - Al cierre de cada sprint, para decidir si se continúa como está planeado o si se necesita reajustar
 - Cuando exista un cambio relevante en alcance, tiempos, riesgos o disponibilidad
-- Antes del cierre del parcial, para validar que los entregables estén completos y documentados
+- Antes del cierre de cada sprint, para validar que los entregables estén completos y documentados
 
 ## Criterios de replanificación
 Se deberá considerar una replanificación cuando ocurra alguna de las siguientes situaciones:
 - Incumplimiento de hitos relevantes
 - Cambios mayores en alcance o prioridades
-- Aparición de riesgos no contemplados que afecten el avance (utilizar matriz de riesgos)
+- Aparición de riesgos no contemplados que afecten el avance (utilizar [matriz de riesgos](https://docs.google.com/spreadsheets/d/1xofncYrMGXf9O-aa0wvEMnu0YgD6WFc-ntpvU49Tv-E/edit?usp=sharing))
 - Cambios en la disponibilidad del SF o el equipo
 - Dependencias externas que retrasen el trabajo
 
@@ -129,4 +129,4 @@ Y se relaciona con:
 | Version | Creado por: | Auditado por: | Descripción | Fecha |
 |---------|------------|--------------|-------------|-------|
 | 1.0 | Marco Iván Flores Villanueva | | Creación inicial del documento de ciclo de vida del proyecto Ichan | 9/3/26 |
-| 1.1 | Marco Iván Flores Villanueva | | Se agrega estrategia de trabajo con DAD y prácticas de desarrollo | 9/3/26 |
+| 1.1 | Marco Iván Flores Villanueva | Yael Charles Marin | Se agrega estrategia de trabajo con DAD y prácticas de desarrollo | 9/3/26 |
