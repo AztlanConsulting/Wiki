@@ -54,9 +54,11 @@ sidebar_position: 2
 @endwbs
 ```
 </details>
-![WBS de las historias de usuario](./imgs/WBSUS.png)
+
+![WBS de las historias de usuario](./imgs/wbs_us.png)
+
 
 | Version | Creado por: | Auditado por: | Descripción | Fecha |
 |---------|------------|--------------|---------------|-------|
 | 1.0 | Yael Charles y Manuel Bajos | Edmundo Canedo | Creación del WBS | 02/03/2026 |
-|1.1 | Yael Charles | | Detallar fases de análisis, diseño y desarrollo | 09/03/2026|
+|1.1 | Yael Charles | Marco Ivan | Detallar fases de análisis, diseño y desarrollo | 09/03/2026|

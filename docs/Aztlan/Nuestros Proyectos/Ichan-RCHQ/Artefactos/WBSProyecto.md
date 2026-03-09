@@ -115,7 +115,9 @@ sidebar_position: 1
 ```
 </details>
 
-![WBS del Proyecto](./imgs/WBSProyecto.png)
+[WBS para historias de usuario](./WBSUserStories.md)
+
+![WBS del Proyecto](./imgs/wbs_proyecto.png)
 
 | Version | Creado por: | Auditado por: | Descripción | Fecha |
 |---------|------------|--------------|---------------|-------|
