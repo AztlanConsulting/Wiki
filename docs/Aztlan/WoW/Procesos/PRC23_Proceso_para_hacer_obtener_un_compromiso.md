@@ -1,5 +1,5 @@
 ---
-title: "PLA23 - Proceso para hacer obtener un compromiso" # CAMBIAR AL TITULO
+title: "PLA27 - Proceso para hacer  un compromiso" # CAMBIAR AL TITULO
 ---
 
 _v1.0 /_ <!--Poner practicas del CMMI-->
