@@ -25,6 +25,9 @@ Cumplir el 100% de los entregables del MVP para generar valor real, confianza y 
 
 ## WBS (Work Breakdown Structure)
 
+
+### • WBS del Proyecto
+
 <details>
 <summary>Código PUML</summary>
 ```puml
@@ -159,6 +162,45 @@ wbsDiagram {
 </details>
 
 ![img alt](../../../../static/img/WBS-Xolotl.png)
+
+### • WBS de User Stories
+
+<details>
+<summary>Código PUML</summary>
+```puml
+@startwbs
+skinparam defaultFontSize 11
+skinparam wrapWidth 80
+
+<style>
+wbsDiagram {
+  .top {
+    BackgroundColor #6699FF
+    RoundCorner 10
+  }
+}
+</style>
+
+* User Stories
+** Análisis
+*** Definición de la historia de usuario
+*** Entender función y valor en el producto
+** Diseño
+*** Generar diagrama de secuencia
+*** Generar interfaces de la aplicación
+*** Diseñar pruebas
+** Desarrollo
+*** Implementación de la solución / función
+** Pruebas
+*** Automatizar caso exitoso de la función
+*** Correr pruebas 
+@endwbs
+```
+</details>
+
+![img alt](../../../../static/img/WBS-US-Xolotl.png)
+
+
 
 | Version | Creado por: | Auditado por: | Descripción | Fecha |
 |---------|------------|--------------|---------------|-------|
