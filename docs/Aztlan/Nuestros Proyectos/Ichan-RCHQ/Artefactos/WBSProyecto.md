@@ -13,88 +13,97 @@ sidebar_position: 1
 /'-------------------------------------------------------------
 ------------------ FASE DE COMIENZO -------------------------
 --------------------------------------------------------------'/
-** Comienzo
+** Inicio
 '-------------------------------------------------------------
-***< Hacer equipos
+***< Hacer equipos 
 '-------------------------------------------------------------
-***< Alinear con la dirección de la empresa
-****< Entender la necesidad
-****> Encontrar objetivo
-****< Entender visión y misión de la empresa
-****> Visión del proyecto
+***< Visión del proyecto 
+****< Entender la necesidad del SF
+****> Objetivo del equipo
+****< Objetivo del proyecto
+****< Necesidad de la empresa
 '-------------------------------------------------------------
-***< Explorar alcance
-****< Realizar impact mapping
-****< Establecer propuesta de solución
-*****< Identificar arquitectura
-******< Definir tecnologías
-******< Realizar comparativa de proveedores
-******< Realizar spikes
-******* Spike Jenkins y Github Actions
-******* Spike Google Calendar
-***** Elaborar documento SRS
-******< Requisitos funcionales
-******> Requisitos no funcionales
-******< Requisitos de interfaz
-*******< Diseñar de wireframes
-*******< Diseñar las vistas de alta fidelidad
-*******< Identificar Apis de utilidad
-******> Reglas de negocio
-******> Requisitos de información
+***> Establecer propuesta 
+**** Elaborar documento SRS
+*****< Requisitos funcionales
+*****> Requisitos no funcionales
+*****< Requisitos de interfaz
+*****> Reglas de negocio
+*****> Requisitos de información
+*****< Requisito tipo objetivo
 '-------------------------------------------------------------
-****< Entender la estructura de la empresa
-*****< Entender procesos y reglas 
+***< Identificar arquitectura 
+****< Definir tecnologías
+****< Realizar comparativa de proveedores
+*****< Solicitar servidor
+*****> Redactar documento
+****< Realizar spikes
+***** Google Calendar API
+***** Jenkins
 '-------------------------------------------------------------
-***< Planear la release
+***> Plan de release
 ****< Definir MVP
 ****> Definir MBI 1
 ****< Definir MBI 2
 '-------------------------------------------------------------
-***< Definir estrategía de pruebas
-****< Definir tipos de pruebas
-'-------------------------------------------------------------
-***< Elaborar planes
-****< Hacer plan de riesgos
-****> Hacer plan de calidad
-****< Hacer plan de recursos
-****> Hacer plan de valor ganado
-****< Hacer plan de comunicación
-****> Hacer plan de release
-'-------------------------------------------------------------
-***< Visión común
-****< Alinear visión de equipo e interesados
+***< Plan de riesgos
+****< Matriz de riesgos
+*****< Plan de contingencia
+****< Identificar riesgos
+***> Hacer plan de calidad
+****< Procesos de pruebas
+****> Validar correcciones
+****< Documentar errores
+****> Ejecutar casos de prueba
+****> Estandares
+*****> Commits
+*****< PR'S
+*****> Ramas
+*****< Código
+*****> Definiciones
+****** Ready
+****** Done
+***< Plan de recursos
+****< Identificar recursos
+*****> Humanos
+*****< Tecnológicos 
+******< Infraestructura
+******< Software
+***** Financieros
+***> Plan de comunicación
+**** Identificar stakeholders
+**** Canales de comunicación
+**** Disponibilidad
 /'-------------------------------------------------------------
 ------------------ FASE DE CONSTRUCCIÓN -----------------------
 --------------------------------------------------------------'/
 ** Construcción
 '-------------------------------------------------------------
-*** Probar la arquitectura pronto
-****> Redactar spikes
-****< Realizar pruebas de concepto
-'-------------------------------------------------------------
-*** Atender cambios de los interesados
-**** Actualizar Plan de Valor Ganado
-**** Ordenar prioridades
-**** Realizar cambios
-'-------------------------------------------------------------
-*** Producir una posible solución
+*** Historias de usuario
 **** Diagrama WBS para US
-'-------------------------------------------------------------
-*** Mejorar la calidad
-**** Establecer estandares
-***** Elaborar estandares para backend
-***** Elaborar estandares para frontend
+
+*** Preparar el entorno
+**** Repositorios de github
+**** Estructura básica del proyecto
+**** Instalar dependencias y frameworks
+**** Linters
+
+*** Prueba de concepto
+
+*** Revisión de código
+**** code reviews
+**** corregir bugs
+**** verificar DONE
 /'-------------------------------------------------------------
 -------------------- FASE DE TRANSICION -----------------------
 --------------------------------------------------------------'/
 ** Transición
 '-------------------------------------------------------------
-*** Garantizar la puesta en producción
-**** Buscar opciones de alojamiento
-*****< Seleccionar servidor
-*****> Seleccionar servicio de alojamiento de archivos
-***** Seleccionar proveedor de dominio
-
+*** Entregar la solución
+**** Capacitar usuarios
+***** Tutoriales
+***** Dar capacitaciones
+***** Manuales de usuario
 '-------------------------------------------------------------
 *** Desplegar la solución
 ****< Generar certificado SSL
