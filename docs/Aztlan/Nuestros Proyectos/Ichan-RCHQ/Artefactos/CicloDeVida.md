@@ -77,14 +77,14 @@ Se deberá considerar una replanificación cuando ocurra alguna de las siguiente
 - Cambios en la disponibilidad del SF o el equipo
 - Dependencias externas que retrasen el trabajo
 
-En caso de requerir reajuste, se deberá seguir el [PRC10](./PRC10_Reajuste_de_trabajo_y_recursos.md).
+En caso de requerir reajuste, se deberá seguir el [PRC10](../../../WoW/Procesos/PRC10_Reajuste_de_trabajo_y_recursos.md).
 
 ## Referencias
 Este documento se apoya en la siguiente documentación:
-- [PRC05](./PRC05_Proceso_Para_Estimar_El_Alcance_Del_Proyecto.md)
-- [PRC06](./PRC06_Uso_Y_Mantenimiento_De_Calendarios.md)
-- [PRC10](./PRC10_Reajuste_de_trabajo_y_recursos.md)
-- [GUI02 - Guía para elegir ciclo de vida y definir fases](../Guías/GUI02_Guia_Ciclo_de_Vida.md)
+- [PRC05](../../../WoW/Procesos/PRC05_Proceso_Para_Estimar_El_Alcance_Del_Proyecto.md)
+- [PRC06](../../../WoW/Procesos/PRC06_Uso_Y_Mantenimiento_De_Calendarios.md)
+- [PRC10](../../../WoW/Procesos/PRC10_Reajuste_de_trabajo_y_recursos.md)
+- [GUI02 - Guía para elegir ciclo de vida y definir fases](../../../WoW/Guías/GUI02_Guia_Ciclo_de_Vida.md)
 
 ## Práctica CMMI relacionada
 Este documento contribuye a:
