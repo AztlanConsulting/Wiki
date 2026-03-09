@@ -73,7 +73,7 @@ I = Informed
 | Reunión con SF            | ST-01, ST-02, ST-03, ST-04, ST-05, ST-06                      | Presencial | Martes                      | ST-03 |
 | Daily                     | ST-03, ST-04, ST-05, ST-06                                    | Híbrido    | Lunes - Viernes             | ST-05 |
 | Sprint Planning           | ST-03, ST-04, ST-05, ST-06                                    | Híbrido    | Quincenal (Lunes)           | ST-05 |
-| Sprint Review             | ST-03, ST-04, ST-05, ST-06                                    | Presencial | Quincenal (Viernes)         | ST-03 | ------------------
+| Sprint Review             | ST-01, ST-03, ST-04, ST-05, ST-06, ST-12                      | Presencial | Quincenal (Viernes)         | ST-03 |
 | Sprint Retrospective      | ST-03, ST-04, ST-05, ST-06                                    | Híbrido    | Quincenal (Viernes)         | ST-05 |
 | Comunicación SF           | ST-01, ST-03, ST-04, ST-05, ST-06                             | WhatsApp   | Según sea necesario         | ST-03 |
 | Comunicación Equipo       | ST-03, ST-04, ST-05, ST-06                                    | Discord    | Según sea necesario         | ST-05 |
