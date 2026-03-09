@@ -36,7 +36,7 @@ Es recomendable que cada miembro proponga su estimación y después se llegue a 
 
             Después de discutir y justificar las estimaciones:
 
-            Valor final: 40 min 🤗
+            Valor final: 40 min
 
 **Este proceso ayuda a alinear expectativas y mejorar la precisión de las estimaciones futuras.**
 
