@@ -23,7 +23,7 @@ Generar y mantener un plan de acción con las actividades importantes que se tie
 | Entendimiento | Identificar Supuestos de calendario                                                                                                                                                                                                                       | PP.1.2                      | 
 | Entendimiento | Identificar Restricciones                                                                                                                                                                                                                                 | PP.1.4                      | 
 | Entendimiento | Identificar Dependecias de tareas                                                                                                                                                                                                                         | PP.1.3                      |
-| Ejecución     | Desglozar las actividades individuales de los hitos, definir duración de cada actividad | PP.2.1                      | 
+| Ejecución     | Desglosar las actividades individuales de los hitos, definir duración de cada actividad | PP.2.1                      | 
 | Estimación    |   [Estimar las tareas](./PRC07_Proceso_Para_Grooming.md) y definir hitos en un calendario. |  PP.1.2|
 | Definición | Calcular las horas de trabajo que tomaría el proyecto en base a la estimación |PP.1.4 |
 | Definición| Dividir el tamaño del proyecto en sprints de 2 semanas | PP.2.1 |
