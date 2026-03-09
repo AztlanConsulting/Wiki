@@ -1,6 +1,5 @@
 ---
 title: "PRC25 - Proceso para planificar participacion de stakeholders"
-sidebar_position: 2
 ---
 
 _v1.0 / PP

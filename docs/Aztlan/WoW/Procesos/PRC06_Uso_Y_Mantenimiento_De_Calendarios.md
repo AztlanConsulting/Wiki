@@ -11,8 +11,7 @@ Generar y mantener un plan de acción con las actividades importantes que se tie
 
 ## Entradas
 
-- Análisis de la estimación:
-- Estimados de esfuerzo de trabajo
+- Calendario de actividades.
 - Definir el equipo de trabajo
 
 ## Descripción
@@ -30,7 +29,7 @@ Generar y mantener un plan de acción con las actividades importantes que se tie
 |Definición | Tomando en cuenta el tamaño del equipo y su disponibilidad, definir las horas de trabajo semanales | PP.2.4 |
 | Precuación | Establecer un periodo de contingencia basado en nivel de confianza de cumplimiento y presupuesto.  | PP.2.1 |
 |Calendarización de entregas  |En base a la estimación de tareas, definir una fecha probable para cumplir cada tarea | PP.2.1 |
-| Validación    | Usar datos reales para verificar el estado del calendario. En caso de no cumplir con las espectativas del plan buscar una mejor estrategia para el cumplimiento de los hitos. Validar con el departamento compromiso con el plan.                         | PP.2.1                      | 
+| Validación    | Usar datos reales para verificar el estado del calendario. En caso de no cumplir con las espectativas del plan buscar una mejor estrategia para el cumplimiento de los hitos. Validar con el departamento compromiso con el plan.                         | PP SP 1.4 2.1 | 
 | Documentación | Actividades o cambios documentados                                                                                                                                                                                                                        | PP.2.1                      | Autor del proceso |
 
 ## Salidas
@@ -44,5 +43,5 @@ Calendario de actividades
 | 1.0     | Yael Charles Marin Y Santiago Alducin Villaseñor          | Edmundo  | Proceso para el calendario  | 25/02/2026 |
 | 2.0     |  Yael Charles Marin Y Santiago Alducin Villaseñor | Edmundo | Adaptar al formato | 26/02/2026 |
 | 2.1    |  Yael Charles Marin Y Santiago Alducin Villaseñor | Edmundo | Acento en Prácticas | 26/02/2026 |
-| 3.0    |  Yael Charles Marin Y Santiago Alducin Villaseñor | [falta] | Atender retro del SCAMPI | 09/03/2026 |
+| 3.0    |  Yael Charles Marin Y Santiago Alducin Villaseñor | Manuel | Atender retro del SCAMPI | 09/03/2026 |
 
