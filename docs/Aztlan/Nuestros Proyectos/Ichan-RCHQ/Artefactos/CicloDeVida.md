@@ -2,16 +2,16 @@
 title: "Ciclo de Vida"
 ---
 
-_v1.0_
+_v1.1_
 
 ## Propósito
 Definir el ciclo de vida del proyecto que seguirá el equipo al menos durante el próximo parcial, estableciendo sus fases, entregables, hitos y puntos de revisión para facilitar la planeación, el seguimiento y el control del trabajo.
 
 ## Ciclo de vida seleccionado
-Para el inicio de este segundo parcial, el equipo trabajará con un ciclo de vida iterativo, implementado mediante SCRUM.
+Para el inicio de este segundo parcial, el equipo trabajará con un ciclo de vida iterativo, implementado mediante Scrum.
 
 ## Justificación
-Se seleccionó SCRUM como marco de trabajo porque permite organizar el desarrollo en iteraciones cortas, dar seguimiento frecuente al avance del equipo y adaptarse a cambios en prioridades, requerimientos o restricciones del proyecto.
+Se seleccionó Scrum como marco de trabajo porque permite organizar el desarrollo en iteraciones cortas, dar seguimiento frecuente al avance del equipo y adaptarse a cambios en prioridades, requerimientos o restricciones del proyecto.
 
 Además, este ciclo de vida facilita:
 - La entrega progresiva de valor
@@ -19,8 +19,30 @@ Además, este ciclo de vida facilita:
 - La identificación temprana de bloqueos o desviaciones
 - La replanificación en caso de cambios mayores o incumplimiento de hitos
 
+Adicionalmente, consideramos que este enfoque resulta adecuado para el proyecto, ya que permite construir entregables parciales, validarlos con los stakeholders y realizar ajustes conforme se comprendan mejor las necesidades del sistema.
+
 ## Alcance de aplicación
-Este ciclo de vida aplica al trabajo del equipo empezando el siguiente parcial, incluyendo la planeación, ejecución, seguimiento y validación de los entregables del proyecto.
+Este ciclo de vida aplica al trabajo del equipo empezando el siguiente parcial, incluyendo la planeación, ejecución, seguimiento, validación y documentación de los entregables del proyecto.
+
+## Estrategia de trabajo
+El equipo organizará su trabajo en sprints, buscando que cada iteración produzca avances funcionales, documentales o técnicos que puedan revisarse internamente y con stakeholders.
+
+Bajo este marco de trabajo, el equipo contempla:
+- Sprints con duración definida por el equipo de acuerdo con la carga del parcial
+- Sprint planning para acordar el trabajo que entrará a cada sprint
+- Reuniones breves de seguimiento para alinear avances, bloqueos y próximos pasos
+- Sprint review para revisar los resultados del sprint
+- Refinamiento de backlog cuando sea necesario para ajustar prioridades, alcance o detalle de historias
+- Documentación continua de acuerdos, avances y cambios relevantes
+
+## Prácticas complementarias de desarrollo
+Como apoyo al trabajo en Scrum, el equipo podrá utilizar prácticas complementarias de desarrollo para fortalecer la calidad del producto y la colaboración interna, tales como:
+- Pair programming en actividades complejas o críticas
+- Revisión entre compañeros antes de integrar cambios relevantes
+- Integración continua para mantener el trabajo actualizado
+- Estandarización de código y estructura de componentes
+- Pruebas continuas conforme avance el desarrollo
+- Actualización de documentación técnica y funcional durante el sprint
 
 ## Fases del ciclo de vida
 
@@ -28,8 +50,8 @@ Este ciclo de vida aplica al trabajo del equipo empezando el siguiente parcial, 
 |------|----------|-------------------------|-------------|--------------------|
 | Inicio | Comprender el contexto del proyecto y las condiciones de trabajo del parcial | Revisar alcance, backlog inicial, restricciones de tiempo, riesgos conocidos y disponibilidad del SF | Definición inicial del trabajo del parcial, riesgos identificados, insumos para planeación | El equipo cuenta con información suficiente para seleccionar y documentar la forma de trabajo |
 | Planeación del parcial | Definir cómo se trabajará durante el parcial bajo Scrum | Seleccionar el ciclo de vida, definir fases, establecer hitos, organizar backlog y acordar revisiones | Documento de ciclo de vida, backlog priorizado, hitos principales del parcial | El equipo tiene una estructura de trabajo definida y aprobada internamente |
-| Ejecución iterativa | Desarrollar el trabajo del proyecto en sprints | Planificación de sprint, desarrollo de entregables, seguimiento del trabajo, revisiones periódicas y ajustes | Incrementos del proyecto, avances funcionales y documentales, evidencia de seguimiento | Se completa el trabajo comprometido del sprint y se documentan los ajustes necesarios |
-| Revisión y validación | Verificar el cumplimiento de objetivos y entregables del parcial | Revisar resultados del sprint, validar con TL y stakeholders | Retroalimentación, validaciones, acuerdos de ajuste | Los entregables revisados cumplen con lo esperado o se define una replanificación |
+| Ejecución iterativa | Desarrollar el trabajo del proyecto en sprints | Planeación de sprint, desarrollo de entregables, seguimiento del trabajo, revisiones periódicas, validaciones y ajustes | Incrementos del proyecto, avances funcionales y documentales, evidencia de seguimiento | Se completa el trabajo comprometido del sprint y se documentan los ajustes necesarios |
+| Revisión y validación | Verificar el cumplimiento de objetivos y entregables del parcial | Revisar resultados del sprint, validar con TL y stakeholders, identificar ajustes necesarios | Retroalimentación, validaciones, acuerdos de ajuste | Los entregables revisados cumplen con lo esperado o se define una replanificación |
 | Cierre del parcial | Consolidar resultados del periodo de trabajo | Documentar entregables finales del parcial, registrar documentación y actualizar la wiki | Entregables finales del parcial, documentación actualizada | El parcial queda formalmente documentado y cerrado |
 
 ## Operación del ciclo de vida con Scrum
@@ -39,6 +61,7 @@ Dentro de cada sprint se contemplan los siguientes momentos:
 - Planeación del sprint
 - Desarrollo de actividades comprometidas
 - Seguimiento del avance del equipo
+- Refinamiento de backlog si se necesita
 - Revisión de resultados
 - Ajustes para el siguiente sprint
 
@@ -64,7 +87,7 @@ Los hitos principales definidos para este ciclo de vida son:
 
 ## Puntos de decisión
 Durante el desarrollo del parcial se tomarán decisiones en los siguientes puntos:
-- Al inicio del parcial, para confirmar el uso de SCRUM
+- Al inicio del parcial, para confirmar el uso de Scrum
 - Al cierre de cada sprint, para decidir si se continúa como está planeado o si se necesita reajustar
 - Cuando exista un cambio relevante en alcance, tiempos, riesgos o disponibilidad
 - Antes del cierre del parcial, para validar que los entregables estén completos y documentados
@@ -99,3 +122,4 @@ Y se relaciona con:
 | Version | Creado por: | Auditado por: | Descripción | Fecha |
 |---------|------------|--------------|-------------|-------|
 | 1.0 | Marco Iván Flores Villanueva | | Creación inicial del documento de ciclo de vida del proyecto Ichan | 9/3/26 |
+| 1.1 | Marco Iván Flores Villanueva | | Se agrega estrategia de trabajo con Scrum y prácticas de desarrollo | 9/3/26 |
