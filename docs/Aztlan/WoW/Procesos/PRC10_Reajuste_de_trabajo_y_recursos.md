@@ -13,7 +13,7 @@ Negociar cambios a requerimientos, incrementar productividad, ajustar personal, 
 
 ## Entradas
 
-- Plan
+- Sprint Backlog
 - Requerimientos
 - Restricciónes de tiempo
 - Procesos
@@ -46,3 +46,4 @@ Plan revisado y ajustado para que sea feasible y realizable
 | 1.0     | Alducin     | Juan Manuel Murillo       | Reajuste de plan de trabajo y recursos | 27/02/2026 |
 | 1.0     | Juan Manuel Murillo     | Santiago Alducin       | Corrección de error en el título | 03/03/2026 |
 | 1.1     | Santiago Alducin     | Yael Charles       | Atender retro del SCAMPI | 09/03/2026 |
+| 1.2     | Santiago Alducin     | Horas       | Atender retro del SCAMPI | 09/03/2026 |

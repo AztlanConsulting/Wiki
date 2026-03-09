@@ -13,7 +13,7 @@ Incentivar la cooperación, motivación y sentido de comunidad en el departament
 ---
 
 ## Áreas de proceso y prácticas en las que aplica
-*(No especificado en el documento)*
+*(PP 3.2, PP 3.3, PP 2.2, PP 2.4 )*
 
 ---
 
@@ -29,9 +29,10 @@ Incentivar la cooperación, motivación y sentido de comunidad en el departament
 
 
 ### Horario
-- 7 am a 10 pm de los días establecidos por el departamento, (Por definir).
-- El viernes estará ocupado por nuestros colegas de cuarto semestre de 9am a 11 am. A si mismo, el vienes 6 de Febrero se compartirá el chantli con el otro departamento, alternando el acuerdo de uso del espacio cada semana.
-- Para permanecer en el Chantli fuera de horario, se deberá mandar una solicitud al departamento de seguridad del Tec de Monterrey `seguridad.qro@itesm.mx` con copia al Director de la carrera.
+- 7 am a 10 pm los días asignados a cada departamento.
+- El viernes estará ocupado por nuestros colegas de cuarto semestre de 9am a 11 am. A si mismo,
+- Viernes se compartirá el Chantli con el otro departamento durante todo el horario.
+- Para permanecer en el salón Chantli fuera de horario, se deberá mandar una solicitud al departamento de seguridad del Tec de Monterrey seguridad.qro@itesm.mx con copia al Director de la carrera 
 
 ### Cierre
 - La última persona en estar en el Chantli, para cerrar deberá:
@@ -123,3 +124,4 @@ Incentivar la cooperación, motivación y sentido de comunidad en el departament
 |---------|------------|--------------|---------------|-------|
 | 1.0 | Alejandra Arredondo, Yessica Lora| Juan Manuel Murillo López | | 02/03/2026 |
 | 1.0 | Yessica Lora| Juan Manuel Murillo López |  | 03/03/2026 |
+| 1.0 | Yessica Lora| Juan Manuel Murillo López |  | 09/03/2026 |
