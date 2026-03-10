@@ -20,11 +20,12 @@ Definir y estructurar el trabajo del proyecto de manera clara y organizada para 
 | Fase | Actividades | Prácticas CMMI |
 |------|------------|----------------|
 | Definir de alcance y objetivos | Definir el alcance y objetivo del proyecto. Involucra entender los objetivos, restricciones, riesgos e historias de usuario del proyecto. | PP SP 1.1, PP SP 2.2 |
-| Identificar módulos generales | Enlistar los módulos generales. | PP SP 1.1 |
+| Crear diagrama WBS | Inicial el diagrama en tu herramienta de preferencia. Consultar:  [Guia WBS](../Guías/GUI01_Guia_del_WBS.md). | PP SP 1.1 |
+| Identificar módulos generales | Enlistar los módulos generales por etapas. | PP SP 1.1 |
 | Identificar entregables | Por cada módulo general, enlistar los entregables. | PP SP 1.1 |
 | Identificar paquetes de trabajo | Por cada entregable, establecer paquetes de trabajo. | PP SP 1.1, PP SP 2.4 |
-| Identificar actividades | Para cada paquete de trabajo, enlistar actividades que puedan realizarse en máximo un día. | PP SP 1.1 |
-| Crear diagrama WBS | Con toda la información anterior, crear el WBS del proyecto. Consultar: [Guia WBS](../Guías/GUI01_Guia_del_WBS.md). | PP SP 1.1 |
+| Identificar actividades | Para cada paquete de trabajo, enlista las actividades.| PP SP 1.1 |
+
 
 ## Diagrama de relación entre pasos
 ![Diagram](/img/PRC02Example.webp)

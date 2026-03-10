@@ -3,7 +3,13 @@ title: "WBS Departamental"
 sidebar_position: 1
 ---
 
-![img alt](../../../../static/img/WBS-Aztlán.png)
+Desglosado
+![img alt](../../../../static/img/WBSDepartamental.png)
+
+<br />
+![img alt](../../../../static/img/WBSCorto.png)
+
+[Enlace al código del WBS](../../WoW/ArtefactosDepartamentales/codigoWBS.plantuml)
 
 | Version | Creado por: | Auditado por: | Descripción | Fecha |
 |---------|------------|--------------|---------------|-------|
