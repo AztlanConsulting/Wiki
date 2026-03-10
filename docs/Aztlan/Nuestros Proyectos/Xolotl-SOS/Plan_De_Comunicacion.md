@@ -1,25 +1,18 @@
 ---
 title: Plan de Comunicación
+sidebar_position: 4
 ---
 
-# Plan de Comunicación del Proyecto
+# Plan de Comunicación
 _v1.0_
 
-## 1. Información General
-
-- Nombre del Proyecto: SOS
-- Fecha de elaboración: 06/03/2026
-- Versión: 1.0
-
----
-
-## 2. Propósito
+## 1. Propósito
 
 Establecer cómo se compartirá la información del proyecto SOS con cada uno de los stakeholders involucrados, tanto internos como externos, asegurando una comunicación clara y oportuna durante todo el ciclo de vida del proyecto.
 
 ---
 
-## 3. Identificación de Stakeholders
+## 2. Identificación de Stakeholders
 
 | ID del Stakeholder | Stakeholder | Descripción del Stakeholder | Nivel de Influencia (Alto/Medio/Bajo) | Nivel de Interés (Alto/Medio/Bajo) |
 |----|------------|-------------------|----------------------------------------|------------------------------------|
@@ -40,7 +33,7 @@ Establecer cómo se compartirá la información del proyecto SOS con cada uno de
 
 ---
 
-## 4. Matriz de Participación - RACI
+## 3. Matriz de Participación - RACI
 
 R = Responsible  
 A = Accountable  
@@ -66,7 +59,7 @@ I = Informed
 
 ---
 
-## 5. Mecanismos de Comunicación
+## 4. Mecanismos de Comunicación
 
 | Actividad / Evento | Stakeholders Involucrados | Medio (Reunión, Correo, etc.) | Frecuencia | Responsable |
 |--------------------|---------------------------|-------------------------------|------------|-------------|
@@ -86,7 +79,7 @@ I = Informed
 
 ---
 
-## 6. Recursos Necesarios
+## 5. Recursos Necesarios
 
 - WhatsApp para comunicación rápida con stakeholders externos.
 - Discord para la comunicación interna del equipo y del departamento.
@@ -95,13 +88,13 @@ I = Informed
 
 ---
 
-## 7. Actualización del Plan
+## 6. Actualización del Plan
 
 Este plan de comunicación podrá actualizarse cuando existan cambios en el alcance del proyecto, incorporación de nuevos stakeholders o modificaciones en el cronograma de trabajo. Las actualizaciones serán realizadas por el Team Lead responsable del proyecto y comunicadas a los stakeholders involucrados.
 
 ---
 
-## 8. Aprobación
+## 7. Aprobación
 
 | Rol | Nombre | Firma | Fecha |
 |------|--------|-------|-------|
@@ -115,7 +108,7 @@ Este plan de comunicación podrá actualizarse cuando existan cambios en el alca
 
 ---
 
-## 9. Control de Versiones
+## 8. Control de Versiones
 
 | Version | Creado por | Auditado por | Descripción | Fecha |
 |---------|------------|--------------|-------------|-------|
