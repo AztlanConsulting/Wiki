@@ -1,5 +1,5 @@
 ---
-title: "PRC18 - Proceso para el manejo de cambio de requisitos" # CAMBIAR AL TITULO
+title: "PRC18 - Manejo de cambios en requisitos" # CAMBIAR AL TITULO
 sidebar_position: 18
 ---
 
@@ -7,12 +7,15 @@ sidebar_position: 18
 
 ## Propósito
 
-Establecer, definir y gestionar los cambios que se generen dentro de los requisitos durante el desarrollo del proyecto. Así mismo asegura que haya evaluaciones, documentación y tengan un control adecuado.
+Establecer, definir y gestionar los cambios que se generen dentro de los requisitos durante el desarrollo del proyecto. Así mismo asegura que haya evaluaciones, documentación y control adecuado, incluyendo la identificación y resolución de inconsistencias entre requisitos y productos de trabajo.
 
 ## Entradas
 
 - Requisitos
 - Solicitudes de cambio
+- Historias de usuario
+- Diagramas
+- Diseños de UI/UX
 
 <!-- ---------------------------------------------------------------------------
 - Las fases estan puestas como template
@@ -23,7 +26,7 @@ Establecer, definir y gestionar los cambios que se generen dentro de los requisi
 
 | Fases            | Actividades                                                                                                                              | Prácticas asociadas al CMMI |
 | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
-| Evaluado        | Recibir la solicitud de cambio y revisarla formalmente para validar que esté claramente definida, justificada y alineada al proyecto. | RM 1.3                 |
+| Evaluación        | Recibir la solicitud de cambio y revisarla formalmente para validar que esté claramente definida, justificada y alineada al proyecto. | RM 1.3                 |
 | Analizar impacto| Analizar el impacto del cambio en alcance, costo, cronograma, arquitectura, riesgos y otros requisitos relacionados.                   | RM SP 1.3                 |
 | Aprobado        | Presentar el análisis al responsable o comité de cambios y decidir si el cambio se aprueba, rechaza o se pospone.                      | RM SP 1.3                 |
 | Documentado     | Actualizar la documentación oficial: especificación de requisitos, matriz de trazabilidad, control de versiones y registro de cambios.| RM SP 1.3                 |
