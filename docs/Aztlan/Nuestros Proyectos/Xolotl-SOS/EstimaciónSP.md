@@ -1,6 +1,6 @@
 ---
 title: "Estimación tamaño y costo de tareas - SOS"
-sidebar_position: 9
+sidebar_position: 10
 ---
 
 _v1.0 / PP - SP 1.2 <!--Poner practicas del CMMI-->
