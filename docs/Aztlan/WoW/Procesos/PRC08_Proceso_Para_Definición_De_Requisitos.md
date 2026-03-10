@@ -12,7 +12,6 @@ _v2.0 / RM_ <!--Poner practicas del CMMI-->
  - Alcance del proyecto.
  - Stakeholders identificados.
  - Restricciones técnicas y de negocio.
- - Plan de calidad.
 
 ## Descripción
 | Fases | Actividades | Prácticas asociadas al CMMI |
@@ -32,4 +31,4 @@ _v2.0 / RM_ <!--Poner practicas del CMMI-->
 |-|-|-|-|-|
 | 1.0 | Emilio Santiago López Quiñonez y Edmundo Canedo Cervantes | FALTA | Creación del documento | 01/03/2026 |
 | 1.1 | Edmundo Canedo Cervantes | Alejandra Arredondo y Juan Manuel | Mención explícita de historias de usuario | 02/03/2026 |
- 1.0 | Emilio Santiago López Quiñonez y Edmundo Canedo Cervantes | FALTA | Correción de proceso | 09/03/2026 |
+| 2.0 | Emilio Santiago López Quiñonez y Edmundo Canedo Cervantes | Jorge Garzón | Correción de proceso | 09/03/2026 |

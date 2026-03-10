@@ -16,3 +16,5 @@ _v1.0 / RM_
 
 | Version | Creado por: | Auditado por: | Descripción | Fecha |
 |-|-|-|-|-|
+| 1.0 | Emilio Santiago López Quiñonez y Edmundo Canedo Cervantes | FALTA | Creación del documento | 01/03/2026 |
+| 2.0 | Emilio Santiago López Quiñonez y Edmundo Canedo Cervantes | Jorge Garzón | Correción de proceso | 09/03/2026 |
