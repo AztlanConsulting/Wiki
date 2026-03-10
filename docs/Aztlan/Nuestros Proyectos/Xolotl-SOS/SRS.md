@@ -7,7 +7,7 @@ _v1.3_
 
 El SRS está disponible en el siguiente documento:
 
-- [Documento - SRS](https://docs.google.com/document/d/1aUp_aEt8Brbl4hBzX4htkx22cTn_omM3f3oPox9C2xE/edit?usp=sharing)
+- [Documento - SRS](https://drive.google.com/file/d/1YmnD3rrgPngOxfoG-6-nIsw7jj_Qe3Ry/view?usp=drive_link)
 
 
 | Version | Creado por | Auditado por | Descripción | Fecha |
