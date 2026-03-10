@@ -28,10 +28,6 @@ wbsDiagram {
 
 * Proyecto SOS
 
-** Gestión del proyecto
-*** Minutas de reuniones
-***< Control de versiones de documentación
-
 ** Inicio
 *** Visión del proyecto <<top>>
 ****< Necesidad
@@ -150,31 +146,27 @@ wbsDiagram {
 <summary>Código PUML</summary>
 ```puml
 @startwbs
-skinparam defaultFontSize 11
-skinparam wrapWidth 80
-
-<style>
-wbsDiagram {
-  .top {
-    BackgroundColor #6699FF
-    RoundCorner 10
-  }
-}
-</style>
-
 * User Stories
 ** Análisis
 *** Definición de la historia de usuario
-*** Entender función y valor en el producto
+*** Valor de la US
+*** Estimación de trabajo
+*** Responsable
 ** Diseño
-*** Generar diagrama de secuencia
-*** Generar interfaces de la aplicación
-*** Diseñar pruebas
+*** Diagrama de actividades
+*** Diagrama de secuencia
+*** Interface de la aplicación
+*** Pruebas de integración
+*** Pruebas unitarias
 ** Desarrollo
-*** Implementación de la solución / función
+*** Rutas
+*** Interfaces lógicas
+*** Integración con base de datos
+*** Front-end
 ** Pruebas
-*** Automatizar caso exitoso de la función
-*** Correr pruebas 
+*** Pruebas Unitarias
+*** Pruebas de función
+*** Pruebas de integración
 @endwbs
 ```
 </details>
@@ -186,3 +178,4 @@ wbsDiagram {
 | Version | Creado por: | Auditado por: | Descripción | Fecha |
 |---------|------------|--------------|---------------|-------|
 | 1.0 | Santiago Alducin | Sebastián Pérez |  Creación Inicial  | 28/02/2026 |
+| 1.1 | Santiago Alducin | Jorge Garzón |  Correcciones  | 09/03/2026 |
