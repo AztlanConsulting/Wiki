@@ -36,10 +36,10 @@ Cumplir el 100% de los entregables del MVP para generar valor real, confianza y 
 />
 ---
 
-<FilteredDocCardList start = {0} end = {8} />
+<FilteredDocCardList start = {0} end = {9} />
 
 ---
 
 ## Artefactos
 
-<FilteredDocCardList start = {8} end = {10} />
+<FilteredDocCardList start = {9} end = {11} />
