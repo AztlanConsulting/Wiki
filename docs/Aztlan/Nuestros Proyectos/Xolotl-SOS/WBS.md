@@ -28,6 +28,13 @@ wbsDiagram {
 
 * Proyecto SOS
 
+<<<<<<< HEAD
+=======
+** Gestión del proyecto
+*** Minutas de reuniones
+***< Control de versiones de documentación
+
+>>>>>>> 5bd57978de5f2b2bc738ccf4c4c2add2c1dbfbce
 ** Inicio
 *** Visión del proyecto <<top>>
 ****< Necesidad

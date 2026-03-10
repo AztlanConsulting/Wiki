@@ -44,4 +44,4 @@ e. Otros
 
 | Version | Creado por: | Auditado por: | Descripción | Fecha |
 |---------|------------|--------------|---------------|-------|
-| 1.0     | Andre y Mateo |  | Guía/recurso  | 26/02/2026 |
+| 1.0     | Andre y Mateo | ... | Guía/recurso  | 09/03/2026 |

@@ -13,88 +13,98 @@ sidebar_position: 1
 /'-------------------------------------------------------------
 ------------------ FASE DE COMIENZO -------------------------
 --------------------------------------------------------------'/
-** Comienzo
+** Inicio
 '-------------------------------------------------------------
-***< Hacer equipos
+***< Visión del proyecto 
+****< Necesidad del SF
+****> Objetivo del equipo
+****< Objetivo del proyecto
+****< Necesidad de la empresa
 '-------------------------------------------------------------
-***< Alinear con la dirección de la empresa
-****< Entender la necesidad
-****> Encontrar objetivo
-****< Entender visión y misión de la empresa
-****> Visión del proyecto
+***> Establecer propuesta 
+**** Elaborar documento SRS
+*****< Requisitos funcionales
+*****> Requisitos no funcionales
+*****< Requisitos de interfaz
+*****> Reglas de negocio
+*****> Requisitos de información
+*****< Requisito tipo objetivo
 '-------------------------------------------------------------
-***< Explorar alcance
-****< Realizar impact mapping
-****< Establecer propuesta de solución
-*****< Identificar arquitectura
-******< Definir tecnologías
-******< Realizar comparativa de proveedores
-******< Realizar spikes
-******* Spike Jenkins y Github Actions
-******* Spike Google Calendar
-***** Elaborar documento SRS
-******< Requisitos funcionales
-******> Requisitos no funcionales
-******< Requisitos de interfaz
-*******< Diseñar de wireframes
-*******< Diseñar las vistas de alta fidelidad
-*******< Identificar Apis de utilidad
-******> Reglas de negocio
-******> Requisitos de información
+***< Identificar arquitectura 
+****< tecnologías
+****< Proveedores
+***** Costos
+*****< Servidor
+*****> Documento de aprobación
+****< Spikes
+***** Google Calendar API
+***** Jenkins
 '-------------------------------------------------------------
-****< Entender la estructura de la empresa
-*****< Entender procesos y reglas 
+***> Plan de release
+****< Fecha MVP
+****> Fecha MBI 1
+****< Fecha MBI 2
 '-------------------------------------------------------------
-***< Planear la release
-****< Definir MVP
-****> Definir MBI 1
-****< Definir MBI 2
-'-------------------------------------------------------------
-***< Definir estrategía de pruebas
-****< Definir tipos de pruebas
-'-------------------------------------------------------------
-***< Elaborar planes
-****< Hacer plan de riesgos
-****> Hacer plan de calidad
-****< Hacer plan de recursos
-****> Hacer plan de valor ganado
-****< Hacer plan de comunicación
-****> Hacer plan de release
-'-------------------------------------------------------------
-***< Visión común
-****< Alinear visión de equipo e interesados
+***< Plan de riesgos
+****< Matriz de riesgos
+*****< Plan de contingencia
+****< Identificar riesgos
+***> Plan de calidad
+****< Procesos de pruebas
+****> Estandares
+*****> Commits
+*****< PR'S
+*****> Ramas
+*****< Código
+*****> Definiciones
+****** Ready
+******< Done
+***< Plan de recursos
+****< Identificar recursos
+*****> Humanos
+*****< Tecnológicos 
+******< Infraestructura
+******< Software
+***** Financieros
+***> Plan de comunicación
+**** Stakeholders
+**** Canales de comunicación
+**** Disponibilidad
+*** Plan de compromisos
+**** Acta de compromiso de Requisitos
+**** Acta de validación de la visión del proyecto
 /'-------------------------------------------------------------
 ------------------ FASE DE CONSTRUCCIÓN -----------------------
 --------------------------------------------------------------'/
 ** Construcción
 '-------------------------------------------------------------
-*** Probar la arquitectura pronto
-****> Redactar spikes
-****< Realizar pruebas de concepto
-'-------------------------------------------------------------
-*** Atender cambios de los interesados
-**** Actualizar Plan de Valor Ganado
-**** Ordenar prioridades
-**** Realizar cambios
-'-------------------------------------------------------------
-*** Producir una posible solución
-**** Diagrama WBS para US
-'-------------------------------------------------------------
-*** Mejorar la calidad
-**** Establecer estandares
-***** Elaborar estandares para backend
-***** Elaborar estandares para frontend
+*** Historias de usuario
+**** WBS para US
+*** Preparar el entorno
+**** Repositorios de github
+**** Estructura básica del proyecto
+***** Crear proyecto de Node.js
+***** Crear proyecto de React
+**** Dependencias y frameworks
+***** UUID
+***** Express
+**** Linters
+**** Prueba de arquitectura
+**** Base de datos
+***** Tablas
+****** Campos
+***** Relaciones
+
 /'-------------------------------------------------------------
 -------------------- FASE DE TRANSICION -----------------------
 --------------------------------------------------------------'/
 ** Transición
 '-------------------------------------------------------------
-*** Garantizar la puesta en producción
-**** Buscar opciones de alojamiento
-*****< Seleccionar servidor
-*****> Seleccionar servicio de alojamiento de archivos
-***** Seleccionar proveedor de dominio
-
+*** Entregar la solución
+**** Capacitar usuarios
+***** Entregar Tutoriales
+***** Dar capacitaciones
+***** Dar Manuales de usuario
 '-------------------------------------------------------------
 *** Desplegar la solución
 ****< Generar certificado SSL
@@ -105,8 +115,11 @@ sidebar_position: 1
 ```
 </details>
 
-![WBS del Proyecto](./imgs/WBSProyecto.png)
+[WBS para historias de usuario](./WBSUserStories.md)
+
+![WBS del Proyecto](./imgs/wbs_proyecto.png)
 
 | Version | Creado por: | Auditado por: | Descripción | Fecha |
 |---------|------------|--------------|---------------|-------|
 | 1.0 | Yael Charles y Manuel Bajos | Edmundo Canedo | Creación del WBS | 27/02/2026 |
+| 1.1 | Yael Charles | Marco Ivan | Cambiar formato del WBS y simplificar | 09/03/2026|
