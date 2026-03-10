@@ -46,9 +46,9 @@ const FeatureList = [
     title: 'Agradecimientos',
     description: (
       <>
-      <a href='https://www.notion.so/829b988f5d40416d95ad5523337b3222?pvs=21'>Taro</a><br/>
       <a href='https://www.notion.so/151ba79d118c41efbefe7e3b6a8369a6?pvs=21'>ACE</a><br/>
       <a href='https://black-dot-2024.github.io/docs/'>Black Dot</a><br/>
+      <a href='https://zany-paper-dca.notion.site/Departamento-Delta-4c94e9e9c14a444990d7df8a8cc3fa4b'>Delta</a><br/>
       </>
     ),
   },
