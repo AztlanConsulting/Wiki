@@ -42,14 +42,26 @@ const FeatureList = [
       </>
     ),
   },
+  {
+    title: 'Agradecimientos',
+    description: (
+      <>
+      <a href='https://www.notion.so/829b988f5d40416d95ad5523337b3222?pvs=21'>Taro</a><br/>
+      <a href='https://www.notion.so/151ba79d118c41efbefe7e3b6a8369a6?pvs=21'>ACE</a><br/>
+      <a href='https://black-dot-2024.github.io/docs/'>Black Dot</a><br/>
+      </>
+    ),
+  },
 ];
 
 function Feature({img, title, description}) {
   return (
     <div className={clsx('col col--4')}>
-      <div className="text--center">
-        <img className={styles.featureSvg} src={img} role="img" />
-      </div>
+        {img && (
+        <div className="text--center">
+          <img className={styles.featureSvg} src={img} role="img" />
+        </div>
+      )}
       <div className="text--center padding-horiz--md">
         <Heading as="h3">{title}</Heading>
         <p>{description}</p>
