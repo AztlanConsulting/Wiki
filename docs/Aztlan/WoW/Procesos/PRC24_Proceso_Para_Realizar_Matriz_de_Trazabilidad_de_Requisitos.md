@@ -10,7 +10,6 @@ Asegurar que cada requisito del cliente sea analizado, diseñado, implementado y
 ## Entradas
 
 * Documentos de visión, minutas de sesiones con el socio/cliente o historias de usuario (Requisitos de Negocio).
-* Documentos de Arquitectura o Diseño del Sistema.
 * Repositorio de código fuente.
 * Plan y Casos de Prueba.
 
@@ -26,7 +25,6 @@ Asegurar que cada requisito del cliente sea analizado, diseñado, implementado y
 ## Salidas
 
 * [Matriz de Trazabilidad de Requisitos](https://docs.google.com/spreadsheets/d/1yY1daMZ_oXeu3huJ-2UJ9qUKr4hWooPbJ5toUc0xc0U/edit?gid=0#gid=0) (RTM) actualizada
-* Evidencia de cobertura total (diseño, código y pruebas) para auditorías de calidad.
 
 ## Control de versiones
 

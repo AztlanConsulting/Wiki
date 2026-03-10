@@ -11,8 +11,8 @@ Generar y mantener un plan de acción con las actividades importantes que se tie
 
 ## Entradas
 
-- Análisis de la estimación
-- Estimados de esfuerzo de trabajo
+- Calendario de actividades.
+- Definir el equipo de trabajo
 
 ## Descripción
 
@@ -22,8 +22,14 @@ Generar y mantener un plan de acción con las actividades importantes que se tie
 | Entendimiento | Identificar Supuestos de calendario                                                                                                                                                                                                                       | PP.1.2                      | 
 | Entendimiento | Identificar Restricciones                                                                                                                                                                                                                                 | PP.1.4                      | 
 | Entendimiento | Identificar Dependecias de tareas                                                                                                                                                                                                                         | PP.1.3                      |
-| Ejecución     | Desglozar las actividades individuales de los hitos, definir duración de cada actividad, en base a estimación definir hitos en un calendario de tiempo. Establecer un periodo de contingencia basado en nivel de confianza de cumplimiento y presupuesto. | PP.2.1                      | 
-| Validación    | Usar datos reales para verificar el estado del calendario. En caso de no cumplir con las espectativas del plan buscar una mejor estrategia para el cumplimiento de los hitos. Validar con el departamento compromiso con el plan.                         | PP.2.1                      | 
+| Ejecución     | Desglosar las actividades individuales de los hitos, definir duración de cada actividad | PP.2.1                      | 
+| Estimación    |   [Estimar las tareas](./PRC07_Proceso_Para_Grooming.md) y definir hitos en un calendario. |  PP.1.2|
+| Definición | Calcular las horas de trabajo que tomaría el proyecto en base a la estimación |PP.1.4 |
+| Definición| Dividir el tamaño del proyecto en sprints de 2 semanas | PP.2.1 |
+|Definición | Tomando en cuenta el tamaño del equipo y su disponibilidad, definir las horas de trabajo semanales | PP.2.4 |
+| Precuación | Establecer un periodo de contingencia basado en nivel de confianza de cumplimiento y presupuesto.  | PP.2.1 |
+|Calendarización de entregas  |En base a la estimación de tareas, definir una fecha probable para cumplir cada tarea | PP.2.1 |
+| Validación    | Usar datos reales para verificar el estado del calendario. En caso de no cumplir con las espectativas del plan buscar una mejor estrategia para el cumplimiento de los hitos. Validar con el departamento compromiso con el plan.                         | PP SP 1.4 2.1 | 
 | Documentación | Actividades o cambios documentados                                                                                                                                                                                                                        | PP.2.1                      | Autor del proceso |
 
 ## Salidas
@@ -37,4 +43,5 @@ Calendario de actividades
 | 1.0     | Yael Charles Marin Y Santiago Alducin Villaseñor          | Edmundo  | Proceso para el calendario  | 25/02/2026 |
 | 2.0     |  Yael Charles Marin Y Santiago Alducin Villaseñor | Edmundo | Adaptar al formato | 26/02/2026 |
 | 2.1    |  Yael Charles Marin Y Santiago Alducin Villaseñor | Edmundo | Acento en Prácticas | 26/02/2026 |
+| 3.0    |  Yael Charles Marin Y Santiago Alducin Villaseñor | Manuel | Atender retro del SCAMPI | 09/03/2026 |
 

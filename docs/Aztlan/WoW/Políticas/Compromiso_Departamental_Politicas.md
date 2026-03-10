@@ -1,5 +1,6 @@
 ---
 title: "Compromiso Departamental de las Políticas de Aztlán Consulting"
+position: 0
 ---
 
 _v1.0 
@@ -8,7 +9,7 @@ _v1.0
 Garantizar que todos los integrantes tengan conocimiento de las Políticas departamentales, así como registren su compromiso a seguir dichas políticas.
 
 No cambiar link, solo añadir la liga de la nueva versión
-[Documento Firmado - _v1.0](https://drive.google.com/file/d/1-AYruNTvS5yPbG1bJtn6bPOnnvlY_2oZ/view?usp=drive_link)
+[Documento Firmado - _v1.0](https://drive.google.com/file/d/1SGLZ7RTH3KRi03qZjUVkegjw37vN5i3E/view?usp=drive_link)
 
 ## Control de versiones
 

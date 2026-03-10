@@ -17,3 +17,10 @@ Asignar un tiempo acordado a los story points para poder estimar las tareas más
 | - |  -  |Tarea de complejidad media. <br/> Requiere cierta lógica. <br/> Implica más esfuerzo que un 2.| 
 | - |  -  |Tarea de complejidad media-alta. <br/> Puede involucrar varios componentes. <br/> Requiere investigación para comprender la tarea.| 
 | - |  -  |Tarea de complejidad alta. <br/> Involucra varias áreas. <br/> Involucra cierto riesgo. <br/> No se tienen los conocimientos técnicos.|  
+
+## Control de versiones
+
+| Version | Creado por: | Auditado por: | Descripción | Fecha |
+|---------|------------|--------------|---------------|-------|
+| 1.0     | Luisa Fernanda Valdez Guillen  | Juan Manuel Murillo  | Plantilla para story points  | 27/02/2026 |
+| 1.1     | Luisa Fernanda Valdez Guillen  | Juan Manuel Murillo | Actualización de pasos  | 09/03/2026 |

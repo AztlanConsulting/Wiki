@@ -7,21 +7,13 @@ _v1.0_
 
 # Plan de Comunicación del Proyecto
 
-## 1. Información General
-
-- Nombre del Proyecto: Compospet
-- Fecha de elaboración: 06/03/2026
-- Versión: 1.0
-
----
-
-## 2. Propósito
+## 1. Propósito
 
 [Describir el objetivo del plan de comunicación y cómo asegura la participación adecuada de los stakeholders durante el ciclo de vida del proyecto.]
 
 ---
 
-## 3. Identificación de Stakeholders
+## 2. Identificación de Stakeholders
 
 | ID | Stakeholder | Descripción | Nivel de Influencia (Alto/Medio/Bajo) | Nivel de Interés (Alto/Medio/Bajo) |
 |----|------------|-------------------|--------------------------------|------------------------------------|
@@ -39,7 +31,7 @@ _v1.0_
 
 ---
 
-## 4. Matriz de Participación - RACI (Stakeholder vs Actividades)
+## 3. Matriz de Participación - RACI (Stakeholder vs Actividades)
 
 **Leyenda sugerida:**  
 R = Responsable  
@@ -64,7 +56,7 @@ I = Informed
 
 ---
 
-## 5. Mecanismos de Comunicación
+## 4. Mecanismos de Comunicación
 
 | Actividad / Evento | Stakeholders Involucrados | Medio (Reunión, Correo, etc.) | Frecuencia | Responsable |
 |--------------------|--------------------------|-------------------------------|------------|-------------|
@@ -83,14 +75,14 @@ I = Informed
 
 ---
 
-## 6. Recursos Necesarios
+## 5. Recursos Necesarios
 
 Discord
 Grupo de Whatsapp
 
 ---
 
-## 8. Aprobación
+## 6. Aprobación
 
 | Rol | Nombre | Firma | Fecha |
 |------|--------|-------|-------|
@@ -100,7 +92,7 @@ Grupo de Whatsapp
 | Team Member | Kamila Martinez| X | 6/3/2026 |
 | Architect Owner | Yessica Vasquez | X | 6/3/2026 |
 
-## 9. Control de Versiones
+## 7. Control de Versiones
 
 | Version | Creado por | Auditado por | Descripción | Fecha |
 |---------|------------|--------------|-------------|-------|

@@ -13,7 +13,7 @@ Incentivar la cooperación entre departamentos y mantener el uso adecuado de las
 ---
 
 ## Áreas de proceso y prácticas en las que aplica
-*(No especificado en el documento)*
+*(PP 3.2, PP 3.3, PP 2.2, PP 2.4 )*
 
 ---
 
@@ -21,20 +21,42 @@ Incentivar la cooperación entre departamentos y mantener el uso adecuado de las
 
 ### Encargados
 - Se establecerá un responsable del espacio de Chantli por departamento.
-- Aztlan Consulting (Yessica Lora Vazquez - Alejandra Arredondo), Golden Strand (Ana Pau, Camilo)
+- Aztlán Consulting (Yessica Lora Vazquez - Alejandra Arredondo)
+- Golden Strand (Ana Paola Hernández Hernández , Claudio Gabriel López Briceño)
 - Responsable por comunicar los avisos y acuerdos interdepartamentales del Chantli a su departamento.
 - Responsable de atender situaciones de daño, algun conflicto o negociación entre departamentos, junto a los PMs
+- Responsable de que se cierre el salón, con los preparativos establecidos en el apartado de cierre
+
+
+## Periodos 
+
+### 9 al 13 de Marzo 
+- Aztlán Consulting (Luner y Miercoles)
+- Golden Strand (Martes y Jueves)
+- Mixto (Viernes)
+
+### Segundo Periodo 
+- Aztlán Consulting (Martes y Jueves)
+- Golden Strand (Lunes y Miercoles)
+- Mixto (Viernes)
+
+### Tercer periodo
+- Aztlán Consulting (Lunes y Miércoles)
+- Golden Strand (Martes y Jueves)
+- Mixto (Viernes)
+
 
 ### Horario
-- 7 am a 10 pm los días asignados a cada departamento. (Por definir)
-- Aztlan Consulting(Yessica Lora Vazquez)
-- El viernes estará ocupado por nuestros colegas de cuarto semestre de 9am a 11 am. A si mismo, el vienes 6 de Marzo se compartirá el chantli con el otro departamento, alternando el acuerdo de uso del espacio cada viernes de la semana.
-- Para permanecer en el Chantli fuera de horario, se deberá mandar una solicitud al departamento de seguridad del Tec de Monterrey `seguridad.qro@itesm.mx` con copia al Director de la carrera.
+- 7 am a 10 pm los días asignados a cada departamento.
+- El viernes estará ocupado por nuestros colegas de cuarto semestre de 9am a 11 am. A si mismo,
+- Viernes se compartirá el Chantli con el otro departamento durante todo el horario.
+- Para permanecer en el salón Chantli fuera de horario, se deberá mandar una solicitud al departamento de seguridad del Tec de Monterrey seguridad.qro@itesm.mx con copia al Director de la carrera.
+
 
 ### Cierre
 - La última persona en estar en el Chantli, para cerrar deberá:
-  - Cerrar el salón con llave.
-  - Introducir las llaves en el compartimento de seguridad de la puerta.
+- Cerrar el salón con llave.
+- Introducir las llaves en el compartimento de seguridad de la puerta.
 
 ### Código
 - El código de apertura del Chantli, no debe ser compartido a nadie que no pertenezca a sexto semestre de la carrera.
@@ -46,7 +68,7 @@ Incentivar la cooperación entre departamentos y mantener el uso adecuado de las
 --- 
 
 ### Respeto y Manejo de las áreas del Chantli
-- En caso de que algo se pierda o sufra un daño por uso indebido, será cubierto por el departamento del responsable del agravio.
+- En caso de que se pierda algo o exista algún daño por uso indebido u omisión de los acuerdos interdepartamentales, será cubierto por el departamento del responsable del agravio.
 - En caso de que no se conozca el responsable se deberá pagar por los dos departamentos.
 
 ---
@@ -65,7 +87,6 @@ Incentivar la cooperación entre departamentos y mantener el uso adecuado de las
 - Al finalizar el día se deberá borrar todo lo escrito en los pizarrones para el uso del otro departamento.
 - El único pizarrón que no se borrara, será el pizarrón Interactivo. 
 - En caso de que el área de trabajo tenga un olor fuerte, se deberá de encender el humificador colocando unas gotas de aceite esencial en el mismo, además de prender los ventiladores del salón mínimo una hora antes de cerrar.
-- Al finalizar la semana, se deberá de vaciar el agua del humificador y limpiar el mismo para evitar malos olores.
 
 ### Pizarrón Interactivo
 - No escribir nada ofensivo.
@@ -81,3 +102,4 @@ Incentivar la cooperación entre departamentos y mantener el uso adecuado de las
 | 1.1 | Alejandra Arredondo| Juan Manuel Murillo López | Actualización del apartado del área de trabajo | 02/03/2026|
 | 1.2 | Alejandra Arredondo |Juan Manuel Murillo López | Actualización de políticas acorde a los acuerdos interdepartamentales | 02/03/2026 |
 | 1.3 | Yessica Lora | Juan Manuel Murillo López|  Actualización de políticas acorde a la negociación de espacios interdepartamentales | 02/03/2026 |
+| 1.4 | Yessica Lora | Juan Manuel Murillo López|  Actualización de políticas acorde a la negociación de espacios interdepartamentales | 09/03/2026 |

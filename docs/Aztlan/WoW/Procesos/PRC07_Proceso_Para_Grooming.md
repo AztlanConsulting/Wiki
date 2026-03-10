@@ -24,17 +24,18 @@ al dividir historias de usuario para su estimación
 
 | Pasos         | Actividades                                                                                                            | Prácticas asociadas al CMMI |
 |---------------|------------------------------------------------------------------------------------------------------------------------|-----------------------------|
-| Entendimiento | PO y TL presentan el Backlog al equipo de trabajo                                                                      | RM.1.1 RM.1.2                     |
+| Entendimiento | PO y TL presentan el Backlog al equipo de trabajo                                                                      | RM.1.1 RM.1.2               |
 | Entendimiento | Se presenta una tarea del Backlog                                                                                      | RM.1.1                      |
 | Discusión     | Se tiene una discusión con el equipo de trabajo sobre las actividades de la tarea                                      | RM.1.1                      |
 | Discusión     | Se discute si la tarea sigue siendo relevante para la iteración actual                                                 | RM.1.3                      |
 | Ejecución     | Si la tarea ya no es relevante para la iteración, baja de prioridad                                                    | RM.1.3                      |
-| Ejecución     | Si las actividades de la tarea no se pueden completar con 1 día de trabajo, se segmenta                  | PP.1.2                       |
-| Ejecución     | [Estimar cada elemento](../Guías/StoryP_Guía)                                                                 | PP.1.2 PP.1.4              |
-| Ejecución     | Si la estimación nueva supera la capacidad del equipo, el PO prioriza las actividades                                  | PP.1.2                      |
-| Ejecución     | El PO presenta la nueva priorización al equipo del trabajo                                                             | PP.1.2                      |
+| Ejecución     | Si las actividades de la tarea no se pueden completar con 1 día de trabajo, se segmenta                                | PP.1.2                      |
+| Ejecución     | [Estimar cada elemento](../Guías/StoryP_Guía)                                                                          | PP.1.2 PP.1.4               |
+| Ejecución     | El equipo revisa historias similares previamente implementadas para apoyar la estimación actual                                                                                                                                   | PP.1.2                      |
+| Ejecución     | Si la estimación nueva supera la capacidad del equipo, el PO prioriza las actividades                                  | PP.1.2 PP.3.2               |
+| Ejecución     | El PO presenta la nueva priorización al equipo del trabajo                                                             | PP.1.2 RM.1.2               |
 | Ejecución     | El equipo de trabajo tiene la decisión final de qué elementos se mantienen en la iteración actual y cuales se posponen | PP.1.2 PP.2.1               |
-| Documentación | Se actualiza el backlog con las nuevas tareas y estimaciones                                                           |  PP.2.7               |
+| Documentación | Se actualiza el backlog con las nuevas tareas y estimaciones                                                           |  PP.2.7                     |
 
 ## Salidas
 
@@ -45,4 +46,4 @@ al dividir historias de usuario para su estimación
 | Version | Creado por: | Auditado por: | Descripción | Fecha |
 |---------|------------|--------------|---------------|-------|
 | 1.0     | Juan Manuel Murillo          | Luisa Fernanda Valdez  | Proceso para el Backlog Grooming  | 27/02/2026 |
-
+| 1.1     | Luisa Fernanda Valdez        | Juan Manuel Murillo    | Actualización de pasos            | 09/03/2026 |
