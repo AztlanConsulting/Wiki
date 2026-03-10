@@ -95,5 +95,4 @@ Las actualizaciones serán propuestas por el **Team Lead** y aprobadas por el **
 
 | Version | Creado por | Auditado por | Descripción | Fecha |
 |---------|------------|--------------|-------------|-------|
-| 1.0 | Dongju Mun | Jorge Armando Garzón Varela | Creación del plan de comunicación | 04/03/2026 |
-| 1.1 | Dongju Mun | Jorge Armando Garzón Varela | Cambio de palabras de la plantilla de plan de comunicación | 06/03/2026 |
+| 1.0 | Emilio Quinonez | Edmundo Canedo | Creación del plan de comunicación | 09/03/2026 |
