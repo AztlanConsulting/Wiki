@@ -1,5 +1,5 @@
 ---
-title: "Manual de Arquitectura Cuitla-Compospet"
+title: "Prueba de Arquitectura Cuitla-Compospet"
 ---
 
 ## Proposito 

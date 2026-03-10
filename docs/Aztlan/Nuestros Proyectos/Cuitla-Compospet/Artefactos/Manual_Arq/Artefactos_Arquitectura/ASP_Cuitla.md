@@ -68,4 +68,4 @@ sidebar_position: 9
 
 | Version | Creado por: | Auditado por: | Descripción | Fecha |
 |---------|------------|--------------|---------------|-------|
-| 1.0     | -Yessica Lora Vazquez -Edmundo Canedo -Alejandro Adrián García -Santiago Alducin Villaseñor  |  Juan Manuel Murillo | Plantilla inicial para guías.  | 16/02/2026 |
+| 1.0 | Yessica Lora | Fernanda Valdez |    | 10/03/2026 |
