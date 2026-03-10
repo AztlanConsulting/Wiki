@@ -1,5 +1,6 @@
 ---
-title: "Plan de Compromisos"
+title: "Plan de compromisos"
+sidebar_position: 6
 ---
 
 _v1.1_
