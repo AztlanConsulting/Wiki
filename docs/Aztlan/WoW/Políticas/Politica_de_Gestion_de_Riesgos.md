@@ -18,7 +18,7 @@ Identificar, analizar y mitigar riesgos que puedan afectar el cumplimiento de ob
 - Impacto.
 - Responsable.
 - Plan de mitigación.
-3. Se revisará en cada retrospective.
+3. Se revisará en cada retrospective, daily y sprint planning.
 4. Riesgos críticos activarán inmediatamente el plan de contingencia respectivo.
 
 
