@@ -35,4 +35,4 @@ Definir los recursos y costo del proyecto en base a su nececidades
 
 | Versión | Creado por | Auditado por | Descripción | Fecha |
 |----------|------------|--------------|------------|--------|
-| 1.0 | Santiago Palacios |  | Planificación de recursos | 09/03/2026 |
+| 1.0 | Santiago Palacios | Kamila Martinez | Planificación de recursos | 09/03/2026 |
