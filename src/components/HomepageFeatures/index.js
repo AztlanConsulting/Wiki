@@ -27,7 +27,10 @@ const FeatureList = [
     img: require('@site/static/img/valores_png.png').default,
     description: (
       <>
-        IEIWSJSJAKAKJSJK.
+        Respeto <br/>
+        Tolerancia <br/>
+        Justicia <br/>
+        Empatía <br/>
       </>
     ),
   },
