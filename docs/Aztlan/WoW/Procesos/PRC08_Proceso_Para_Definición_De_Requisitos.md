@@ -3,30 +3,24 @@ title: "PRC08 - Proceso para definición de requisitos" # CAMBIAR AL TITULO
 sidebar_position: 8
 ---
 
-_v1.0 / RM_ <!--Poner practicas del CMMI-->
+_v2.0 / RM_ <!--Poner practicas del CMMI-->
 
 ## Propósito
 **Definir, analizar y documentar** los requisitos (historias de usuario, atributos de calidad, requisitos de información, etc.) necesarios para elaborar un producto de **calidad** para el cliente.
-
 ## Entradas
  - Objetivo del proyecto.
  - Alcance del proyecto.
  - Stakeholders identificados.
  - Restricciones técnicas y de negocio.
- 
-<!-- ---------------------------------------------------------------------------
-- Las fases estan puestas como template
-- tu puedes definir tus propias fases
----------------------------------------------------------------------------- -->
 
 ## Descripción
 | Fases | Actividades | Prácticas asociadas al CMMI |
 |-|-|-|
-| Revisión inicial | Recopilar las necesidades y expectativas del clientes. | RM SP 1.1 |
-| Análisis | Realizar reuniones con los stakeholders para identificar dudas, validar criterios de aceptación y confirmación de los requisitos (en base a su [plantilla sugerida](../Plantillas/Plantilla_CriteriosRequisitos)), o posibles confictos de ambos lados. | RM SP 1.1 |
+| Revisión inicial | Recopilar las necesidades y expectativas del clientes en el _SRS_. | RM SP 1.1 |
+| Análisis | Realizar reuniones con los stakeholders para identificar dudas o posibles conflictos de ambos lados, y registrarlo en el _SRS_. | RM SP 1.1 <br></br> PP SP 2.6 |
 | Definición de requisitos | Convertir las necesidades en requisitos que cumplan con los criterios de aceptación establecidos. | RM SP 1.1 |
-| Revisión de viabilidad | Revisar el impacto técnico, los recursos necesarios, dependencias y restricciones de los requisitos. | RM SP 1.1 |
-| Confirmación de entendimiento | Documentar los acuerdos alcanzados y validar que todas las partes comprendan de la misma manera cada uno de los requisitos. | RM SP 1.1 |
+| Validación | Validar criterios de aceptación y confirmación de los requisitos (en base a su [plantilla sugerida](../Plantillas/Plantilla_CriteriosRequisitos)). | RM SP 1.1 <br></br> PP SP 2.6 |
+| Confirmación de entendimiento | Documentar los acuerdos alcanzados y validar que todas las partes comprendan de la misma manera cada uno de los requisitos, en base al [proceso de creación de compromisos](./PRC23_Proceso_para_hacer_obtener_un_compromiso). | RM SP 1.1 <br></br> RM PP 3.2 |
 
 ## Salidas
  - Lista de requisitos listos para evaluación y compromiso (Base para el RM SP 1.2).
@@ -37,3 +31,4 @@ _v1.0 / RM_ <!--Poner practicas del CMMI-->
 |-|-|-|-|-|
 | 1.0 | Emilio Santiago López Quiñonez y Edmundo Canedo Cervantes | FALTA | Creación del documento | 01/03/2026 |
 | 1.1 | Edmundo Canedo Cervantes | Alejandra Arredondo y Juan Manuel | Mención explícita de historias de usuario | 02/03/2026 |
+ 1.0 | Emilio Santiago López Quiñonez y Edmundo Canedo Cervantes | FALTA | Correción de proceso | 09/03/2026 |
