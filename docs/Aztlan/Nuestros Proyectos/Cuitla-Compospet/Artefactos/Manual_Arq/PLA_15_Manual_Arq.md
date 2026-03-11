@@ -171,6 +171,8 @@ Axe-core cuenta con diferentes tipos de reglas para WCAG 2.0, 2.1 y 2.2 en los n
         - **MVVM**<br/>
         En el frontend se implementará la arquitectura [Model View ViewModel (MVVM)](https://learn.microsoft.com/en-us/dotnet/architecture/maui/mvvm), la cual permite separar la interfaz de usuario de la lógica de presentación y de los datos, facilitando una mejor organización del código y una actualización reactiva de la interfaz. <br/> <br/>Se hará un spike de react para realizar el diagrama de paquetes del frontend. 
 
+        ![Imagen de diagrama de paquetes Front](../../../../../../static/img/Diagrama_Paquetes_Front.png)
+
 ## Plan de recursos
 - [Plan de recursos](https://docs.google.com/document/d/1Yih3CBKonNiYRsPUfO8lJsYRYNXJTQccyRpao51t2TM/edit?tab=t.0)
 

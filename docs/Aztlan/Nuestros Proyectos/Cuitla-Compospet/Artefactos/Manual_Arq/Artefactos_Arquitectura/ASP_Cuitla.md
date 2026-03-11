@@ -1,6 +1,6 @@
 ---
 title: "Architecture Starter Pack"
-sidebar_position: 9
+sidebar_position: 3
 ---
 
 ## Architecture Starter Pack Cuitla
