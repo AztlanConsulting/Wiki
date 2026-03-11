@@ -7,7 +7,7 @@ _v1.3_
 
 El SRS está disponible en el siguiente documento:
 
-- [Documento - SRS](https://drive.google.com/file/d/1YmnD3rrgPngOxfoG-6-nIsw7jj_Qe3Ry/view?usp=drive_link)
+- [Documento - SRS](https://drive.google.com/file/d/1KOIKmG9fDiQIzRYrDbPWtRt-qiEgEbLS/view?usp=sharing)
 
 
 | Version | Creado por | Auditado por | Descripción | Fecha |
@@ -16,3 +16,4 @@ El SRS está disponible en el siguiente documento:
 | 1.1 | Santiago Alducin | Jorge Garzón | Se agregan reglas de negocio y requerimientos | 03/03/2026 |
 | 1.2 | Santiago Alducin | Jorge Garzón | Se amplían requerimientos e interfaces | 07/03/2026 |
 | 1.3 | Santiago Alducin | Jorge Garzón | Correcciones y reorganización del documento | 09/03/2026 |
+| 1.4 | Santiago Alducin y Mauricio Olguín | Juan Manuel | Correcciones y reorganización del documento | 10/03/2026 |
