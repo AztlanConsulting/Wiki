@@ -9,10 +9,14 @@ title: "Stack Recomendado"
 * 100 GB de espacio en disco NVMe
 * 8 TB de ancho de banda
 
+[ADR-01](../Artefactos_Arquitectura/ADRs/ADR-01%20Servidor%20Hostinger.md)
+
 
 # Sistema Operativo
 ## [Ubuntu Linux](https://ubuntu-com.translate.goog/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc)
 Sistema operativo libre y de código abierto compatible con una amplia gama de arquitecturas de hardware y dispositivos.
+
+[ADR-02](../Artefactos_Arquitectura/ADRs/ADR-02%20SistemaOperativo.md)
 
 # Dominio
 Contratado por medio de [Hostinger](https://www.hostinger.com/mx/dominios)
@@ -26,6 +30,8 @@ Es un protocolo criptográfico que cifra la comunicación entre el navegador de 
 Utiliza el aprendizaje automático para bloquear automáticamente las amenazas emergentes en tiempo real.
 ### DDos
 Utiliza herramientas de ciberseguridad para detectar, filtrar y mitigar el tráfico malicioso
+
+[ADR-03](../Artefactos_Arquitectura/ADRs/ADR-03%20Firewall.md)
 
 # Backend
 ### [Node.js](http://Node.js)
