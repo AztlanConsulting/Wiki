@@ -1,8 +1,8 @@
 ---
-title: "ADR-05: Node.js"
+title: "ADR-04: Node.js"
 ---
 
-# ADR-05: Node.js
+# ADR-04: Node.js
 
 **Fecha:** 2026-03-10
 
