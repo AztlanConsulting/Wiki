@@ -22,4 +22,4 @@ sidebar_position: 1
 
 | Version | Creado por: | Auditado por: | Descripción | Fecha |
 |---------|------------|--------------|---------------|-------|
-| 1.0 | Ichan |   |  Entregas con links  | 25/02/2026 |
+| 1.0 | Ichan | Fátima Figueroa  |  Entregas con links  | 25/02/2026 |
