@@ -46,6 +46,8 @@ Framework para Node.js que facilita la creación de servidores web y la definici
 ### [React js](https://react.dev/)
 Biblioteca de JavaScript para construir interfaces de usuario. Utilizada para gestionar el estado y las interacciones en la aplicación web.
 
+[ADR-06](../Artefactos_Arquitectura/ADRs/ADR-06%20Front%20End.md)
+
 ### [Bulma](https://bulma.io/)
 Bulma es un framework CSS gratuito y de código abierto basado en Flexbox y desarrollado con Sass. Es 100 % responsivo, totalmente modular y está disponible de forma gratuita.
 
@@ -58,15 +60,23 @@ Biblioteca de JavaScript que reemplaza la función alert() tradicional de JavaSc
 
 Tiene herramientas nativas como Row Level Security que sirven para reforzar autorización a nivel de datos
 
+[ADR-07](../Artefactos_Arquitectura/ADRs/ADR-07%20Bases%20de%20Datos.md)
+
 # APIs
 ### [Google Oath](https://developers.google.com/identity/protocols/oauth2/web-server?hl=es-419)
 Verifica la identidad del usuario y le pregunta qué permisos está dispuesto a conceder a una aplicación externa.
 
+[ADR-08](../Artefactos_Arquitectura/ADRs/ADR-8%20Google%20Oath.md)
+
 ### [Google Gmail](https://developers.google.com/workspace/gmail/api/reference/rest?hl=es-419)
 Busca correos específicos, organiza mensajes mediante etiquetas, redacta respuestas automáticas y envía notificaciones sin que el usuario tenga que escribir el correo manualmente.
 
+[ADR-09](../Artefactos_Arquitectura/ADRs/ADR-09%20Gmail%20API.md)
+
 ### [Google Sheets](https://developers.google.com/workspace/sheets?hl=es-419)
 Crea hojas nuevas, edita valores en tiempo real, aplica formatos y extrae listas de datos para usarlas en otros lugares.
+
+[ADR-10](../Artefactos_Arquitectura/ADRs/ADR-10%20Google%20Sheets%20API.md)
 
 Categorias
 
