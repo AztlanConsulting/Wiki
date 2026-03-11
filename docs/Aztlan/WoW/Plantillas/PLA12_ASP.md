@@ -16,19 +16,11 @@ title: "PLA12 - Plantilla ADR (Architecture decision record)"
 
 Describe el problema y por qué estamos tomando esta decisión ahora.
 
-- Qué dolor resuelve
-- Restricciones (tiempo, skills, presupuesto, compatibilidad)
-- Supuestos conocidos
-
 
 ## Criterios usados (resumen)
 
-- Valor al producto (impacto)
-- Tiempo de entrega
-- Curva de aprendizaje
-- Compatibilidad entre equipos
-- Riesgo/seguridad
-- Operación/mantenimiento
+
+- Bullets points
 
 ## Alternativas consideradas
 
@@ -44,11 +36,10 @@ Qué vamos a hacer (claro y concreto).
 ## Consecuencias
 
 **Positivas**
-
 - 
 
 **Negativas / Trade-offs**
-
+- 
 
 ## Notas / Links
 

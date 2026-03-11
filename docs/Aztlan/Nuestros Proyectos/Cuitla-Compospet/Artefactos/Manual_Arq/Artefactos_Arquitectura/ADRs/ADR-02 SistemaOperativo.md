@@ -1,8 +1,8 @@
 ---
-title: "ADR-02 Sistema Operativor"
+title: "ADR-02 Sistema Operativo"
 ---
 
-# ADR-02: Ubuntu 24.04 Linux
+# ADR-02: Sistema Operativo Ubuntu 24.04 Linux
 
 **Fecha:** 2026-03-10
 
@@ -34,36 +34,32 @@ Necesitamos definir el sistema operativo del VPS para desplegar CompoPet. La ele
         - Es LTS (Long-Term Support)
         - Es la LTS más reciente disponible
     - Contras
-        - No es la versión mas nueva
+        - No es la versión mas nueva 
 3. **Ubuntu 25.10**
     - Pros
-        - 99,99 % de disponibilidad
-        - 250 GB de almacenamiento
-        - Mas barato que hostinger despues de 5 años
+        - Paquetes más recientes
     - Contras
         - No es LTS (Long-Term Support)
     
 
 ## Decisión
 
-Ubuntu
-
+Elegimos Ubuntu 24.04 LTS como sistema operativo para el VPS, por ser la versión LTS más reciente entre las opciones ofrecidas por Hostinger
 
 ## Consecuencias
 
 **Positivas**
-- Menor riesgo operativo y mejor capacidad de recuperación ante fallas.
-- Infraestructura alineada a los minimos establecidos
+- Entorno estable con soporte a largo plazo.
+- Menor riesgo de cambios inesperados.
 
 **Negativas / Trade-offs**
-- Costo mensual recurrente. 
-- Todo ya esta limitado
+- No teniamos muchas opciones de sistemas operativos, lo que nos limita.
 
 ## Notas / Links
 
 - [Operating Systems](https://www.hostinger.com/support/1583571-what-are-the-available-operating-systems-for-vps-at-hostinger/)
-- [Oracle siempre gratis](https://docs.oracle.com/es-ww/iaas/Content/FreeTier/freetier_topic-Always_Free_Resources.htm )
-- [Ionos VPS L](https://www.ionos.mx/servidores/vps#features-longlist)
+- [LTS](https://stackoverflow.com/questions/289565/what-is-lts-long-term-support)
+
 
 ---
 
