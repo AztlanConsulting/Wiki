@@ -16,7 +16,7 @@ sidebar_position: 1
 - [Estrategia de desarrollo](https://docs.google.com/document/d/1PoOLtvvigEFOjN5cPRgTm9IPhmUepv2hTL0bc0cRz4I/edit?usp=drive_link)
 - [Estimación SP](../estimacionStoryP.md)
 - [WBS](../WBS.md)
-- [Validación de la visión del proyecto](https://docs.google.com/document/d/1U3Xf4u492_j3Labn_bFUKl9OH12SOf43LL1bN_Lk6Vw/edit?tab=t.dmvhdli3c9vb)
+- [Validación de la visión del proyecto](https://drive.google.com/file/d/1jJPdzdQkjPzOsp4noMrVg50chPnFaYXG/view?usp=sharing)
 
 ---
 
