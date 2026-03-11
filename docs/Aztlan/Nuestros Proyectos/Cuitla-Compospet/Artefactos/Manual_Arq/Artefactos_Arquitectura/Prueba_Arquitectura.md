@@ -1,5 +1,6 @@
 ---
 title: "Prueba de Arquitectura Cuitla-Compospet"
+sidebar_position: 5
 ---
 
 Se realizara despues. 
