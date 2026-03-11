@@ -35,10 +35,12 @@ Utiliza herramientas de ciberseguridad para detectar, filtrar y mitigar el tráf
 
 # Backend
 ### [Node.js](http://Node.js)
-Entorno de ejecución para JavaScript en el servidor, maneja las solicitudes HTTP y la lógica de negocio.
+Entorno de ejecución para JavaScript en el servidor, maneja las solicitudes HTTP y la lógica de negocio.<br/><br/>
+[ADR-04](../Artefactos_Arquitectura/ADRs/ADR-04%20NodeJs.md)
 
 ### [Express.js](http://Express.js)
-Framework para Node.js que facilita la creación de servidores web y la definición de rutas de API.
+Framework para Node.js que facilita la creación de servidores web y la definición de rutas de API.<br/><br/>
+[ADR-05](../Artefactos_Arquitectura/ADRs/ADR-05%20ExpressJs.md)
 
 # Frontend
 ### [React js](https://react.dev/)
