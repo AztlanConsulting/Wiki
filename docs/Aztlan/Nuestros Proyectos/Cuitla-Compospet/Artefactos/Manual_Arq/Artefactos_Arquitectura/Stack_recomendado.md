@@ -54,11 +54,17 @@ Tiene herramientas nativas como Row Level Security que sirven para reforzar auto
 ### [Google Oath](https://developers.google.com/identity/protocols/oauth2/web-server?hl=es-419)
 Verifica la identidad del usuario y le pregunta qué permisos está dispuesto a conceder a una aplicación externa.
 
+[ADR-08](../Artefactos_Arquitectura/ADRs/ADR-8%20Google%20Oath.md)
+
 ### [Google Gmail](https://developers.google.com/workspace/gmail/api/reference/rest?hl=es-419)
 Busca correos específicos, organiza mensajes mediante etiquetas, redacta respuestas automáticas y envía notificaciones sin que el usuario tenga que escribir el correo manualmente.
 
+[ADR-09](../Artefactos_Arquitectura/ADRs/ADR-09%20Gmail%20API.md)
+
 ### [Google Sheets](https://developers.google.com/workspace/sheets?hl=es-419)
 Crea hojas nuevas, edita valores en tiempo real, aplica formatos y extrae listas de datos para usarlas en otros lugares.
+
+[ADR-10](../Artefactos_Arquitectura/ADRs/ADR-10%20Google%20Sheets%20API.md)
 
 Categorias
 

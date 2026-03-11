@@ -2,7 +2,25 @@
 title: "Prueba de Arquitectura Cuitla-Compospet"
 ---
 
-Se realizara despues. 
+## Proposito 
+
+## Arquitectura
+
+## Guias, recursos y Tutoriales
+
+### Prueba 1 
+
+- Paso 1 
+- Paso 2
+
+### Prueba 2
+
+- Paso 1 
+- Paso 2
+
+### Evidencia
+
+[Link]()
 
 | Version | Creado por: | Auditado por: | Descripción | Fecha |
 |---------|------------|--------------|---------------|-------|

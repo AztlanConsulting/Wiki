@@ -141,8 +141,9 @@ Axe-core cuenta con diferentes tipos de reglas para WCAG 2.0, 2.1 y 2.2 en los n
 
 ##  ADRs
 
--
- 
+- [ADR-08 Google OAuth 2.0](../Artefactos_Arquitectura/ADRs/ADR-8%20Google%20Oath.md)
+- [ADR-09 Gmail API](../Artefactos_Arquitectura/ADRs/ADR-09%20Gmail%20API.md)
+- [ADR-10 Google Sheets API](../Artefactos_Arquitectura/ADRs/ADR-10%20Google%20Sheets%20API.md)
 
 ## Diagrama de Despliegue 
 [Diagrama de despliegue](https://drive.google.com/drive/folders/1unCmhpQJstqL7ZR0USmDIarhOaIjlOVT)
@@ -171,7 +172,7 @@ Axe-core cuenta con diferentes tipos de reglas para WCAG 2.0, 2.1 y 2.2 en los n
 
 ## Prueba de Arquitectura
 
-- Planeación de prubea arquitectura
+- [Planeación de prubea arquitectura](../Manual_Arq/Artefactos_Arquitectura/Prueba_Arquitectura.md)
 
 
 ## Estrategia de integración continua
