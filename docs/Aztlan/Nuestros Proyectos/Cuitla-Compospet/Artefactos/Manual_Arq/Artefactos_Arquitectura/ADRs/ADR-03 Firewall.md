@@ -2,7 +2,7 @@
 title: "ADR-03 Firewall WAF Cloudflare"
 ---
 
-# ADR-01: Firewall Cloudflare WAF
+# ADR-03: Firewall Cloudflare WAF
 
 **Fecha:** 2026-03-10
 

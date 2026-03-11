@@ -141,12 +141,16 @@ Axe-core cuenta con diferentes tipos de reglas para WCAG 2.0, 2.1 y 2.2 en los n
 
 ##  ADRs
 
-- [ADR-01 Servidor Hostinger](../Artefactos_Arquitectura/ADRs/ADR-01%20Servidor%20Hostinger.md)
-- [ADR-02 Sistema Operativo](../Artefactos_Arquitectura/ADRs/ADR-02%20SistemaOperativo.md)
-- [ADR-03 Firewall WAF Cloudflare](../Artefactos_Arquitectura/ADRs/ADR-03%20Firewall.md)
-- [ADR-08 Google OAuth 2.0](../Artefactos_Arquitectura/ADRs/ADR-8%20Google%20Oath.md)
-- [ADR-09 Gmail API](../Artefactos_Arquitectura/ADRs/ADR-09%20Gmail%20API.md)
-- [ADR-10 Google Sheets API](../Artefactos_Arquitectura/ADRs/ADR-10%20Google%20Sheets%20API.md)
+- [ADR-01 Servidor Hostinger](../Manual_Arq/Artefactos_Arquitectura/ADRs/ADR-01%20Servidor%20Hostinger.md)
+- [ADR-02 Sistema Operativo](../Manual_Arq/Artefactos_Arquitectura/ADRs/ADR-02%20SistemaOperativo.md)
+- [ADR-03 Firewall WAF Cloudflare](../Manual_Arq/Artefactos_Arquitectura/ADRs/ADR-03%20Firewall.md)
+- [ADR-04 Node.js](../Manual_Arq/Artefactos_Arquitectura/ADRs/ADR-04%20NodeJs.md)
+- [ADR-05 ExpressJS](../Manual_Arq/Artefactos_Arquitectura/ADRs/ADR-05%20ExpressJs.md)
+- [ADR-06 Front End](../Manual_Arq/Artefactos_Arquitectura/ADRs/ADR-06%20Front%20End.md)
+- [ADR-07 Bases de Datos](../Manual_Arq/Artefactos_Arquitectura/ADRs/ADR-7%20Bases%20de%20Datos.md)
+- [ADR-08 Google OAuth 2.0](../Manual_Arq/Artefactos_Arquitectura/ADRs/ADR-8%20Google%20Oath.md)
+- [ADR-09 Gmail API](../Manual_Arq/Artefactos_Arquitectura/ADRs/ADR-09%20Gmail%20API.md)
+- [ADR-10 Google Sheets API](../Manual_Arq//Artefactos_Arquitectura/ADRs/ADR-10%20Google%20Sheets%20API.md)
 
  
 
