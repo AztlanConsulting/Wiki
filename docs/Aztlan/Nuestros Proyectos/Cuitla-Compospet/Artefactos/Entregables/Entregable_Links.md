@@ -1,5 +1,5 @@
 ---
-title: "Entregable 1"
+title: "Lista de Artefacctos Periodo 1"
 sidebar_position: 1
 ---
 
