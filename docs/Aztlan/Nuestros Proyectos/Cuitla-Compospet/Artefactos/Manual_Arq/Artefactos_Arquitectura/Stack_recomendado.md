@@ -46,6 +46,8 @@ Framework para Node.js que facilita la creación de servidores web y la definici
 ### [React js](https://react.dev/)
 Biblioteca de JavaScript para construir interfaces de usuario. Utilizada para gestionar el estado y las interacciones en la aplicación web.
 
+[ADR-06](../Artefactos_Arquitectura/ADRs/ADR-06%20Front%20End.md)
+
 ### [Bulma](https://bulma.io/)
 Bulma es un framework CSS gratuito y de código abierto basado en Flexbox y desarrollado con Sass. Es 100 % responsivo, totalmente modular y está disponible de forma gratuita.
 
@@ -57,6 +59,8 @@ Biblioteca de JavaScript que reemplaza la función alert() tradicional de JavaSc
  Crear tablas para guardar datos, permite realizar consultas para encontrar información específica y asegura que los datos sigan reglas estrictas para evitar errores o duplicados
 
 Tiene herramientas nativas como Row Level Security que sirven para reforzar autorización a nivel de datos
+
+[ADR-07](../Artefactos_Arquitectura/ADRs/ADR-07%20Bases%20de%20Datos.md)
 
 # APIs
 ### [Google Oath](https://developers.google.com/identity/protocols/oauth2/web-server?hl=es-419)

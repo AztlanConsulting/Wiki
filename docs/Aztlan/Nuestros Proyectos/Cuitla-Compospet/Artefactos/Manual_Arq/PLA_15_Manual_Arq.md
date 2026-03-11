@@ -147,8 +147,8 @@ Axe-core cuenta con diferentes tipos de reglas para WCAG 2.0, 2.1 y 2.2 en los n
 - [ADR-04 Node.js](../Manual_Arq/Artefactos_Arquitectura/ADRs/ADR-04%20NodeJs.md)
 - [ADR-05 ExpressJS](../Manual_Arq/Artefactos_Arquitectura/ADRs/ADR-05%20ExpressJs.md)
 - [ADR-06 Front End](../Manual_Arq/Artefactos_Arquitectura/ADRs/ADR-06%20Front%20End.md)
-- [ADR-07 Bases de Datos](../Manual_Arq/Artefactos_Arquitectura/ADRs/ADR-7%20Bases%20de%20Datos.md)
-- [ADR-08 Google OAuth 2.0](../Manual_Arq/Artefactos_Arquitectura/ADRs/ADR-8%20Google%20Oath.md)
+- [ADR-07 Bases de Datos](../Manual_Arq/Artefactos_Arquitectura/ADRs/ADR-07%20Bases%20de%20Datos.md)
+- [ADR-08 Google OAuth 2.0](../Manual_Arq/Artefactos_Arquitectura/ADRs/ADR-08%20Google%20Oath.md)
 - [ADR-09 Gmail API](../Manual_Arq/Artefactos_Arquitectura/ADRs/ADR-09%20Gmail%20API.md)
 - [ADR-10 Google Sheets API](../Manual_Arq//Artefactos_Arquitectura/ADRs/ADR-10%20Google%20Sheets%20API.md)
 

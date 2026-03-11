@@ -1,5 +1,5 @@
 ---
-title: "ADR-7 - Selección del Sistema de Gestión de Bases de Datos"
+title: "ADR-07 - Selección del Sistema de Gestión de Bases de Datos"
 ---
 
 # ADR-07: Selección del Sistema de Gestión de Bases de Datos 
