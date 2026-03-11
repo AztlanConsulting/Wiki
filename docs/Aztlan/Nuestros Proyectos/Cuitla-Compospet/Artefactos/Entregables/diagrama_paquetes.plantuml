@@ -1,0 +1,58 @@
+@startuml
+
+package "backend"{
+  package "src"{
+    package "routes"{
+
+    }
+    
+    package "controller"{
+      
+    }
+    
+    package "model"{
+    
+    }
+    
+    package "util"{
+      [database.js]
+    }
+    
+    package "sql"{
+      [db.sql]
+    }
+    
+    [app.js]
+  }
+  [package-lock.json]
+  [package.json]
+  [.env]
+  [.gitignore]
+  package "node_modules"{
+  
+  }
+  
+  package "server"{
+    package "users"{
+      
+    }
+    
+    package "restart"{
+      
+    }
+    
+    package "deployment"{
+      [database.sh]
+      [installs.sh]
+      [runThis.sh]
+    }
+  }
+  
+}
+
+[app.js] -> routes
+routes -> controller
+controller -> model
+
+
+@enduml
