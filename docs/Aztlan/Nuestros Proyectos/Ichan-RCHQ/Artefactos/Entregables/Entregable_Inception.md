@@ -1,5 +1,5 @@
 ---
-title: "Ichan - Lista de Artefacctos Periodo 1"
+title: "Ichan - Lista de Artefactos Periodo 1"
 sidebar_position: 1
 ---
 
@@ -22,4 +22,6 @@ sidebar_position: 1
 
 | Version | Creado por: | Auditado por: | Descripción | Fecha |
 |---------|------------|--------------|---------------|-------|
-| 1.0 | Ichan | Fátima Figueroa  |  Entregas con links  | 25/02/2026 |
+| 1.0 | Ichan | Fátima Figueroa  |  Entregas con links  | 10/03/2026 |
+| 1.1 | Yael Charles |Fátima Figueroa |  Corrección de ortografía  | 10/03/2026 |
+
