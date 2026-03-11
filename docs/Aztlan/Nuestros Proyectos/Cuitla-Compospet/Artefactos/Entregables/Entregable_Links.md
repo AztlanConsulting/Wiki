@@ -1,5 +1,5 @@
 ---
-title: "Cuitla - Lista de Artefacctos Periodo 1"
+title: "Cuitla - Lista de Artefactos Periodo 1"
 sidebar_position: 1
 ---
 
@@ -24,3 +24,4 @@ sidebar_position: 1
 |---------|------------|--------------|---------------|-------|
 | 1.0 | Yessica Lora, Kamila Martínez, Fátima Figueroa, Fernanda Valdez, Alejandrea Aredondo | Juan Manuel Murillo  |    | 25/02/2026 |
 | 1.1 | Fátima Figueroa | Yael Charles |  Actualización de links  | 10/03/2026 |
+| 1.2 | Yael Charles |Fátima Figueroa |  Corrección de ortografía  | 10/03/2026 |
