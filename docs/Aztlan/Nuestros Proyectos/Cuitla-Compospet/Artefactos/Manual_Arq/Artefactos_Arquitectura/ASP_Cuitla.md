@@ -1,44 +1,48 @@
 ---
-title: "PLA09 - Plantilla Architecture Starter Pack"
+title: "Architecture Starter Pack"
 sidebar_position: 9
 ---
 
-## Architecture Starter Pack "Equipo" --- Plantilla MVP
+## Architecture Starter Pack Cuitla
 
-**Contexto:** \,[Cada Proyecto tiene diferente contexto] \,[Análisis]
+**Contexto:** Compospet es una empresa que se dedica a la recolecta y entrega de composta. Actualmente, la empresa opera bajo una logística basada en Excel y busca profesionalizar sus flujos de trabajo para potenciar su alcance y eficiencia operativa.
 
 **Objetivos:** Asegurar que cada solución sea construible, escalable y mantenible.
 
-**Usuarios:** \,[Cada Proyecto tiene diferente Usuarios] \,[Context Map]
+**Usuarios:** Administración y clientes de Compospet
 
-**Supuestos:** \,[Diferente para cada Proyecto]
+**Supuestos:** APIs de Google
 
 ## Módulos principales
-[Módulos de cada proyecto, o secciones que se necesitan para que el proyecto funcione, eg: Pagos, Usuarios, Partes del proceso] \,[Diagrama de Componentes]
+* Inicio de sesión
+* Tabla de Clientes
+* Tabla Ruta
+* Recordatorios
+* Pagos
+* Formulario
+* Landing
 
 ## Datos sensibles
 *Cifrar datos sensibles desde un inicio:*
-- Nombre
-- Direcciones
-- Contraseñas
-- Teléfono
-- Contactos en general
-- Pagos
-- Cuenta de banco
-- Información general de pagos
+* Nombre
+* Direcciones
+* Teléfono
+* Usuarios
+* Contraseñas
 
 ## Requerimientos no funcionales mínimos
 **Seguridad:** RBAC (Acceso Basado en Roles), cifrado de datos sensibles, queries parametrizadas, usar ORM (si es base de datos relacional), manejo de cookies y sesiones.
 
-**Disponibilidad:** \,[Definir SLA/SLO mínimo, RTO/RPO, ventanas de mantenimiento]
+**Usabilidad:** Pantallas simplificadas para recolección en calle (pocos clics, botones grandes) y confirmaciones visuales claras.
 
-**Rendimiento:** \,[Definir latencia objetivo, throughput, límites de carga]
+**Fiabilidad:** Disponibilidad mayor de 95%, gestión de errores, timeouts.
 
-**Trazabilidad:** Git, matrices de avance, Pull Requests, commits.
 
 ### Riesgos de mitigación iniciales
-- Cifrado de datos
+- Infraestructura(Disponibilidad)
 - Parametrizar datos
+- Aceptación de API de pagos
+- Recolección de datos
 
 ## Stack de tecnologías
 
