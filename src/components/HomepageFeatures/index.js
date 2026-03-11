@@ -49,6 +49,8 @@ const FeatureList = [
       <a href='https://www.notion.so/151ba79d118c41efbefe7e3b6a8369a6?pvs=21'>ACE</a><br/>
       <a href='https://black-dot-2024.github.io/docs/'>Black Dot</a><br/>
       <a href='https://zany-paper-dca.notion.site/Departamento-Delta-4c94e9e9c14a444990d7df8a8cc3fa4b'>Delta</a><br/>
+      <a href='https://cvjj.notion.site/8e2ad1bf6b2b474baac16a5fa427ffda?v=fb69a2693b72442abdc2d5dafc21bbff'>J.E.D.I. Software</a><br/>
+      <a href='https://sunrise-bookcase-985.notion.site/PIXEL-IT-11e17dd7c0194cc29acaeabc9bbf29e6'>PIXEL.IT</a><br/>
       </>
     ),
   },

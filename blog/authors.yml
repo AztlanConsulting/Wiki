@@ -1,25 +1,272 @@
-yangshun:
-  name: Yangshun Tay
-  title: Ex-Meta Staff Engineer, Co-founder GreatFrontEnd
-  url: https://linkedin.com/in/yangshun
-  image_url: https://github.com/yangshun.png
-  page: true
-  socials:
-    x: yangshunz
-    linkedin: yangshun
-    github: yangshun
-    newsletter: https://www.greatfrontend.com
-
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
+alejandra:
+  name: Alejandra Arredondo TL
+  title: Desarrolladora Cuitla - Compospet
+  url: https://github.com/alearredondo09
+  image_url: https://avatars.githubusercontent.com/u/103458261?v=4 
   page:
     # customize the url of the author page at /blog/authors/<permalink>
     permalink: '/all-sebastien-lorber-articles'
   socials:
-    x: sebastienlorber
-    linkedin: sebastienlorber
-    github: slorber
-    newsletter: https://thisweekinreact.com
+    github: alearredondo09
+    #newsletter: https://thisweekinreact.com
+
+andrea:
+  name: Andrea Fátima Figueroa PO
+  title: Desarrolladora Cuitla - Compospet
+  url: https://github.com/Morgana119
+  image_url: https://avatars.githubusercontent.com/u/145613786?v=4
+  page:
+    permalink: '/andrea'
+  socials:
+    github: Morgana119
+
+yessica:
+  name: Yessica Lora Vázquez AO
+  title: Desarrolladora Cuitla - Compospet 
+  url: https://github.com/Yessi1327
+  image_url: https://avatars.githubusercontent.com/u/198805221?v=4 
+  page:
+    permalink: '/yessi'
+  socials:
+    github: Yessi1327
+
+
+kamila:
+  name: Kamila García Martínez TM
+  title: Desarrolladora Cuitla - Compospet 
+  url: https://github.com/kamimartinez
+  image_url: https://avatars.githubusercontent.com/u/150206270?v=4
+  page:
+    permalink: '/kamila'
+  socials:
+    github: kamimartinez
+
+juan:
+  name: Juan Manuel Murillo López PM
+  title: Desarrollador Cuitla - Compospet 
+  url: https://github.com/JuanManuelMurilloLopez
+  image_url: https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png 
+  page:
+    permalink: '/juan'
+  socials:
+    github: JuanManuelMurilloLopez
+
+luisa:
+  name: Luisa Fernanda Valdez Guillén TM
+  title: Desarrolladora Cuitla - Compospet 
+  url: https://github.com/MentitaRol
+  image_url: https://avatars.githubusercontent.com/u/142357001?v=4  
+  page:
+    permalink: '/luisa'
+  socials:
+    github: MentitaRol
+
+emilia:
+  name: Emilia Cárdenas Lobatón PO
+  title: Desarrolladora Huitlacuaches - Fungivora
+  url: https://github.com/EmiliaCardenas
+  image_url: https://avatars.githubusercontent.com/u/142023291?v=4 
+  page:
+    permalink: '/emilia'
+  socials:
+    github: EmiliaCardenas
+
+alejandro:
+  name: Alejandro Cruz TM
+  title: Desarrollador Huitlacuaches - Fungivora
+  url: https://github.com/A01712317
+  image_url: https://avatars.githubusercontent.com/u/149627608?v=4 
+  page:
+    permalink: '/alejandro'
+  socials:
+    github: A01712317
+
+alejandroa:
+  name: Alejandro Adrián García Martínez AO
+  title: Desarrollador Huitlacuaches - Fungivora 
+  url: https://github.com/Gamezas
+  image_url: https://avatars.githubusercontent.com/u/142269176?v=4
+  page:
+    permalink: '/alejandroa'
+  socials:
+    github: Gamezas
+
+eliza:
+  name: Elizabeth Orduña TM
+  title: Desarrolladora Huitlacuaches - Fungivora 
+  url: https://github.com/Marel52
+  image_url: https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png 
+  page:
+    permalink: '/eliza'
+  socials:
+    github: Marel52
+
+santiago:
+  name: Santiago Palacios Menes TL
+  title: Desarrollador Huitlacuaches - Fungivora 
+  url: https://github.com/SANTI-Palacios06
+  image_url: https://avatars.githubusercontent.com/u/200001231?v=4 
+  page:
+    permalink: '/santiago'
+  socials:
+    github: SANTI-Palacios06
+
+roberto:
+  name: Roberto Serna Niño TM
+  title: Desarrollador Huitlacuaches - Fungivora 
+  url: https://github.com/Rigby119
+  image_url: https://avatars.githubusercontent.com/u/142356904?v=4
+  page:
+    permalink: '/roberto'
+  socials:
+    github: Rigby119
+
+horacio:
+  name: Horacio Villela Hernández PM
+  title: Desarrollador Huitlacuaches - Fungivora 
+  url: https://github.com/Yugior
+  image_url: https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png 
+  page:
+    permalink: '/horacio'
+  socials:
+    github: Yugior
+
+manuel:
+  name: Manuel Bajos Rivera TM
+  title: Desarrollador Ichan - RCHQ
+  url: https://github.com/Manu090704
+  image_url: https://avatars.githubusercontent.com/u/149975766?v=4
+  page:
+    permalink: '/manuel'
+  socials:
+    github: Manu090704
+
+andre:
+  name: Andre Agle TM
+  title: Desarrollador Ichan - RCHQ 
+  url: https://github.com/famchiyaque
+  image_url: https://avatars.githubusercontent.com/u/111217225?v=4 
+  page:
+    permalink: '/andre'
+  socials:
+    github: famchiyaque
+
+edmundo:
+  name: Edmundo Canedo Cervantes AO
+  title: Desarrollador Ichan - RCHQ
+  url: https://github.com/edcance
+  image_url: https://avatars.githubusercontent.com/u/95944066?v=4
+  page:
+    permalink: '/edmundo'
+  socials:
+    github: edcance
+
+yael:
+  name: Yael Charles Marín TM
+  title: Desarrollador Ichan - RCHQ
+  url: https://github.com/YaelChar417
+  image_url: https://avatars.githubusercontent.com/u/149627661?v=4
+  page:
+    permalink: '/yael'
+  socials:
+    github: YaelChar417
+
+marco:
+  name: Marco Iván Flores VIllanueva TM
+  title: Desarrollador Ichan - RCHQ
+  url: https://github.com/tuzobus
+  image_url: https://avatars.githubusercontent.com/u/47198365?v=4
+  page:
+    permalink: '/marco'
+  socials:
+    github: tuzobus
+
+oswa:
+  name: Oswaldo Isaias Hernández Santes PO
+  title: Desarrollador Ichan - RCHQ
+  url: https://github.com/taqueritospro
+  image_url: https://cdn.discordapp.com/attachments/1478122438205243645/1480799203364962435/IMG20260123105230.jpg?ex=69b0fd3a&is=69afabba&hm=3f7fe42fcd3be60b5ff1b7cbacceeab780ceaf62ace87c0e4e2caa8038a7c459
+  page:
+    permalink: '/oswa'
+  socials:
+    github: taqueritospro
+
+emilio:
+  name: Emilio Santiago Lopez Quiñonez TL
+  title: Desarrollador Ichan - RCHQ
+  url: https://github.com/EmilioQuinonez
+  image_url:  https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png 
+  page:
+    permalink: '/emilio'
+  socials:
+    github: EmilioQuinonez
+
+santiagoa:
+  name: Santiago Alducin Villaseñor AO
+  title: Desarrollador Xólotl-SOS
+  url: https://github.com/SALV19
+  image_url:  https://avatars.githubusercontent.com/u/145412063?v=4
+  page:
+    permalink: '/santiagoa'
+  socials:
+    github: SALV19
+
+jorge:
+  name: Jorge Armando Garzón Varela TL
+  title: Desarrollador Xólotl-SOS
+  url: https://github.com/jorgeGrVl
+  image_url:  https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png 
+  page:
+    permalink: '/jorge'
+  socials:
+    github: jorgeGrVl
+
+donju:
+  name: Dongju Mun TM
+  title: Desarrollador Xólotl-SOS
+  url: https://github.com/dongjumun
+  image_url:  https://avatars.githubusercontent.com/u/177698362?v=4
+  page:
+    permalink: '/donju'
+  socials:
+    github: dongjumun
+
+mauricio:
+  name: Mauricio Olguín Sánchez PO
+  title: Desarrollador Xólotl-SOS
+  url: https://github.com/TheSimpleMau
+  image_url:  https://avatars.githubusercontent.com/u/86382788?v=4
+  page:
+    permalink: '/mauricio'
+  socials:
+    github: TheSimpleMau
+
+sebastian:
+  name: Sebastian Pérez García TM
+  title: Desarrollador Xólotl-SOS
+  url: https://github.com/23456312
+  image_url:  https://avatars.githubusercontent.com/u/142269156?v=4 
+  page:
+    permalink: '/sebastian'
+  socials:
+    github: 23456312o 
+
+frida:
+  name: Frida Xcaret Vargas Trejo TM
+  title: Desarrollador Xólotl-SOS
+  url: https://github.com/Fridaxca123
+  image_url:  https://avatars.githubusercontent.com/u/82528468?v=4
+  page:
+    permalink: '/frida'
+  socials:
+    github: Fridaxca123
+
+mateo:
+  name: Mateo Rodrigo Zapata Crapa TM
+  title: Desarrollador Xólotl-SOS
+  url: https://github.com/mzapata25
+  image_url:  https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png 
+  page:
+    permalink: '/mateo'
+  socials:
+    github: mzapata25
