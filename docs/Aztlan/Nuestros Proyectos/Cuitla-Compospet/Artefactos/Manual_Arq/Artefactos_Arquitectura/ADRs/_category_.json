@@ -1,8 +1,8 @@
 {
   "label": "ADRs",
-  "position": 2,
+  "position": 1,
   "link": {
     "type": "generated-index",
-    "description": "Artefactos del Proyecto Cuitla-Compospet."
+    "description": "ADRs del Proyecto Cuitla-Compospet."
   }
 }
