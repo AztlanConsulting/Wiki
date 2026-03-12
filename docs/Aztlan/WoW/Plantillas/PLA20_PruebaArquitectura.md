@@ -1,5 +1,6 @@
 ---
-title: "Prueba de Arquitectura Cuitla-Compospet"
+title: "PLA15 Prueba de Arquitectura Cuitla-Compospet"
+sidebar_position: 15
 ---
 
 ## Proposito 

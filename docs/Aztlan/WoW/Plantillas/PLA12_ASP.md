@@ -1,5 +1,6 @@
 ---
 title: "PLA12 - Plantilla ADR (Architecture decision record)"
+sidebar_position: 12
 ---
 
 # ADR-XXX: Título de la decisión
