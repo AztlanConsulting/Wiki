@@ -1,6 +1,6 @@
 ---
 title: "PLA01 - Plantilla Matriz Área de Proceso"
-sidebar_position: 3
+sidebar_position: 1
 ---
 
 ## [Nombre del Área de Proceso] - Nivel de madurez 2 

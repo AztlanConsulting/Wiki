@@ -1,16 +1,12 @@
 ---
-title: "Stack de Arquitectura"
-sidebar_position: 4
+title: "PLA16 - Stack de Arquitectura"
+sidebar_position: 16
 ---
 
-# Servidor
-## [Plan KVM 2 de Hostinger](https://www.hostinger.com/support/6976044-parameters-and-limits-of-hosting-plans-in-hostinger/#h_0fbdbe1ac8)
-* 2 núcleos de vCPU cores
-* 8 GB RAM
-* 100 GB de espacio en disco NVMe
-* 8 TB de ancho de banda
+# Componente
+## [Link del componente]()
 
-[ADR-01](../Artefactos_Arquitectura/ADRs/ADR-01%20Servidor%20Hostinger.md)
+[ADR del componente]()
 
 
 # Sistema Operativo
