@@ -1,9 +1,7 @@
 ---
-title: "Spike de React"
+title: "SPK01 - React"
 sidebar_position: 1
 ---
-
-## Spike de React
 
 **Duración:** 1 día  
 **Funcionalidad:** Front-end web  
