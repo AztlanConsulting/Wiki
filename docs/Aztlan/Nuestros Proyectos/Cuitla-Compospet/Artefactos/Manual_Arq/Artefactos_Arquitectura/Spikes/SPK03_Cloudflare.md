@@ -3,10 +3,8 @@ title: "SPK03 - Cloudflare"
 sidebar_position: 3
 ---
 
-# Spike de Cloudflare
-
 **Duración:** 1 día  
-**Funcionalidad:** Inicio de sesión
+**Funcionalidad:** Seguridad, OWASP, WAF, DDoS, DNS, SSL
 
 
 ## Beneficios

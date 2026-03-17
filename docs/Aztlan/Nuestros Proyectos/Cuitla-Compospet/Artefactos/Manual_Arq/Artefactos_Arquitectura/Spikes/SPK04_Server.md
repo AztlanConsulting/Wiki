@@ -1,10 +1,9 @@
 ---
-title: "Spike Servidor"
+title: "SPK04 - Servidor (Hostinger)"
 sidebar_position: 4
 ---
-## Spike Instalación de Servidor
 
-**Duración:** 1 día
+**Duración:** 1 día \
 **Funcionalidad:** Infraestructura
 
 ## Facilidad de aprendizaje
