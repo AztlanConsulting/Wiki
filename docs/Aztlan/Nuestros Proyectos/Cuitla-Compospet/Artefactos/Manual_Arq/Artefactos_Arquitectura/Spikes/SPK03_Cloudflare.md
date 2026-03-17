@@ -1,6 +1,6 @@
 ---
 title: "SPK03 - Cloudflare"
-sidebar_position: 5
+sidebar_position: 3
 ---
 
 # Spike de Cloudflare

@@ -1,6 +1,6 @@
 ---
 title: "SPK02 - NodeJS"
-sidebar_position: 02
+sidebar_position: 2
 ---
 
 **Duración:** 1 día  
