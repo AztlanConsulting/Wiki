@@ -1,6 +1,6 @@
 ---
-title: "SPK04 - Express"
-sidebar_position: 4
+title: "SPK06 - Express"
+sidebar_position: 6
 ---
 
 **Duración:** 1 día  

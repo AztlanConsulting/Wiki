@@ -1,6 +1,6 @@
 ---
 title: "Spike Servidor"
-sidebar_position: 1
+sidebar_position: 4
 ---
 ## Spike Instalación de Servidor
 
