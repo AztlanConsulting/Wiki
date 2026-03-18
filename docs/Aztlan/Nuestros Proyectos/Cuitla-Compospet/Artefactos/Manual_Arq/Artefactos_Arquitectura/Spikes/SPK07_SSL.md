@@ -21,12 +21,12 @@ sidebar_position: 7
 **Nivel:** Fácil
 
 ### Por qué es fácil
-- No requiere configuraciones avanzada
-- Instalación y renovación automática
+- La configuración es simple
+- Hay mucha documentación
 
 ### Tiempo estimado de aprendizaje
-- **Uso básico:** 30 minutos 
-- **Configuración para producción:** 1 hora
+- **Uso básico:** 1 hora
+- **Configuración para producción:** 2 horas
 
 ## Recursos
 - [How to Install Lifetime SSL at Hostinger](https://www.hostinger.com/support/1583258-how-to-install-lifetime-ssl-at-hostinger/)
@@ -35,21 +35,57 @@ sidebar_position: 7
 
 ### 1. ¿Qué es el SSL de Hostinger?
 Hostinger proporciona certificados SSL gratuitos que:
-- Se instalan automáticamente al agregar un dominio o subdominio
 - Se renuevan automáticamente mientras el sitio está alojado en Hostinger
 - Garantizan una configuración segura mediante HTTPS
 
-### 2. Instalación del SSL
-- Instalación automática al agregar un dominio al hosting
-- No requiere intervención del usuario
+### 2. Instalación de Nginx
 
-### 3. Instalación manual
-- Agregar dominio/subdominio al hosting
-- En el hPanel, Ir a Websites -> Dashboard
-- Buscar sección SSL
-- Dar click en Install SSL
+``` shell
+sudo apt update
+sudo apt install nginx
+```
+``` shell
+sudo systemctl status nginx
+```
 
+### 3. Configuración de reverse proxy
+``` shell
+sudo vi /etc/nginx/sites-aviable/api
+```
+``` yaml
+server {
+    listen 80;
+    server_name compospetmx.org;
+
+    location / {
+        proxy_pass http://localhost:3000;
+        proxy_http_version 1.1;
+        proxy_set_header Upgrade $http_upgrade;
+        proxy_set_header Connection 'upgrade';
+        proxy_set_header Host $host;
+        proxy_cache_bypass $http_upgrade;
+    }
+}
+```
+
+### 4. Instalación de SSL con Let's Encrypt
+``` shell
+sudo apt install certbot python3-cerbot-nginx
+```
+``` shell
+sudo cerbot --nginx -d compospetmx.org
+```
+
+
+### 5. Validación
+
+[compospetmx.org](https://compospetmx.org)
+
+``` shell
+curl -I https://compospetmx.org
+```
 
 | Version | Creado por: | Auditado por: | Descripción | Fecha |
 |---------|------------|--------------|---------------|-------|
-| 1.0 | Juan Manuel Murillo |  | Primera versión del spike del certificado SSL | 17/03/2026 |
+| 1.0 | Juan Manuel Murillo | Alejandra Arredondo | Primera versión del spike del certificado SSL | 17/03/2026 |
+| 1.1 | Juan Manuel Murillo | Luisa Fernanda Valdez | Actualización del spike del certificado SSL | 17/03/2026 |
