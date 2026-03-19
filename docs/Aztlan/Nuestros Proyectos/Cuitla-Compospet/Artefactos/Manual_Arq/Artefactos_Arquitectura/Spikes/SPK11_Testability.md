@@ -1,6 +1,6 @@
 ---
-title: "SPK08 - Testability (Jest & GitHub Actions)"
-sidebar_position: 8
+title: "SPK11 - Testability (Jest & GitHub Actions)"
+sidebar_position: 11
 ---
 
 **Duración:** 1 día  
