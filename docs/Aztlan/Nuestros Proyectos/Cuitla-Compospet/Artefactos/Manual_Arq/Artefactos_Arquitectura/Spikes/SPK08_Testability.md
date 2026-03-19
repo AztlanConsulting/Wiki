@@ -1,10 +1,10 @@
 ---
-title: "SPK08 - Testability (Jest & Github Actions)"
+title: "SPK08 - Testability (Jest & GitHub Actions)"
 sidebar_position: 8
 ---
 
 **Duración:** 1 día  
-**Funcionalidad:** Tests automáticos para el backend
+**Funcionalidad:** Implementación de pruebas automáticas para validar el backend
 
 ## Beneficios
 
@@ -62,7 +62,84 @@ sidebar_position: 8
 - Ejemplos de integración continua (CI/CD)  
 
 ## Tutorial básico
-..
+
+### **Jest**
+
+1. Instalar dependencia:
+
+```bash
+npm install --save-dev jest
+```
+
+2. Configurar script en package.json:
+
+````json
+"scripts": {
+  "test": "jest"
+}
+````
+
+3. Crear función a probar:
+````javascript
+function suma(a, b) {
+  return a + b;
+}
+
+module.exports = suma;
+````
+
+4. Crear archivo de prueba (suma.test.js):
+````javascript
+const suma = require('./suma');
+
+test('suma 1 + 2 = 3', () => {
+  expect(suma(1, 2)).toBe(3);
+});
+````
+
+5. Ejecutar pruebas:
+````bash
+npm test
+````
+
+### **Github Actions**
+1. Crear carpeta:
+````
+.github/workflows
+````
+2. Crear el archivo de test.yml:
+````yaml
+name: Run Tests
+
+on:
+  push:
+    on:
+        pull_request:
+            branches: [ "develop", "main" ]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run tests
+        run: npm test
+
+````
+3. Subir cambios al repositorio
+GitHub ejecutará automáticamente los tests en cada push o pull request.
 
 ### Control de versiones
 
