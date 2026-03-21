@@ -1,5 +1,5 @@
 ---
-title: "PLA13 - PostgreSQL Spike"
+title: "SPK12 - PostgreSQL Spike"
 ---
 
 **Duración:** 1 día  
@@ -14,11 +14,13 @@ PostgreSQL es una base de datos relacional, por lo que se adapta bien a sistemas
 - Es adecuada para modelar información estructurada del proyecto.
 - Facilita escalar el proyecto más adelante pues es capaz de ajustarse al número de CPU y a la cantidad de memoria disponible de forma óptima.
 - Estabilidad y confiabilidad
+- Facilidad para aprender cuando tienes conocimientos previos en SQL. 
 
 ## Desventajas
 
 - Es lento en inserciones y actualizaciones en bases de datos pequeñas, PostgreSQL está diseñado para ambientes de alto volumen.
 - No tiene soporte oficial. PostgreSQL cuenta con foros oficiales de comunidad
+- La interfaz de manejo de postgresql es poco intuitiva y dificil de manejar
 
 ## Facilidad de aprendizaje
 
@@ -28,26 +30,45 @@ PostgreSQL es una base de datos relacional, por lo que se adapta bien a sistemas
 
 - [PostgreSQL en Ubuntu](https://www.postgresql.org/download/linux/ubuntu/)
 - [Install and configure PostgreSQL](https://ubuntu.com/server/docs/how-to/databases/install-postgresql/)
-- [](https://www.youtube.com/watch?v=n2Fluyr3lbc)
-- [](https://www.youtube.com/watch?v=eg-YERl3iEc)
-- [](https://www.youtube.com/watch?v=loIDJX0d6G0)
-- [](https://www.youtube.com/watch?v=gEJcMrk3E-Q&list=PLgqdACsQ8US2DCzQVrdZDZCTtTFHMY0as)
+- [PostgreSQL in 100 Seconds](https://www.youtube.com/watch?v=n2Fluyr3lbc)
+- [Razones para elegir POSTGRESQL](https://www.youtube.com/watch?v=eg-YERl3iEc)
+- [Creating a Database](https://www.postgresql.org/docs/current/tutorial-createdb.html)
+- [Accessing a Database](https://www.postgresql.org/docs/current/tutorial-accessdb.html)
 
 ## Tutorial
 
-**Install**
-- Ingresar al link de instalación: 
-- Setup
-    - Seleccionar todos
-    - Colocar la contraseña de tu preferencia
-    - Elegir el puerto 5432?
-    - Utilizar ‘DEFAULT’
-    - Continuar Instalación
-    - Elegir la opción ‘PostgreSQL 18 (x64) on port 5432’
+**Instalación en un servidor**
 
+1.  Instalación Postgresql en el Servidor Ubuntu 24.04
 
+```bash
+    sudo apt install postgresql
+```
+2. Crear Rol/Usuario en Postgresql, para poder conectarse
+
+```bash
+    sudo su - postgres
+    psql -U postgres
+
+    sudo apt install postgresql
+```
+
+3. Crear Base de datos
+
+```bash
+    createdb compospetbd
+```
+
+4. Acceso a las bases de datos
+
+```bash
+    psql compospetbd
+```
+
+[Documentación Postgresql Compospet](https://docs.google.com/document/d/1QXJiha9g6gh5MoR-EbYLULS2_-xZbUYKRYKi7TGZhm0/edit?tab=t.0)
 
 
 | Version | Creado por: | Auditado por: | Descripción | Fecha |
 |---------|------------|--------------|---------------|-------|
-| 1.0     | -Yessica Lora Vazquez   |  Juan Manuel Murillo | Plantilla inicial para guías.  | 16/02/2026 |
+| 1.0     | -Yessica Lora Vazquez   |  Juan Manuel Murillo | Spike Postgresql.  | 16/02/2026 |
+| 1.0     | -Yessica Lora Vazquez   |  Juan Manuel Murillo | Acualización Postgresql.  | 21/03/2026 |
