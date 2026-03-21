@@ -50,16 +50,22 @@ PostgreSQL es una base de datos relacional, por lo que se adapta bien a sistemas
     sudo su - postgres
     psql -U postgres
 
-    sudo apt install postgresql
+    CREATE ROLE cuitla26 LOGIN CREATEDB;
+
+    sudo su - postgres
+    psql compospetdb
+    CREATE USER ________ WITH PASSWORD “________”;
 ```
 
-3. Crear Base de datos
+3. Se cambiará el puerto de la BD para más seguridad
+
+4. Crear Base de datos
 
 ```bash
     createdb compospetbd
 ```
 
-4. Acceso a las bases de datos
+5. Acceso a las bases de datos
 
 ```bash
     psql compospetbd
