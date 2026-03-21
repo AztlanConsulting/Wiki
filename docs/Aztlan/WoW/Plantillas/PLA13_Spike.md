@@ -34,8 +34,6 @@ sidebar_position: 13
 
 ## Tutorial básico
 
-### Crear componentes
-
 
 | Version | Creado por: | Auditado por: | Descripción | Fecha |
 |---------|------------|--------------|---------------|-------|
