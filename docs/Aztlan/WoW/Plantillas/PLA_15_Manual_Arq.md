@@ -1,6 +1,6 @@
 ---
 title: "PLA17 - Manual de Arquitectura"
-slidebar_position : 17
+sidebar_position : 17
 ---
 
 ## Proposito
