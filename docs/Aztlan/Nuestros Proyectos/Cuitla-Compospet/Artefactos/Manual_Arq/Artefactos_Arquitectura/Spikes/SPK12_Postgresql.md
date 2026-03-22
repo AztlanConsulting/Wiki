@@ -20,7 +20,7 @@ PostgreSQL es una base de datos relacional, por lo que se adapta bien a sistemas
 
 - Es lento en inserciones y actualizaciones en bases de datos pequeñas, PostgreSQL está diseñado para ambientes de alto volumen.
 - No tiene soporte oficial. PostgreSQL cuenta con foros oficiales de comunidad
-- La interfaz de manejo de postgresql es poco intuitiva y dificil de manejar
+- La interfaz de manejo de postgresql es poco intuitiva y difícil de manejar
 
 ## Facilidad de aprendizaje
 
@@ -53,7 +53,7 @@ PostgreSQL es una base de datos relacional, por lo que se adapta bien a sistemas
     CREATE ROLE cuitla26 LOGIN CREATEDB;
 
     sudo su - postgres
-    psql compospetdb
+    psql compospetbd
     CREATE USER ________ WITH PASSWORD “________”;
 ```
 

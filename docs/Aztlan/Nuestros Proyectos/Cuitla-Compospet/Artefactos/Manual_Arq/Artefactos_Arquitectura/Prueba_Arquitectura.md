@@ -66,7 +66,15 @@ Modelo de seguridad ABAC (Control de Acceso basado en atributos)
 
 #### Prueba DBeaver
 
+1. Se realizó la instalación de DBeaver de manera local
+2. Se conecto a la BD de PostgreSQL
+3. Se crearon tablas de pruebas 
+4. Se realizo pruebas de consultas
+5. Se protegió la BD
+6. Se hicieron Pruebas 
+7. Se crearon los scripts 
 
+#### Prueba Prisma
 
 
 
