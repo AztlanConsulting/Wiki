@@ -32,19 +32,8 @@ DBeaver es una herramienta de administración de bases de datos que permite cone
 
 **Instalación Local**
 
-1.  Instalación Postgresql en el Servidor Ubuntu 24.04
+1.  
 
-    Descargar e Instalar DBeaver Community desde la página oficial.
-
-2. Abrir DBeaver y crear una nueva conexión.
-
-
-3. 
-
-4. 
-
-
-5. Acceso a las bases de datos
 
 
 
