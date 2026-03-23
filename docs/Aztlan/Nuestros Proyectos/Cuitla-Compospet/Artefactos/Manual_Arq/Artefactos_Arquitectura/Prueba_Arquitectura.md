@@ -29,7 +29,7 @@ Se realizó la implementación de node.js y express para la creación de la API 
 - [Documentación de la creación de la API con Express y Node.js](https://docs.google.com/document/d/1x31uhVP6zc_oT7GATVJLFSnRNb8_VQ1Xt-Ip0LMQxGg/edit?tab=t.hyatc9mfjhcp#heading=h.y386bbev8y49)
 - [Documentación del despliegue del repositorio en el servidor de Compospet](https://docs.google.com/document/d/1x31uhVP6zc_oT7GATVJLFSnRNb8_VQ1Xt-Ip0LMQxGg/edit?tab=t.0#heading=h.ox11eswqd7g2)
 ---
-### Prueba Base de Datos (Postgresql, DBeaver, Prisma, ABAC) 
+### Prueba Base de Datos (Postgresql, DBeaver, Bitácora, Prisma, ABAC)  
 
 #### Propósito 
 
@@ -85,7 +85,7 @@ Modelo de seguridad ABAC (Control de Acceso basado en atributos)
 
 #### Prueba Prisma
 
-1. Se instala Prisma 
+1. Se instala Prisma
 
 #### Evidencia de documentación 
 
