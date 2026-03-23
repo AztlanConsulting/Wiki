@@ -27,13 +27,38 @@ DBeaver es una herramienta de administración de bases de datos que permite cone
 ## Recursos
 - [DBeaver Documentation](https://dbeaver.com/docs/dbeaver/)
 - [Time_Outs](https://www.reddit.com/r/PostgreSQL/comments/1pb8apb/block_the_use_of_dbeaver/?tl=es-419)
+- [DBeaver Tutorial ](https://www.youtube.com/watch?v=LEx96-CkB1Q)
+- [Curso de DBeaver](https://www.youtube.com/watch?v=zmlM20apP5k)
+- [Aprende POSTGRESQL como un PRO](https://www.youtube.com/watch?v=9LNq4wF2npU)
+- [Curso de DBeaver](https://www.youtube.com/watch?v=FpMYLQE3Sbw)
+- [DBeaver documentation](https://github.com/dbeaver/dbeaver/wiki/Application-Window-Overview)
 
 ## Tutorial
 
 **Instalación Local**
 
-1.  
+1. Instalar de manera local Dbeaver 
+2. Sigue las instrucciones del instalador de DBeaver
+3. Crear conexión con PostgreSQL en el servidor 
+    - Presionas conectar a una nueva base de datos
+    - Seleccionas Postgresql
+    - Llenas los datos señalados en la configuración general
+    - Llenas los datos señalados en la configuración del ssh
 
+**Creación de la Base de Datos en DBeaver**
+
+1. Elevación de Privilegios 
+2. Administrar Tablas
+    - Eliminar una Tabla 
+    - Crear una tabla nueva
+    - Nivel Tabla 
+    - Creación de Columnas
+    - Modificar o eliminar una tabla
+    - Restricciones (Primary Key)
+    - Claves Foráneas
+    - Cómo ejecutar scripts
+    - Configurar Event Triggers 
+    - Capturar el script completo para la base de datos pruebas
 
 
 
@@ -43,4 +68,4 @@ DBeaver es una herramienta de administración de bases de datos que permite cone
 | Version | Creado por: | Auditado por: | Descripción | Fecha |
 |---------|------------|--------------|---------------|-------|
 | 1.0     | -Yessica Lora Vazquez   |  Juan Manuel Murillo | Spike Postgresql.  | 21/03/2026 |
-|
+| 1.0     | -Yessica Lora Vazquez   |  Juan Manuel Murillo | Spike Postgresql.  | 22/03/2026 |
