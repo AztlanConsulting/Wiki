@@ -1,10 +1,10 @@
 ---
-title: "ADR-12 Monitoreo Híbrido (Prometheus + Grafana Cloud)"
+title: "ADR-12 Monitoreo del Servidor (Prometheus + Uptime Kuma)"
 ---
 
-# ADR-12: Implementación de Monitoreo de Infraestructura y Aplicación (Modelo Híbrido)
+# ADR-12: Monitoreo del Servidor
 
-**Fecha:** 2026-03-22
+**Fecha:** 2026-03-23
 
 **Estado:** **Proposed** | Accepted | Rejected | Deprecated 
 
@@ -14,53 +14,57 @@ title: "ADR-12 Monitoreo Híbrido (Prometheus + Grafana Cloud)"
 
 ## Contexto
 
-Para asegurar la estabilidad de CompoPet en el servidor Hostinger (ADR-01), es necesario monitorear las Peticiones por Segundo (RPS) y el uso de CPU. Sin embargo, el servidor cuenta con una limitación de **4 GB de RAM**. Un stack de monitoreo completo (Prometheus + Grafana + Alertmanager) instalado localmente consumiría entre 500 MB y 700 MB, lo cual representa un ~15% de los recursos totales, restando capacidad de procesamiento a la aplicación Node.js y la base de datos.
+Para garantizar la alta disponibilidad de CompoPet en el VPS de Hostinger (ADR-01), necesitamos cubrir tres frentes:
+1.  **Métricas de Salud (Internas):** Uso de CPU y RAM del procesador AMD EPYC.
+2.  **Métricas de Negocio (RPS):** Volumen de peticiones por segundo procesadas por Node.js.
+3.  **Disponibilidad (Externa):** Verificación de que el servicio es alcanzable por el usuario final y alertas inmediatas.  
 
 ## Criterios usados (resumen)
-- **Eficiencia de Recursos:** Maximizar la RAM disponible para la aplicación principal.
-- **Capacidad de Alerta:** Notificaciones automáticas ante picos de tráfico o CPU.
-- **Costo Mensual:** Mantenerse dentro de los planes gratuitos (Free Tier).
-- **Escalabilidad:** Permitir el crecimiento de métricas sin saturar el almacenamiento del VPS.
+- **Observabilidad 360°:** No solo saber *cuánto* recurso se usa, sino *si* la web carga.
+- **Alertas Proactivas:** Notificaciones inmediatas a Discord/Telegram.
+- **Bajo Overhead:** Mantener el uso de recursos por debajo del 10% de la capacidad total del VPS.
+- **Facilidad de Uso:** Interfaz visual para que todo el equipo (Yessica, Alejandra, etc.) pueda consultar el estado.
 
 ## Alternativas consideradas
 
-1. **Stack Local Completo (Prometheus + Grafana + Alertmanager en Docker)**
-    - **Pros:** Control total de los datos, sin dependencias externas.
-    - **Contras:** Consumo de RAM elevado (~600 MB+) y almacenamiento de logs local.
-2. **Monitoreo Híbrido (Agentes locales + Grafana Cloud)**
-    - **Pros:** Reduce el consumo de RAM en el VPS al no instalar la interfaz de Grafana localmente. Delegación del almacenamiento de largo plazo y alertas a la nube. Consumo estimado: < 200 MB.
-    - **Contras:** Dependencia de conexión a internet para el envío de métricas a la nube.
-3. **Monitoreo Manual (Middleware Node.js + Logs)**
-    - **Pros:** Consumo de recursos mínimo.
-    - **Contras:** Sin visualización en tiempo real, propenso a fallas si el servidor se satura y difícil de escalar.
+1. **Stack Exclusivo Prometheus/Grafana**
+    - **Pros:** Profundidad técnica total (CPU/RPS).
+    - **Contras:** Configurar alertas de disponibilidad externa (Uptime) es más complejo y tedioso en Grafana.
+2. **Stack Exclusivo Uptime Kuma**
+    - **Pros:** Configuración de alertas en 5 minutos y dashboard de estado muy intuitivo.
+    - **Contras:** No puede medir RPS ni el uso detallado del CPU del servidor.
+3. **Estrategia Multicapa (Prometheus + Uptime Kuma)**
+    - **Pros:** Combina la potencia analítica de Prometheus para el Spike de arquitectura con la simplicidad de alertas de Uptime Kuma.
+    - **Contras:** Requiere gestionar dos procesos independientes en el servidor.
 
 ## Decisión
 
-Elegimos la **Alternativa 2: Monitoreo Híbrido**. 
+Elegimos la **Alternativa 3: Estrategia Multicapa**.
 
-Se instalará únicamente **Prometheus** (configurado como agente de envío) y **Node Exporter** en el VPS de Hostinger. La visualización, el almacenamiento histórico y el sistema de alertas se gestionarán a través de **Grafana Cloud (Free Tier)**. 
+- **Prometheus (Modo Agente):** Se instalará localmente para recolectar métricas de CPU (vía Node Exporter) y RPS (vía `prom-client`), enviándolas a **Grafana Cloud** para análisis histórico.
+- **Uptime Kuma:** Se instalará localmente (puerto 3001) para vigilar la disponibilidad del puerto 3000 (App) y gestionar las notificaciones críticas al equipo.
 
-La aplicación Node.js expondrá métricas mediante la librería `prom-client`, las cuales serán recolectadas localmente y enviadas (Remote Write) a la instancia externa de Grafana.
+
 
 ## Consecuencias
 
 **Positivas**
-- **Ahorro de RAM:** Liberamos aproximadamente 250-300 MB de RAM al no ejecutar el servidor de Grafana localmente.
-- **Persistencia:** Si el VPS de Hostinger cae, las métricas e informes siguen disponibles en la nube para análisis post-mortem.
-- **Alertas Externas:** Las notificaciones de Discord/Email se disparan desde la nube, asegurando que lleguen incluso si el servidor está offline.
+- **Resiliencia:** Si Prometheus falla, Uptime Kuma sigue avisando si la web cae (y viceversa).
+- **Dashboard de Equipo:** Uptime Kuma provee una "Status Page" pública para CompoPet.
+- **Análisis de Carga:** Mantenemos la capacidad de medir las 100 RPS definidas en el ADR-01.
 
 **Negativas / Trade-offs**
-- Introducción de una dependencia externa (Grafana Cloud).
-- Configuración adicional para la autenticación de métricas (API Keys).
+- Consumo de RAM ligeramente mayor (aprox. 400-600 MB totales entre ambos), lo cual es aceptable dado los 8 GB disponibles.
+- Necesidad de abrir el puerto 3001 (o usar un proxy inverso) para acceder a la interfaz de Kuma.
 
 ## Notas / Links
 
-- [Configuración de Remote Write en Prometheus](https://prometheus.io/docs/prometheus/latest/configuration/configuration/#remote_write)
-- [Grafana Cloud Free Tier Limits](https://grafana.com/products/cloud/pricing/)
-- [Node Exporter Documentation](https://github.com/prometheus/node_exporter)
+- [Uptime Kuma GitHub](https://github.com/louislam/uptime-kuma)
+- [Prometheus Remote Write Guide](https://prometheus.io/docs/prometheus/latest/configuration/configuration/#remote_write)
+- [Node.js Performance Monitoring](https://nodesource.com/blog/node-js-performance-monitoring-with-prometheus/)
 
 ---
 
 | Version | Creado por: | Auditado por: | Descripción | Fecha |
 |---------|------------|--------------|---------------|-------|
-| 1.0     | Kamila Martínez | Yessica Lora | Definición de monitoreo híbrido para ahorro de RAM | 22/03/2026 |
+| 1.1     | Kamila Martínez | Yessica Lora | Actualización a monitoreo multicapa (Kuma + Prometheus) | 23/03/2026 |
