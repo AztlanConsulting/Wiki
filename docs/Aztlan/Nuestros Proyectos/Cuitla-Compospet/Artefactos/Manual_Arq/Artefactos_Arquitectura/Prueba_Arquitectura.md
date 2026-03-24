@@ -67,16 +67,25 @@ Modelo de seguridad ABAC (Control de Acceso basado en atributos)
 #### Prueba DBeaver
 
 1. Se realizó la instalación de DBeaver de manera local
-2. Se conecto a la BD de PostgreSQL
-3. Se crearon tablas de pruebas 
-4. Se realizo pruebas de consultas
+2. Elevación de Privilegios 
+3. Se conecto a la BD de PostgreSQL
+4. Administrar Tablas
+    - Eliminar una Tabla 
+    - Crear una tabla nueva
+    - Nivel Tabla 
+    - Creación de Columnas
+    - Modificar o eliminar una tabla
+    - Restricciones (Primary Key)
+    - Claves Foráneas
+    - Cómo ejecutar scripts
+    - Configurar Event Triggers 
+    - Capturar el script completo para la base de datos pruebas
 5. Se protegió la BD
 6. Se hicieron Pruebas 
-7. Se crearon los scripts 
 
 #### Prueba Prisma
 
-
+1. Se instala Prisma 
 
 #### Evidencia de documentación 
 
@@ -106,3 +115,4 @@ Modelo de seguridad ABAC (Control de Acceso basado en atributos)
 | 1.0 | Yessica Lora | Fernanda Valdez |    | 10/03/2026 |
 | 1.1 | Alejandra Arredondo | Juan Manuel Murillo | Actualización de prueba de arquitectura | 18/03/2026 |
 | 1.1 |  Yessica Lora  |  Alejandra Arredondo| Actualización de prueba de arquitectura| 21/03/2026 |
+| 1.1 |  Yessica Lora  |  Alejandra Arredondo| Actualización de prueba de arquitectura| 22/03/2026 |
