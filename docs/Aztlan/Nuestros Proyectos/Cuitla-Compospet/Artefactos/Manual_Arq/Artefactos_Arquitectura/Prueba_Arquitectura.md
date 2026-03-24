@@ -10,7 +10,7 @@ sidebar_position: 5
 ---
 ### Prueba Nodejs 
 
-#### Propósito "De la Sub-prueba"
+#### Propósito 
 Implementar, probar y desplegar la API del backend.
 
 #### Arquitectura
@@ -96,6 +96,29 @@ Modelo de seguridad ABAC (Control de Acceso basado en atributos)
 
 ---
 
+### Prueba Jest & GitHub Actions
+
+#### Propósito
+Implementar, probar y desplegar la integración de Jest y GitHub Actions para la automatización de pruebas en el proyecto. 
+
+#### Arquitectura
+[Jest](https://jestjs.io/) y [GitHub Actions](https://github.com/features/actions)
+
+#### Guías, recursos y tutoriales
+- [Introduction To Testing In JavaScript With Jest](https://www.youtube.com/watch?v=FgnxcUQ5vho)
+- [JavaScript Testing with Jest – Crash Course](https://www.youtube.com/watch?v=IPiUDhwnZxA)
+- [CI/CD Tutorial using GitHub Actions - Automated Testing & Automated Deployments](https://www.youtube.com/watch?v=YLtlz88zrLg&t=138s)
+
+#### Prueba 1 - Jest & GitHub Actions
+
+Se realizó la implementación de jest y github actions para la automatización de pruebas en el proyecto, se crearon pruebas unitarias y de integración con jest para verificar el correcto funcionamiento de las funciones del backend. Se configuró GitHub Actions para ejecutar las pruebas automáticamente en cada push al repositorio.
+
+#### Evidencia de documentación - Jest & GitHub Actions
+
+- [Documentación de la implementación de Jest](https://docs.google.com/document/d/1ig7xQMsaJ9boORmsTpX48dVQWrFqAiYDuop9IeV7J2Q/edit?tab=t.0)
+- [Documentación de la implementación de GitHub Actions](https://docs.google.com/document/d/1ig7xQMsaJ9boORmsTpX48dVQWrFqAiYDuop9IeV7J2Q/edit?tab=t.9gnym0omhtyr)
+
+--
 ### Prueba Ejemplo
 
 #### Propósito "De la Sub-prueba"
@@ -116,3 +139,4 @@ Modelo de seguridad ABAC (Control de Acceso basado en atributos)
 | 1.1 | Alejandra Arredondo | Juan Manuel Murillo | Actualización de prueba de arquitectura | 18/03/2026 |
 | 1.1 |  Yessica Lora  |  Alejandra Arredondo| Actualización de prueba de arquitectura| 21/03/2026 |
 | 1.1 |  Yessica Lora  |  Alejandra Arredondo| Actualización de prueba de arquitectura| 22/03/2026 |
+| 1.1 | Alejandra Arredondo | Juan Manuel Murillo | Actualización de prueba de arquitectura | 23/03/2026 |
