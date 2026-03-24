@@ -3,6 +3,7 @@ title: "Ichan - Lista de Artefactos Periodo 1"
 sidebar_position: 1
 ---
 
+
 ## Links a los documentos
 
 - [Plan de Valor Ganado](https://docs.google.com/spreadsheets/d/1xofncYrMGXf9O-aa0wvEMnu0YgD6WFc-ntpvU49Tv-E/edit?usp=sharing)
