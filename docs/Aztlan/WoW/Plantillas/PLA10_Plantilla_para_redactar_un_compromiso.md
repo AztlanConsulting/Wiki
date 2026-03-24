@@ -1,5 +1,6 @@
 ---
 title: "PLA10 - Plantilla para redactar un documento de compromiso"
+sidebar_position: 10
 ---
 
 ### Propósito

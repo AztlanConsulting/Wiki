@@ -1,6 +1,6 @@
 ---
-title: 'Nombre de la guía'
-sidebar_position: 1
+title: 'PLA03 Plantilla de la guía'
+sidebar_position: 3
 ---
 
 # Plantilla de Guía

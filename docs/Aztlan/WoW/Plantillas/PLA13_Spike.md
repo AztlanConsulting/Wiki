@@ -1,5 +1,6 @@
 ---
 title: "PLA13 - Plantilla Spike"
+sidebar_position: 13
 ---
 
 ## Plantilla Spike
@@ -25,17 +26,17 @@ title: "PLA13 - Plantilla Spike"
 **Fácil**  
 > Opciones: Fácil, Medio, Difícil, Muy difícil
 
-## Recursos
+## Recursos Externos
 
-- Tutorial básico
-- Tutorial básico 2
-- React Router
+- [Links Documentación]()
+- [Links a Tutoriales ]()
+- [Links a foro]()
 
 ## Tutorial básico
 
-### Crear componentes
-
+"Ejemplo (Lo mínimo que necesita saber uno de tu investigación y pasos a seguir)" 
 
 | Version | Creado por: | Auditado por: | Descripción | Fecha |
 |---------|------------|--------------|---------------|-------|
 | 1.0     | -Yessica Lora Vazquez -Edmundo Canedo -Alejandro Adrián García -Santiago Alducin Villaseñor  |  Juan Manuel Murillo | Plantilla inicial para guías.  | 16/02/2026 |
+| 1.1     | -Yessica Lora Vazquez   |  Juan Manuel Murillo | Plantilla inicial para guías.  | 21/03/2026 |

@@ -1,6 +1,6 @@
 ---
 title: "PLA11 - Plantilla de Plan de Comunicación"
-sidebar_position: 3
+sidebar_position: 11
 ---
 
 # Plan de Comunicación
