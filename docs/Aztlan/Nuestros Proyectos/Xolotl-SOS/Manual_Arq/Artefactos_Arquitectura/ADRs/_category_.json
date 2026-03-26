@@ -1,0 +1,8 @@
+{
+  "label": "ADRs",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "ADRs del Proyecto Xólotl-SOS."
+  }
+}
