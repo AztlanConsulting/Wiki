@@ -133,3 +133,7 @@ Se utiliza cuando se integran ramas del repositorio.
 - Escribir mensajes claros y entendibles para cualquier miembro del equipo
 - Evitar commits innecesarios o sin valor
 - Siempre probar el código antes de hacer commit
+
+| Version | Creado por: | Auditado por: | Descripción | Fecha |
+|---------|------------|--------------|---------------|-------|
+| 1.0 | Alejandra Arredondo | Juan Manuel Murrillo López | Estandar inicial de commits para el proyecto | 26/03/2026 |
