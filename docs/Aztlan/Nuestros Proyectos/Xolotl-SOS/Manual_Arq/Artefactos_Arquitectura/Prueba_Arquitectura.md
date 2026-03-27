@@ -1,14 +1,15 @@
 ---
-title: "PLA15 Prueba de Arquitectura Cuitla-Compospet"
+title: "Prueba de Arquitectura"
 sidebar_position: 4
 ---
 
 ### Proposito "de la Prueba de Arquitectura Completa"
 
+Verificar que la solución propuesta es realista, la podemos codificar o detectar problemas antes de empezar el desarrollo de la aplicación.
+
 ### Arquitectura "Completa"
 
 ---
-
 
 ### Prueba node (Ejemplo)
 
@@ -22,8 +23,8 @@ sidebar_position: 4
 
 #### Guías, recursos y tutoriales
 
-- [EJEMPLO Video guía para la implementación de la API con Express y Node.js]()
-- 
+- [Paquete de NPM de express](https://www.npmjs.com/package/express)
+- [BodyParser](https://expressjs.com/en/resources/middleware/body-parser.html)
 
 #### Prueba - "¿Qué pruebas se le realizaron de node?"
 
