@@ -1,0 +1,102 @@
+---
+title: "SPK16 - Reliability"
+---
+
+# SPK16 - Reliability (Prometheus + Uptime Kuma)
+
+**Duración:** 1 día  
+**Funcionalidad:** Observabilidad de infraestructura y disponibilidad de servicios  
+
+## Beneficios
+* **Disponibilidad Verificable:** Uptime Kuma registra el uptime real del AppServer de Protheus y APIs externas, permitiendo demostrar el cumplimiento del 98.5% mensual.
+* **Control de Error Rate:** prom-client expone el conteo de requests por status code, Prometheus lo recolecta y almacena, y Grafana ejecuta la query PromQL sobre ventanas de 5 minutos disparando la alerta automática al superar el 1%.
+* **Resiliencia en Integraciones:** La función `HttpComRetry` en AdvPL implementa timeout de 5s y reintentos con backoff exponencial (1s, 2s, 4s) sin dependencia de herramientas adicionales.
+* **Stack Compartido:** Reutiliza la infraestructura de Prometheus y Grafana ya instalada para Scalability, agregando solo métricas y alertas nuevas sin overhead operativo adicional.
+## Desventajas
+* **Sin Respuesta Automática:** El stack detecta y alerta fallas, pero no puede reiniciar servicios ni redirigir tráfico de forma autónoma. La recuperación requiere intervención manual.
+* **MTTF No Automático:** El cálculo del MTTF no es en tiempo real; requiere consultar la exportación de Uptime Kuma y cruzarla con la tabla ZFA periódicamente.
+* **Dependencia de Logs del AppServer:** El monitoreo de disponibilidad de Protheus depende de que el endpoint HTTP esté accesible; fallas internas del AppServer que no corten el puerto no se detectan directamente.
+
+## Facilidad de aprendizaje
+**Media** (Requiere conocimiento de PromQL para las queries de error rate, edición de dashboards en Grafana y programación AdvPL para la función de retry en Protheus).
+
+## Recursos
+* [Documentación Oficial de Prometheus](https://prometheus.io/docs/introduction/overview/)
+* [Guía de Alertas en Grafana](https://grafana.com/docs/grafana/latest/alerting/)
+* [Guía de Instalación de Uptime Kuma](https://github.com/louislam/uptime-kuma)
+* [Librería prom-client para Node.js](https://github.com/siimon/prom-client)
+* [Documentación FWRest - Protheus (TOTVS)](https://tdn.totvs.com/display/tec/FWRest)
+
+---
+
+## Estructura técnica para la implementación
+ 
+### 1. Endpoints de Monitoreo
+* **`http://localhost:3000/metrics`**: Expone métricas de la aplicación incluyendo el contador HTTP por status code (reutilizado de Scalability).
+* **`http://localhost:9100/metrics`**: Expone el estado del hardware del servidor (CPU, Disco, Red) via Node Exporter.
+* **`http://localhost:3001`**: Interfaz de Uptime Kuma para configurar monitores de disponibilidad por componente.
+
+### 2. Flujo del Error Rate 5xx
+ 
+El pipeline completo funciona así:
+ 
+```
+Node.js (prom-client) → expone /metrics
+        ↓
+Prometheus → hace scrape y almacena el historial
+        ↓
+Grafana → ejecuta query PromQL + dispara alerta si > 1%
+```
+ 
+**prom-client** registra cada request con su status code. Extiende el contador ya existente de Scalability, solo asegurando que el label `status` esté presente. No se requiere un nuevo endpoint:
+ 
+```javascript
+const { Counter } = require('prom-client');
+ 
+// Contador de peticiones con label de status (compartido con Scalability)
+const httpRequestCounter = new Counter({
+    name: 'compopet_http_requests_total',
+    help: 'Total de peticiones HTTP procesadas',
+    labelNames: ['method', 'route', 'status']  // 'status' habilita el filtro 5xx
+});
+ 
+// Middleware: registra método, ruta y código de respuesta
+app.use((req, res, next) => {
+    res.on('finish', () => {
+        httpRequestCounter.inc({
+            method: req.method,
+            route: req.route?.path || req.path,
+            status: res.statusCode  // 200, 404, 500, 503, etc.
+        });
+    });
+    next();
+});
+```
+
+### 3. Query PromQL — Error Rate 5xx en ventana de 5 min
+ 
+Prometheus almacena el historial de métricas que expone prom-client. Grafana consulta esos datos con esta query y la renderiza como panel en el dashboard existente de Scalability:
+ 
+```promql
+(
+  sum(rate(compopet_http_requests_total{status=~"5.."}[5m]))
+  /
+  sum(rate(compopet_http_requests_total[5m]))
+) * 100
+```
+
+### 4. Recursos Compartidos con Scalability
+ 
+| Recurso | Uso en Scalability | Uso adicional en Reliability |
+| :--- | :--- | :--- |
+| **Node Exporter** | CPU, RAM, Disco del servidor | Sin cambios (ya cubre infraestructura) |
+| **Prometheus** | RPS, P95 de tiempo de respuesta | Recolecta y almacena el conteo de status codes HTTP 5xx |
+| **Grafana Cloud** | Dashboard de carga y alertas CPU/P95 | Ejecuta query PromQL, nuevo panel de error rate y alerta 5xx > 1% |
+| **Uptime Kuma** | Disponibilidad del servicio principal | Agrega monitores de APIs externas y BD |
+ 
+---
+
+## Control de versiones
+| Version | Creado por: | Auditado por: | Descripción | Fecha |
+| :--- | :--- | :--- | :--- | :--- |
+| 1.0 | Luisa Fernanda Valdez Guillen | Kamila Martínez | Spike de Monitoreo Multicapa | 28/03/2026 |
