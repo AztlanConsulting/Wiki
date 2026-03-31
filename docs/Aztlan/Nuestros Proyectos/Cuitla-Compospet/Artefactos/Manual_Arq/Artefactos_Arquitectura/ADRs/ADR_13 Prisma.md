@@ -25,13 +25,10 @@ Se evaluaron tres alternativas principales compatibles con el stack propuesto: *
 ## Criterios usados (resumen)
 
 - Facilidad de aprendizaje para el equipo
-- Productividad de desarrollo
-- Claridad y mantenibilidad del código
 - Soporte para migraciones
 - Integración con Node.js
 - Compatibilidad con JavaScript y posible evolución a TypeScript
 - Seguridad y reducción de errores en consultas
-- Calidad de documentación y experiencia de desarrollo
 - Adecuación a un proyecto académico/profesional con necesidad de avanzar rápido
 
 ## Alternativas consideradas
