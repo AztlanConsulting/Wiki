@@ -68,9 +68,37 @@ Ver todos los comandos ejecutados:
 sudo ausearch -k user_cmd
 ```
 Filtrar por usuario:
+```bash
+sudo ausearch -k user_cmd -ua nombre_usuario
+```
+Filtrar por fecha:
+```bash
+sudo ausearch -k user_cmd -ts today
+```
+### 5. Ubicación de logs
+```bash
+/var/log/audit/audit.log
+```
+
+### 6. Hacer reglas persistentes
+Crear archivo:
+```bash
+sudo nano /etc/audit/rules.d/user-commands.rules
+```
+Agregar el siguiente comando para registrar todos los comandos que ejecutan los usuarios en el servidor:
+```
+-a always,exit -F arch=b64 -S execve -F auid>=1000 -F auid!=4294967295 -k user_cmd
+-a always,exit -F arch=b32 -S execve -F auid>=1000 -F auid!=4294967295 -k user_cmd
+```
+
+Reiniciar servicio de auditd:
+```bash
+sudo systemctl restart auditd
+```
+
 
 ### Control de versiones
 
 | Version | Creado por: | Auditado por: | Descripción | Fecha |
 |---------|------------|--------------|---------------|-------|
-| 1.0     | Alejandra Arredondo | Yessica Lora Vázquez | Spike Testability  | 13/03/2026 |
+| 1.0     | Alejandra Arredondo | Yessica Lora Vázquez | Spike Seguridad del servidor  | 31/03/2026 |

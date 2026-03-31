@@ -1,5 +1,6 @@
 ---
 title: "ADR-09 Gmail API"
+sidebar_position: 9
 ---
 
 # ADR-09: Gmail API
