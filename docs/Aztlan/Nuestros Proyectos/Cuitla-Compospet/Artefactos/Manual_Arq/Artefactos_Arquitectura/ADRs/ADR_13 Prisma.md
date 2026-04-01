@@ -15,9 +15,9 @@ sidebar_position: 13
 
 ## Contexto
 
-El equipo necesita definir un ORM para el backend del proyecto, desarrollado con Node.js/JavaScript, con el fin de estandarizar la forma en que la aplicación interactúa con la base de datos relacional.
+Definir un ORM para el backend del proyecto, desarrollado con Node.js/JavaScript, con el fin de proteger al proyecto de sql injections y estandarizar la forma en que la aplicación interactúa con la base de datos relacional.
 
-Esta decisión se toma al inicio de la arquitectura para evitar retrabajos posteriores en capas críticas como persistencia, modelos, migraciones, consultas y mantenimiento del esquema de datos. También busca reducir la complejidad técnica del equipo, acelerar el desarrollo y favorecer una base de código más mantenible y consistente a lo largo del proyecto.
+Esta decisión se toma al inicio de la arquitectura para evitar retrabajos posteriores.
 
 Se evaluaron tres alternativas principales compatibles con el stack propuesto: **Prisma**, **Sequelize** y **TypeORM**.
 
@@ -27,9 +27,8 @@ Se evaluaron tres alternativas principales compatibles con el stack propuesto: *
 - Facilidad de aprendizaje para el equipo
 - Soporte para migraciones
 - Integración con Node.js
-- Compatibilidad con JavaScript y posible evolución a TypeScript
+- Compatibilidad con JavaScript
 - Seguridad y reducción de errores en consultas
-- Adecuación a un proyecto académico/profesional con necesidad de avanzar rápido
 
 ## Alternativas consideradas
 
