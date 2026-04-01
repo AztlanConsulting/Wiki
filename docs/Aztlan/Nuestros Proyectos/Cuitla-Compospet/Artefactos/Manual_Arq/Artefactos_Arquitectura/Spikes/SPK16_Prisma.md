@@ -38,8 +38,6 @@ title: "SPK16 - Prisma"
 **Instalación Prisma ORM** 
 
 
-
-
 [Documentación DBeaver](https://docs.google.com/document/d/1QXJiha9g6gh5MoR-EbYLULS2_-xZbUYKRYKi7TGZhm0/edit?tab=t.1gdkgimajo7e)
 
 "Ejemplo (Lo mínimo que necesita saber uno de tu investigación y pasos a seguir)" 
