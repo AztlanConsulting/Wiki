@@ -44,5 +44,4 @@ title: "SPK16 - Prisma"
 
 | Version | Creado por: | Auditado por: | Descripción | Fecha |
 |---------|------------|--------------|---------------|-------|
-| 1.0     | -Yessica Lora Vazquez -Edmundo Canedo -Alejandro Adrián García -Santiago Alducin Villaseñor  |  Juan Manuel Murillo | Plantilla inicial para guías.  | 16/02/2026 |
-| 1.1     | -Yessica Lora Vazquez   |  Juan Manuel Murillo | Plantilla inicial para guías.  | 21/03/2026 |
+| 1.1     | -Yessica Lora Vazquez   |  Juan Manuel Murillo | Plantilla inicial para guías.  | 31/03/2026 |
