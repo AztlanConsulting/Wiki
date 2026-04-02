@@ -1,5 +1,6 @@
 ---
 title: "ADR-010 Google Sheets API"
+sidebar_position: 10
 ---
 
 # ADR-010: Google Sheets API

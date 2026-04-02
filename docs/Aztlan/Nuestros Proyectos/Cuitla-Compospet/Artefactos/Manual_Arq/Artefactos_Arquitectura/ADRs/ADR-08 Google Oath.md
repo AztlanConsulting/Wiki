@@ -1,5 +1,6 @@
 ---
 title: "ADR-08 Google OAuth 2.0"
+sidebar_position: 8
 ---
 
 # ADR-08: Google OAuth 2.0

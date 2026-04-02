@@ -192,8 +192,96 @@ Modelo de seguridad ABAC (Control de Acceso basado en atributos)
 [Documentación Implementación y Pruebas de ABAC](https://docs.google.com/document/d/1QXJiha9g6gh5MoR-EbYLULS2_-xZbUYKRYKi7TGZhm0/edit?tab=t.728612eksfuc)
 
 ---
+### Prueba Google Oauth
 
-### Prueba Jest & GitHub Actions
+#### Propósito
+
+Validar la correcta configuración e integración de Google OAuth 2.0 como mecanismo de autenticación, asegurando que el sistema permita a los usuarios iniciar sesión de forma segura mediante sus cuentas de Google, protegiendo la información de acceso y garantizando una comunicación confiable entre la aplicación y los servicios de autenticación externos.
+
+#### Arquitectura
+
+- Google OAuth 2.0
+
+#### Guías, recursos y tutoriales
+
+- [Spike Google Oauth](../Artefactos_Arquitectura/Spikes/SPK08_GoogleOAuth.md)
+- [Documentación oficial de Google Identity](https://developers.google.com/identity/protocols/oauth2)
+- [Guía: Google OAuth2 con JS y Bun](https://dev.to/idrisakintobi/a-step-by-step-guide-to-google-oauth2-authentication-with-javascript-and-bun-4he7)
+- [Google Cloud Console](https://console.cloud.google.com/)
+- [OAuth 2.0 Simplified](https://www.oauth.com/)
+
+#### Prueba 1 - Configuración de autenticación con Google
+
+Se realizó la configuración de Google OAuth 2.0 mediante Google Cloud Console, generando las credenciales necesarias para la autenticación. Posteriormente, se integró el flujo de inicio de sesión en la aplicación, verificando que los usuarios puedan autenticarse correctamente utilizando su cuenta de Google.
+Se realizaron pruebas para confirmar la correcta recepción de tokens de autenticación y la comunicación segura entre el cliente, el servidor y los servicios de Google.
+
+#### Evidencia de documentación "Del proceso y de los resultados de las pruebas" 
+
+[Documentación de Google OAuth 2.0](https://docs.google.com/document/d/1eQvTQZX0Qi68KSyqwExtelLDvQ0V5uCO6l1YLbtiMbc/edit?tab=t.0#heading=h.86uybb5iie5w)
+
+---
+
+### Prueba Google Gmail
+
+#### Propósito
+
+Validar la correcta configuración e integración de Gmail API como servicio para el envío de correos electrónicos desde la aplicación, asegurando que el sistema pueda comunicarse de forma segura con los servicios de Google para automatizar el envío de notificaciones, confirmaciones u otros mensajes necesarios para el funcionamiento del sistema.
+
+#### Arquitectura
+
+- Gmail API
+
+#### Guías, recursos y tutoriales
+
+- [Spike Google Gmail](../Artefactos_Arquitectura/Spikes/SPK09_Gmail.md)
+- [Documentación oficial de Gmail API](https://developers.google.com/gmail/api/guides)
+- [Explorador de APIs (Probar métodos)](https://developers.google.com/gmail/api/reference/rest)
+- [Librería cliente para Node.js](https://github.com/googleapis/google-api-nodejs-client)
+- [Guía de cuotas y límites](https://developers.google.com/gmail/api/reference/quota)
+
+#### Prueba 1 - Configuración de envío de correos electrónicos
+
+Se realizó la configuración de Gmail API utilizando credenciales generadas en Google Cloud Console. Posteriormente, se integró el servicio en el backend para permitir el envío automático de correos electrónicos desde la aplicación.
+Se realizaron pruebas de envío para verificar que los mensajes se generen correctamente, que la autenticación funcione de forma segura y que la comunicación con los servicios de Google se realice sin errores.
+
+#### Evidencia de documentación "Del proceso y de los resultados de las pruebas" 
+
+[Documentación de Gmail API](https://docs.google.com/document/d/13fpo_HQuXrES-7wNS2aGz1p2Sv183lRo0vgvWpC0N10/edit?tab=t.0#heading=h.t1wmuocfka5p)
+
+---
+
+### Prueba Google Sheets
+
+#### Propósito
+
+Validar la correcta configuración e integración de Google Sheets API como servicio para la lectura, escritura y gestión de datos en hojas de cálculo, asegurando que el sistema pueda almacenar, consultar y actualizar información de forma automatizada mediante la comunicación segura con los servicios de Google.
+
+#### Arquitectura
+
+- Google Sheets API
+
+#### Guías, recursos y tutoriales
+
+- [Spike Google Sheets](../Artefactos_Arquitectura/Spikes/SPK10_Sheets.md)
+- [Documentación oficial de Sheets API](https://developers.google.com/sheets/api/guides/concepts)
+- [Referencia de métodos (v4)](https://developers.google.com/sheets/api/reference/rest)
+- [Guía de lectura y escritura de valores](https://developers.google.com/sheets/api/guides/values)
+- [Google Sheets API - Node.js Quickstart](https://developers.google.com/sheets/api/quickstart/nodejs)
+
+#### Prueba 1 - Configuración de acceso y manipulación de datos
+
+Se realizó la configuración de Google Sheets API mediante credenciales generadas en Google Cloud Console. Posteriormente, se integró el servicio en el backend para permitir la lectura y escritura de datos en hojas de cálculo.
+Se realizaron pruebas para verificar que la aplicación puede crear, consultar y actualizar información correctamente, asegurando una comunicación segura y estable con los servicios de Google.
+
+#### Evidencia de documentación "Del proceso y de los resultados de las pruebas" 
+
+[Documentación de Sheets API](https://docs.google.com/document/d/18nqRzl7zK1jz8AXO0jZ0kIEFppaWzfAglUFc-xDuJo8/edit?tab=t.0)
+
+---
+
+## Requisitos NO Funcionales
+
+### Testeabilidad - Prueba Jest & GitHub Actions
 
 #### Propósito
 Implementar, probar y desplegar la integración de Jest y GitHub Actions para la automatización de pruebas en el proyecto. 
@@ -215,20 +303,152 @@ Se realizó la implementación de jest y github actions para la automatización 
 - [Documentación de la implementación de Jest](https://docs.google.com/document/d/1ig7xQMsaJ9boORmsTpX48dVQWrFqAiYDuop9IeV7J2Q/edit?tab=t.0)
 - [Documentación de la implementación de GitHub Actions](https://docs.google.com/document/d/1ig7xQMsaJ9boORmsTpX48dVQWrFqAiYDuop9IeV7J2Q/edit?tab=t.9gnym0omhtyr)
 
----
-### Prueba Ejemplo
+--- 
 
-#### Propósito "De la Sub-prueba"
+### Portabilidad - Prueba Browserslist & React Bootstrap
 
-#### Arquitectura "De la Sub-prueba"
+#### Propósito
+
+Validar que la aplicación pueda ejecutarse correctamente en distintos navegadores y dispositivos, asegurando la compatibilidad de estilos, componentes y funcionalidades de la interfaz de usuario. Se busca garantizar que el sistema mantenga una presentación consistente y responsiva, permitiendo una experiencia de uso adecuada independientemente del navegador o resolución de pantalla utilizada.
+
+#### Arquitectura
+
+- [Browserslist](https://browsersl.ist/)
+- [React Bootstrap](https://react-bootstrap.github.io/)
 
 #### Guías, recursos y tutoriales
 
-#### Prueba 1 - "¿Qué pruebas se le realizaron?"
+- [Documentación oficial](https://browsersl.ist/)
+- [Install Browserslist](https://youtu.be/_UoeV9KIeiE)
+- [¿Qé es Browserslist?](https://lenguajecss.com/herramientas-css/preprocesadores/browserslist/)
+- [Documentación oficial Bootstrap 5](https://getbootstrap.com/docs/5.3/)
+- [react-bootstrap](https://react-bootstrap.github.io/)
+- [Sistema de grid Bootstrap](https://getbootstrap.com/docs/5.3/layout/grid/)
+- [Breakpoints Bootstrap 5](https://getbootstrap.com/docs/5.3/layout/breakpoints/)
+- [Tailwind CSS — Responsive Design](https://tailwindcss.com/docs/responsive-design)
+- [Comparativa Bootstrap vs Bulma](https://bulma.io/alternative-to-bootstrap/)
 
-#### Evidencia de documentación "Del proceso y de los resultados de las pruebas"  
+#### Prueba 1 - Configuración de compatibilidad entre navegadores y diseño responsivo
+
+Se configuró Browserslist para definir los navegadores objetivo que la aplicación debe soportar, permitiendo asegurar la compatibilidad del código frontend.
+Adicionalmente, se utilizaron componentes de React Bootstrap y el sistema de grid para desarrollar interfaces responsivas que se adapten a distintos tamaños de pantalla.
+Se realizaron pruebas en diferentes resoluciones y navegadores para verificar que los estilos, componentes y funcionalidades se visualicen y comporten correctamente.
+
+#### Evidencia de documentación
+
+- [Documentación de portabilidad](https://docs.google.com/document/d/19UiZN_HT_2JfX-xiNwYVd6kKKfTfPIwMEodzAok0lLA/edit?tab=t.0)
+
+--- 
+
+### Escalabilidad - Prueba Uptime Kuma & Grafana Cloud
+
+#### Propósito
+
+Validar que la arquitectura del sistema permite monitorear el rendimiento, disponibilidad y comportamiento de los servicios, asegurando que la aplicación pueda mantenerse estable ante incrementos en el uso y facilitando la detección temprana de problemas. Esta prueba busca confirmar que es posible recopilar métricas y supervisar el estado del sistema para apoyar su crecimiento y operación continua.
+
+#### Arquitectura
+
+- Uptime Kuma
+- Grafana Cloud
+
+#### Guías, recursos y tutoriales
+
+- [Spike Scalability](../Artefactos_Arquitectura/Spikes/SPK15_Scalability.md)
+- [Documentación Oficial de Prometheus](https://prometheus.io/docs/introduction/overview/)
+- [Guía de Instalación de Uptime Kuma](https://github.com/louisland/uptime-kuma)
+- [Librería prom-client para Node.js](https://github.com/siimon/prom-client)
+- [Configuración de Grafana Cloud (Free Tier)](https://grafana.com/products/cloud/)
+
+#### Prueba 1 - Configuración de monitoreo y recolección de métricas
+
+Se configuraron herramientas de monitoreo para observar el estado y desempeño de la aplicación. Uptime Kuma se utilizó para verificar la disponibilidad del sistema mediante pruebas de acceso periódico, mientras que Grafana Cloud se configuró para visualizar métricas relacionadas con el rendimiento de los servicios.
+Se realizaron pruebas para confirmar que el sistema puede recopilar información relevante sobre su funcionamiento, permitiendo detectar fallas, cuellos de botella o problemas de disponibilidad que puedan afectar la escalabilidad.
+
+#### Evidencia de documentación
+
+- [Documentación de escalabilidad](https://docs.google.com/document/d/11xJ2Q_l83ER_H_hvnfY7uxw9rQu4CzBRz7cNfbQ16Vo/edit?tab=t.0#heading=h.z746vbtddms5)
 
 ---
+
+### Fiabilidad - Prueba Uptime Kuma & Grafana Cloud con Prometheus
+
+#### Propósito
+
+Validar que el sistema puede mantenerse disponible y funcionando correctamente de manera continua, permitiendo detectar fallas, caídas del servicio o comportamientos anómalos de forma oportuna. Esta prueba busca asegurar que la arquitectura cuenta con mecanismos de monitoreo que faciliten la identificación y resolución de problemas, contribuyendo a la estabilidad y confiabilidad del sistema.
+
+#### Arquitectura
+
+- Uptime Kuma
+- Grafana Cloud
+
+#### Guías, recursos y tutoriales
+
+- [Spike Reliability](../Artefactos_Arquitectura/Spikes/SPK17_Reliability)
+- [Documentación Oficial de Prometheus](https://prometheus.io/docs/introduction/overview/)
+- [Guía de Instalación de Uptime Kuma](https://github.com/louisland/uptime-kuma)
+- [Librería prom-client para Node.js](https://github.com/siimon/prom-client)
+- [Configuración de Grafana Cloud (Free Tier)](https://grafana.com/products/cloud/)
+
+#### Prueba 1 - Monitoreo de disponibilidad y estabilidad del sistema
+
+Se configuraron herramientas de monitoreo para verificar la disponibilidad continua de la aplicación y supervisar el estado de los servicios. Uptime Kuma se utilizó para comprobar periódicamente que el sistema se encuentre accesible, mientras que Grafana Cloud permite visualizar métricas relacionadas con el funcionamiento de la aplicación.
+Se realizaron pruebas para confirmar que es posible detectar interrupciones del servicio, fallas o comportamientos inusuales, facilitando la toma de acciones correctivas de manera oportuna.
+
+#### Evidencia de documentación
+
+- [Documentación de fiabilidad](https://docs.google.com/document/d/1pZfssmINH6JfMic6humXcpQ6DFRnyKsnrRHZJoYRlyY/edit?tab=t.0)
+
+---
+
+### Seguridad - Prueba Auditoría de Servidor (auditd)
+#### Propósito
+Implementar un sistema de auditoría en el servidor que permita monitorear accesos, ejecución de comandos y actividad de los usuarios, con el objetivo de mejorar la seguridad y trazabilidad del sistema.
+
+#### Arquitectura
+- Sistema operativo Linux (Ubuntu)
+- Herramienta de auditoría: auditd
+- Logs del sistema: /var/log/audit/, /var/log/auth.log
+
+#### Guías, recursos y documentación
+- [Documentación oficial de auditd](https://docs.oracle.com/es/learn/ol-auditd/)
+- [Guía básica de auditd en Linux](https://koansoftware.com/comprehensive-guide-to-auditd-for-linux-embedded-systems/)
+
+#### Prueba 1 - Implementación de auditd
+
+Se realizó la instalación de la herramienta auditd en el servidor, permitiendo habilitar la auditoría de eventos del sistema.
+  
+Se configuró el servicio para ejecutarse automáticamente y se verificó su correcto funcionamiento mediante el estado del servicio (systemctl status auditd).
+  
+Posteriormente, se definieron reglas de auditoría para registrar los comandos ejecutados por los usuarios, permitiendo obtener trazabilidad de las acciones realizadas dentro del servidor.
+  
+#### Prueba 2 - Monitoreo de comandos y usuarios
+
+Se utilizaron herramientas como ausearch y aureport para consultar la información registrada por auditd.
+  
+Se validó la correcta captura de eventos como:
+- Ejecución de comandos (EXECVE)
+- Inicio y cierre de sesión (USER_START, USER_END)
+- Autenticación y accesos (USER_LOGIN, USER_AUTH)
+
+Esto permitió identificar qué usuario ejecuta comandos, en qué momento y si la acción fue exitosa o fallida.
+
+#### Prueba 3 - Monitoreo de accesos al servidor (SSH)
+  
+Se analizaron los logs de autenticación (/var/log/auth.log) para identificar accesos al servidor mediante SSH.
+  
+Se validaron:
+- Logins exitosos
+- Intentos fallidos
+- Dirección IP de origen
+- Usuario que accede
+  
+Esto permite detectar accesos no autorizados o comportamientos sospechosos.
+
+#### Evidencia de documentación - auditd
+- [Documentación de instalación y configuración de auditd](https://docs.google.com/document/d/1u8BeCNG0ekweDGOHW2A9-mdw_fUPs2tzG0TLdcavRVI/edit?tab=t.0)
+- [Documentación de comandos clave para monitorear la seguridad del servidor](https://docs.google.com/document/d/1u8BeCNG0ekweDGOHW2A9-mdw_fUPs2tzG0TLdcavRVI/edit?tab=t.lz1p9634y90p#heading=h.n9j4pjh1xzcv)
+
+--- 
 
 | Version | Creado por: | Auditado por: | Descripción | Fecha |
 |---------|------------|--------------|---------------|-------|
@@ -237,3 +457,5 @@ Se realizó la implementación de jest y github actions para la automatización 
 | 1.1 |  Yessica Lora  |  Alejandra Arredondo| Actualización de prueba de arquitectura| 21/03/2026 |
 | 1.1 |  Yessica Lora  |  Alejandra Arredondo| Actualización de prueba de arquitectura| 22/03/2026 |
 | 1.1 | Alejandra Arredondo | Juan Manuel Murillo | Actualización de prueba de arquitectura | 23/03/2026 |
+| 1.1 | Alejandra Arredondo | Kamila Jeanette Martínez | Actualización de prueba de arquitectura - Auditd | 01/04/2026 |
+| 1.1 | Luisa Fernanda Valdez Guillén | | Actualización de prueba de arquitectura | 02/04/2026 |
