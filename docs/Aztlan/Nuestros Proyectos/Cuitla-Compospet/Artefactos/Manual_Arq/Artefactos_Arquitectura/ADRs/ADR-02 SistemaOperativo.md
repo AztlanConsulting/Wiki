@@ -1,5 +1,6 @@
 ---
 title: "ADR-02 Sistema Operativo"
+sidebar_position: 2
 ---
 
 # ADR-02: Sistema Operativo Ubuntu 24.04 Linux

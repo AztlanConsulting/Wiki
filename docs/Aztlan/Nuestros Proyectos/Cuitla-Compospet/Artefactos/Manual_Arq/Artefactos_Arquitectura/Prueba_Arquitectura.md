@@ -125,20 +125,56 @@ Se realizó la implementación de jest y github actions para la automatización 
 - [Documentación de la implementación de Jest](https://docs.google.com/document/d/1ig7xQMsaJ9boORmsTpX48dVQWrFqAiYDuop9IeV7J2Q/edit?tab=t.0)
 - [Documentación de la implementación de GitHub Actions](https://docs.google.com/document/d/1ig7xQMsaJ9boORmsTpX48dVQWrFqAiYDuop9IeV7J2Q/edit?tab=t.9gnym0omhtyr)
 
---
-### Prueba Ejemplo
+--- 
+### Prueba Auditoría de Servidor (auditd)
+#### Propósito
+Implementar un sistema de auditoría en el servidor que permita monitorear accesos, ejecución de comandos y actividad de los usuarios, con el objetivo de mejorar la seguridad y trazabilidad del sistema.
 
-#### Propósito "De la Sub-prueba"
+#### Arquitectura
+- Sistema operativo Linux (Ubuntu)
+- Herramienta de auditoría: auditd
+- Logs del sistema: /var/log/audit/, /var/log/auth.log
 
-#### Arquitectura "De la Sub-prueba"
+#### Guías, recursos y documentación
+- [Documentación oficial de auditd](https://docs.oracle.com/es/learn/ol-auditd/)
+- [Guía básica de auditd en Linux](https://koansoftware.com/comprehensive-guide-to-auditd-for-linux-embedded-systems/)
 
-#### Guías, recursos y tutoriales
+#### Prueba 1 - Implementación de auditd
 
-#### Prueba 1 - "¿Qué pruebas se le realizaron?"
+Se realizó la instalación de la herramienta auditd en el servidor, permitiendo habilitar la auditoría de eventos del sistema.
+  
+Se configuró el servicio para ejecutarse automáticamente y se verificó su correcto funcionamiento mediante el estado del servicio (systemctl status auditd).
+  
+Posteriormente, se definieron reglas de auditoría para registrar los comandos ejecutados por los usuarios, permitiendo obtener trazabilidad de las acciones realizadas dentro del servidor.
+  
+#### Prueba 2 - Monitoreo de comandos y usuarios
 
-#### Evidencia de documentación "Del proceso y de los resultados de las pruebas"  
+Se utilizaron herramientas como ausearch y aureport para consultar la información registrada por auditd.
+  
+Se validó la correcta captura de eventos como:
+- Ejecución de comandos (EXECVE)
+- Inicio y cierre de sesión (USER_START, USER_END)
+- Autenticación y accesos (USER_LOGIN, USER_AUTH)
 
----
+Esto permitió identificar qué usuario ejecuta comandos, en qué momento y si la acción fue exitosa o fallida.
+
+#### Prueba 3 - Monitoreo de accesos al servidor (SSH)
+  
+Se analizaron los logs de autenticación (/var/log/auth.log) para identificar accesos al servidor mediante SSH.
+  
+Se validaron:
+- Logins exitosos
+- Intentos fallidos
+- Dirección IP de origen
+- Usuario que accede
+  
+Esto permite detectar accesos no autorizados o comportamientos sospechosos.
+
+#### Evidencia de documentación - auditd
+- [Documentación de instalación y configuración de auditd](https://docs.google.com/document/d/1u8BeCNG0ekweDGOHW2A9-mdw_fUPs2tzG0TLdcavRVI/edit?tab=t.0)
+- [Documentación de comandos clave para monitorear la seguridad del servidor](https://docs.google.com/document/d/1u8BeCNG0ekweDGOHW2A9-mdw_fUPs2tzG0TLdcavRVI/edit?tab=t.lz1p9634y90p#heading=h.n9j4pjh1xzcv)
+
+--- 
 
 | Version | Creado por: | Auditado por: | Descripción | Fecha |
 |---------|------------|--------------|---------------|-------|
@@ -147,3 +183,4 @@ Se realizó la implementación de jest y github actions para la automatización 
 | 1.1 |  Yessica Lora  |  Alejandra Arredondo| Actualización de prueba de arquitectura| 21/03/2026 |
 | 1.1 |  Yessica Lora  |  Alejandra Arredondo| Actualización de prueba de arquitectura| 22/03/2026 |
 | 1.1 | Alejandra Arredondo | Juan Manuel Murillo | Actualización de prueba de arquitectura | 23/03/2026 |
+| 1.1 | Alejandra Arredondo | Kamila Jeanette Martínez | Actualización de prueba de arquitectura - Auditd | 01/04/2026 |
