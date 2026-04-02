@@ -1,5 +1,6 @@
 ---
 title: "SPK15 - Scalability"
+sidebar_position: 15
 ---
 
 # SPK10 - Scalability (Prometheus + Uptime Kuma)
