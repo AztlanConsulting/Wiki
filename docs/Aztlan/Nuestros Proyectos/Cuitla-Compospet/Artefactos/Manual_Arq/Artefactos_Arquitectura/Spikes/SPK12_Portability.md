@@ -1,6 +1,6 @@
 ---
-title: "PLA13 - Spike Portability - Browserslist"
-sidebar_position: 12
+title: "SPK13 - Spike Portability - Browserslist"
+sidebar_position: 13
 ---
 
 **Duración:** 1 día  

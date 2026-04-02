@@ -57,8 +57,8 @@ sudo systemctl start auditd
 ### 3. Configurar auditoría de comandos por usuario
 
 ```bash
-sudo auditctl -a always,exit -F arch=b64 -S execve -F auid>=1000 -F auid!=4294967295 -k user_cmd
-sudo auditctl -a always,exit -F arch=b32 -S execve -F auid>=1000 -F auid!=4294967295 -k user_cmd
+sudo auditctl -a always,exit -F arch=b64 -S execve -F 'auid>=1000' -F 'auid!=4294967295' -k user_cmd
+sudo auditctl -a always,exit -F arch=b32 -S execve -F 'auid>=1000' -F 'auid!=4294967295' -k user_cmd
 ```
 Esto permite registrar todos los comandos ejecutados por usuarios reales del sistema.
 
@@ -73,7 +73,7 @@ sudo ausearch -k user_cmd -ua nombre_usuario
 ```
 Filtrar por fecha:
 ```bash
-sudo ausearch -k user_cmd -ts today
+    sudo ausearch -k user_cmd -ts today
 ```
 ### 5. Ubicación de logs
 ```bash
@@ -86,16 +86,16 @@ Crear archivo:
 sudo nano /etc/audit/rules.d/user-commands.rules
 ```
 Agregar el siguiente comando para registrar todos los comandos que ejecutan los usuarios en el servidor:
-```
--a always,exit -F arch=b64 -S execve -F auid>=1000 -F auid!=4294967295 -k user_cmd
--a always,exit -F arch=b32 -S execve -F auid>=1000 -F auid!=4294967295 -k user_cmd
+``` bash
+-a always,exit -F arch=b64 -S execve -F 'auid>=1000' -F 'auid!=4294967295' -k user_cmd
+-a always,exit -F arch=b32 -S execve -F 'auid>=1000' -F 'auid!=4294967295' -k user_cmd
 ```
 
 Reiniciar servicio de auditd:
 ```bash
 sudo systemctl restart auditd
 ```
-
+kasj
 
 ### Control de versiones
 
