@@ -95,7 +95,7 @@ Reiniciar servicio de auditd:
 ```bash
 sudo systemctl restart auditd
 ```
-kasj
+
 
 ### Control de versiones
 
