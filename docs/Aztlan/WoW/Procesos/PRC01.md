@@ -1,0 +1,177 @@
+---
+title: "PRC01 - Gestión de Requisitos"
+sidebar_position: 1
+---
+
+_v2.0 / REQM_
+
+## Propósito
+
+Gestionar los requisitos del proyecto durante todo su ciclo de vida, asegurando su comprensión, compromiso, trazabilidad, control de cambios y consistencia con los productos de trabajo del proyecto.
+
+---
+
+## Área / Prácticas del CMMI
+
+Área de proceso:
+
+REQM — Requirements Management
+
+Prácticas específicas cubiertas:
+
+- REQM SP 1.1 — Understand Requirements  
+- REQM SP 1.2 — Obtain Commitment  
+- REQM SP 1.3 — Manage Changes  
+- REQM SP 1.4 — Maintain Traceability  
+- REQM SP 1.5 — Identify Inconsistencies  
+
+---
+
+## Roles involucrados
+
+- Product Owner
+- Program Managers
+- Team Members
+- Stakeholders
+
+---
+
+## Entradas
+
+- Necesidades del cliente
+- Alcance del proyecto
+- Acuerdos del proyecto
+- Stakeholders identificados
+- Solicitudes de cambio (cuando existan)
+- Productos de trabajo existentes
+
+---
+
+## Actividades
+
+### 1. Comprender los requisitos
+
+El equipo recopila y analiza las necesidades del cliente y stakeholders para asegurar una comprensión clara de los requisitos.
+
+#### Actividades
+
+- Recopilar las necesidades y expectativas del cliente.
+- Analizar y documentar los requisitos en el SRS [LINK]. 
+    - (No funcionales -> Historias de usuario).
+    - Agregar HU al PVG.
+- Validar que los requisitos sean claros, completos y comprendidos.
+- Registrar acuerdos y aclaraciones relevantes [LINK].
+
+#### Evidencia generada
+
+- Documento de requisitos (SRS)
+- PVG actualizado
+- Minutas de reuniones
+- Registro de acuerdos
+
+#### Guías / Plantillas asociadas
+
+- Guía para redacción de historias de usuario [LINK]. 
+
+---
+
+### 2. Preparar los requisitos para compromiso
+
+Antes de implementar un requisito, se debe evaluar su viabilidad y alineación con la capacidad del equipo.
+
+#### Actividades
+
+- Verificar que el requisito cumpla con la Definición de Ready [LINK].
+- Revisar dependencias y riesgos [LINK].
+- Evaluar impacto en alcance, cronograma y recursos. (Grooming. Ej. Si la HU es muy grande, dividirlo en partes más pequeñas).
+
+#### Evidencia generada
+
+- Requisito evaluado
+- Registro de riesgos identificados
+- Estimación preliminar
+
+#### Guías / Plantillas asociadas
+
+- Definición de Ready
+- Plantilla de estimación
+- Guía de análisis de impacto
+
+---
+
+### 3. Obtener compromiso sobre los requisitos
+
+Cuando un requisito esté listo para implementación, se deberá ejecutar el proceso:
+
+PRC02 — Proceso para obtener compromiso sobre los requisitos [LINK].
+
+---
+
+### 4. Gestionar cambios en los requisitos
+
+Cuando se identifique una modificación, nueva necesidad o inconsistencia, se deberá ejecutar el proceso:
+
+PRC03 — Proceso para manejo de cambios en requisitos [LINK].
+
+---
+
+### 5. Mantener la trazabilidad de los requisitos
+
+Se debe asegurar que cada requisito esté vinculado a sus productos de trabajo relacionados.
+
+#### Actividades
+
+- Registrar la relación entre requisitos y diseño, código y pruebas.
+- Actualizar la Matriz de Trazabilidad de Requisitos (RTM).
+
+#### Evidencia generada
+
+- Matriz de trazabilidad actualizada 
+
+#### Guías / Plantillas asociadas
+
+- Plantilla de matriz de trazabilidad (RTM) [LINK].
+
+---
+
+### 6. Identificar inconsistencias
+
+Se debe verificar periódicamente la consistencia entre los requisitos y los productos de trabajo.
+
+#### Actividades
+
+- Revisar consistencia entre requisitos y artefactos.
+- Registrar inconsistencias detectadas.
+- Iniciar una solicitud de cambio cuando sea necesario.
+
+#### Evidencia generada
+
+- Registro de inconsistencias
+- Solicitud de cambio
+
+#### Guías / Plantillas asociadas
+
+- Plantilla de registro de inconsistencias [LINK].
+- Guía para revisión de consistencia [LINK].
+
+---
+
+## Relación con otros procesos
+
+Este proceso interactúa con:
+
+- PRC02 — Obtener compromiso sobre los requisitos
+- PRC03 — Manejo de cambios en requisitos
+- Proceso de planificación del proyecto (PP)
+- Proceso de aseguramiento de calidad (QA)
+- Proceso de gestión de configuración (CM)
+
+---
+
+## Salidas
+
+- Requisitos comprendidos y documentados
+- Requisitos comprometidos
+- RTM actualizada
+- Cambios controlados
+- Registro de inconsistencias
