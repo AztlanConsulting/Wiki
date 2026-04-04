@@ -5,6 +5,22 @@ sidebar_position: 1
 
 _v2.0 / REQM_
 
+## Terminología
+
+Requisito:
+
+Condición o capacidad que debe cumplir el sistema.
+
+En este proyecto, los requisitos pueden representarse mediante:
+
+- Historias de Usuario (HU)
+- Requisitos no funcionales
+- Restricciones del sistema
+
+Las Historias de Usuario se gestionan como requisitos dentro del proceso de Gestión de Requisitos.
+
+---
+
 ## Propósito
 
 Gestionar los requisitos del proyecto durante todo su ciclo de vida, asegurando su comprensión, compromiso, trazabilidad, control de cambios y consistencia con los productos de trabajo del proyecto.
@@ -43,7 +59,7 @@ Prácticas específicas cubiertas:
 - Acuerdos del proyecto
 - Stakeholders identificados
 - Solicitudes de cambio (cuando existan)
-- Productos de trabajo existentes
+- Productos de trabajo existentes (diseño, código, pruebas)
 
 ---
 
@@ -56,16 +72,13 @@ El equipo recopila y analiza las necesidades del cliente y stakeholders para ase
 #### Actividades
 
 - Recopilar las necesidades y expectativas del cliente.
-- Analizar y documentar los requisitos en el SRS [LINK]. 
-    - (No funcionales -> Historias de usuario).
-    - Agregar HU al PVG.
+- Analizar y documentar los requisitos (por ejemplo, Historias de Usuario, requisitos no funcionales o restricciones) en PVG y SRS [LINK]. 
 - Validar que los requisitos sean claros, completos y comprendidos.
 - Registrar acuerdos y aclaraciones relevantes [LINK].
 
 #### Evidencia generada
 
-- Documento de requisitos (SRS)
-- PVG actualizado
+- Requisitos documentados (por ejemplo, PVG de Historias de Usuario o documento SRS)
 - Minutas de reuniones
 - Registro de acuerdos
 
@@ -83,11 +96,12 @@ Antes de implementar un requisito, se debe evaluar su viabilidad y alineación c
 
 - Verificar que el requisito cumpla con la Definición de Ready [LINK].
 - Revisar dependencias y riesgos [LINK].
-- Evaluar impacto en alcance, cronograma y recursos. (Grooming. Ej. Si la HU es muy grande, dividirlo en partes más pequeñas).
+- Evaluar impacto en alcance, cronograma y recursos.
+- Refinar requisitos cuando sea necesario (por ejemplo, dividir un requisito grande en partes más pequeñas).
 
 #### Evidencia generada
 
-- Requisito evaluado
+- Registro de evaluación del requisito
 - Registro de riesgos identificados
 - Estimación preliminar
 
@@ -121,7 +135,7 @@ Se debe asegurar que cada requisito esté vinculado a sus productos de trabajo r
 
 #### Actividades
 
-- Registrar la relación entre requisitos y diseño, código y pruebas.
+- Registrar la relación entre requisitos (por ejemplo, Historias de Usuario) y los productos de trabajo relacionados (diseño, código y pruebas).
 - Actualizar la Matriz de Trazabilidad de Requisitos (RTM).
 
 #### Evidencia generada

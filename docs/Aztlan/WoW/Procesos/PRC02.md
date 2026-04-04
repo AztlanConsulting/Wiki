@@ -26,7 +26,7 @@ Práctica específica cubierta:
 ## Roles involucrados
 
 - Product Owner
-- Project Managers
+- Program Managers
 - Team Members
 
 ---
@@ -35,7 +35,8 @@ Práctica específica cubierta:
 
 Entradas externas:
 
-- Requisitos  definidos y documentados
+- Requisitos definidos y documentados (por ejemplo, Historias de Usuario u otros tipos de requisitos)
+- Requisitos listos para compromiso
 - Alcance del proyecto
 - Plan del proyecto
 
@@ -55,8 +56,8 @@ El equipo revisa el requisito  para asegurar que esté listo para ser evaluado p
 
 #### Actividades
 
-- Verificar que el requisito  esté claramente definido.
-- Confirmar que cuenta con criterios de aceptación (DoD) [LINK].
+- Verificar que el requisito (por ejemplo, Historia de Usuario) esté claramente definido.
+- Confirmar que cuenta con criterios de aceptación.
 - Validar que el requisito  esté alineado con el alcance del proyecto.
 - Verificar que cumple con la Definición de Ready [LINK].
 
@@ -78,7 +79,7 @@ El equipo analiza si el requisito puede ser implementado considerando la capacid
 
 #### Actividades
 
-- Estimar el esfuerzo requerido para implementar el requisito.
+- Estimar el esfuerzo requerido para implementar el requisito (por ejemplo, Historia de Usuario).
 - Identificar dependencias técnicas o funcionales.
 - Revisar la capacidad disponible del equipo.
 - Determinar si el requisito es viable dentro del periodo planificado.
@@ -122,7 +123,7 @@ El equipo confirma formalmente su compromiso para implementar el requisito.
 
 - Confirmar que el equipo acepta implementar el requisito.
 - Registrar fecha comprometida.
-- Registrar el requisito como comprometido en el PVG y plan del proyecto.
+- Registrar el requisito (por ejemplo, Historia de Usuario) como comprometido en el PVG y plan del proyecto.
 
 #### Evidencia generada
 
@@ -150,7 +151,7 @@ Este proceso interactúa con:
 
 ## Salidas
 
-- Requisitos comprometidos para implementación
+- Requisitos comprometidos para implementación (por ejemplo, Historias de Usuario)
 - Registro formal de compromiso
 - PVG actualizado
 - Plan del proyecto actualizado

@@ -27,7 +27,7 @@ Prácticas específicas cubiertas:
 ## Roles involucrados
 
 - Product Owner  
-- Project Managers
+- Program Managers
 - Team Members 
 - Stakeholders (cuando aplique)
 
@@ -38,7 +38,7 @@ Prácticas específicas cubiertas:
 Entradas externas:
 
 - Solicitud de cambio
-- Requisitos definidos
+- Requisitos definidos (por ejemplo, Historias de Usuario u otros tipos de requisitos)
 - Alcance del proyecto
 - Plan del proyecto
 
@@ -54,7 +54,7 @@ Entradas internas (cuando existan):
 
 ### 1. Identificar el cambio
 
-Se detecta una nueva necesidad, modificación o inconsistencia en los requisitos .
+Se detecta una nueva necesidad, modificación o inconsistencia en los requisitos (por ejemplo, Historias de Usuario u otros tipos de requisitos).
 
 #### Actividades
 
@@ -85,7 +85,7 @@ Se evalúa el impacto del cambio en el proyecto antes de tomar una decisión.
 - Evaluar impacto en cronograma.
 - Evaluar impacto en riesgos.
 - Identificar productos de trabajo afectados.
-- Identificar requisitos relacionados mediante la RTM.
+- Identificar requisitos relacionados (por ejemplo, Historias de Usuario) mediante la RTM.
 
 #### Evidencia generada
 
@@ -130,7 +130,7 @@ Se toma una decisión formal sobre el cambio.
 #### Actividades
 
 - Revisar resultados del análisis y evaluación.
-- Aprobar o rechazar el cambio.
+- Aprobar o rechazar el cambio. Determinar la autoridad responsable para aprobar o rechazar el cambio. (Product Owner, Program Manager, etc.)
 - Registrar la decisión tomada.
 - Comunicar la decisión a los interesados.
 
@@ -159,7 +159,7 @@ Se actualizan los productos de trabajo afectados por el cambio aprobado.
 
 #### Evidencia generada
 
-- Requisitos actualizados
+- Requisitos actualizados (por ejemplo, backlog de Historias de Usuario o documento SRS)
 - RTM actualizada
 - Registro de versiones
 
@@ -175,7 +175,7 @@ Se verifica que los productos de trabajo actualizados sean consistentes con los 
 
 #### Actividades
 
-- Revisar consistencia entre requisitos y productos de trabajo.
+- Revisar consistencia entre requisitos (por ejemplo, Historias de Usuario) y productos de trabajo.
 - Identificar inconsistencias adicionales.
 - Registrar inconsistencias detectadas.
 
