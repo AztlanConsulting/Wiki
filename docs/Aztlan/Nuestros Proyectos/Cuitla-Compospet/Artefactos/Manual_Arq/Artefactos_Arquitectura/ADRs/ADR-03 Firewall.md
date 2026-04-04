@@ -1,5 +1,6 @@
 ---
 title: "ADR-03 Firewall WAF Cloudflare"
+sidebar_position: 3
 ---
 
 # ADR-03: Firewall Cloudflare WAF

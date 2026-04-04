@@ -1,5 +1,6 @@
 ---
 title: "ADR-12 Monitoreo del Servidor (Prometheus + Uptime Kuma)"
+sidebar_position: 12
 ---
 
 # ADR-12: Monitoreo del Servidor

@@ -68,7 +68,6 @@ Formato general:
 ````
 
 La descripción debe:
-- Estar en ingles
 - Ser clara y directa
 - Explicar qué se hizo (no cómo)
 - Evitar mensajes genéricos como “cambios” o “update”
