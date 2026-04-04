@@ -154,3 +154,7 @@ Este proceso interactúa con:
 - Registro formal de compromiso
 - PVG actualizado
 - Plan del proyecto actualizado
+
+| Version | Creado por: | Auditado por: | Descripción | Fecha |
+|---------|------------|--------------|---------------|-------|
+| 2.0     | Fatima Figueroa |  |  Cambio de formato y actualización de PRC17 | 04/04/2026 |
