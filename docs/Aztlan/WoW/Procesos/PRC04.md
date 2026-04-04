@@ -122,18 +122,18 @@ Crear una política cuando:
 
 ---
 
-### 4. Crear o actualizar el activo de proceso
+### 4. Crear o actualizar el artefacto de proceso
 
 Se desarrolla el proceso, guía o política correspondiente.
 
 #### Actividades
 
-- Definir el contenido del activo.
+- Definir el contenido del artefacto.
 - Asignar el identificador (ID) correspondiente.
     - PRCXX = Proceso
     - GUIXX = Guía
     - POLXX = Política
-- Registrar el activo en el repositorio de procesos [LINK].
+- Registrar el artefacto en el repositorio de procesos [LINK].
 - Revisar consistencia con otros procesos.
 
 #### Evidencia generada
@@ -166,15 +166,15 @@ Se asegura que el sistema de procesos refleje los cambios realizados.
 
 ---
 
-### 6. Revisar y aprobar el activo
+### 6. Revisar y aprobar el artefacto
 
-Se valida que el activo creado o modificado sea correcto y consistente.
+Se valida que el artefacto creado o modificado sea correcto y consistente.
 
 #### Actividades
 
-- Revisar el contenido del activo.
+- Revisar el contenido del artefacto.
 - Verificar alineación con el sistema de procesos.
-- Aprobar el activo antes de su uso.
+- Aprobar el artefacto antes de su uso.
 
 #### Evidencia generada
 
@@ -183,7 +183,7 @@ Se valida que el activo creado o modificado sea correcto y consistente.
 
 ---
 
-### 7. Auditar el uso del activo
+### 7. Auditar el uso del artefacto
 
 Se verifica que el proceso, guía o política se utilice correctamente.
 
