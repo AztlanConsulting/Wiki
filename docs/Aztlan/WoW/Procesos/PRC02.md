@@ -1,13 +1,12 @@
 ---
 title: "PRC02 - Proceso para obtener compromiso sobre los requisitos"
-sidebar_position: 2
 ---
 
-_v4.0 / REQM_
+_v2.0 / REQM_
 
 ## Propósito
 
-Asegurar que el equipo y el Product Owner acepten formalmente implementar los requisitos , considerando la capacidad disponible, riesgos, dependencias y prioridades del proyecto.
+Asegurar que el equipo y el Product Owner acepten formalmente implementar los requisitos, considerando la capacidad disponible, riesgos, dependencias y prioridades del proyecto.
 
 ---
 
@@ -33,15 +32,10 @@ Práctica específica cubierta:
 
 ## Entradas
 
-Entradas externas:
-
 - Requisitos definidos y documentados (por ejemplo, Historias de Usuario u otros tipos de requisitos)
 - Requisitos listos para compromiso
 - Alcance del proyecto
 - Plan del proyecto
-
-Entradas internas (cuando existan):
-
 - Capacidad disponible del equipo
 - Riesgos identificados
 - Dependencias identificadas
@@ -52,19 +46,19 @@ Entradas internas (cuando existan):
 
 ### 1. Revisar el requisito
 
-El equipo revisa el requisito  para asegurar que esté listo para ser evaluado para compromiso.
+El equipo revisa el requisito para asegurar que esté listo para ser evaluado para compromiso.
 
 #### Actividades
 
 - Verificar que el requisito (por ejemplo, Historia de Usuario) esté claramente definido.
 - Confirmar que cuenta con criterios de aceptación.
-- Validar que el requisito  esté alineado con el alcance del proyecto.
+- Validar que el requisito esté alineado con el alcance del proyecto.
 - Verificar que cumple con la Definición de Ready [LINK].
 
 #### Evidencia generada
 
-- Requisito  revisado 
-- Backlog actualizado
+- Requisito revisado 
+- PVG actualizado (en caso de ser necesario)
 
 #### Guías / Plantillas asociadas
 
@@ -93,25 +87,25 @@ El equipo analiza si el requisito puede ser implementado considerando la capacid
 
 #### Guías / Plantillas asociadas
 
-- Plantilla de estimación
+- Plantilla de estimación [LINK]
 
 ---
 
 ### 3. Negociar el requisito (cuando aplique)
 
-Si el requisito  afecta compromisos existentes o excede la capacidad disponible, se realiza una negociación con el Product Owner.
+Si el requisito afecta compromisos existentes o excede la capacidad disponible, se realiza una negociación con el Product Owner.
 
 #### Actividades
 
-- Revisar prioridades del requisito .
+- Revisar prioridades del requisito.
 - Ajustar alcance o fechas cuando sea necesario.
-- Reprogramar el requisito  si no puede implementarse en el periodo actual.
+- Reprogramar el requisito si no puede implementarse en el periodo actual.
 
 #### Evidencia generada
 
-- Registro de negociación
+- Registro de negociación (minutas de reunión, acuerdos)
 - PVG actualizado
-- Decisión documentada
+- Plan del proyecto actualizado
 
 ---
 
@@ -133,7 +127,7 @@ El equipo confirma formalmente su compromiso para implementar el requisito.
 
 #### Guías / Plantillas asociadas
 
-- Plantilla de acta de compromiso [LINK].
+- Plantilla de acta de compromiso [LINK]
 
 ---
 

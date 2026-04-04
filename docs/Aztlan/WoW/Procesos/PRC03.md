@@ -1,9 +1,8 @@
 ---
 title: "PRC03 - Proceso para manejo de cambios en requisitos"
-sidebar_position: 3
 ---
 
-_v4.0 / REQM_
+_v2.0 / REQM_
 
 ## Propósito
 

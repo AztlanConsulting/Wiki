@@ -1,6 +1,5 @@
 ---
 title: "PRC01 - Gestión de Requisitos"
-sidebar_position: 1
 ---
 
 _v2.0 / REQM_
@@ -108,7 +107,7 @@ Antes de implementar un requisito, se debe evaluar su viabilidad y alineación c
 #### Guías / Plantillas asociadas
 
 - Definición de Ready
-- Plantilla de estimación
+- Plantilla de estimación [LINK]
 - Guía de análisis de impacto
 
 ---
