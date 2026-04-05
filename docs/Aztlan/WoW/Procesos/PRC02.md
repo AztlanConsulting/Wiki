@@ -1,5 +1,5 @@
 ---
-title: "PRC02 - Proceso para obtener compromiso sobre los requisitos"
+title: "PRC02 - Obtención de Compromisos sobre los Requisitos"
 ---
 
 _v2.0 / REQM_

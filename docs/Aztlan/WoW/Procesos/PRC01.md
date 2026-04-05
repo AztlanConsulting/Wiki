@@ -116,7 +116,7 @@ Antes de implementar un requisito, se debe evaluar su viabilidad y alineación c
 
 Cuando un requisito esté listo para implementación, se deberá ejecutar el proceso:
 
-PRC02 — Proceso para obtener compromiso sobre los requisitos [LINK].
+PRC02 — Obtención de Compromisos sobre los Requisitos [LINK].
 
 ---
 
@@ -124,7 +124,7 @@ PRC02 — Proceso para obtener compromiso sobre los requisitos [LINK].
 
 Cuando se identifique una modificación, nueva necesidad o inconsistencia, se deberá ejecutar el proceso:
 
-PRC03 — Proceso para manejo de cambios en requisitos [LINK].
+PRC03 — Manejo de Cambios en Requisitos [LINK].
 
 ---
 
@@ -173,7 +173,7 @@ Se debe verificar periódicamente la consistencia entre los requisitos y los pro
 
 Este proceso interactúa con:
 
-- PRC02 — Obtener compromiso sobre los requisitos
+- PRC02 — Obtención de Compromisos sobre los Requisitos
 - PRC03 — Manejo de cambios en requisitos
 - Proceso de planificación del proyecto (PP)
 - Proceso de aseguramiento de calidad (QA)

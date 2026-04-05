@@ -2,7 +2,7 @@
 title: "PRC04 - Definición y mantenimiento de la forma de trabajo"
 ---
 
-_v1.0 /_
+_v2.0 /_
 
 ## Propósito
 

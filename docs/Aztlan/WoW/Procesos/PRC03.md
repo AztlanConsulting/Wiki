@@ -1,5 +1,5 @@
 ---
-title: "PRC03 - Proceso para manejo de cambios en requisitos"
+title: "PRC03 - Manejo de Cambios en Requisitos"
 ---
 
 _v2.0 / REQM_
@@ -194,7 +194,7 @@ Se verifica que los productos de trabajo actualizados sean consistentes con los 
 Este proceso interactúa con:
 
 - PRC01 — Gestión de Requisitos  
-- PRC02 — Obtener compromiso sobre los requisitos  
+- PRC02 — Obtención de Compromisos sobre los Requisitos 
 - Proceso de planificación del proyecto (PP)  
 - Proceso de gestión de configuración (CM)  
 - Proceso de aseguramiento de calidad (QA)
