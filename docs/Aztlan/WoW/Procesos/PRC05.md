@@ -96,7 +96,7 @@ El equipo asegura que los elementos de trabajo estén correctamente definidos, e
 
 #### Guías / Plantillas asociadas
 
-- Guía para realizar Backlog Grooming [LINK]
+- [¿Cómo realizar el Backlog Grooming](../Guías/GUI17)
 - Definición de Ready [LINK]
 - Plantilla de estimación [LINK]
 
@@ -129,7 +129,7 @@ El equipo define el objetivo del Sprint y selecciona los elementos de trabajo pr
 
 #### Guías / Plantillas asociadas
 
-- Guía para realizar Sprint Planning [LINK]
+- [¿Cómo realizar el Sprint Planning?](../Guías/GUI16)
 
 ---
 
@@ -159,7 +159,7 @@ El equipo monitorea el progreso del trabajo y gestiona impedimentos que puedan a
 
 #### Guías / Plantillas asociadas
 
-- Guía para realizar Daily [LINK]
+- [¿Cómo realizar la Daily?](../Guías/GUI18)
 - Plantilla de registro de Daily [LINK]
 
 ---
@@ -191,7 +191,7 @@ El equipo de liderazgo revisa el estado del proyecto para asegurar la alineació
 
 #### Guías / Plantillas asociadas
 
-- Guía para realizar Reunión de Coordinación por Roles [LINK]
+- [¿Cómo realizar la Reunión de Coordinación por Roles?](../Guías/GUI20)
 - Plantilla de minuta de reunión [LINK]
 
 ---
@@ -221,7 +221,7 @@ El equipo evalúa los resultados obtenidos y define acciones de mejora para la s
 
 #### Guías / Plantillas asociadas
 
-- Guía para realizar Sprint Retrospective [LINK]
+- [¿Cómo realizar el Sprint Retrospective?](../Guías/GUI19)
 - Plantilla de retrospectiva [LINK]
 
 ---

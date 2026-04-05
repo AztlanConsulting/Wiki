@@ -136,6 +136,8 @@ Se desarrolla el proceso, guía o política correspondiente.
 - Registrar el artefacto en el repositorio de procesos [LINK].
 - Revisar consistencia con otros procesos.
 
+**NOTA**: Recuerda que el nombre del proceso, guía o política debe ser claro y descriptivo para reflejar su propósito y contenido de manera efectiva. No debes agregar el tipo de artefacto en el nombre y el nombre de las guías deben ser en formato de pregunta
+
 #### Evidencia generada
 
 - Proceso, guía o política documentada
