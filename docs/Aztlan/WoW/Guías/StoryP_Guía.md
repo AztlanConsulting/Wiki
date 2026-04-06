@@ -3,7 +3,7 @@ title: "GUI03 - Guía para convertir story points a tiempo"
 sidebar_position: 3
 ---
 
-# ¿Cómo convierto hago mi escala de Story Points a Tiempo?
+# ¿Cómo convierto mi escala de Story Points a Tiempo?
 
 ## Propósito
 Aprender a usar la guia de **Plantilla para estimar tamaño y costo de tareas** para tener la escala de story points de tu proyecto y convertirlos a una estimación de tiempo.
@@ -15,7 +15,7 @@ Aprender a usar la guia de **Plantilla para estimar tamaño y costo de tareas** 
 ### Paso 1: Definir escala númerica
 El equipo debe llegar a un consenso para elegir la escala numérica que utilizará para estimar los Story Points.
 
-**Restricciones**
+**Restricciones:**
 Eligan máximo un rango de 5 valores.
 
         Ejemplo:
@@ -29,10 +29,13 @@ Una vez definida la escala, el equipo debe acordar cuánto tiempo aproximado rep
 
 Es recomendable que cada miembro proponga su estimación y después se llegue a un valor consensuado.
 
-        Ejemplo_
-        - Story Point 1
-            Miembro 1: 30 min
-            Miembro 2: 1 hora
+        Ejemplo:
+
+        - 1 Story Point:
+
+            - Miembro 1: 30 min
+
+            - Miembro 2: 1 hora
 
             Después de discutir y justificar las estimaciones:
 
@@ -41,6 +44,7 @@ Es recomendable que cada miembro proponga su estimación y después se llegue a 
 **Este proceso ayuda a alinear expectativas y mejorar la precisión de las estimaciones futuras.**
 
 ### Paso 3: Llenar la plantilla de Story Points a tiempo
+
 
 ## Control de versiones
 

@@ -30,10 +30,11 @@ Estructurar los equipos de trabajo para definir un ciclo de vida adecuado y desg
 
 Prácticas específicas cubiertas:
 
-- SP 1.1 Estimate the Scope of the Project 
-- SP 1.2 Establish Estimates of Work Product and Task Attributes 
-- SP 1.3 Define Project Lifecycle Phases 
-- SP 1.4 Estimate Effort and Cost 
+- SP 1.1 Estimar el alcance del proyecto.
+- SP 1.2 Establecer las estimaciones de los atributos de los productos de trabajo y de las
+tareas.
+- SP 1.3 Definir las fases del ciclo de vida del proyecto.
+- SP 1.4 Estimar el esfuerzo y el coste.
 
 ---
 
@@ -58,7 +59,7 @@ Prácticas específicas cubiertas:
 
 ## Actividades
 
-### 1. Conformar equipos y asignar roles.
+### 1. Conformar equipos y asignar roles
 
 Estructurar a los miembros del departamento en equipos y asignar un rol a cada miembro.
 
@@ -70,17 +71,17 @@ Estructurar a los miembros del departamento en equipos y asignar un rol a cada m
 
 #### Evidencia generada
 
-- Tabla de asignación de roles por equipo [(Asignación)](https://docs.google.com/spreadsheets/d/1_NPndnSGP1HP_AvnrlHOInpGjkef5RldeK2u3mF1J9o/edit?usp=sharing)
+- Tabla de asignación de roles por equipo [Asignación](https://docs.google.com/spreadsheets/d/1_NPndnSGP1HP_AvnrlHOInpGjkef5RldeK2u3mF1J9o/edit?usp=sharing)
 
 ---
 
-### 2. Definir el ciclo de vida del proyecto.
+### 2. Definir el ciclo de vida del proyecto
 
 Seleccionar el ciclo de vida y definir sus fases e hitos para alinear las estimaciones y entregas.
 
 #### Actividades
 
-- Seleccionar el ciclo de vida a utilizar siguiendo la [(Guía 02)](../Guías/GUI02_Guia_Ciclo_de_Vida.md)
+- Seleccionar el ciclo de vida a utilizar siguiendo la [Guía 02.](../Guías/GUI02_Guia_Ciclo_de_Vida.md)
 - Identificar las fases y entregables dependiendo del ciclo de vida.
 - Lista de hitos.
 
@@ -101,7 +102,7 @@ Seleccionar el ciclo de vida y definir sus fases e hitos para alinear las estima
 
 #### Guías / Plantillas asociadas
 
-- [(GUI02 - Elegir ciclo de vida y definir fases)](../Guías/GUI02_Guia_Ciclo_de_Vida.md)
+- [GUI02 - Elegir ciclo de vida y definir fases](../Guías/GUI02_Guia_Ciclo_de_Vida.md)
 
 --- 
 
@@ -119,43 +120,44 @@ Definir y estructurar el trabajo del proyecto de manera clara y organizada, trad
 
 #### Evidencia generada
 
-- Diagrama WBS.
+- Diagrama WBS
 
 #### Guías / Plantillas asociadas
 
-- [(GUI01 - ¿Cómo hacer el diagrama WBS?)](../Guías/GUI01_Guia_del_WBS.md)
+- [GUI01 - ¿Cómo hacer el diagrama WBS?](../Guías/GUI01_Guia_del_WBS.md)
 
 ---
 
-### 4. Estimar el tamaño de las tareas.
+### 4. Estimar el tamaño de las tareas
 
 Establecer el tamaño y complejidad de las actividades identificadas en el WBS, utilizando una medida estandarizada. Por ejemplo, Story Points.
 
 #### Actividades
 
-- Definir una escala númerica para estimar.
+- Definir una escala númerica para estimar, por ejemplo, Story Points.
+- Acordar la equivalencia de esfuerzo a tiempo por cada Story Point.
 - Pasar las actividades al plan de valor ganado.
 - Asignar la complejidad / tamaño a cada actividad del WBS.
 
 #### Evidencia generada
 
-- Plan de valor ganado con estimaciones (PVG).
+- Plan de valor ganado con estimaciones (PVG)
 
 #### Guías / Plantillas asociadas
 
-- [(Plantilla plan de valor ganado (PVG))](https://docs.google.com/spreadsheets/d/1kg_PnTUw6GnHll7XnYxqXmGK9umSope4nmvp1Qzt5Nc/edit?usp=sharing)
-- [(GUI03 - Convertir Story Points a tiempo)](../Guías/StoryP_Guía.md)
+- [Plantilla plan de valor ganado (PVG)](https://docs.google.com/spreadsheets/d/1kg_PnTUw6GnHll7XnYxqXmGK9umSope4nmvp1Qzt5Nc/edit?usp=sharing)
+- [GUI03 - Convertir Story Points a tiempo](../Guías/StoryP_Guía.md)
 
 ---
 
-### 5. Estimar el esfuerzo y costo de las tareas.
+### 5. Estimar el esfuerzo y costo de las tareas
 
 Convertir las estimaciones de tamaño en unidades de costo, basándose en datos históricos para generar gráficas en el plan de valor ganado.
 
 #### Actividades
 
-- Recopilar datos históricos del equipo.
-- Acordar la equivalencia de esfuerzo a tiempo por cada Story Point.
+- Recopilar datos históricos del equipo, por ejemplo, la velocidad del equipo.
+- Agregar valores de mejor caso, caso promedio y peor caso para estimar el costo de cada actividad.
 
 #### Evidencia generada
 
@@ -163,7 +165,7 @@ Convertir las estimaciones de tamaño en unidades de costo, basándose en datos 
 
 #### Guías / Plantillas asociadas
 
-- [(GUI03 - Convertir Story Points a tiempo)](../Guías/StoryP_Guía.md)
+- [GUI03 - Convertir Story Points a tiempo](../Guías/StoryP_Guía.md)
 
 ---
 
@@ -177,9 +179,9 @@ Este proceso interactúa con:
 
 ## Salidas
 
-- Diagrama WBS.
-- Documento con roles del equipo.
-- Plan de valor ganado (PVG).
+- Diagrama WBS
+- Documento con roles del equipo
+- Plan de valor ganado (PVG)
 
 ---
 
