@@ -2,7 +2,7 @@
 title: "PRC06 - Definir y estimar el alcance del proyecto"
 ---
 
-_v2.0 / PP
+_v2.0 / PP_
 
 ## Terminología
 
