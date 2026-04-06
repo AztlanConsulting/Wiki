@@ -187,4 +187,4 @@ Este proceso interactúa con:
 
 | Version | Creado por: | Auditado por: | Descripción | Fecha |
 |---------|------------|--------------|---------------|-------|
-| 1.0     |     |  |   |  |
+| 1.0     |  Yael Charles  | Fatima Figueroa | Procesos 05 y 22 agrupados en el PRC06 actual, para definir el ciclo de vida de cada equipo, generar un diagrama WBS para plasmarlas en un plan de valor ganado con el tamaño y costo por actividad.  | 05/04/2026 |
