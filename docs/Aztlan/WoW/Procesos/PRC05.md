@@ -34,12 +34,17 @@ Gestionar la planificación, ejecución, seguimiento y mejora de cada iteración
 
 Área de proceso:
 
-- PP — Project Planning  
+PP — Project Planning
 
 Prácticas específicas cubiertas:
 
-- PP SP 2.1 — Establish the Project Plan  
-- PP SP 2.2 — Establish Estimates  
+- PP SP 1.2 — Establecer las estimaciones de los atributos de los productos de trabajo y de las tareas
+- PP SP 2.1 — Establecer el presupuesto y el calendario
+- PP SP 2.2 — Identificar los riesgos del proyecto
+- PP SP 2.7 — Establecer el plan de proyecto
+- PP SP 3.1 — Revisar los planes que afectan al proyecto
+- PP SP 3.2 — Conciliar los niveles de trabajo y de recursos
+- PP SP 3.3 — Obtener el compromiso con el plan
 
 ---
 

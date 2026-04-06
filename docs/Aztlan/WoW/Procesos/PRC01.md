@@ -30,15 +30,16 @@ Gestionar los requisitos del proyecto durante todo su ciclo de vida, asegurando 
 
 Área de proceso:
 
-REQM — Requirements Management
+REQM — Gestión de Requisitos
 
 Prácticas específicas cubiertas:
 
-- REQM SP 1.1 — Understand Requirements  
-- REQM SP 1.2 — Obtain Commitment  
-- REQM SP 1.3 — Manage Changes  
-- REQM SP 1.4 — Maintain Traceability  
-- REQM SP 1.5 — Identify Inconsistencies  
+- REQM SP 1.1 — Comprender los requisitos  
+- REQM SP 1.2 — Obtener compromiso sobre los requisitos  
+- REQM SP 1.3 — Gestionar cambios en los requisitos  
+- REQM SP 1.4 — Mantener la trazabilidad bidireccional de los requisitos  
+- REQM SP 1.5 — Asegurar el alineamiento entre el trabajo del proyecto y los
+requisitos
 
 ---
 

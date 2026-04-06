@@ -1,5 +1,5 @@
 ---
-title: "GUI17 - ¿Cómo realizar el Backlog Grooming"
+title: "GUI17 - ¿Cómo realizar el Backlog Grooming?"
 ---
 
 Esta guía forma parte del proceso: [PRC05 — Gestión de Iteraciones](../Procesos/PRC05.md)

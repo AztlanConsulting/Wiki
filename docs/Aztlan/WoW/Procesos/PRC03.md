@@ -14,12 +14,13 @@ Gestionar los cambios en los requisitos del proyecto, asegurando que cualquier m
 
 Área de proceso:
 
-REQM — Requirements Management
+REQM — Gestión de Requisitos
 
 Prácticas específicas cubiertas:
 
-- REQM SP 1.3 — Manage Changes to Requirements  
-- REQM SP 1.5 — Identify Inconsistencies  
+- REQM SP 1.3 — Gestionar cambios en los requisitos  
+- REQM SP 1.5 — Asegurar el alineamiento entre el trabajo del proyecto y los
+requisitos
 
 ---
 

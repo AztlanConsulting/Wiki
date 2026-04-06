@@ -14,11 +14,11 @@ Asegurar que el equipo y el Product Owner acepten formalmente implementar los re
 
 Área de proceso:
 
-REQM — Requirements Management
+REQM — Gestión de Requisitos
 
-Práctica específica cubierta:
+Prácticas específicas cubiertas:
 
-- REQM SP 1.2 — Obtain Commitment to Requirements
+- REQM SP 1.2 — Obtener compromiso sobre los requisitos  
 
 ---
 

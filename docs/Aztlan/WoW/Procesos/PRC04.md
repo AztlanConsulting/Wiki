@@ -14,14 +14,14 @@ Definir, mantener y controlar la forma de trabajo del proyecto u organización, 
 
 Áreas de proceso relacionadas:
 
-- OPD — Organizational Process Definition
+- OPD — Definición de Procesos Organizacionales
 {/* - QA — Process and Product Quality Assurance ?? */}
 {/* - CM — Configuration Management ?? */}
 
 Prácticas relacionadas:
 
-- OPD SP 1.1 — Establish Organizational Process Assets
-- OPD SP 1.2 — Maintain Organizational Process Assets
+- OPD SP 1.1 — Establecer los activos de procesos de la organización
+- OPD SP 1.2 — Mantener los activos de procesos de la organización
 {/* - PPQA SP 1.1 — Objectively Evaluate Processes ?? */}
 {/* - CM SP 1.2 — Control Configuration Items ?? */}
 
