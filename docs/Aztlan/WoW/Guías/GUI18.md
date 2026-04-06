@@ -64,9 +64,12 @@ Dar seguimiento diario al progreso del trabajo del equipo, identificar impedimen
 
 ## Plantillas / Registros asociados
 
-- Plantilla de Daily
-- Registro de impedimentos
+- [Plantilla de Daily](../Plantillas/Plantilla_Daily.md) 
+
+---
+## Control de versiones
 
 | Version | Creado por | Auditado por | Descripción | Fecha |
 |-------|-------------|-------------|-------------|-------|
 | 1.0 | Fatima Figueroa |  | Guía para realizar la Daily basado en PRC15 | 04/04/2026|
+| 1.1 | Fatima Figueroa |  | Actualización de los links | 05/04/2026|

@@ -41,7 +41,7 @@ Se realiza **1 vez por Sprint**, al inicio de la iteración.
 
 1. El Team Leader presenta el objetivo preliminar del Sprint.
 
-2. El equipo revisa los elementos de trabajo disponibles en el backlog.
+2. El equipo revisa los elementos de trabajo disponibles en el backlog/PVG.
 
 3. El equipo verifica que los elementos seleccionados estén:
     - estimados
@@ -64,15 +64,18 @@ Se realiza **1 vez por Sprint**, al inicio de la iteración.
 
 - Objetivo del Sprint definido
 - Sprint Backlog comprometido
-- Registro de planificación del Sprint
 
 ---
 
 ## Plantillas / Registros asociados
 
-- Plantilla de Sprint Planning
-- Registro de Sprint Backlog
+- [Plantilla del PVG](https://docs.google.com/spreadsheets/d/1kg_PnTUw6GnHll7XnYxqXmGK9umSope4nmvp1Qzt5Nc/edit?gid=1036427959#gid=1036427959)
+
+---
+
+## Control de versiones
 
 | Version | Creado por | Auditado por | Descripción | Fecha |
 |-------|-------------|-------------|-------------|-------|
 | 1.0 | Fatima Figueroa |  | Guía para realizar el Sprint Planning basado en PRC11 | 04/04/2026|
+| 1.1 | Fatima Figueroa |  | Actualización de los links | 05/04/2026|

@@ -62,9 +62,9 @@ Se realiza **1 vez por Sprint**, al finalizar la iteración.
 
 ## Plantillas / Registros asociados
 
-- Plantilla de Retrospective
-- Matriz de responsables
+- [Plantilla de Retrospective](https://www.canva.com/design/DAHCp2M3VaY/0hL_ErZC594xHfvOum1fGw/edit?utm_content=DAHCp2M3VaY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 | Version | Creado por | Auditado por | Descripción | Fecha |
 |-------|-------------|-------------|-------------|-------|
 | 1.0 | Fatima Figueroa |  | Guía para realizar el Sprint Retrospective basado en PRC13 | 04/04/2026|
+| 1.1 | Fatima Figueroa |  | Actualización de los links | 05/04/2026|
