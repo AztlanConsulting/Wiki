@@ -68,6 +68,8 @@ Se realiza **2 veces por Sprint** o cuando se identifique la necesidad de prepar
 ## Plantillas / Registros asociados
 
 - [Plantilla de estimación de Story Points](../Plantillas/plantilla_StoryP.md)
+- [Plantilla de estimación de horas](../Plantillas/plantilla_Horas.md)
+- [¿Cómo convierto mi escala de Story Points a Tiempo?](.../Guías/StoryP_Guía.md)
 - [Plantilla del PVG](https://docs.google.com/spreadsheets/d/1kg_PnTUw6GnHll7XnYxqXmGK9umSope4nmvp1Qzt5Nc/edit?gid=1036427959#gid=1036427959)
 
 <details>
