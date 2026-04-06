@@ -14,19 +14,6 @@ Describir qué se busca lograr con esta guía.
 
 ---
 
-## Frecuencia
-
-Indicar cuándo se ejecuta.
-
-Ejemplos:
-
-- Diariamente
-- 1 vez por Sprint
-- 2 veces por Sprint
-- Cuando sea necesario
-
----
-
 ## Participantes
 
 - Rol 1
@@ -77,3 +64,4 @@ Ejemplos:
 |---------|------------|--------------|---------------|-------|
 | 1.0     | Manuel Bajos Rivera, Alejandra | Yessica,Fer | Plantilla inicial para guías.  | 26/02/2026 |
 | 2.0 | Fatima Figueroa | | Cambio de formato | 04/04/2026 |
+| 2.1  | Fatima Figueroa |  | Ajustes de acuerdo a retroalimentación | 04/04/2026 |

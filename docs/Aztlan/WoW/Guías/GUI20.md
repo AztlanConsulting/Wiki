@@ -72,9 +72,11 @@ Cada reunión incluye únicamente a los participantes del rol correspondiente y 
 
 ## Plantillas / Registros asociados
 
-- Plantilla de minuta de reunión por rol
+- [Plantilla de minuta](https://docs.google.com/document/d/17hcieLfLxW1UDGGcC6GaSedEJLbDR9n_mNARWQ0G_xk/edit?usp=drive_link)
+- [Minutas de reunión por rol](https://drive.google.com/drive/folders/1HyZmWXY60lGhB_enB0OGQF59ui1_djSI)
 - Registro de acuerdos
 
 | Version | Creado por | Auditado por | Descripción | Fecha |
 |-------|-------------|-------------|-------------|-------|
 | 1.0 | Fatima Figueroa |  | Guía para realizar la Reunión de Coordinación por Roles basado en PRC14 | 04/04/2026|
+| 1.1 | Fatima Figueroa |  | Actualización de los links | 05/04/2026|

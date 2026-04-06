@@ -49,3 +49,21 @@
 .theme-code-block *, code {
   font-family: monospace;
 }*/
+
+details {
+  background: transparent;
+  border: none;
+  padding: 0;
+  margin-bottom: 1rem;
+  margin-left: 1rem;
+  margin-top: -1rem;
+}
+
+summary{
+  color: #f5a623;
+}
+
+details a {
+  color: #4aa5e1;
+  text-decoration: none;
+}

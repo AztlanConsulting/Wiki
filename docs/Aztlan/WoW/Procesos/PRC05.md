@@ -101,9 +101,22 @@ El equipo asegura que los elementos de trabajo estén correctamente definidos, e
 
 #### Guías / Plantillas asociadas
 
-- [¿Cómo realizar el Backlog Grooming](../Guías/GUI17)
-- Definición de Ready [LINK]
-- Plantilla de estimación [LINK]
+- [¿Cómo realizar el Backlog Grooming?](../Guías/GUI17)
+<details>
+<summary>Definición de Ready de los proyectos</summary>
+
+**Xólotl:** [Definición de Ready](https://docs.google.com/document/d/1aUp_aEt8Brbl4hBzX4htkx22cTn_omM3f3oPox9C2xE/edit?tab=t.0#heading=h.cxh5gryiw5ha)
+
+**Ichan:** [Definición de Ready](https://docs.google.com/document/d/1YigM1ULQ2WP2nNX6UHSlCaimVlBM3STtDPfeNf5W1U0/edit?tab=t.a06qi1hokg4e)
+
+**Cuitla:** [Definición de Ready](https://docs.google.com/document/d/1zMmDlI-PBrVlylfnvHHa0fcPMwn4JKj44Rahtz5Z25Y/edit?tab=t.0#heading=h.67d0lq8w136a)
+
+**Huitlacuacles:** [Definición de Ready](https://docs.google.com/document/d/1jmwTxEYCs_zStUkJUmeKPSe3aN0P7a7hKly7FV_06n8/edit?tab=t.0#heading=h.67d0lq8w136a)
+
+</details>
+
+- [Plantilla de estimación de horas](../Plantillas/plantilla_Horas.md)
+- [¿Cómo convierto mi escala de Story Points a Tiempo?](.../Guías/StoryP_Guía.md)
 
 ---
 
@@ -165,7 +178,7 @@ El equipo monitorea el progreso del trabajo y gestiona impedimentos que puedan a
 #### Guías / Plantillas asociadas
 
 - [¿Cómo realizar la Daily?](../Guías/GUI18)
-- Plantilla de registro de Daily [LINK]
+- [Plantilla de Daily](../Plantillas/Plantilla_Daily.md) 
 
 ---
 
@@ -197,7 +210,7 @@ El equipo de liderazgo revisa el estado del proyecto para asegurar la alineació
 #### Guías / Plantillas asociadas
 
 - [¿Cómo realizar la Reunión de Coordinación por Roles?](../Guías/GUI20)
-- Plantilla de minuta de reunión [LINK]
+- [Plantilla de minuta](https://docs.google.com/document/d/17hcieLfLxW1UDGGcC6GaSedEJLbDR9n_mNARWQ0G_xk/edit?usp=drive_link)
 
 ---
 
@@ -227,7 +240,7 @@ El equipo evalúa los resultados obtenidos y define acciones de mejora para la s
 #### Guías / Plantillas asociadas
 
 - [¿Cómo realizar el Sprint Retrospective?](../Guías/GUI19)
-- Plantilla de retrospectiva [LINK]
+- [Plantilla de Retrospective](https://www.canva.com/design/DAHCp2M3VaY/0hL_ErZC594xHfvOum1fGw/edit?utm_content=DAHCp2M3VaY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ---
 
@@ -286,4 +299,5 @@ Este proceso interactúa con los siguientes procesos del sistema cuando se requi
 
 | Version | Creado por: | Auditado por: | Descripción | Fecha |
 |---------|------------|--------------|-------------|------|
-| 2.0 | Fatima Figueroa |  | Reestructuración de PRC13, PRC11, PRC07, PRC14, PRC15 | 04/04/2026 |
+| 2.0 | Fatima Figueroa | Yael Charles | Reestructuración de PRC13, PRC11, PRC07, PRC14, PRC15 | 04/04/2026 |
+| 2.1 | Fatima Figueroa | Yael Charles | Actualización de los links | 06/04/2026|
