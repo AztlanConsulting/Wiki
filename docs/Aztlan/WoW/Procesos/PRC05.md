@@ -101,7 +101,7 @@ El equipo asegura que los elementos de trabajo estén correctamente definidos, e
 
 #### Guías / Plantillas asociadas
 
-- [¿Cómo realizar el Backlog Grooming](../Guías/GUI17)
+- [¿Cómo realizar el Backlog Grooming?](../Guías/GUI17)
 <details>
 <summary>Definición de Ready de los proyectos</summary>
 

@@ -8,30 +8,13 @@ _vX.X / Área(s) del CMMI_
 
 (Definir términos clave cuando sea necesario)
 
-Ejemplo:
-
-Elemento:
-
-Definición del término.
+[Término](link a glosario o definición detallada)
 
 ---
 
 ## Propósito
 
-Describir el objetivo del proceso y qué busca asegurar.
-
----
-
-## Área / Prácticas del CMMI
-
-Área de proceso:
-
-- Área — Nombre del área
-
-Prácticas específicas cubiertas:
-
-- SP X.X — Nombre de la práctica  
-- SP X.X — Nombre de la práctica  
+Describir el objetivo del proceso y qué beneficio da.
 
 ---
 
@@ -53,46 +36,28 @@ Prácticas específicas cubiertas:
 
 ## Actividades
 
-### 1. Nombre de la actividad
+### 1. Nombre de la actividad [Área de proceso y práctica(s) asociada(s)]
 
 Descripción general de la actividad.
 
 #### Actividades
 
 - Actividad específica
+    - Guía o plantilla (en caso de ser necesario)
 - Actividad específica
 - Actividad específica
-
-#### Evidencia generada
-
-- Evidencia
-- Evidencia
-- Evidencia
-
-#### Guías / Plantillas asociadas
-
-- Guía o plantilla
-- Guía o plantilla
 
 ---
 
-### 2. Nombre de la actividad
+### 2. Nombre de la actividad [Área de proceso y práctica(s) asociada(s)]
 
 Descripción general de la actividad.
 
 #### Actividades
 
 - Actividad específica
+    - Guía o plantilla (en caso de ser necesario)
 - Actividad específica
-
-#### Evidencia generada
-
-- Evidencia
-- Evidencia
-
-#### Guías / Plantillas asociadas
-
-- Guía o plantilla
 
 ---
 
@@ -127,3 +92,4 @@ Este proceso interactúa con:
 | 2.0     | Yael Charles Marin | Manuel, Alejandra, Edmundo, Andre  | Eliminar responsable, notas y interesados para simplificar. | 26/02/2026 |
 | 2.1   | Yael Charles Marin | Manuel, Alejandra, Edmundo, Andre  | Acento en Prácticas | 26/02/2026 |
 | 3.0   | Fatima Figueroa |  | Cambio de formato | 04/04/2026 |
+| 3.1  | Fatima Figueroa |  | Ajustes de acuerdo a retroalimentación | 04/04/2026 |
