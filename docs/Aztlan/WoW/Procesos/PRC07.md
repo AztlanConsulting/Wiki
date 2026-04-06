@@ -8,13 +8,13 @@ _v2.0 / PP_
 
 Software Requirements Specification (SRS)
 
-documento formal y detallado que define qué debe hacer un sistema de software y cómo debe comportarse, estableciendo los distintos tipos de requisitos necesarios para su desarrollo.
+Documento formal y detallado que define qué debe hacer un sistema de software y cómo debe comportarse, estableciendo los distintos tipos de requisitos necesarios para su desarrollo.
 
 ---
 
 ## Propósito
 
-Describir el objetivo del proceso y qué busca asegurar.
+Desarrollar los planes auxiliares en un único plan del proyecto para guiar la ejecución y control del proyecto.
 
 ---
 
@@ -53,8 +53,8 @@ Prácticas específicas cubiertas:
 - Software Requirements Specification (SRS)
 - Plan de valor ganado (PVG)
 - Horas de trabajo diarias por miembro
-- Estrategía de desarrollo
-- Architechture Starter Pack (ASP)
+- Estrategia de desarrollo
+- Architecture Starter Pack (ASP)
 
 ---
 
@@ -62,12 +62,12 @@ Prácticas específicas cubiertas:
 
 ### 1. Definir las fechas de ejecución de cada tarea.
 
-A partir de las estimaciones y de las horas de trabajo se define cuándo se ejecutará cada tarea y como se priorizará, estableciendo un cronográma oficial.
+A partir de las estimaciones y de las horas de trabajo se define cuándo se ejecutará cada tarea y cómo se priorizará, estableciendo un cronograma oficial.
 
 #### Actividades
 
-- Utilizar la estrategía de desarrollo para definir las fechas basadas en la duración del sprint.
-- Priorizar las tareas utilizando técincas como MoSCoW o ABC.
+- Utilizar la estrategia de desarrollo para definir las fechas basadas en la duración del sprint.
+- Priorizar las tareas utilizando técnicas como MoSCoW o ABC.
 - Identificar dependencias entre tareas.
 - Establecer un periodo y presupuesto de contingencia basado en los riesgos conocidos.
 - Rellenar las fechas, plazo de entrega y prioridad a cada actividad en el plan de valor ganado (PVG).
@@ -154,11 +154,11 @@ Detectar amenazas, evaluar su impacto y definir estategías claras para mitigar 
 
 ### 5. Gestionar los datos del proyecto.
 
-Establecer como recopilar, almacenar y proteger los datos del proyecto dependiendo su sensibilidad.
+Establecer cómo recopilar, almacenar y proteger los datos del proyecto dependiendo de su sensibilidad.
 
 #### Actividades
 
-- Identificar los datos almancenados con el SRS.
+- Identificar los datos almacenados con el SRS.
 - Categorizar el nivel de sensibilidad para cada dato.
 - Definir las medidas de seguridad.
 - Actualizar el plan de datos en cada modificación a los requisitos de información.
@@ -175,7 +175,7 @@ Establecer como recopilar, almacenar y proteger los datos del proyecto dependien
 
 ### 6. Gestionar la comunicación con stakeholders.
 
-Identificar a las partes interesadas y definir una estrategía para mantenerlos comunicados y comprometidos, formalizando los acuerdos.
+Identificar a las partes interesadas y definir una estrategia para mantenerlos comunicados y comprometidos, formalizando los acuerdos.
 
 #### Actividades
 
@@ -206,7 +206,7 @@ Unificar todos los planes auxiliares en un único documento.
 
 - Recopilar el plan de recursos, matriz de riesgos, base de skills, plan de datos, plan de comunicación y plan de valor ganado.
 - Aplicar el PRC06 para desglosar actividades de estos planes en el WBS y PVG.
-- Diseñar un plan de entregas en base a las fechas del PVG.
+- Diseñar un plan de entregas con base en las fechas del PVG.
 - Identificar fechas relevantes al proyecto.
 
 #### Evidencia generada
@@ -245,4 +245,4 @@ Este proceso interactúa con:
 
 | Version | Creado por: | Auditado por: | Descripción | Fecha |
 |---------|------------|--------------|---------------|-------|
-| 1.0     | Yael Charles Marin    |  |   | 05/04/2026 |
+| 1.0     | Yael Charles Marin    |  |  Agrupados los procesos 10, 16, 19, 20, 22, 25 y 27 en uno solo, para unificar los planes auxiliares al proyecto en uno solo. | 05/04/2026 |

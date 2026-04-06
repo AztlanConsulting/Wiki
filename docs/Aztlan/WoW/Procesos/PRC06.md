@@ -12,7 +12,7 @@ Descomposición jerárquica orientada a entregables del alcance total de un proy
 
 DAD (Disciplined Agile Delivery):
 
-Es un marco de trabajo ágil híbrido diseñado para cubrir todo el ciclo de vida de entrega de soluciones de TI, desde la concepción hasta la operación. DAD integra prácticas de Scrum, Kanban, Lean y DevOps para ofrecer una guía de decisiones adaptativa que permite a los equipos elegir su propia "forma de trabajo" (WoW)
+Es un marco de trabajo ágil híbrido diseñado para cubrir todo el ciclo de vida de entrega de soluciones de TI, desde la concepción hasta la operación. DAD integra prácticas de Scrum, Kanban, Lean y DevOps para ofrecer una guía de decisiones adaptativa que permite a los equipos elegir su propia "forma de trabajo" (WoW).
 
 ---
 
@@ -81,7 +81,7 @@ Seleccionar el ciclo de vida y definir sus fases e hitos para alinear las estima
 #### Actividades
 
 - Seleccionar el ciclo de vida a utilizar siguiendo la [(Guía 02)](../Guías/GUI02_Guia_Ciclo_de_Vida.md)
-- Identificar las fases y entregables dependiendo el ciclo de vida.
+- Identificar las fases y entregables dependiendo del ciclo de vida.
 - Lista de hitos.
 
 #### Evidencia generada
@@ -129,7 +129,7 @@ Definir y estructurar el trabajo del proyecto de manera clara y organizada, trad
 
 ### 4. Estimar el tamaño de las tareas.
 
-Establecer el tamaño y complejidad de las actividades identificadas en el WBS, utilizando una medida estandarizada. Por ejemplo Story Points
+Establecer el tamaño y complejidad de las actividades identificadas en el WBS, utilizando una medida estandarizada. Por ejemplo, Story Points.
 
 #### Actividades
 
@@ -150,11 +150,11 @@ Establecer el tamaño y complejidad de las actividades identificadas en el WBS, 
 
 ### 5. Estimar el esfuerzo y costo de las tareas.
 
-Convertir las estimaciones de tamaño en unidades de costo, basandose en datos historicos para generar gráficas en el plan de valor ganado.
+Convertir las estimaciones de tamaño en unidades de costo, basándose en datos históricos para generar gráficas en el plan de valor ganado.
 
 #### Actividades
 
-- Recopilar datos historicos del equipo.
+- Recopilar datos históricos del equipo.
 - Acordar la equivalencia de esfuerzo a tiempo por cada Story Point.
 
 #### Evidencia generada
@@ -171,7 +171,7 @@ Convertir las estimaciones de tamaño en unidades de costo, basandose en datos h
 
 Este proceso interactúa con:
 
-- PRC01 - Gestión de requisitos: Se utiliza para identificar las actividades de cada fase y agregarlas al WBS y PVG
+- PRC01 - Gestión de requisitos: Se utiliza para identificar las actividades de cada fase y agregarlas al WBS y PVG.
 
 ---
 
@@ -187,4 +187,4 @@ Este proceso interactúa con:
 
 | Version | Creado por: | Auditado por: | Descripción | Fecha |
 |---------|------------|--------------|---------------|-------|
-| 1.0     |  Yael Charles  | Fatima Figueroa | Procesos 05 y 22 agrupados en el PRC06 actual, para definir el ciclo de vida de cada equipo, generar un diagrama WBS para plasmarlas en un plan de valor ganado con el tamaño y costo por actividad.  | 05/04/2026 |
+| 1.0     |  Yael Charles  | Fatima Figueroa | Procesos 05 y 22 agrupados en el PRC06 actual, para definir el ciclo de vida de cada equipo, generar un diagrama WBS para plasmar las actividades en un plan de valor ganado con el tamaño y costo por actividad.  | 05/04/2026 |
