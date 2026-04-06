@@ -209,6 +209,10 @@ Este proceso interactúa con:
 - Matriz de Trazabilidad de Requisitos actualizada
 - Registro de inconsistencias actualizado
 
+---
+
+## Control de versiones
+
 | Version | Creado por: | Auditado por: | Descripción | Fecha |
 |---------|------------|--------------|---------------|-------|
 | 2.0     | Fatima Figueroa |  |  Cambio de formato y actualización de PRC18 | 04/04/2026 |

@@ -146,8 +146,8 @@ Se desarrolla el proceso, guía o política correspondiente.
 
 #### Guías / Plantillas asociadas
 
-- Plantilla de proceso [LINK]
-- Plantilla de guía [LINK]
+- [Plantilla de proceso](../Plantillas/PLA02.md)
+- [Plantilla de guía](../Plantillas/PLA03.md)
 - Plantilla de política [LINK]
 
 ---
@@ -222,6 +222,10 @@ Debe ejecutarse cuando:
 - Proceso/guía/política creado o actualizado
 - Mapa de procesos actualizado
 - Repositorio de procesos actualizado
+
+---
+
+## Control de versiones
 
 | Version | Creado por: | Auditado por: | Descripción | Fecha |
 |---------|------------|--------------|---------------|-------|

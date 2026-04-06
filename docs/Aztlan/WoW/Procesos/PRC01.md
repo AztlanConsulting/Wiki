@@ -189,6 +189,10 @@ Este proceso interactúa con:
 - Cambios controlados
 - Registro de inconsistencias
 
+---
+
+## Control de versiones
+
 | Version | Creado por: | Auditado por: | Descripción | Fecha |
 |---------|------------|--------------|---------------|-------|
 | 2.0     | Fatima Figueroa |  |  Reestructuración de PRC08, PRC09, PRC17, PRC18, PRC24 | 04/04/2026 |

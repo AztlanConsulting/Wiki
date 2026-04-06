@@ -275,6 +275,10 @@ Este proceso interactúa con los siguientes procesos del sistema cuando se requi
 - Acciones de mejora definidas  
 - Registros de la iteración  
 
+---
+
+## Control de versiones
+
 | Version | Creado por: | Auditado por: | Descripción | Fecha |
 |---------|------------|--------------|-------------|------|
 | 2.0 | Fatima Figueroa |  | Reestructuración de PRC13, PRC11, PRC07, PRC14, PRC15 | 04/04/2026 |
