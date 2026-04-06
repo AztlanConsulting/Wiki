@@ -75,18 +75,18 @@ Documentar y describir la arquitectura de la aplicación, funcionamiento, módul
 
 #### Limitaciónes de Tecnologías
 
-    - [Base de skills]()
+    - [Base de skills](https://docs.google.com/spreadsheets/d/1fTEIn50jTNEAErV28CrP1KxcjjsE_eJUXX-Y_yDiCIM/edit?usp=sharing)
 
 - **Riesgos**
-  - [Matriz de riesgos]()
+  - [Matriz de riesgos](https://docs.google.com/spreadsheets/d/1OtUU3JiI-ShuwNsPVxBTGs9G1-0PnEH7Ge06MCaN8dk/edit?usp=sharing)
 
 #### Evolución futura
 
-    - [Estrategia de desarollo]()
+    - [Estrategia de desarollo](https://docs.google.com/document/d/1IrLcLrhL_BlwbuCQSJwNfDiLMErx0dFlX-gS1IelSJM/edit?usp=sharing)
 
 ## Stack Recomendado
 
-[Stack]()
+[Stack](./Artefactos_Arquitectura/Stack_recomendado.md)
 
 ## ADRs
 
@@ -95,7 +95,7 @@ Documentar y describir la arquitectura de la aplicación, funcionamiento, módul
 
 ## Diagrama de Despliegue
 
-[Diagrama de despliegue]()
+[Diagrama de despliegue](https://drive.google.com/file/d/1bhTWiKTjYgwSQsQ0IXbU5PYQX546gMJn/view?usp=sharing)
 
 ## Patrón de Arquitectura
 
@@ -103,25 +103,22 @@ Documentar y describir la arquitectura de la aplicación, funcionamiento, módul
   - Back
     - **MVC** <br/>
       **Diagrama de Paquetes** <br />
-      [Imagen de diagrama de paquetes]()
+      [Imagen de diagrama de paquetes](https://drive.google.com/file/d/1hvADhw1wNgfdJg-d2UJGX_qcsxzKLpBl/view?usp=sharing)
   - Front
-    - **MVVM**<br/>
+    - **Atomic design**
 
     **Diagrama de Paquetes** <br />
-    [Imagen de diagrama de paquetes Front]()
+    [Imagen de diagrama de paquetes Front](https://drive.google.com/file/d/1hvADhw1wNgfdJg-d2UJGX_qcsxzKLpBl/view?usp=sharing)
 
 ## Plan de recursos
 
-- [Plan de recursos]()
+- [Plan de recursos](https://docs.google.com/document/d/14vN-y7ePfldHozCVjnzgmwYVmlwoD7Rg6rgdZzJXTJw/edit?usp=sharing)
 
 ### Tutoriales o Spikes relacionados
 
-- Los que creemos
-- De lo que queremos aprender
-
 ## Prueba de Arquitectura
 
-- [Planeación de prubea arquitectura]()
+- [Planeación de prubea arquitectura](./Artefactos_Arquitectura/Prueba_Arquitectura.md)
 
 ## Estrategia de integración continua
 
@@ -129,11 +126,25 @@ Documentar y describir la arquitectura de la aplicación, funcionamiento, módul
 
 ### Estandares de Codificación <br/>
 
+- [Airbnb](https://github.com/airbnb/javascript)
+
 ### Criterios de aceptación
 
-**Definición de Ready ( DoR ) - ComposPet**
+**Definición de Ready ( DoR ) - Xólotl**
+Ready
+Una funcionalidad está en estado Ready o lista para desarrollo cuando:
+Esta redactada como US.
+Cuenta con interfaz de alta fidelidad
+Cuenta con casos de prueba redactados
+La historia de usuario es unitaria (El trabajo está estimado de ser no mayor a un día y no depende de otra que no ha sido realizada)
 
-**Definición de Done ( DoN ) - ComposPet**<br/>
+**Definición de Done ( DoN ) - Xólotl**<br/>
+Una funcionalidad es aceptada [DONE] cuando
+La función tiene trazabilidad en la RTM
+Pasa todas las pruebas de integración
+Tiene una prueba automática unitaria de la función (Por lo menos backend)
+Se creó y aceptó el PR bajo los lineamientos superiores
+La función se integró correctamente con el código sin generar errores posteriores
 
 ### Pruebas Unitarias
 
@@ -153,6 +164,7 @@ Documentar y describir la arquitectura de la aplicación, funcionamiento, módul
 
 ---
 
-| Version | Creado por:  | Auditado por:   | Descripción | Fecha      |
-| ------- | ------------ | --------------- | ----------- | ---------- |
-| 1.0     | Yessica Lora | Fernanda Valdez |             | 10/03/2026 |
+| Version | Creado por:      | Auditado por:   | Descripción | Fecha      |
+| ------- | ---------------- | --------------- | ----------- | ---------- |
+| 0.0     | Yessica Lora     | Fernanda Valdez |             | 10/03/2026 |
+| 1.0     | Santiago Alducin | Fernanda Valdez |             | 06/04/2026 |
