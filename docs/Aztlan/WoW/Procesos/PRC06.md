@@ -117,6 +117,7 @@ Definir y estructurar el trabajo del proyecto de manera clara y organizada, trad
 - Desglosar cada módulo en entregables específicos.
 - Dividir cada entregable en paquetes de trabajo.
 - Diagramar las actividades identificadas.
+- Utilizar el [PRC01 - Gestión de Requisitos](./PRC01.md), para listar las actividades relacionadas con los requisitos.
 
 #### Evidencia generada
 
@@ -190,3 +191,4 @@ Este proceso interactúa con:
 | Version | Creado por: | Auditado por: | Descripción | Fecha |
 |---------|------------|--------------|---------------|-------|
 | 1.0     |  Yael Charles  | Fatima Figueroa | Procesos 05 y 22 agrupados en el PRC06 actual, para definir el ciclo de vida de cada equipo, generar un diagrama WBS para plasmar las actividades en un plan de valor ganado con el tamaño y costo por actividad.  | 05/04/2026 |
+| 1.1     |  Yael Charles  | Fatima Figueroa | Agregar la relación entre PRC01 en el paso 3 para listar las actividades relacionadas a requisitos en el WBS y PVG | 05/04/2026 |
