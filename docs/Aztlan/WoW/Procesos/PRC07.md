@@ -6,7 +6,7 @@ _v2.0 / PP_
 
 ## Terminología
 
-Software Requirements Specification (SRS)
+Software Requirements Specification (SRS):
 
 Documento formal y detallado que define qué debe hacer un sistema de software y cómo debe comportarse, estableciendo los distintos tipos de requisitos necesarios para su desarrollo.
 
@@ -22,17 +22,17 @@ Desarrollar los planes auxiliares en un único plan del proyecto para guiar la e
 
 Área de proceso:
 
-- PP — Project Planning
+- PP — Project Planning.
 
 Prácticas específicas cubiertas:
 
-- SP 2.1 Establish the Budget and Schedule 
-- SP 2.2 Identify Project Risks 
-- SP 2.3 Plan Data Management 
-- SP 2.4 Plan the Project’s Resources 
-- SP 2.5 Plan Needed Knowledge and Skills 
-- SP 2.6 Plan Stakeholder Involvement 
-- SP 2.7 Establish the Project Plan 
+- SP 2.1 Establecer el presupuesto y el calendario.
+- SP 2.2 Identificar los riesgos del proyecto.
+- SP 2.3 Planificar la gestión de los datos.
+- SP 2.4 Planificar los recursos del proyecto.
+- SP 2.5 Planificar el conocimiento y las habilidades necesarias.
+- SP 2.6 Planificar la involucración de las partes interesadas.
+- SP 2.7 Establecer el plan de proyecto.
 
 ---
 
@@ -60,7 +60,7 @@ Prácticas específicas cubiertas:
 
 ## Actividades
 
-### 1. Definir las fechas de ejecución de cada tarea.
+### 1. Definir las fechas de ejecución de cada tarea
 
 A partir de las estimaciones y de las horas de trabajo se define cuándo se ejecutará cada tarea y cómo se priorizará, estableciendo un cronograma oficial.
 
@@ -74,7 +74,7 @@ A partir de las estimaciones y de las horas de trabajo se define cuándo se ejec
 
 #### Evidencia generada
 
-- PVG actualizado con fechas, prioridad y plazos de entrega.
+- PVG actualizado con fechas, prioridad y plazos de entrega
 
 #### Guías / Plantillas asociadas
 
@@ -95,15 +95,15 @@ Identificar, clasificar y asegurar la disponibilidad de los recursos necesarios 
 
 #### Evidencia generada
 
-- Plan de recursos.
+- Plan de recursos
 
 #### Guías / Plantillas asociadas
 
-- [(Plantilla del plan de recursos)](https://docs.google.com/document/d/1zUsvWY1YYdEx6GJwQEo0tRvoFkn-6hSUKVpdAjyJ3-8/edit?usp=sharing)
+- [Plantilla del plan de recursos](https://docs.google.com/document/d/1zUsvWY1YYdEx6GJwQEo0tRvoFkn-6hSUKVpdAjyJ3-8/edit?usp=sharing)
 
 ---
 
-### 3. Analizar las habilidades necesarias y disponibles.
+### 3. Analizar las habilidades necesarias y disponibles
 
 Identificar las habilidades requeridas por el proyecto contra las disponibles en el equipo, creando un plan de capacitación para capacitar al personal.
 
@@ -115,6 +115,7 @@ Identificar las habilidades requeridas por el proyecto contra las disponibles en
 - Comparar las necesidades con la base de skills.
 - Diseñar el training plan siguiendo la guía.
 - Vincular el artefacto generado para capacitar a los miembros del departamento en la base de skills.
+- Seguir el [PRC06 - Definir y estimar el alcance del proyecto](./PRC06.md) como ayuda para seguir las actividades del paso 3.
 
 #### Evidencia generada
 
@@ -123,8 +124,8 @@ Identificar las habilidades requeridas por el proyecto contra las disponibles en
 
 #### Guías / Plantillas asociadas
 
-- [(Plan de entrenamiento)](../ArtefactosDepartamentales/Training_Plan.md) 
-- [(GUI14 - ¿Cómo asignar un nivel de habilidad y rellenar la base de skills?)](../Guías/GUI14_Guía_Nivel_De_Skills.md)
+- [Plan de entrenamiento](../ArtefactosDepartamentales/Training_Plan.md) 
+- [GUI14 - ¿Cómo asignar un nivel de habilidad y rellenar la base de skills?](../Guías/GUI14_Guía_Nivel_De_Skills.md)
 - [Stack recomendado](https://drive.google.com/file/d/1QLuE3w2M5cw8fnxKyAj_R0WjcVRU65g8/view?usp=sharing)
 
 ---
@@ -142,17 +143,17 @@ Detectar amenazas, evaluar su impacto y definir estategías claras para mitigar 
 
 #### Evidencia generada
 
-- Plan de mitigación y contingencia (este último si aplica).
-- Matriz de riesgos.
+- Plan de mitigación y contingencia (este último si aplica)
+- Matriz de riesgos
 
 #### Guías / Plantillas asociadas
 
-- [(GUI08 - ¿Cómo llenar la matriz de riesgos?)](../Guías/GUI08_Llenar_Matriz_de_Riesgos.md)
-- [(GUI09 - ¿Cómo identificar y categorizar riesgos?)](../Guías/GUI09_Identificar_Riesgos.md)
-- [(Plantilla de matriz de riesgos)](https://docs.google.com/spreadsheets/d/1kg_PnTUw6GnHll7XnYxqXmGK9umSope4nmvp1Qzt5Nc/edit?usp=sharing)
+- [GUI08 - ¿Cómo llenar la matriz de riesgos?](../Guías/GUI08_Llenar_Matriz_de_Riesgos.md)
+- [GUI09 - ¿Cómo identificar y categorizar riesgos?](../Guías/GUI09_Identificar_Riesgos.md)
+- [Plantilla de matriz de riesgos](https://docs.google.com/spreadsheets/d/1kg_PnTUw6GnHll7XnYxqXmGK9umSope4nmvp1Qzt5Nc/edit?usp=sharing)
 ---
 
-### 5. Gestionar los datos del proyecto.
+### 5. Gestionar los datos del proyecto
 
 Establecer cómo recopilar, almacenar y proteger los datos del proyecto dependiendo de su sensibilidad.
 
@@ -165,15 +166,15 @@ Establecer cómo recopilar, almacenar y proteger los datos del proyecto dependie
 
 #### Evidencia generada
 
-- Plan de gestión de datos.
+- Plan de gestión de datos
 
 #### Guías / Plantillas asociadas
 
-- [(Plantilla del plan de datos)](https://docs.google.com/document/d/1w_4ONzbpQEPamMEOWhddCDMD1ZP8oKmpW9PfsBlkZfw/edit?usp=sharing)
+- [Plantilla del plan de datos](https://docs.google.com/document/d/1w_4ONzbpQEPamMEOWhddCDMD1ZP8oKmpW9PfsBlkZfw/edit?usp=sharing)
 
 ---
 
-### 6. Gestionar la comunicación con stakeholders.
+### 6. Gestionar la comunicación con stakeholders
 
 Identificar a las partes interesadas y definir una estrategia para mantenerlos comunicados y comprometidos, formalizando los acuerdos.
 
@@ -188,13 +189,13 @@ Identificar a las partes interesadas y definir una estrategia para mantenerlos c
 
 #### Evidencia generada
 
-- Plan de comunicación.
-- Minutas por reunión.
+- Plan de comunicación
+- Minutas por reunión
 
 #### Guías / Plantillas asociadas
 
-- [(Plantilla de minutas)](https://docs.google.com/document/d/17hcieLfLxW1UDGGcC6GaSedEJLbDR9n_mNARWQ0G_xk/edit?usp=sharing)
-- [(Plantilla del plan de comunicación)](../Plantillas/PLA11_PlanDeComunicacion.md)
+- [Plantilla de minutas](https://docs.google.com/document/d/17hcieLfLxW1UDGGcC6GaSedEJLbDR9n_mNARWQ0G_xk/edit?usp=sharing)
+- [Plantilla del plan de comunicación](../Plantillas/PLA11_PlanDeComunicacion.md)
 
 ---
 
@@ -211,14 +212,14 @@ Unificar todos los planes auxiliares en un único documento.
 
 #### Evidencia generada
 
-- PVG actualizado con nuevas actividades.
-- Plan de release.
+- PVG actualizado con nuevas actividades
+- Plan de release
 
 #### Guías / Plantillas asociadas
 
-- [(Plantilla de minutas)](https://docs.google.com/document/d/17hcieLfLxW1UDGGcC6GaSedEJLbDR9n_mNARWQ0G_xk/edit?usp=sharing)
-- [(Plantilla del plan de comunicación)](../Plantillas/PLA11_PlanDeComunicacion.md)
-- [(Plantilla plan de release)](https://docs.google.com/spreadsheets/d/1OvhBKdMFTOf42NWBJQ16JBDzmyR9XJnSmRSxJCaLxAk/edit?usp=sharing)
+- [Plantilla de minutas](https://docs.google.com/document/d/17hcieLfLxW1UDGGcC6GaSedEJLbDR9n_mNARWQ0G_xk/edit?usp=sharing)
+- [Plantilla del plan de comunicación](../Plantillas/PLA11_PlanDeComunicacion.md)
+- [Plantilla plan de release](https://docs.google.com/spreadsheets/d/1OvhBKdMFTOf42NWBJQ16JBDzmyR9XJnSmRSxJCaLxAk/edit?usp=sharing)
 
 ---
 
@@ -232,12 +233,12 @@ Este proceso interactúa con:
 
 ## Salidas
 
-- Plan de valor ganado actualizado.
-- Base de skills.
-- Matriz de riesgos.
-- Plan de gestión de datos.
-- Plan de comunicación.
-- Plan de release.
+- Plan de valor ganado actualizado
+- Base de skills
+- Matriz de riesgos
+- Plan de gestión de datos
+- Plan de comunicación
+- Plan de release
 
 ---
 
@@ -245,4 +246,5 @@ Este proceso interactúa con:
 
 | Version | Creado por: | Auditado por: | Descripción | Fecha |
 |---------|------------|--------------|---------------|-------|
-| 1.0     | Yael Charles Marin    |  |  Agrupados los procesos 10, 16, 19, 20, 22, 25 y 27 en uno solo, para unificar los planes auxiliares al proyecto en uno solo. | 05/04/2026 |
+| 1.0     | Yael Charles Marin    | Fatima Figueroa |  Agrupados los procesos 10, 16, 19, 20, 22, 25 y 27 en uno solo, para unificar los planes auxiliares al proyecto en uno solo. | 05/04/2026 |
+| 1.1     | Yael Charles Marin    | Fatima Figueroa | Agregar la relación del PRC06 en el paso 3 | 06/04/2026 |
