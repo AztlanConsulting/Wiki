@@ -29,6 +29,10 @@ Descripción clara y concisa del término.
 | TL    | [Team Leader](docs/Aztlan/WoW/Políticas/Politica_de_Comportamiento_Interno.md#31-obligaciones-por-rol)                          |                              |
 | AO    | [Arquitecture Owner](docs/Aztlan/WoW/Políticas/Politica_de_Comportamiento_Interno.md#31-obligaciones-por-rol)                          |                              |
 | TM    | [Team Member](docs/Aztlan/WoW/Políticas/Politica_de_Comportamiento_Interno.md#31-obligaciones-por-rol)                          |                              |
+|   WBS | Work Breakdown Structure (Estructura de desglose de trabajo) | Descomposición jerárquica orientada a entregables del alcance total de un proyecto |
+|  DAD  | Disciplined Agile Delivery  | Marco de trabajo ágil híbrido diseñado para cubrir todo el ciclo de vida de entrega de soluciones de TI, desde la concepción hasta la operación | 
+| SRS   | Software Requirements Specification (Especificación de Requisitos de Software) | Documento formal y detallado que define qué debe hacer un sistema de software y cómo debe comportarse |
+
 ---
 
 ## Siglas Técnicas
@@ -74,3 +78,4 @@ Descripción clara y concisa del término.
 | Version | Creado por: | Auditado por: | Descripción | Fecha |
 |---------|------------|--------------|---------------|-------|
 | 1.0     |      Juan Manuel Murillo López      |             |       Plantilla del Glosario con términos iniciales        |    02/03/2026   |
+| 1.1     | Yael Charles Marin |     |  Agregados términos de WBS, SRS y DAD | 06/04/2026 |

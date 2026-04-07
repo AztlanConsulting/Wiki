@@ -6,9 +6,7 @@ _v2.0 / PP_
 
 ## Terminología
 
-Software Requirements Specification (SRS):
-
-Documento formal y detallado que define qué debe hacer un sistema de software y cómo debe comportarse, estableciendo los distintos tipos de requisitos necesarios para su desarrollo.
+[SRS](../Glosario.md)
 
 ---
 

@@ -6,13 +6,7 @@ _v2.0 / PP_
 
 ## Terminología
 
-Estructura de desglose de trabajo (WBS):
-
-Descomposición jerárquica orientada a entregables del alcance total de un proyecto, diseñada para organizar visualmente el trabajo en partes manejables llamadas paquetes de trabajo.
-
-DAD (Disciplined Agile Delivery):
-
-Es un marco de trabajo ágil híbrido diseñado para cubrir todo el ciclo de vida de entrega de soluciones de TI, desde la concepción hasta la operación. DAD integra prácticas de Scrum, Kanban, Lean y DevOps para ofrecer una guía de decisiones adaptativa que permite a los equipos elegir su propia "forma de trabajo" (WoW).
+[WBS, DAD](../Glosario.md)
 
 ---
 
