@@ -84,14 +84,14 @@ Documentar y describir la arquitectura de la aplicación, funcionamiento, módul
 
     - [Estrategia de desarollo](https://docs.google.com/document/d/1IrLcLrhL_BlwbuCQSJwNfDiLMErx0dFlX-gS1IelSJM/edit?usp=sharing)
 
-## Stack Recomendado
+## Stack
 
-[Stack](./Artefactos_Arquitectura/Stack_recomendado.md)
+[Stack](./Artefactos_Arquitectura/Stack.md)
 
 ## ADRs
 
-- [ADR-01 Servidor Hostinger]()
-- [ADR-10 Google Sheets API]()
+- [ADR-01 Servidor OVH]()
+- [ADR-02...]()
 
 ## Diagrama de Despliegue
 

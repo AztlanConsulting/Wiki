@@ -11,11 +11,11 @@ Verificar que la solución propuesta es realista, la podemos codificar o detecta
 
 ---
 
-### Prueba node (Ejemplo)
+### Prueba Express
 
 #### Propósito "De la Sub-prueba"
 
-"Ejemplo" Implementar, probar y desplegar la API del backend.
+Implementar backend del proyecto
 
 #### Arquitectura "De la Sub-prueba"
 
@@ -28,9 +28,9 @@ Verificar que la solución propuesta es realista, la podemos codificar o detecta
 
 #### Prueba - "¿Qué pruebas se le realizaron de node?"
 
-(Se realizó la implementación de node.js y express para la creación de la API para el backend, se realizaron peticiones a la API para verificar su correcto funcionamiento. A su vez, se desplego el proyecto en el servidor de Compospet.)(EJEMPLO)
+Se realizó la implementación de node.js y express para la creación de la API para el backend, se realizaron peticiones a la API para verificar su correcto funcionamiento. A su vez, se desplego el proyecto en el servidor de SOS.
 
-#### Evidencia de documentación "Del proceso y de los resultados de las pruebas" 
+#### Evidencia de documentación "Del proceso y de los resultados de las pruebas"
 
 - ["Ejemplo" Documentación de la creación de la API con Express y Node.js]()
 - ["Ejemplo" Documentación del despliegue del repositorio en el servidor]()
@@ -47,13 +47,45 @@ Verificar que la solución propuesta es realista, la podemos codificar o detecta
 
 #### Prueba 1 - "¿Qué pruebas se le realizaron?"
 
-#### Evidencia de documentación "Del proceso y de los resultados de las pruebas"  
+#### Evidencia de documentación "Del proceso y de los resultados de las pruebas"
 
-----
+---
 
-### Prueba 3 ...
+### Prueba Weaviate
 
-| Version | Creado por: | Auditado por: | Descripción | Fecha |
-|---------|------------|--------------|---------------|-------|
-| 1.0 | Yessica Lora | Fernanda Valdez |    | 10/03/2026 |
-| 1.0 | Yessica Lora | Alejandra Arredondo |    | 21/03/2026 |
+#### Propósito de la base de datos vectoriales
+
+Identificar imágenes similares para encontrar perros similares encontrados a los perros que se están buscando.
+
+#### Arquitectura
+
+Motor de la base de datos:
+[Weaviate](https://weaviate.io/)
+Corre en un contenedor de docker que tiene una instancia de pytorch para manejar el sistema de embedido de imágenes y la base de datos vectorial con su API.
+
+#### Guías, recursos y tutoriales
+
+- [Guía de instalación](https://docs.google.com/document/d/1aMaD4iBeetNsLpeYxVzSar4iwpiIMb_x_Xa2hh7EiHU/edit?usp=sharing)
+- [Guía para utilizarla](https://docs.google.com/document/d/1aMaD4iBeetNsLpeYxVzSar4iwpiIMb_x_Xa2hh7EiHU/edit?usp=sharing)
+
+#### Prueba 1 - "Subir imágenes y recuperar imágenes similares"
+
+La prueba incluye ambas partes para comprobar funcionalidad, insertar las imágenes al igual que recuperarlas para su uso.
+
+1. Se instaló docker
+2. Se instaló y contenedor de weaviate y se inició
+3. Se utilizó la estructura MVC para crear las rutas y controladores lógicos que interactuarían con la base de datos
+4. Se generó la conexión con la base de datos
+5. Se creó el schema de las mascotas en la base de datos
+6. Se generó la interfaz para subir imágenes en la base de datos
+7. Se creó la interfaz para recuperar las 10 imágenes más cercanas a la imagen proporcionada como parámetro de búsqueda
+
+#### Evidencia de documentación "Del proceso y de los resultados de las pruebas"
+
+- [Documentación de implementación](https://docs.google.com/document/d/1aMaD4iBeetNsLpeYxVzSar4iwpiIMb_x_Xa2hh7EiHU/edit?usp=sharing)
+
+| Version | Creado por:      | Auditado por:       | Descripción | Fecha      |
+| ------- | ---------------- | ------------------- | ----------- | ---------- |
+| 1.0     | Yessica Lora     | Fernanda Valdez     |             | 10/03/2026 |
+| 1.0     | Yessica Lora     | Alejandra Arredondo |             | 21/03/2026 |
+| 1.1     | Santiago Alducin |                     |             | 07/04/2026 |
