@@ -50,7 +50,7 @@ Dar seguimiento diario al progreso del trabajo del equipo, identificar impedimen
 
 4. El Team Leader identifica bloqueos o dependencias.
 
-5. Se selecciona un Team Member, incluyendo los roles de liderazgo, para responder:
+5. Se selecciona un Team Member, incluyendo los roles de liderazgo, para responder sobre el proyecto las siguientes preguntas:
     - ¿Dónde estoy?
     - ¿Dónde debería estar?
     - ¿Cuánto me ha costado?
