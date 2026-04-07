@@ -14,9 +14,22 @@ Cualquier situación que:
 - Dependa de un tercero, decisión o recurso que aún no esté disponible.
 ---
 
-### Término 2
+### One on One
 **Definición:**  
-Descripción clara y concisa del término.
+Reunión individual entre una persona con responsabilidad de liderazgo y un miembro del equipo, cuyo propósito es dar seguimiento al bienestar, desempeño y necesidades de apoyo de la persona, así como identificar oportunidades de mejora y fortalecer la comunicación dentro del equipo.
+
+---
+
+### Persona con responsabilidad de liderazgo
+**Definición:**  
+Persona que tiene la responsabilidad de coordinar, guiar o dar seguimiento al trabajo de otros miembros del equipo.
+
+Ejemplos:
+
+- Program Manager (PM)
+- Architecture Owner (AO)
+- Team Leader (TL)
+- Product Owner (PO)
 
 ---
 
