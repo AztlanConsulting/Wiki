@@ -51,9 +51,9 @@ Dar seguimiento diario al progreso del trabajo del equipo, identificar impedimen
 4. El Team Leader identifica bloqueos o dependencias.
 
 5. Se selecciona un Team Member, incluyendo los roles de liderazgo, para responder sobre el proyecto las siguientes preguntas:
-    - ¿Dónde estoy?
-    - ¿Dónde debería estar?
-    - ¿Cuánto me ha costado?
+    - ¿Dónde estamos?
+    - ¿Dónde deberiamos estar?
+    - ¿Cuánto nos ha costado?
 
 6. El equipo define tiempos fuera de la sesión para tomar acciones para resolver impedimentos cuando sea necesario.
 
@@ -78,6 +78,6 @@ Dar seguimiento diario al progreso del trabajo del equipo, identificar impedimen
 
 | Version | Creado por | Auditado por | Descripción | Fecha |
 |-------|-------------|-------------|-------------|-------|
-| 1.0 | Fatima Figueroa |  | Guía para realizar la Daily basado en PRC15 | 04/04/2026|
-| 1.1 | Fatima Figueroa |  | Actualización de los links | 05/04/2026|
-| 2.0 | Kamila Martinez |  | Actualización de pasos despues de Clase de Lalo | 05/04/2026|
+| 1.0 | Fatima Figueroa | Kamila Martinez | Guía para realizar la Daily basado en PRC15 | 04/04/2026|
+| 1.1 | Fatima Figueroa | Kamila Martinez | Actualización de los links | 05/04/2026|
+| 2.0 | Kamila Martinez | Fatima Figueroa | Actualización de pasos despues de Clase de Lalo | 05/04/2026|
