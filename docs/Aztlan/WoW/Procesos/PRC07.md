@@ -12,7 +12,7 @@ _v2.0 / PP_
 
 ## Propósito
 
-Desarrollar los planes auxiliares en un único plan del proyecto para guiar la ejecución y control del proyecto.
+Consolidar los planes auxiliares en un único plan del proyecto, revisarlo con los involucrados y obtener un compromiso con el plan, para que la ejecución sea realista y ejecutable.
 
 ---
 
