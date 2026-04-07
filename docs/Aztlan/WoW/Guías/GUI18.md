@@ -38,19 +38,26 @@ Dar seguimiento diario al progreso del trabajo del equipo, identificar impedimen
 
 ## Actividades
 
-1. El Team Leader inicia la sesión y revisa el estado general del Sprint por medio del PVG.
+1. Todo el equipo se pone de pie para mantener la agilidad de la sesión.
 
-2. Cada miembro del equipo responde:
+2. Se proyecta el PVG en una pantalla principal. El Team Leader inicia la sesión revisando el estado general del Sprint.
+
+3. Cada miembro del equipo responde:
 
     - Qué trabajó desde la última Daily.
     - Qué trabajará a continuación.
     - Qué impedimentos tiene.
 
-3. El Team Leader identifica bloqueos o dependencias.
+4. El Team Leader identifica bloqueos o dependencias.
 
-4. El equipo define acciones para resolver impedimentos cuando sea necesario.
+5. Se selecciona un Team Member, incluyendo los roles de liderazgo, para responder sobre el proyecto las siguientes preguntas:
+    - ¿Dónde estamos?
+    - ¿Dónde deberiamos estar?
+    - ¿Cuánto nos ha costado?
 
-5. El Team Leader actualiza el registro de la Daily.
+6. El equipo define tiempos fuera de la sesión para tomar acciones para resolver impedimentos cuando sea necesario.
+
+7. El Team Leader actualiza el registro de la Daily.
 
 ---
 
@@ -71,5 +78,6 @@ Dar seguimiento diario al progreso del trabajo del equipo, identificar impedimen
 
 | Version | Creado por | Auditado por | Descripción | Fecha |
 |-------|-------------|-------------|-------------|-------|
-| 1.0 | Fatima Figueroa |  | Guía para realizar la Daily basado en PRC15 | 04/04/2026|
-| 1.1 | Fatima Figueroa |  | Actualización de los links | 05/04/2026|
+| 1.0 | Fatima Figueroa | Kamila Martinez | Guía para realizar la Daily basado en PRC15 | 04/04/2026|
+| 1.1 | Fatima Figueroa | Kamila Martinez | Actualización de los links | 05/04/2026|
+| 2.0 | Kamila Martinez | Fatima Figueroa | Actualización de pasos despues de Clase de Lalo | 05/04/2026|
