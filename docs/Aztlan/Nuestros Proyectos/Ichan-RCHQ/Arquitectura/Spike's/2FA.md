@@ -36,7 +36,7 @@ En vez de depender únicamente de usuario y contraseña, el login queda así:
 - Puede afectar la experiencia de usuario si el flujo no está bien diseñado.
 - Necesita un mecanismo de recuperación seguro si el usuario pierde su celular o elimina la app autenticadora.
 - El secreto TOTP debe almacenarse de forma segura, ya que si se expone un atacante podría generar códigos válidos.
-- Requiere contemplar escenarios adicionales como respaldo, recuperación y validación en dispositivos con reloj desfasado.
+- Requiere contemplar escenarios adicionales como respaldo, recuperación y validación.
 
 ## Facilidad de aprendizaje
 

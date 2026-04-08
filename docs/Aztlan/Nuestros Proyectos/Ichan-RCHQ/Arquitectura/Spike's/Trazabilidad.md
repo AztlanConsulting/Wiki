@@ -29,10 +29,7 @@ sidebar_position: 1
 ## Qué dicen los estándares internacionales
 
 - **OWASP** indica que el `application logging` debe incluirse para eventos de seguridad y que los logs deben ayudar a responder quién hizo qué, cuándo, dónde y con qué resultado.
-- **OWASP Logging Vocabulary** recomienda usar nombres de eventos consistentes para simplificar monitoreo y alertas.
-- **NIST SP 800-92** define la gestión de logs como una práctica formal y remarca que los logs de aplicación son una fuente relevante de auditoría y seguridad.
 - **OWASP Microservices Security Cheat Sheet** recomienda publicar logs en formato estructurado como JSON o CSV y adjuntar contexto adicional en cada evento.
-- **OpenTelemetry** propone convenciones semánticas para estandarizar atributos entre logs, métricas y trazas.
 
 ## Recomendación de diseño
 
@@ -107,10 +104,6 @@ No guardes en claro:
 
 - [OWASP Logging Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Logging_Cheat_Sheet.html)
 - [OWASP Microservices Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Microservices_Security_Cheat_Sheet.html)
-- [OWASP Logging Vocabulary Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Logging_Vocabulary_Cheat_Sheet.html)
-- [NIST SP 800-92 Guide to Computer Security Log Management](https://csrc.nist.gov/pubs/sp/800/92/final)
-- [OpenTelemetry Semantic Conventions](https://opentelemetry.io/docs/specs/semconv/)
-- [Heroku Logging Best Practices](https://devcenter.heroku.com/articles/logging)
 
 ## Tutorial básico
 

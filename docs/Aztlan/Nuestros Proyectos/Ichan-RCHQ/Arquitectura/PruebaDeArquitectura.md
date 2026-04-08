@@ -4,11 +4,11 @@ title: "Prueba de Arquitectura Ichan-RCHQ"
 
 ### Proposito "de la Prueba de Arquitectura Completa"
 
-Validar, a nivel tecnico y documental, que la arquitectura propuesta para Ichan-RCHQ cubre las necesidades principales del sistema en seguridad, disponibilidad, mantenibilidad, trazabilidad, backend y acceso a datos. Esta prueba de arquitectura reune decisiones, spikes y evidencias que permiten justificar que la solucion es viable antes de su adopcion completa.
+Validar, a nivel tecnico y documental, que la arquitectura propuesta cubre las necesidades principales del sistema en seguridad, disponibilidad, mantenibilidad, trazabilidad, backend y acceso a datos. Esta prueba de arquitectura reune decisiones, spikes y evidencias que permiten justificar que la solucion es viable antes de su adopción completa.
 
 ### Arquitectura "Completa"
 
-La arquitectura propuesta para Ichan-RCHQ se basa en una aplicacion web con backend en Node.js, documentacion tecnica y de API para mantenibilidad, base de datos relacional administrada desde Prisma, medidas de seguridad tanto en frontend como backend, mecanismos de trazabilidad mediante logging y monitoreo externo de disponibilidad usando herramientas SaaS.
+La arquitectura propuesta se basa en una aplicacion web con backend en Node.js, base de datos relacional PostgreSQL administrada desde Prisma, medidas de seguridad, mecanismos de trazabilidad mediante logging y monitoreo externo de disponibilidad usando herramientas externas.
 
 ---
 
@@ -33,7 +33,6 @@ Se corrio el comando **node -v** y **npm -v** para verificar que la instalacion 
 
 #### Evidencia de documentacion "Del proceso y de los resultados de las pruebas"
 
-- La evidencia especifica de Node.js como spike individual no se encuentra dentro de la carpeta de Ichan-RCHQ.
 - La adopcion de Node.js si se refleja indirectamente en los spikes implementados en backend, como [Prisma](./Spike's/Prisma.md), [2FA](./Spike's/2FA.md), [ABAC](./Spike's/ABAC.md) y [Swagger](./Spike's/SpikeSwagger.md), todos planteados sobre Node.js.
 
 ---
@@ -52,14 +51,14 @@ Validar que el proyecto puede trabajar con una base de datos relacional usando u
 
 - [Documentacion oficial de Prisma](https://www.prisma.io/docs)
 - [Videotutorial Prisma](https://youtu.be/RebA5J-rlwg?si=QTq-GpXuNNMQOLLy)
+- [Documentación de postgreSQL](https://www.postgresql.org)
+- [Video tutorial instalación postgreSQL](https://youtu.be/40uGNsi7ysc?si=lfoKKb3GIugqvGCY)
 
 #### Prueba 1 - "¿Que pruebas se le realizaron?"
 
-Se planteo la instalacion de Prisma en el backend, la configuracion de la conexion mediante `DATABASE_URL`, la definicion de modelos dentro de `schema.prisma`, la ejecucion de migraciones y el uso de Prisma Client para operaciones CRUD desde la API.
+Se instalo PostgreSQL y se genero un usuario para ver si el servidor soporta PostgreSQL.
 
 #### Evidencia de documentacion "Del proceso y de los resultados de las pruebas"
-
-- [Spike de Prisma](./Spike's/Prisma.md)
 
 ----
 
@@ -89,17 +88,15 @@ La seguridad propuesta se apoya en varios frentes:
 
 Se analizaron y documentaron las siguientes subpruebas de seguridad:
 
-- implementacion de autenticacion de dos factores con TOTP, QR y validacion desde backend
-- diseño de politicas ABAC para controlar acceso segun atributos del usuario, recurso y contexto
-- integracion de Prisma como capa de acceso a datos para evitar queries manuales vulnerables a SQL Injection
-- definicion de criterios de seguridad frontend para almacenamiento de tokens, uso de cookies `HttpOnly`, proteccion contra XSS, CSP, manejo de `401` y validacion backend obligatoria
+- Implementacion de autenticacion de dos factores con TOTP, QR y validacion desde backend
+- Diseño de politicas ABAC para controlar acceso segun atributos del usuario, recurso y contexto
+- Integracion de Prisma como capa de acceso a datos para evitar queries manuales vulnerables a SQL Injection
 
 #### Evidencia de documentacion "Del proceso y de los resultados de las pruebas"
 
 - [2FA](./Spike's/2FA.md)
 - [ABAC](./Spike's/ABAC.md)
 - [Prisma](./Spike's/Prisma.md)
-- [Seguridad Frontend](./Spike's/SeguridadFront.md)
 
 ----
 
@@ -140,7 +137,7 @@ Validar que el sistema puede ser monitoreado externamente para detectar caidas, 
 
 #### Arquitectura "De la Sub-prueba"
 
-La propuesta de disponibilidad considera monitoreo externo mediante herramientas SaaS:
+La propuesta de disponibilidad considera monitoreo externo mediante herramientas externas:
 
 - Better Stack
 - UptimeRobot
@@ -172,7 +169,7 @@ En ambos casos la validacion consiste en simular una caida del servicio y compro
 
 #### Proposito "De la Sub-prueba"
 
-Validar que la arquitectura contempla mecanismos de registro de eventos relevantes para auditoria, seguridad, seguimiento operativo y diagnostico de errores.
+Validar que la arquitectura contempla mecanismos de registro de eventos relevantes para auditoria y la trazabilidad de las acciones relevantes mencionadas.
 
 #### Arquitectura "De la Sub-prueba"
 

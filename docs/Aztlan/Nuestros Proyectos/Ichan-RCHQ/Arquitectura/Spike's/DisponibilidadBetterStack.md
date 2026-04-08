@@ -29,8 +29,6 @@ sidebar_position: 5
 ## Recursos
 
 - [Better Stack](https://betterstack.com/)
-- [Better Stack Uptime Monitoring](https://betterstack.com/uptime)
-- [Better Stack Status Pages](https://betterstack.com/status-page)
 - [Video base sobre Better Stack](https://www.youtube.com/results?search_query=better+stack+uptime+tutorial)
 
 ## Tutorial básico
@@ -200,4 +198,4 @@ Al finalizar deberías tener:
 
 | Version | Creado por: | Auditado por: | Descripción | Fecha |
 |---------|------------|--------------|---------------|-------|
-| 1.0     | OpenAI Codex | Pendiente | Spike de monitoreo de disponibilidad con Better Stack | 07/04/2026 |
+| 1.0     | Manuel Bajos| Andre | Spike de monitoreo de disponibilidad con Better Stack | 07/04/2026 |

@@ -103,7 +103,7 @@ Se debe asegurar que Prisma lea correctamente `process.env.DATABASE_URL` en la c
 
 Si el proyecto presenta problemas de tipado con `prisma.config.ts`, una alternativa es:
 
-- usar configuración en `.js`
+- pasar de `prisma.config.ts` a `prisma.config.js`
 - o agregar un `tsconfig.json` adecuado para soportar TypeScript
 
 La intención es evitar errores de configuración antes de correr migraciones.

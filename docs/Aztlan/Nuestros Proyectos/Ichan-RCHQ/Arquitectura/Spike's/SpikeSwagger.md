@@ -1,6 +1,6 @@
 ---
-title: "SPK10 - Swagger"
-sidebar_position: 10
+title: "SPK7 - Swagger"
+sidebar_position: 7
 ---
 
 **Duración:** 1 a 2 días  
