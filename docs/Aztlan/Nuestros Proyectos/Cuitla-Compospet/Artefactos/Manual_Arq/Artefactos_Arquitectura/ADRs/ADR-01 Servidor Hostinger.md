@@ -1,5 +1,6 @@
 ---
 title: "ADR-01 Servidor Hostinger"
+sidebar_position: 1
 ---
 
 # ADR-01: Servidor Hostinger

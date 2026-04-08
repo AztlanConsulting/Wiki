@@ -1,5 +1,6 @@
 ---
 title: "ADR-06 - Front End"
+sidebar_position: 6
 ---
 
 # ADR-06: Front End
