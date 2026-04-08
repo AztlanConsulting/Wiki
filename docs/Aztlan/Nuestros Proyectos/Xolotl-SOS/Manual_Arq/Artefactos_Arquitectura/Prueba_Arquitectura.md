@@ -56,22 +56,23 @@ The project runs locally using Vite’s dev server and is structured to support 
 
 #### Prueba 1 - "¿Qué pruebas se le realizaron?"
 This test validates that the React application is correctly installed, configured, and running.
-1.Installed Node.js (required for Vite and npm)
-2.Created the project using Vite (npm create vite@latest)
-3.Selected React + TypeScript template
-4.Installed dependencies using npm install
-5.Configured project files:
+1. Installed Node.js (required for Vite and npm)
+2. Created the project using Vite (npm create vite@latest)
+3. Selected React + TypeScript template
+4. Installed dependencies using npm install
+5. Configured project files:
 vite.config.ts
 tsconfig.json and related configs
-6.Set up base React structure:
+6. Set up base React structure:
 main.tsx (entry point)
 App.tsx (main component)
-7.Added basic styles (index.css, App.css)
-8.Ran the development server with npm run dev
-9.Verified that the app runs correctly in the browser (default Vite + React page)
+7. Added basic styles (index.css, App.css)
+8. Ran the development server with npm run dev
+9. Verified that the app runs correctly in the browser (default Vite + React page)
 
 #### Evidencia de documentación "Del proceso y de los resultados de las pruebas"
 
+- [Documentación de implementación:](https://docs.google.com/document/d/1t8WiHVRm9_-q4Yo58PJd_xRQjdM5HxtIswBkeUED3XI/edit?usp=sharing)
 ---
 
 ### Prueba Weaviate
