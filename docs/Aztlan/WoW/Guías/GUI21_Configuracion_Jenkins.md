@@ -8,13 +8,13 @@ Esta guía forma parte del proceso: Integración continua y automatización de d
 
 ## Propósito
 
-Configurar Jenkins como servidor de automatización para ejecutar tareas de integración continua, como clonado del repositorio, instalación de dependencias, ejecución de pruebas y despliegue básico del proyecto.
+Configurar Jenkins como servidor de automatización para ejecutar tareas de integración continua, como clonado del repositorio, instalación de dependencias y ejecución de pruebas.
 
 ---
 
 ## Frecuencia
 
-Se realiza **cuando se integra Jenkins por primera vez** y **cada vez que se requiera ajustar el pipeline o la configuración del servidor**.
+Se realiza cuando se integra Jenkins por primera vez.
 
 ---
 
@@ -22,7 +22,6 @@ Se realiza **cuando se integra Jenkins por primera vez** y **cada vez que se req
 
 - Architecture Owner (AO)
 - Team Leader (TL)
-- DevOps o responsable de infraestructura, cuando aplique
 - Team Members (TM), cuando participen en la configuración técnica
 
 ---
@@ -59,6 +58,11 @@ Se realiza **cuando se integra Jenkins por primera vez** y **cada vez que se req
    - en `Repository HTTPS URL`, colocar la URL HTTPS del repositorio en GitHub
 
 7. Eliminar todas las demás opciones que aparezcan y dejar únicamente esas dos configuraciones.
+    - Behaviours: 
+        - Discover pull request from origin:
+            - Strategy: The current pull request revision
+        - Property Strategy: 
+            - All branches get the same propeties
 
 8. Presionar `Save` para guardar la configuración del pipeline.
 
@@ -70,13 +74,17 @@ Se realiza **cuando se integra Jenkins por primera vez** y **cada vez que se req
 
 11. Entrar a la sección de `Webhooks` para habilitar el disparador que active Jenkins y seleccionar `Add webhook`.
 
-12. En `Payload URL`, agregar el link correspondiente indicado en el documento visual de apoyo.
+12. En `Payload URL`, agregar el siguiente link:
+    - https://halflap.theeddyhomeserver.org/jenkins/github-webhook/
 
 13. Dejar las opciones restantes igual como están y únicamente modificar la última opción:
 
    - `Which events would you like to trigger this webhook`
 
-14. Seleccionar los eventos indicados en el documento visual de apoyo y guardar el webhook.
+14. Seleccionar los siguientes eventos:
+    - Pull request review comments
+    - Pushes
+    - Pull requests
 
 15. Entrar a la sección de `Rulesets` para proteger la rama si las pruebas no pasan.
 
@@ -84,11 +92,17 @@ Se realiza **cuando se integra Jenkins por primera vez** y **cada vez que se req
 
 17. En el nuevo ruleset, seleccionar el target de la rama o ramas que se desea proteger en `Branch targeting criteria`.
 
+    **Recomendación**:
+        - Develop
+        - Main
+        - release/*
+
 18. Después de seleccionar la rama, bajar hasta encontrar la opción `Require status checks to pass`.
 
 19. Activar esa opción y dentro de ella seleccionar `Do not require status checks on creation`.
 
-20. En `Status checks that are required`, seleccionar el check indicado en el documento visual de apoyo.
+20. En `Status checks that are required`, seleccionar el siguiente check:
+    -  `continuous-integration/jenkins/pr-head`
 
 21. Guardar la configuración del ruleset.
 
@@ -96,29 +110,23 @@ Se realiza **cuando se integra Jenkins por primera vez** y **cada vez que se req
 
 ## Salidas
 
-- Jenkins instalado y accesible
 - Pipeline configurado
 - Credenciales registradas
-- Ejecución inicial validada
-- Registro de configuración disponible para el equipo
+- Github configurado
 
 ---
 
 ## Recomendaciones
 
-- Usar credenciales almacenadas en Jenkins y no hardcodeadas en el repositorio.
-- Mantener el pipeline versionado mediante `Jenkinsfile` cuando sea posible.
-- Separar ambientes de prueba y producción.
+- Usar credenciales almacenadas en Jenkins.
 - Revisar permisos de usuarios y roles dentro de Jenkins.
-- Documentar plugins instalados y dependencias externas.
 
 ---
 
 ## Plantillas / Registros asociados
 
-- [Documento con imágenes del proceso de configuración de Jenkins](https://docs.google.com/document/d/1h9UCLIE2h8l_qRGimq1KsSq-PxTElW6NMKcjGx62XN8/edit?usp=sharing)
-- Registro de configuración del pipeline
-- Evidencia de ejecución inicial del job
+- [Documento con imágenes del proceso de configuración de Jenkins](https://drive.google.com/file/d/1NgRCGvAkD1SMeLHDb_tLVNSMKBXMuuLq/view?usp=sharing)
+
 
 ---
 
