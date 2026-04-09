@@ -45,6 +45,7 @@ Ejemplos:
 |   WBS | Work Breakdown Structure (Estructura de desglose de trabajo) | Descomposición jerárquica orientada a entregables del alcance total de un proyecto |
 |  DAD  | Disciplined Agile Delivery  | Marco de trabajo ágil híbrido diseñado para cubrir todo el ciclo de vida de entrega de soluciones de TI, desde la concepción hasta la operación | 
 | SRS   | Software Requirements Specification (Especificación de Requisitos de Software) | Documento formal y detallado que define qué debe hacer un sistema de software y cómo debe comportarse |
+| PVG   | Plan de Valor Ganado | Plan que responde a la pregunta ¿Cuánto trabajo se ha ejecutado realmente según lo planificado? |
 
 ---
 

@@ -40,12 +40,12 @@ Consolidar los planes auxiliares en un único plan del proyecto, revisarlo con l
 
 ### 1. Definir las fechas de ejecución de cada tarea [PP SP 2.1]
 
-A partir de las estimaciones y de las horas de trabajo se define cuándo se ejecutará cada tarea y cómo se priorizará, estableciendo un cronograma oficial.
+A partir de las estimaciones y de las horas de trabajo realizadas en el [PRC06 - Definir y estimar el alcance del proyecto](./PRC06.md),  se define cuándo se ejecutará cada tarea y cómo se priorizará, estableciendo un cronograma oficial.
 
 #### Actividades
 
 - Utilizar la estrategia de desarrollo para definir las fechas basadas en la duración del sprint.
-- Priorizar las tareas utilizando técnicas como MoSCoW o ABC.
+- Priorizar las tareas utilizando técnicas como [MoSCoW](https://soka.gitlab.io/blog/post/2019-06-05-tecnicas-metodologias-priorizacion/) o [ABC](https://www.lisandraramos.com/blog/como-priorizar-tareas-metodo-abc-productividad).
 - Identificar dependencias entre tareas.
 - Establecer un periodo y presupuesto de contingencia basado en los riesgos conocidos.
 - Rellenar las fechas, plazo de entrega y prioridad a cada actividad en el plan de valor ganado (PVG).
@@ -239,4 +239,4 @@ Este proceso interactúa con:
 |---------|------------|--------------|---------------|-------|
 | 1.0     | Yael Charles Marin    | Fatima Figueroa |  Agrupados los procesos 10, 16, 19, 20, 22, 25 y 27 en uno solo, para unificar los planes auxiliares al proyecto en uno solo. | 05/04/2026 |
 | 1.1     | Yael Charles Marin    | Fatima Figueroa | Agregar la relación del PRC06 en el paso 3 | 06/04/2026 |
-| 2.0     | Yael Charles Marin    |  | PRC07 unido con el PRC08 para comprometerse con el plan en el mismo proceso y ahora sigue la plantilla tras recibir retroalimentación | 06/04/2026 |
+| 2.0     | Yael Charles Marin    | Manuel Bajos | PRC07 unido con el PRC08 para comprometerse con el plan en el mismo proceso y ahora sigue la plantilla tras recibir retroalimentación | 06/04/2026 |
