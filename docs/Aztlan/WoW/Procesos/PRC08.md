@@ -1,132 +1,81 @@
 ---
-title: "PRC08 - Obtener Compromisos sobre el plan"
+title: "PRC08 - Seguimiento Individual mediante One on Ones"
 ---
 
-_v2.0 / PP_
+_v1.1 / IPM_
+
+## Terminología
+
+[One on One, Persona con responsabilidad de liderazgo](../Glosario.md)
+
+---
 
 ## Propósito
 
-Revisar los planes del proyecto con los involucrados, conciliar el esfuerzo estimado con la disponibilidad del equipo y formalizar el compromiso del equipo y socio formador para que el plan sea realista y ejecutable.
-
----
-
-## Área / Prácticas del CMMI
-
-Área de proceso:
-
-- PP — Project Planning.
-
-Prácticas específicas cubiertas:
-
-- SP 3.1 Revisar los planes que afectan al proyecto.
-- SP 3.2 Conciliar los niveles de trabajo y de recursos.
-- SP 3.3 Obtener el compromiso con el plan.
+Establecer un espacio estructurado y periódico de comunicación individual que permita conocer mejor a los miembros del equipo, identificar necesidades de apoyo oportunamente, promover el desarrollo personal y profesional, y detectar situaciones que puedan afectar el desempeño del proyecto o del equipo.
 
 ---
 
 ## Roles involucrados
 
-- Team Leader (TL)  
-- Product Owner (PO)  
-- Architecture Owner (AO)  
-- Team Members (TM)  
-- Program Managers (PM), cuando aplique  
-- Socio Formador (SF)
+- Personas con responsabilidad de liderazgo
+- Miembros del equipo
 
 ---
 
 ## Entradas
 
-- Plan de release
-- Plan de valor ganado
-- Disponibilidad del equipo
+- Agenda o temas sugeridos para la sesión
+- Información relevante sobre el trabajo o desempeño de la persona
+- Situaciones o inquietudes identificadas previamente
+- Objetivos personales o profesionales cuando existan
+- [Lista de preguntas recomendas](https://docs.google.com/document/d/1a0Dp1Lp6EWD8-TGhyBeaxaJYAlYHFnWpKgGpZzTTzdQ/edit?usp=sharing) 
 
 ---
 
 ## Actividades
 
-### 1. Revisar los planes del proyecto
+### 1. Preparar la sesión de One on One [IPM PP 2.1]
 
-Presentar y evaluar los planes para identificar conflictos, riesgos o discrepancias antes de iniciar el trabajo.
+La persona con responsabilidad de liderazgo identifica los temas relevantes que se abordarán durante la sesión.
 
 #### Actividades
 
-- Preparar los planes auxiliares para su revisión.
-- Revisar los planes en equipo para saber si están alineados con el objetivo.
-- Llevar una minuta de la sesión.
-- Revisar las métricas de los planes.
-
-#### Evidencia generada
-
-- Minuta de revisión de planes
-
-#### Guías / Plantillas asociadas
-
-- [Plantilla de minutas](https://docs.google.com/document/d/17hcieLfLxW1UDGGcC6GaSedEJLbDR9n_mNARWQ0G_xk/edit?usp=sharing)
+- Programar la sesión de One on One.
+- Definir los temas a tratar durante la reunión.
+- Revisar información relevante sobre el estado del trabajo o situaciones recientes.
+- Asegurar la disponibilidad de tiempo y un espacio adecuado para la conversación.
+- Mandar recordatorio de la reunión.
 
 ---
 
-### 2. Conciliar el trabajo y recursos
+### 2. Realizar la sesión de One on One [IPM SP 2.1, 2.3]
 
-Alinear las horas de trabajo requeridas por las actividades con las horas de disponibilidad real del equipo para asegurar que el plan es factible y evitar una sobrecarga.
-
-Las actividades de este paso pueden realizarse en el Sprint Planning, consultar el [PRC05 - gestión de iteraciones](./PRC05.md), para entender más de esta ceremonia. 
+La persona con responsabilidad de liderazgo mantiene una conversación individual con el miembro del equipo para conocer su situación actual, identificar necesidades de apoyo y fortalecer la comunicación.
 
 #### Actividades
 
-- Calcular la disponibilidad total del equipo para la iteración.
-- Obtener el esfuerzo total para la iteración en el PVG.
-- Comparar el esfuerzo total contra la disponibilidad. Si el esfuerzo es mayor a la capacidad, el plan no es factible.
-- En caso de no ser factible, realizar ajustes al plan.
-- Definir el objetivo del sprint basándose en la disponibilidad total.
-
-#### Evidencia generada
-
-- PVG ajustado y objetivo del sprint
+- Establecer un ambiente de confianza y respeto para escuchar activamente a la persona.
+- Identificar necesidades de apoyo o recursos.
+- Detectar posibles riesgos o situaciones que puedan afectar el desempeño.
+- Recibir sugerencias o propuestas de mejora.
+- Aclarar dudas o inquietudes relacionadas con el trabajo.
+    - [Registro de One on One](https://docs.google.com/spreadsheets/d/1L4gpkZ2Z16kBRUONjceLp6qk9BFjosoQ2Pwdt09ZogA/edit?gid=0#gid=0)
 
 ---
 
-### 3. Negociar y actualizar el plan
+### 3. Dar seguimiento a los acuerdos [IPM SP 2.3]
 
-Si el alcance original no se pudo cumplir en el tiempo esperado, se debe negociar con el socio formador y actualizar los artefactos.
-
-#### Actividades
-
-- Exponer al socio formador el motivo del cambio.
-- Priorizar los cambios.
-- Negociar los ajustes necesarios.
-- En caso de que la negociación provoque un cambio, ajustar el PVG para reflejar este cambio. Si ocurre un cambio relacionado con los requisitos consultar el [PRC03 - Manejo de Cambios en Requisitos](./PRC08.md)
-
-#### Evidencia generada
-
-- PVG actualizado
-- Minuta de reunión de cambios
-
-#### Guías / Plantillas asociadas
-
-- [Plantilla de minutas](https://docs.google.com/document/d/17hcieLfLxW1UDGGcC6GaSedEJLbDR9n_mNARWQ0G_xk/edit?usp=sharing)
-
----
-
-### 4. Obtener el compromiso formal
-
-Registrar en un documento el acuerdo de todas las partes interesadas, generando un compromiso formal sobre la versión validada del plan.
+En caso de que se identifiquen acciones o compromisos durante la sesión, se deberá dar seguimiento a su cumplimiento.
 
 #### Actividades
 
-- Redactar el Acta de Compromiso.
-- Presentar el Acta a los interesados.
-- Recabar la firma del socio formador y miembros del equipo.
-- Compartir el plan firmado a los involucrados.
-
-#### Evidencia generada
-
-- Acta de Compromiso firmada
-
-#### Guías / Plantillas asociadas
-
-- [Plantilla de minutas](https://docs.google.com/document/d/17hcieLfLxW1UDGGcC6GaSedEJLbDR9n_mNARWQ0G_xk/edit?usp=sharing)
-- [Plantilla del Acta de Compromiso](https://docs.google.com/document/d/1U3Xf4u492_j3Labn_bFUKl9OH12SOf43LL1bN_Lk6Vw/edit?usp=sharing)
+- Registrar los acuerdos definidos durante la sesión.
+    - [Registro de One on One](https://docs.google.com/spreadsheets/d/1L4gpkZ2Z16kBRUONjceLp6qk9BFjosoQ2Pwdt09ZogA/edit?gid=0#gid=0)
+- Definir responsables y fechas cuando sea necesario.
+- Dar seguimiento a los compromisos establecidos.
+- Proporcionar apoyo adicional cuando se identifiquen necesidades.
+- Actualizar el registro de acuerdos conforme al avance o cada sesión de One on One. 
 
 ---
 
@@ -134,17 +83,20 @@ Registrar en un documento el acuerdo de todas las partes interesadas, generando 
 
 Este proceso interactúa con:
 
-- PRC02 - Obtención de Compromisos sobre los Requisitos: Se relacionan porque ambos buscan un compromiso, la diferencia es que el PRC02 busca el compromiso interno con los requisitos y este busca el compromiso del equipo y socio formador con el plan para cumplir el objetivo. 
-- PRC03 - Manejo de Cambios en Requisitos: Cuando se modifica el alcance en el paso 3, se puede llegar a modificar también el alcance de los requisitos, por lo que en ese caso se utilizaría ese proceso.
-- PRC07 - Desarrollar planes de soporte y plan del proyecto: Se necesita de la ayuda de los planes generados en este proceso para garantizar que el alcance es el correcto y en el PRC08 se valida que sea factible ese alcance.
+- PRC05 — Gestión de Iteraciones  
+  (cuando se identifican situaciones que afectan el trabajo del equipo)
+
+- PRC03 — Manejo de Cambios en Requisitos  
+  (cuando se identifican necesidades que impactan el alcance o prioridades del proyecto)
 
 ---
 
 ## Salidas
 
-- PVG actualizado
-- Acta de Compromiso con el socio formador firmada
-- Minutas de sesiones
+- Registro de sesiones de One on One
+- Lista de acciones o acuerdos definidos
+- Identificación temprana de necesidades de apoyo
+- Retroalimentación para la mejora del equipo
 
 ---
 
@@ -152,5 +104,5 @@ Este proceso interactúa con:
 
 | Version | Creado por: | Auditado por: | Descripción | Fecha |
 |---------|-------------|--------------|-------------|------|
-| 1.0 | Yael Charles Marin  | Fátima Figueroa | Agrupados los procesos 10 y 27 para obtener el compromiso del equipo y socio formador con el plan | 06/04/2026 |
-| 1.1 | Yael Charles Marin  | Fátima Figueroa | Agregar relaciones entre procesos a este. | 06/04/2026 |
+| 1.0 | Fatima Figueroa | Yael Charles | Creación del proceso de seguimiento individual mediante One on Ones | 06/09/2026 |
+| 1.1 | Yael Charles | | Proceso cambiado de id a PRC08, porque el anterior fue deprecado y adaptado a plantilla de procesos | 06/09/2026 |
