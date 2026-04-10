@@ -190,5 +190,5 @@ Se definio un enfoque de logging estructurado con middleware global, logs de neg
 
 | Version | Creado por: | Auditado por: | Descripcion | Fecha |
 |---------|------------|--------------|---------------|-------|
-| 1.0 | Manuel Bajos | Pendiente | Inicio del documento | 10/03/2026 |
+| 1.0 | Manuel Bajos | Pendiente | Inicio del documento | 08/04/2026 |
 
