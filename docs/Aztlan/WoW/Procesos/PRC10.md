@@ -50,9 +50,20 @@ El Program Manager (PM) verificará periódicamente que el equipo siga los está
 
 ---
 
+## Relación con otros procesos
+
+Este proceso interactúa con:
+
+- **PRC01 / PRC03:** La RTM y las solicitudes de cambio de requisitos impactan directamente los CIs.
+- **PRC04:** Los cambios en la forma de trabajo modifican los CIs de tipo "Proceso".
+- **PRC05:** Las iteraciones definen los momentos para crear Líneas Base (Tags).
+- **PRC06 / PRC07:** Generan los CIs base de gestión y planificación.
+
+---
+
 ## Salidas
 - Repositorio actualizado.
-- Líneas Base (Tags).
+- Líneas Base (Tags/Releases).
 - RTM actualizada.
 - Reporte de Auditoría de CM.
 
