@@ -75,6 +75,26 @@ Ejemplos:
 
 ---
 
+### Elemento de Configuración (CI)
+**Definición:** Cualquier producto de trabajo (código fuente, documentos de arquitectura, planes de proyecto, manuales) que ha sido designado para ser colocado bajo control de versiones y gestión formal.
+
+---
+
+### Línea Base (Baseline)
+**Definición:** Una especificación o producto que ha sido revisado formalmente y acordado, que sirve como base para un desarrollo posterior, y que puede cambiarse solo a través de procedimientos formales de control de cambios. En nuestro contexto, se materializa mediante *Tags* o *Releases* en GitHub.
+
+---
+
+### Auditoría de Configuración
+**Definición:** Un proceso de verificación para asegurar que los elementos de configuración en un repositorio cumplen con los estándares definidos, están completos y que los cambios realizados fueron debidamente autorizados.
+
+---
+
+### Repositorio
+**Definición:** Espacio de almacenamiento digital (GitHub) donde se resguarda el historial completo de cambios, versiones y ramas de los Elementos de Configuración de un proyecto.
+
+---
+
 ## Acrónimos y Abreviaturas
 
 | Acrónimo | Significado completo                    | Descripción breve (opcional) |
