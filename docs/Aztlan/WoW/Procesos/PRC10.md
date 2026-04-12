@@ -2,7 +2,7 @@
 title: "PRC09 - Gestión de la Configuración"
 ---
 
-_v1.1 / Área(s) del CMMI: [CM](../Glosario.md#áreas-del-cmmi)_
+_v1.0 / Área(s) del CMMI: [CM](../Glosario.md#áreas-del-cmmi)_
 
 ## Terminología
 *Ver [Glosario](../Glosario.md) para definiciones de CI, Línea Base y Repositorio.*
@@ -41,7 +41,7 @@ Todo proyecto debe considerar como **"intocables"** (bajo control de cambios for
 El Program Manager (PM) verificará periódicamente que el equipo siga los estándares.
 
 #### Actividades
-1. Realizar la auditoría utilizando la [Checklist de Auditoría de CM](../Plantillas/PLA_Checklist_Auditoria_CM.md).
+1. Realizar la auditoría utilizando la [Checklist de Auditoría de CM](../Plantillas/PLA04.md).
 2. **Registro de Resultados:** El resultado de la auditoría debe guardarse en la carpeta `Auditorias/` dentro del directorio del proyecto correspondiente en la Wiki.
 3. **Seguimiento:** En caso de hallazgos (Estado "N"), el TL deberá de organizar un plan para corregir la inconsistencia en el repositorio o artefacto.
 
