@@ -37,11 +37,14 @@ Se realizó la implementación de node.js y express para la creación de la API 
 
 ---
 
-### Prueba React 
+### Prueba React
+
 #### Propósito "De la Sub-prueba"
+
 Provide a scalable and fast frontend foundation to build the user interface, enabling interaction with backend services.
 
 #### Arquitectura "De la Sub-prueba"
+
 Frontend framework and tooling:
 React + Vite + TypeScript
 -React: UI library for building component-based interfaces
@@ -50,22 +53,25 @@ React + Vite + TypeScript
 The project runs locally using Vite’s dev server and is structured to support modular growth.
 
 #### Guías, recursos y tutoriales
+
 - [Vite documentation](https://vite.dev)
 - [React documentation](https://react.dev)
 - [TypeScript documentation](https://www.typescriptlang.org)
 
 #### Prueba 1 - "¿Qué pruebas se le realizaron?"
+
 This test validates that the React application is correctly installed, configured, and running.
+
 1. Installed Node.js (required for Vite and npm)
 2. Created the project using Vite (npm create vite@latest)
 3. Selected React + TypeScript template
 4. Installed dependencies using npm install
 5. Configured project files:
-vite.config.ts
-tsconfig.json and related configs
+   vite.config.ts
+   tsconfig.json and related configs
 6. Set up base React structure:
-main.tsx (entry point)
-App.tsx (main component)
+   main.tsx (entry point)
+   App.tsx (main component)
 7. Added basic styles (index.css, App.css)
 8. Ran the development server with npm run dev
 9. Verified that the app runs correctly in the browser (default Vite + React page)
@@ -73,6 +79,7 @@ App.tsx (main component)
 #### Evidencia de documentación "Del proceso y de los resultados de las pruebas"
 
 - [Documentación de implementación:](https://docs.google.com/document/d/1t8WiHVRm9_-q4Yo58PJd_xRQjdM5HxtIswBkeUED3XI/edit?usp=sharing)
+
 ---
 
 ### Prueba Weaviate
@@ -167,11 +174,65 @@ Integración completa:
 
 - [Documentación de implementación](https://docs.google.com/document/d/1VJjMi_xsVCuWwGWMb3bzv2o9PokONGD8G2RJ61NqOxs/edit?usp=sharing)
 
+---
 
-| Version | Creado por:      | Auditado por:       | Descripción | Fecha      |
-| ------- | ---------------- | ------------------- | ----------- | ---------- |
-| 1.0     | Yessica Lora     | Fernanda Valdez     |             | 10/03/2026 |
-| 1.0     | Yessica Lora     | Alejandra Arredondo |             | 21/03/2026 |
-| 1.1     | Frida Xcaret |                     |             | 20/03/2026 |
-| 1.2     | Santiago Alducin |                     |             | 07/04/2026 |
-| 1.3     | Dongju Mun | Frida Xcaret          |    Prueba de arquitectura de Stripe         | 09/04/2026 |
+### Prueba Paypal
+
+#### Propósito
+
+Implementar el sistema de pagos en el front y backend del proyecto utilizando Paypal, permitiendo procesar transacciones de forma segura y confiable mediante una plataforma que la socia utiliza hoy en día.
+
+#### Arquitectura
+
+Se implementó una arquitectura full-stack utilizando las siguientes herramientas:
+
+1. Node.js + Express en el backend
+2. React en el frontend
+3. API de Paypal para el procesamiento de pagos
+4. @paypal/react-paypal-js para la integración de front-end en react
+
+Flujo general:
+
+1. El frontend (React) solicita al backend la creación de una orden de compra
+2. El backend genera un orderId
+3. El frontend abre una ventana emergente para procesar el pago
+4. Se confirma el pago desde el frontend
+5. El backend recibe evento directamente por una ruta, y completa la transacción
+
+#### Guías, recursos y tutoriales
+
+1. Paypal developer dashboard: https://developer.paypal.com/dashboard/
+2. Paypal react: https://www.youtube.com/watch?v=ccT69ZfsIJA&t=433s
+3. Paypal docs: https://developer.paypal.com/docs/checkout/
+
+#### Prueba - "¿Qué pruebas se le realizaron de Paypal?"
+
+Frontend:
+
+1. Inicio de sesión con paypal
+2. Confirmar transacción
+3. Mensaje de éxito de la transacción (sandbox, sin dinero real)
+
+Backend:
+
+1. Creación de la orden de compra con valores fijos de la transacción en USD
+2. Recibir confirmación de la orden y procesar al pgo
+
+Integración completa:
+
+1. Comunicación correcta entre React y Express
+2. Confirmación de pagos exitosos y fallidos
+3. Pruebas en entorno local
+
+#### Evidencia de documentación "Del proceso y de los resultados de las pruebas"
+
+- [Documentación de implementación](https://docs.google.com/document/d/1vIV7Zw74JwE1gZlfPqhWUGehQOSkhe5_4uTs1MEnfgA/edit?usp=sharing)
+
+| Version | Creado por:      | Auditado por:       | Descripción                        | Fecha      |
+| ------- | ---------------- | ------------------- | ---------------------------------- | ---------- |
+| 1.0     | Yessica Lora     | Fernanda Valdez     |                                    | 10/03/2026 |
+| 1.0     | Yessica Lora     | Alejandra Arredondo |                                    | 21/03/2026 |
+| 1.1     | Frida Xcaret     |                     |                                    | 20/03/2026 |
+| 1.2     | Santiago Alducin |                     | Prueba de arquitectura de Weaviate | 07/04/2026 |
+| 1.3     | Dongju Mun       | Frida Xcaret        | Prueba de arquitectura de Stripe   | 09/04/2026 |
+| 1.4     | Santiago Alducin |                     | Prueba de arquitectura de Paypal   | 12/04/2026 |
