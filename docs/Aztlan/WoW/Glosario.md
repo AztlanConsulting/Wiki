@@ -14,9 +14,22 @@ Cualquier situación que:
 - Dependa de un tercero, decisión o recurso que aún no esté disponible.
 ---
 
-### Término 2
+### One on One
 **Definición:**  
-Descripción clara y concisa del término.
+Reunión individual entre una persona con responsabilidad de liderazgo y un miembro del equipo, cuyo propósito es dar seguimiento al bienestar, desempeño y necesidades de apoyo de la persona, así como identificar oportunidades de mejora y fortalecer la comunicación dentro del equipo.
+
+---
+
+### Persona con responsabilidad de liderazgo
+**Definición:**  
+Persona que tiene la responsabilidad de coordinar, guiar o dar seguimiento al trabajo de otros miembros del equipo.
+
+Ejemplos:
+
+- Program Manager (PM)
+- Architecture Owner (AO)
+- Team Leader (TL)
+- Product Owner (PO)
 
 ---
 
@@ -29,6 +42,11 @@ Descripción clara y concisa del término.
 | TL    | [Team Leader](docs/Aztlan/WoW/Políticas/Politica_de_Comportamiento_Interno.md#31-obligaciones-por-rol)                          |                              |
 | AO    | [Arquitecture Owner](docs/Aztlan/WoW/Políticas/Politica_de_Comportamiento_Interno.md#31-obligaciones-por-rol)                          |                              |
 | TM    | [Team Member](docs/Aztlan/WoW/Políticas/Politica_de_Comportamiento_Interno.md#31-obligaciones-por-rol)                          |                              |
+|   WBS | Work Breakdown Structure (Estructura de desglose de trabajo) | Descomposición jerárquica orientada a entregables del alcance total de un proyecto |
+|  DAD  | Disciplined Agile Delivery  | Marco de trabajo ágil híbrido diseñado para cubrir todo el ciclo de vida de entrega de soluciones de TI, desde la concepción hasta la operación | 
+| SRS   | Software Requirements Specification (Especificación de Requisitos de Software) | Documento formal y detallado que define qué debe hacer un sistema de software y cómo debe comportarse |
+| PVG   | Plan de Valor Ganado | Plan que responde a la pregunta ¿Cuánto trabajo se ha ejecutado realmente según lo planificado? |
+
 ---
 
 ## Siglas Técnicas
@@ -74,3 +92,4 @@ Descripción clara y concisa del término.
 | Version | Creado por: | Auditado por: | Descripción | Fecha |
 |---------|------------|--------------|---------------|-------|
 | 1.0     |      Juan Manuel Murillo López      |             |       Plantilla del Glosario con términos iniciales        |    02/03/2026   |
+| 1.1     | Yael Charles Marin |     |  Agregados términos de WBS, SRS y DAD | 06/04/2026 |
