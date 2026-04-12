@@ -156,3 +156,4 @@ Ejemplos:
 | 1.0     |      Juan Manuel Murillo López      |             |       Plantilla del Glosario con términos iniciales        |    02/03/2026   |
 | 1.1     | Yael Charles Marin |     |  Agregados términos de WBS, SRS y DAD | 06/04/2026 |
 | 1.2     | Fatima Figueroa |     |  Agregados términos de Requisitos, | 15/04/2026 |
+| 1.3 | Mauricio Olguín | | Agregar terminos de Elemento de Configuración, Línea base, Auditoría de Configuración y Repositorio | 12/04/2026 |
