@@ -118,24 +118,14 @@ Registrar el problema y dar seguimeinto a su resolución utilizando la plantilla
 
 ## Salidas
 
-- Salida
-- Salida
-- Salida
+- Reporte de evaluación de calidad
+- Proceso corregido
+- Producto de trabajo corregido
 
 ---
 
 ## Control de versiones
 
-| Version | Creado por: | Auditado por: | Descripción          | Fecha |
-| ------- | ----------- | ------------- | -------------------- | ----- |
-| 1.0     |             |               | Creación del proceso |       |
-
-## Control de versiones
-
-| Version | Creado por:        | Auditado por:                     | Descripción                                                 | Fecha      |
-| ------- | ------------------ | --------------------------------- | ----------------------------------------------------------- | ---------- |
-| 1.0     | Yael Charles Marin | Yessica, Manuel, Alejandra        | Plantilla inicial para procesos.                            | 26/02/2026 |
-| 2.0     | Yael Charles Marin | Manuel, Alejandra, Edmundo, Andre | Eliminar responsable, notas y interesados para simplificar. | 26/02/2026 |
-| 2.1     | Yael Charles Marin | Manuel, Alejandra, Edmundo, Andre | Acento en Prácticas                                         | 26/02/2026 |
-| 3.0     | Fatima Figueroa    |                                   | Cambio de formato                                           | 04/04/2026 |
-| 3.1     | Fatima Figueroa    |                                   | Ajustes de acuerdo a retroalimentación                      | 04/04/2026 |
+| Version | Creado por:                        | Auditado por: | Descripción | Fecha      |
+| ------- | ---------------------------------- | ------------- | ----------- | ---------- |
+| 1.0     | Santiago Alducin y Emilio Quiñonez |               | PPQA        | 13/04/2026 |
