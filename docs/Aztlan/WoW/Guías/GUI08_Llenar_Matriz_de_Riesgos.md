@@ -24,7 +24,7 @@ Completar los siguientes campos:
 
 1. **ID del riesgo**
 2. **Nombre del riesgo**
-3. **Descripción / Consecuencia**
+3. **Consecuencia**
 4. **Categoría (Nivel NIST):**
    - Nivel 1: Empresarial  
    - Nivel 2: Proceso  

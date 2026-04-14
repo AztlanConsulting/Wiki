@@ -187,7 +187,7 @@ Unificar todos los planes auxiliares en un único espacio.
 
 #### Actividades
 
-- Recopilar el plan de recursos, matriz de riesgos, base de skills, plan de datos, plan de comunicación y plan de valor ganado. Registrarlos en la wiki dentro de la carpeta de planes de los equipos.
+- Tomar en cuenta las actividades del plan de recursos, matriz de riesgos, base de skills, plan de datos, plan de comunicación y plan de valor ganado.
 - Agregar las actividades identificadas en el PVG, siguiendo el [PRC06 - Definir y estimar el alcance del proyecto](./PRC06.md).
 - Identificar fechas relevantes al proyecto, como prueba de arquitectura, entrega de MVP y MBIs.
 - Diseñar un plan de entregas con base en las fechas del PVG.

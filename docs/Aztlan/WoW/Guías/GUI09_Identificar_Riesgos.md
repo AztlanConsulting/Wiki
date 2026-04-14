@@ -13,8 +13,10 @@ Identificar si una situación representa un riesgo para el proyecto, clasificán
 ## Desarrollo
 
 ### Paso 1: 
-Identificar la situación que se presenta resulta en un contratiempo para el proyecto.
+Identificar si la situación que se presenta resulta en un riesgo para el proyecto.
 
+**Definición de riesgo:**
+La posibilidad de que ocurra un evento incierto que, si sucede, genere un impacto negativo sobre un objetivo.
 
 ### Paso 2: 
 Si el riesgo identificado, no esta categorizado ya en la matriz de riesgos. Categorizar el riesgo mediante el uso de las categorías impuestas por Nist-30:
