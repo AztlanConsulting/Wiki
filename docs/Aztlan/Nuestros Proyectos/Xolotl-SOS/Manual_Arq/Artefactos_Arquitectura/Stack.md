@@ -77,18 +77,35 @@ Framework de estilos para desarrollo rápido con mucha flexibilidad para generar
 
 Base de datos basado en colecciones, desarrollo rápido para almacenar información no estructurada o poco estructurada. Ideal para las imágenes, talleres e imágenes.
 
-### [MongoDB](https://www.mongodb.com/)
+### [Weaviate](https://weaviate.io/)
 
-Base de datos basado en colecciones, desarrollo rápido para almacenar información no estructurada o poco estructurada. Ideal para las imágenes, talleres e imágenes.
+Base de datos vectoriales necesaria para la relación entre imágenes de perros perdidos
 
-[ADR-07]()
+[ADR-01](./ADRs/ADR-1.md)
 
 # APIs
 
-### [Meta API]()
+### [Meta API](https://developers.facebook.com/docs/)
 
-[ADR-08]()
+Interacción con Facebook e Instagram para las publicaciones automáticas que necesita la socia cada que se contrata un plan
+
+### [Paypal API](https://developer.paypal.com/dashboard/)
+
+Procesamiento de pagos por Paypal para clientes internacionales
+
+### [Stripe API](https://docs.stripe.com/api)
+
+Procesamiento de pagos mediante tarjetas de banco y SPEI
+
+### [IPAPI](https://ipapi.co/)
+
+Detectar ubicación del usuario por medio de la ip para determinar lugar de procedencia y desplegar costo en moneda local.
+
+### [OpenStreetMap](https://wiki.openstreetmap.org/wiki/API)
+
+Para que los usuarios determinen la ubicación en la que se perdió un perro mediante un mapa visual.
 
 | Version | Creado por:                                    | Auditado por:   | Descripción | Fecha      |
 | ------- | ---------------------------------------------- | --------------- | ----------- | ---------- |
 | 1.0     | Yessica Lora, Fatima Figueroa, Kamila Martinez | Fernanda Valdez |             | 10/03/2026 |
+| 1.1     | Santiago Alducin Villaseñor                    |                 |             | 14/04/2026 |
