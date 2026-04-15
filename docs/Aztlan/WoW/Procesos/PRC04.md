@@ -10,23 +10,6 @@ Definir, mantener y controlar la forma de trabajo del proyecto u organización, 
 
 ---
 
-## Área / Prácticas del CMMI
-
-Áreas de proceso relacionadas:
-
-- OPD — Definición de Procesos Organizacionales
-{/* - QA — Process and Product Quality Assurance ?? */}
-{/* - CM — Configuration Management ?? */}
-
-Prácticas relacionadas:
-
-- OPD SP 1.1 — Establecer los activos de procesos de la organización
-- OPD SP 1.2 — Mantener los activos de procesos de la organización
-{/* - PPQA SP 1.1 — Objectively Evaluate Processes ?? */}
-{/* - CM SP 1.2 — Control Configuration Items ?? */}
-
----
-
 ## Roles involucrados
 
 - Program Managers
@@ -41,7 +24,6 @@ Prácticas relacionadas:
 - Recomendaciones de mejora
 - Resultados de auditorías
 - Retroalimentación del equipo
-- Mapa de procesos
 - Procesos existentes
 - Guías existentes
 - Políticas existentes
@@ -60,14 +42,6 @@ Se identifica una necesidad para crear, modificar o eliminar un proceso, guía o
 - Registrar la solicitud de creación o modificación.
 - Describir el problema o necesidad detectada.
 
-#### Evidencia generada
-
-- Solicitud de mejora del proceso
-- Registro de necesidad identificada
-
-#### Guías / Plantillas asociadas
-
-- Plantilla de solicitud de mejora [LINK]
 ---
 
 ### 2. Revisar la wiki y el mapa de procesos existente
@@ -77,12 +51,9 @@ Antes de crear un nuevo proceso, se debe verificar si ya existe uno que cubra la
 #### Actividades
 
 - Revisar el mapa de procesos actual.
+    - [Mapa de procesos](https://www.canva.com/design/DAHFGImN6n0/HGg-sf9JJ4nMmjBZbKkPyQ/edit)
 - Identificar procesos, guías o políticas existentes relacionados.
 - Determinar si la necesidad puede resolverse actualizando un elemento existente.
-
-#### Guías / Plantillas asociadas
-
-- Mapa de procesos [LINK]
 
 ---
 
@@ -116,10 +87,6 @@ Crear una política cuando:
 - Se establece una restricción organizacional
 - Se define un principio o estándar
 
-#### Evidencia generada
-
-- Clasificación del artefacto
-
 ---
 
 ### 4. Crear o actualizar el artefacto de proceso
@@ -131,24 +98,14 @@ Se desarrolla el proceso, guía o política correspondiente.
 - Definir el contenido del artefacto.
 - Asignar el identificador (ID) correspondiente.
     - PRCXX = Proceso
+        - [Plantilla de Proceso](../Plantillas/PLA02)
     - GUIXX = Guía
+        - [Plantilla de Guía](../Plantillas/PLA03)
     - POLXX = Política
-- Registrar el artefacto en el repositorio de procesos [LINK].
+- Registrar el artefacto en el mapa de procesos.
 - Revisar consistencia con otros procesos.
 
 **NOTA**: Recuerda que el nombre del proceso, guía o política debe ser claro y descriptivo para reflejar su propósito y contenido de manera efectiva. No debes agregar el tipo de artefacto en el nombre y el nombre de las guías deben ser en formato de pregunta
-
-#### Evidencia generada
-
-- Proceso, guía o política documentada
-- ID asignado
-- Registro de creación o actualización
-
-#### Guías / Plantillas asociadas
-
-- [Plantilla de proceso](../Plantillas/PLA02.md)
-- [Plantilla de guía](../Plantillas/PLA03.md)
-- Plantilla de política [LINK]
 
 ---
 
@@ -159,12 +116,8 @@ Se asegura que el sistema de procesos refleje los cambios realizados.
 #### Actividades
 
 - Registrar el nuevo artefacto en el mapa de procesos.
+    - [Mapa de procesos](https://www.canva.com/design/DAHFGImN6n0/HGg-sf9JJ4nMmjBZbKkPyQ/edit)
 - Actualizar relaciones entre procesos.
-
-#### Evidencia generada
-
-- Mapa de procesos actualizado [LINK]
-- Registro de actualización en el repositorio de procesos [LINK]
 
 ---
 
@@ -178,11 +131,6 @@ Se valida que el artefacto creado o modificado sea correcto y consistente.
 - Verificar alineación con el sistema de procesos.
 - Aprobar el artefacto antes de su uso.
 
-#### Evidencia generada
-
-- Registro de revisión
-- Aprobación documentada
-
 ---
 
 ### 7. Auditar el uso del artefacto
@@ -194,12 +142,6 @@ Se verifica que el proceso, guía o política se utilice correctamente.
 - Revisar si el artefacto se está aplicando.
 - Identificar desviaciones.
 - Registrar hallazgos.
-
-#### Evidencia generada
-
-- Reporte de auditoría
-- Registro de hallazgos
-- Acciones correctivas
 
 ---
 
@@ -230,3 +172,4 @@ Debe ejecutarse cuando:
 | Version | Creado por: | Auditado por: | Descripción | Fecha |
 |---------|------------|--------------|---------------|-------|
 | 2.0     | Fatima Figueroa |  |  Cambio de Reestructuración y actualización de PRC01, PRC02, PRC03, PRC04 | 04/04/2026 |
+| 2.1     | Fatima Figueroa |  |  Actualización de formato | 15/04/2026 |
