@@ -37,7 +37,7 @@ Gestionar los requisitos del proyecto durante todo su ciclo de vida, asegurando 
 
 ## Actividades
 
-### 1. Comprender los requisitos [REQM PP 1.1]
+### 1. Comprender los requisitos [REQM 1.1]
 
 El equipo recopila y analiza las necesidades del cliente y stakeholders para asegurar una comprensión clara de los requisitos.
 
@@ -52,7 +52,7 @@ El equipo recopila y analiza las necesidades del cliente y stakeholders para ase
 
 ---
 
-### 2. Preparar los requisitos para compromiso [REQM PP 1.2]
+### 2. Preparar los requisitos para compromiso [REQM 1.1, 1.2]
 
 Antes de implementar un requisito, se debe evaluar su viabilidad y alineación con la capacidad del equipo.
 
@@ -78,7 +78,7 @@ Antes de implementar un requisito, se debe evaluar su viabilidad y alineación c
 
 ---
 
-### 3. Obtener compromiso sobre los requisitos [REQM PP 1.2]
+### 3. Obtener compromiso sobre los requisitos [REQM 1.2]
 
 Cuando un requisito esté listo para implementación, se deberá ejecutar el proceso:
 
@@ -86,7 +86,7 @@ Cuando un requisito esté listo para implementación, se deberá ejecutar el pro
 
 ---
 
-### 4. Gestionar cambios en los requisitos [REQM PP 1.3]
+### 4. Gestionar cambios en los requisitos [REQM 1.3]
 
 Cuando se identifique una modificación, nueva necesidad o inconsistencia, se deberá ejecutar el proceso:
 
@@ -94,7 +94,7 @@ Cuando se identifique una modificación, nueva necesidad o inconsistencia, se de
 
 ---
 
-### 5. Mantener la trazabilidad de los requisitos [REQM PP 1.4]
+### 5. Mantener la trazabilidad de los requisitos [REQM 1.4]
 
 Se debe asegurar que cada requisito esté vinculado a sus productos de trabajo relacionados.
 
@@ -106,7 +106,7 @@ Se debe asegurar que cada requisito esté vinculado a sus productos de trabajo r
 
 ---
 
-### 6. Identificar inconsistencias [REQM PP 1.5]
+### 6. Identificar inconsistencias [REQM 1.5]
 
 Se debe verificar periódicamente la consistencia entre los requisitos y los productos de trabajo.
 
@@ -142,5 +142,5 @@ Este proceso interactúa con:
 
 | Version | Creado por: | Auditado por: | Descripción | Fecha |
 |---------|------------|--------------|---------------|-------|
-| 2.0     | Fatima Figueroa |  |  Reestructuración de PRC08, PRC09, PRC17, PRC18, PRC24 | 04/04/2026 |
-| 2.1     | Fatima Figueroa |  |  Actualización de formato | 15/04/2026 |
+| 2.0     | Fatima Figueroa | Yael Charles |  Reestructuración de PRC08, PRC09, PRC17, PRC18, PRC24 | 04/04/2026 |
+| 2.1     | Fatima Figueroa | Yael Charles |  Actualización de formato | 15/04/2026 |

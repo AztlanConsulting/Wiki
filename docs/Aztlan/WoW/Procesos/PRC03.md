@@ -30,7 +30,7 @@ Gestionar los cambios en los requisitos del proyecto, asegurando que cualquier m
 
 ## Actividades
 
-### 1. Identificar el cambio [REQM PP 1.3]
+### 1. Identificar el cambio [REQM 1.3]
 
 Se detecta una nueva necesidad, modificación o inconsistencia en los requisitos (por ejemplo, Historias de Usuario u otros tipos de requisitos).
 
@@ -43,7 +43,7 @@ Se detecta una nueva necesidad, modificación o inconsistencia en los requisitos
 
 ---
 
-### 2. Analizar impacto del cambio [REQM PP 1.3]
+### 2. Analizar impacto del cambio [REQM 1.3]
 
 Se evalúa el impacto del cambio en el proyecto antes de tomar una decisión.
 
@@ -58,7 +58,7 @@ Se evalúa el impacto del cambio en el proyecto antes de tomar una decisión.
 
 ---
 
-### 3. Evaluar el cambio [REQM PP 1.3]
+### 3. Evaluar el cambio [REQM 1.3]
 
 Se revisa la viabilidad técnica y de negocio del cambio propuesto.
 
@@ -71,7 +71,7 @@ Se revisa la viabilidad técnica y de negocio del cambio propuesto.
 
 ---
 
-### 4. Aprobar o rechazar el cambio [REQM PP 1.3]
+### 4. Aprobar o rechazar el cambio [REQM 1.3]
 
 Se toma una decisión formal sobre el cambio.
 
@@ -85,7 +85,7 @@ Se toma una decisión formal sobre el cambio.
 
 ---
 
-### 5. Actualizar artefactos [REQM PP 1.3]
+### 5. Actualizar artefactos [REQM 1.3]
 
 Se actualizan los productos de trabajo afectados por el cambio aprobado.
 
@@ -98,7 +98,7 @@ Se actualizan los productos de trabajo afectados por el cambio aprobado.
 
 ---
 
-### 6. Verificar consistencia [REQM PP 1.5]
+### 6. Verificar consistencia [REQM 1.5]
 
 Se verifica que los productos de trabajo actualizados sean consistentes con los requisitos modificados.
 
@@ -136,5 +136,5 @@ Este proceso interactúa con:
 
 | Version | Creado por: | Auditado por: | Descripción | Fecha |
 |---------|------------|--------------|---------------|-------|
-| 2.0     | Fatima Figueroa |  |  Cambio de formato y actualización de PRC18 | 04/04/2026 |
-| 2.1     | Fatima Figueroa |  |  Actualización de formato | 15/04/2026 |
+| 2.0     | Fatima Figueroa | Yael Charles |  Cambio de formato y actualización de PRC18 | 04/04/2026 |
+| 2.1     | Fatima Figueroa | Yael Charles |  Actualización de formato | 15/04/2026 |
