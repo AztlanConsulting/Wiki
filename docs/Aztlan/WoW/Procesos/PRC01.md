@@ -156,7 +156,6 @@ Se debe verificar de manera estructurada y periódica que los productos de traba
 - Definir el momento de la revisión
 - Validar consistencia entre requisitos y artefactos.
 - Registrar inconsistencias detectadas en el Defect Log.
-- 
 - Iniciar una solicitud de cambio cuando sea necesario.
 
 #### Evidencia generada
