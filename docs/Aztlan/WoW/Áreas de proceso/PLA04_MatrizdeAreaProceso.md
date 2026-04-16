@@ -35,57 +35,47 @@ Establecer y mantener planes que definan las actividades del proyecto.
         [PRC06](../Procesos/PRC06.md) <br/>
       </td>
       <td>
-        [Evidencia 1]() <br/>
-        [Evidencia 2]() <br/>
+        [WBS Cuitla](https://drive.google.com/drive/folders/18GjsREXXPQp68I7yyndRV22humkNwqOu?usp=sharing)
       </td>
       <td>
-        [Evidencia 1]() <br/>
-        [Evidencia 2]() <br/>
+        [WBS Xolotl](../../Nuestros%20Proyectos/Xolotl-SOS/WBS.md)
       </td>
       <td>
-        [Evidencia 1]() <br/>
-        [Evidencia 2]() <br/>
+        [WBS Tochan](../../Nuestros%20Proyectos/Ichan-RCHQ/Artefactos/WBSProyecto.md)
       </td>
       <td>
-        [Evidencia 1]() <br/>
-        [Evidencia 2]() <br/>
-        [Evidencia 3]() <br/>
+        [WBS Huitlacuaches](https://drive.google.com/file/d/1-P68WHqDevcajlt1MtKfPoXl6Ee908Iy/view?usp=sharing )
       </td>
       <td>
-        [Evidencia 1]() <br/>
-        [Evidencia 2]() <br/>
+        [WBS departamental](../../WoW/ArtefactosDepartamentales/WBS.md)
       </td>
     </tr>
     <tr>
       <td>PP SP 1.2</td>
       <td>Establecer las estimaciones de los atributos de los productos de trabajo y de las tareas.</td>
       <td>
-        [PRC06](../Procesos/PRC06.md)
+        [PRC06](../Procesos/PRC06.md)<br/><br/>
+        [PRC05](../Procesos/PRC05.md)
       </td>
       <td>
-        []()<br/><br/>
-        []()<br/><br/>
-        []()
+        [Estimación a horas](https://docs.google.com/spreadsheets/d/1PyHPAv7n_Ok2TyG7pxqiGVQXgGVu5A58DYE56uI0Wo4/edit?gid=484767565#gid=484767565)<br/><br/>
+        [PVG Cuitla](https://docs.google.com/spreadsheets/d/1PyHPAv7n_Ok2TyG7pxqiGVQXgGVu5A58DYE56uI0Wo4/edit?gid=484767565#gid=484767565)
       </td>
       <td>
-        []()<br/><br/>
-        []()<br/><br/>
-        []()
+        [Conversión Story Points](https://docs.google.com/spreadsheets/d/1rQQRWQqWzgMJ_X6eNkf-8GB7miFwvbvKIsUrwZWUeDo/edit?usp=sharing)<br/><br/>
+        [PVG Xolotl](https://docs.google.com/spreadsheets/d/1rQQRWQqWzgMJ_X6eNkf-8GB7miFwvbvKIsUrwZWUeDo/edit?usp=sharing)
       </td>
       <td>
-        []()<br/><br/>
-        []()<br/><br/>
-        []()
+        [Conversión Story Points](https://docs.google.com/spreadsheets/d/1xofncYrMGXf9O-aa0wvEMnu0YgD6WFc-ntpvU49Tv-E/edit?usp=sharing)<br/><br/>
+        [PVG Tochan](https://docs.google.com/spreadsheets/d/1xofncYrMGXf9O-aa0wvEMnu0YgD6WFc-ntpvU49Tv-E/edit?usp=sharing)
       </td>
       <td>
-        []()<br/><br/>
-        []()<br/><br/>
-        []()
+        [Conversión Story Points](https://docs.google.com/spreadsheets/d/1A6xDpEwvAf_52CNSUBtk3VHl9GSKwC9WesF-X8bgai8/edit?usp=sharing)<br/><br/>
+        [PVG Huitlacuaches](https://docs.google.com/spreadsheets/d/1A6xDpEwvAf_52CNSUBtk3VHl9GSKwC9WesF-X8bgai8/edit?usp=sharing)
       </td>
       <td>
-        []()<br/><br/>
-        []()<br/><br/>
-        []()
+        [Conversión story points](https://docs.google.com/spreadsheets/d/1YaAwQUqQF0v36ZIDc1gVEI62uhvYS7A_JSziCBf5Q34/edit?usp=sharing)<br/><br/>
+        [PVG Departamental](https://docs.google.com/spreadsheets/d/1YaAwQUqQF0v36ZIDc1gVEI62uhvYS7A_JSziCBf5Q34/edit?usp=sharing)
       </td>
     </tr>
     <tr>
@@ -95,24 +85,16 @@ Establecer y mantener planes que definan las actividades del proyecto.
         [PRC06](../Procesos/PRC06.md)
       </td>
       <td>
-        []()<br/><br/>
-        []()<br/><br/>
-        []()
+        [Estrategía de desarrollo Cuitla](https://docs.google.com/document/d/1PoOLtvvigEFOjN5cPRgTm9IPhmUepv2hTL0bc0cRz4I/edit?tab=t.0#heading=h.82to2amu3d3e )
       </td>
       <td>
-        []()<br/><br/>
-        []()<br/><br/>
-        []()
+        [Estrategía de desarrollo Xolotl](https://docs.google.com/document/d/1IrLcLrhL_BlwbuCQSJwNfDiLMErx0dFlX-gS1IelSJM/edit?tab=t.0)
       </td>
       <td>
-        []()<br/><br/>
-        []()<br/><br/>
-        []()
+        [Estrategía de desarrollo Tochan](../../Nuestros%20Proyectos/Ichan-RCHQ/Artefactos/CicloDeVida.md)
       </td>
       <td>
-        []()<br/><br/>
-        []()<br/><br/>
-        []()
+        [Estrategía de desarrollo Huitlacuaches](https://docs.google.com/document/d/1g4LW_xqRRZGln0W8PWuqPA4wvrDepeeabZy1R4CxKdA/edit?usp=sharing)
       </td>
       <td></td>
     </tr>
@@ -122,11 +104,21 @@ Establecer y mantener planes que definan las actividades del proyecto.
       <td>
         [PRC06](../Procesos/PRC06.md)
       </td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>
+        [PVG Cuitla](https://docs.google.com/spreadsheets/d/1PyHPAv7n_Ok2TyG7pxqiGVQXgGVu5A58DYE56uI0Wo4/edit?gid=484767565#gid=484767565)
+      </td>
+      <td>
+        [PVG Xolotl](https://docs.google.com/spreadsheets/d/1rQQRWQqWzgMJ_X6eNkf-8GB7miFwvbvKIsUrwZWUeDo/edit?usp=sharing)
+      </td>
+      <td>
+        [PVG Tochan](https://docs.google.com/spreadsheets/d/1xofncYrMGXf9O-aa0wvEMnu0YgD6WFc-ntpvU49Tv-E/edit?usp=sharing)
+      </td>
+      <td>
+        [PVG Huitlacuaches](https://docs.google.com/spreadsheets/d/1A6xDpEwvAf_52CNSUBtk3VHl9GSKwC9WesF-X8bgai8/edit?usp=sharing)
+      </td>
+      <td>
+        [PVG Departamental](https://docs.google.com/spreadsheets/d/1YaAwQUqQF0v36ZIDc1gVEI62uhvYS7A_JSziCBf5Q34/edit?usp=sharing)
+      </td>
     </tr>
 <!--Se incluye cada vez que haya una SG (specific goal)-->
     <tr>
@@ -136,7 +128,8 @@ Establecer y mantener planes que definan las actividades del proyecto.
       <td>PP SP 2.1</td>
       <td>Establecer el presupuesto y el calendario.</td>
       <td>
-        [PRC07](../Procesos/PRC07.md)
+        [PRC07](../Procesos/PRC07.md)<br/><br/>
+        [PRC05](../Procesos/PRC05.md)
       </td>
       <td>
         []()<br/><br/>
@@ -168,7 +161,8 @@ Establecer y mantener planes que definan las actividades del proyecto.
       <td>PP SP 2.2</td>
       <td>Identificar los riesgos del proyecto.</td>
       <td>
-        [PRC07](../Procesos/PRC07.md)
+        [PRC07](../Procesos/PRC07.md)<br/><br/>
+        [PRC05](../Procesos/PRC05.md)
       </td>
       <td>
         []()<br/><br/>
@@ -364,7 +358,8 @@ Establecer y mantener planes que definan las actividades del proyecto.
       <td>PP SP 3.1</td>
       <td>Revisar los planes que afectan al proyecto.</td>
       <td>
-        [PRC07](../Procesos/PRC07.md)
+        [PRC07](../Procesos/PRC07.md)<br/><br/>
+        [PRC05](../Procesos/PRC05.md)
       </td>
       <td>
         []()<br/><br/>
