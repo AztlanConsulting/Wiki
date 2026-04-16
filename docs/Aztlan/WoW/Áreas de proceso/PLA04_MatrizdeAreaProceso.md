@@ -25,12 +25,12 @@ Establecer y mantener planes que definan las actividades del proyecto.
   <tbody>
   <!--Se incluye cada vez que haya una SG (specific goal)-->
     <tr>
-        <td align="center" colspan= "8"><strong>SG 1</strong></td>
+        <td align="center" colspan= "8"><strong>SG 1</strong> Establecer las estimaciones</td>
     </tr>
   <!--Por cada SP, copiar y pegar los tr's-->
     <tr>
       <td>PP  SP 1.1 </td>
-      <td>Descripción</td>
+      <td>Estimar el alcance del proyecto.</td>
       <td>
         [Proceso]() <br/>
         [Guía]() <br/>
@@ -59,18 +59,8 @@ Establecer y mantener planes que definan las actividades del proyecto.
       </td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
+      <td>PP SP 1.2</td>
+      <td>Establecer las estimaciones de los atributos de los productos de trabajo y de las tareas.</td>
       <td></td>
       <td></td>
       <td></td>
@@ -79,14 +69,372 @@ Establecer y mantener planes que definan las actividades del proyecto.
       <td></td>
     </tr>
     <tr>
+      <td>PP SP 1.3</td>
+      <td>Definir las fases del ciclo de vida del proyecto.</td>
       <td></td>
       <td></td>
       <td></td>
       <td></td>
       <td></td>
       <td></td>
+    </tr>
+    <tr>
+      <td>PP SP 1.4</td>
+      <td>Estimar el esfuerzo y el coste.</td>
       <td></td>
       <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+<!--Se incluye cada vez que haya una SG (specific goal)-->
+    <tr>
+        <td align="center" colspan= "8"><strong>SG 2</strong> Desarrollar un plan de proyecto.</td>
+    </tr>
+    <tr>
+      <td>PP SP 2.1</td>
+      <td>Establecer el presupuesto y el calendario.</td>
+      <td>
+        []()<br/><br/>
+        []()<br/><br/>
+        []()
+      </td>
+      <td>
+        []()<br/><br/>
+        []()<br/><br/>
+        []()
+      </td>
+      <td>
+        []()<br/><br/>
+        []()<br/><br/>
+        []()
+      </td>
+      <td>
+        []()<br/><br/>
+        []()<br/><br/>
+        []()
+      </td>
+      <td>
+        []()<br/><br/>
+        []()<br/><br/>
+        []()
+      </td>
+      <td>
+        []()<br/><br/>
+        []()<br/><br/>
+        []()
+      </td>
+    </tr>
+    <tr>
+      <td>PP SP 2.2</td>
+      <td>Identificar los riesgos del proyecto.</td>
+      <td>
+        []()<br/><br/>
+        []()<br/><br/>
+        []()
+      </td>
+      <td>
+        []()<br/><br/>
+        []()<br/><br/>
+        []()
+      </td>
+      <td>
+        []()<br/><br/>
+        []()<br/><br/>
+        []()
+      </td>
+      <td>
+        []()<br/><br/>
+        []()<br/><br/>
+        []()
+      </td>
+      <td>
+        []()<br/><br/>
+        []()<br/><br/>
+        []()
+      </td>
+      <td>
+        []()<br/><br/>
+        []()<br/><br/>
+        []()
+      </td>
+    </tr>
+    <tr>
+      <td>PP SP 2.3</td>
+      <td>Planificar la gestión de los datos.</td>
+      <td>
+        []()<br/><br/>
+        []()<br/><br/>
+        []()
+      </td>
+      <td>
+        []()<br/><br/>
+        []()<br/><br/>
+        []()
+      </td>
+      <td>
+        []()<br/><br/>
+        []()<br/><br/>
+        []()
+      </td>
+      <td>
+        []()<br/><br/>
+        []()<br/><br/>
+        []()
+      </td>
+      <td>
+        []()<br/><br/>
+        []()<br/><br/>
+        []()
+      </td>
+      <td>
+        []()<br/><br/>
+        []()<br/><br/>
+        []()
+      </td>
+    </tr>
+    <tr>
+      <td>PP SP 2.4</td>
+      <td>Planificar los recursos del proyecto.</td>
+      <td>
+        []()<br/><br/>
+        []()<br/><br/>
+        []()
+      </td>
+      <td>
+        []()<br/><br/>
+        []()<br/><br/>
+        []()
+      </td>
+      <td>
+        []()<br/><br/>
+        []()<br/><br/>
+        []()
+      </td>
+      <td>
+        []()<br/><br/>
+        []()<br/><br/>
+        []()
+      </td>
+      <td>
+        []()<br/><br/>
+        []()<br/><br/>
+        []()
+      </td>
+      <td>
+        []()<br/><br/>
+        []()<br/><br/>
+        []()
+      </td>
+    </tr>
+    <tr>
+      <td>PP SP 2.5</td>
+      <td>Planificar el conocimiento y las habilidades necesarias.</td>
+      <td>
+        []()<br/><br/>
+        []()<br/><br/>
+        []()
+      </td>
+      <td>
+        []()<br/><br/>
+        []()<br/><br/>
+        []()
+      </td>
+      <td>
+        []()<br/><br/>
+        []()<br/><br/>
+        []()
+      </td>
+      <td>
+        []()<br/><br/>
+        []()<br/><br/>
+        []()
+      </td>
+      <td>
+        []()<br/><br/>
+        []()<br/><br/>
+        []()
+      </td>
+      <td>
+        []()<br/><br/>
+        []()<br/><br/>
+        []()
+      </td>
+    </tr>
+    <tr>
+      <td>PP SP 2.6</td>
+      <td>Planificar la involucración de las partes interesadas.</td>
+      <td>
+        []()<br/><br/>
+        []()<br/><br/>
+        []()
+      </td>
+      <td>
+        []()<br/><br/>
+        []()<br/><br/>
+        []()
+      </td>
+      <td>
+        []()<br/><br/>
+        []()<br/><br/>
+        []()
+      </td>
+      <td>
+        []()<br/><br/>
+        []()<br/><br/>
+        []()
+      </td>
+      <td>
+        []()<br/><br/>
+        []()<br/><br/>
+        []()
+      </td>
+      <td>
+        []()<br/><br/>
+        []()<br/><br/>
+        []()
+      </td>
+    </tr>
+    <tr>
+      <td>PP SP 2.7</td>
+      <td>Establecer el plan de proyecto.</td>
+      <td>
+        []()<br/><br/>
+        []()<br/><br/>
+        []()
+      </td>
+      <td>
+        []()<br/><br/>
+        []()<br/><br/>
+        []()
+      </td>
+      <td>
+        []()<br/><br/>
+        []()<br/><br/>
+        []()
+      </td>
+      <td>
+        []()<br/><br/>
+        []()<br/><br/>
+        []()
+      </td>
+      <td>
+        []()<br/><br/>
+        []()<br/><br/>
+        []()
+      </td>
+      <td>
+        []()<br/><br/>
+        []()<br/><br/>
+        []()
+      </td>
+    </tr>
+    <!--Se incluye cada vez que haya una SG (specific goal)-->
+    <tr>
+        <td align="center" colspan= "8"><strong>SG 3</strong> Obtener el compromiso con el plan.</td>
+    </tr>
+    <tr>
+      <td>PP SP 3.1</td>
+      <td>Revisar los planes que afectan al proyecto.</td>
+      <td>
+        []()<br/><br/>
+        []()<br/><br/>
+        []()
+      </td>
+      <td>
+        []()<br/><br/>
+        []()<br/><br/>
+        []()
+      </td>
+      <td>
+        []()<br/><br/>
+        []()<br/><br/>
+        []()
+      </td>
+      <td>
+        []()<br/><br/>
+        []()<br/><br/>
+        []()
+      </td>
+      <td>
+        []()<br/><br/>
+        []()<br/><br/>
+        []()
+      </td>
+      <td>
+        []()<br/><br/>
+        []()<br/><br/>
+        []()
+      </td>
+    </tr>
+    <tr>
+      <td>PP SP 3.2</td>
+      <td>Conciliar los niveles de trabajo y de recursos.</td>
+      <td>
+        []()<br/><br/>
+        []()<br/><br/>
+        []()
+      </td>
+      <td>
+        []()<br/><br/>
+        []()<br/><br/>
+        []()
+      </td>
+      <td>
+        []()<br/><br/>
+        []()<br/><br/>
+        []()
+      </td>
+      <td>
+        []()<br/><br/>
+        []()<br/><br/>
+        []()
+      </td>
+      <td>
+        []()<br/><br/>
+        []()<br/><br/>
+        []()
+      </td>
+      <td>
+        []()<br/><br/>
+        []()<br/><br/>
+        []()
+      </td>
+    </tr>
+    <tr>
+      <td>PP SP 3.3</td>
+      <td>Obtener el compromiso con el plan.</td>
+      <td>
+        []()<br/><br/>
+        []()<br/><br/>
+        []()
+      </td>
+      <td>
+        []()<br/><br/>
+        []()<br/><br/>
+        []()
+      </td>
+      <td>
+        []()<br/><br/>
+        []()<br/><br/>
+        []()
+      </td>
+      <td>
+        []()<br/><br/>
+        []()<br/><br/>
+        []()
+      </td>
+      <td>
+        []()<br/><br/>
+        []()<br/><br/>
+        []()
+      </td>
+      <td>
+        []()<br/><br/>
+        []()<br/><br/>
+        []()
+      </td>
     </tr>
   </tbody>
 </table>
