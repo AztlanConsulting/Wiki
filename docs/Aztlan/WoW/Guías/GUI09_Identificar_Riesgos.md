@@ -96,7 +96,7 @@ Si la multiplicación es mayor a 60 de magnitud se debe hacer plan de contigenci
 
 ## Recursos adicionales
 
-- **Presentación de profes** – [Link del recurso](https://docs.google.com/presentation/d/1OP84fzOxRnP73p1dNPN07R50teAGS1XHPBug4Fko7s8/edit?slide=id.g3c0d82a8e31_0_873&pli=1#slide=id.g3c0d82a8e31_0_873)
+- **Presentación de riesgos** – [Link del recurso](https://docs.google.com/presentation/d/1OP84fzOxRnP73p1dNPN07R50teAGS1XHPBug4Fko7s8/edit?slide=id.g3c0d82a8e31_0_873&pli=1#slide=id.g3c0d82a8e31_0_873)
 - **NIST-30** – [Link del recurso](https://www.pmg-ssi.com/2021/08/metodologia-nist-sp-800-30-para-el-analisis-de-riesgos-en-sgsi/)
 
 ## Control de versiones
