@@ -50,11 +50,17 @@ Evaluar el impacto del riesgo solo cuando aplique, usando el modelo CIA:
 ### Paso 4:
 Para riesgos de Nivel 4 (software / seguridad), desglosar el riesgo usando STRIDE:
 	- S – Spoofing (Suplantación de identidad)
+        - Ejemplo: Correos falsos de suplantación de identidad.
 	- T – Tampering (Manipulación de datos)
+        - Manipular el jwt para intentar cambiar permisos.
 	- R – Repudiation (Negación de acciones)
+        - Hacer una acción como borrar una cuenta y negar haberlo hecho.
 	- I – Information Disclosure (Divulgación de información)
+        - Exponer credenciales de los usuarios en respuesta a petición http.
 	- D – Denial of Service (Denegación de servicio)
+        - Ataque de multiple request para saturar el servidor.
 	- E – Elevation of Privilege (Escalación de privilegios)
+        - Un usuario accede a rutas de admin.
 
 Se marca los que aplican al riesgo.
 

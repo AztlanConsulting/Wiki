@@ -43,8 +43,6 @@ Marcar los campos correspondientes:
 - **I (Integridad)**
 - **A (Disponibilidad)**
 
-> Se llena únicamente cuando el riesgo afecta información o servicios.
-
 ---
 
 #### 3.2 Modelo STRIDE (solo Nivel 4)
@@ -58,7 +56,6 @@ Marcar los tipos de amenaza que aplican:
 - **D – Denial of Service**
 - **E – Elevation of Privilege**
 
-> Solo se completa para riesgos de Nivel 4.
 
 ---
 
