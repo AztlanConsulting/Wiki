@@ -52,7 +52,7 @@ El equipo recopila y analiza las necesidades del cliente y stakeholders para ase
 
 ---
 
-### 2. Preparar los requisitos para compromiso [REQM PP 1.2]
+### 2. Preparar los requisitos para compromiso [REQM PP 1.1, 1.2]
 
 Antes de implementar un requisito, se debe evaluar su viabilidad y alineación con la capacidad del equipo.
 
