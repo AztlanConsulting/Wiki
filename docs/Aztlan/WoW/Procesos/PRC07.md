@@ -189,7 +189,7 @@ Si el alcance original no se pudo cumplir en el tiempo esperado, se debe negocia
 - Exponer al socio formador el motivo del cambio.
 - Priorizar los cambios.
 - Negociar los ajustes necesarios.
-- En caso de que la negociación provoque un cambio, ajustar el PVG para reflejar este cambio. Si ocurre un cambio relacionado con los requisitos consultar el [PRC03 - Manejo de Cambios en Requisitos](./PRC08.md)
+- En caso de que la negociación provoque un cambio, ajustar el PVG para reflejar este cambio. Si ocurre un cambio relacionado con los requisitos consultar el [PRC03 - Manejo de Cambios en Requisitos](./PRC03.md)
 
 ---
 
