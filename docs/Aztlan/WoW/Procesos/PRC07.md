@@ -74,7 +74,7 @@ Identificar las habilidades requeridas por el proyecto contra las disponibles en
 
 #### Actividades
 
-- Identificar las habilidades técnicas requeridas según el proyecto.
+- Identificar las habilidades técnicas requeridas según el proyecto identificadas en el SRS.
     - [Stack recomendado](https://drive.google.com/file/d/1QLuE3w2M5cw8fnxKyAj_R0WjcVRU65g8/view?usp=sharing)
 - Analizar las habilidades técnicas que presenta el equipo.
 - Plasmar las habilidades del equipo en la base de skills.
@@ -93,31 +93,75 @@ Detectar amenazas, evaluar su impacto y definir estategías claras para mitigar 
 
 #### Actividades
 
-- Identificar riesgos y categorizarlos siguiendo las normas que menciona DA.
+- Identificar riesgos del proyecto.
     - [GUI09 - ¿Cómo identificar y categorizar riesgos?](../Guías/GUI09_Identificar_Riesgos.md)
-- Definir la prioridad y criticidad.
-- Redactar un plan de mitigación y un plan de contingencia, este último solo si es necesario.
-- Llenar la matriz de riesgos por proyecto.
-    - [GUI08 - ¿Cómo llenar la matriz de riesgos?](../Guías/GUI08_Llenar_Matriz_de_Riesgos.md)
-    - [Plantilla de matriz de riesgos](https://docs.google.com/spreadsheets/d/1kg_PnTUw6GnHll7XnYxqXmGK9umSope4nmvp1Qzt5Nc/edit?usp=sharing)
-- Monitorear el riesgo estableciendo un periodo para hacerlo y asignando a un responsable.
+
+#### Si el riesgo no ha sido clasificado e identificado ya:
+
+- Clasificar los riesgos en niveles:
+    - Nivel 1: Empresarial.
+    - Nivel 2: Procesos.
+    - Nivel 3: Arquitectura.
+    - Nivel 4: Software.
+
+- Evaluar cada riesgo mediante:
+    - Probabilidad
+    - Impacto
+    - Magnitud (Probabilidad × Impacto)
+    - Aplicar análisis adicional según corresponda:
+    - Modelo CIA (cuando el riesgo afecte información o servicios)
+    - Modelo STRIDE (solo para riesgos de Nivel 4)
+- Definir acciones:
+    - Plan de mitigación (obligatorio)
+	- Plan de contingencia (obligatorio si la magnitud ≥ 60)
+- Asignar un responsable al riesgo quien lo va a estar monitoreando durante el lapso escogido por los miembros del equipo.
+
+- Registrar el riesgo en la matriz de riesgos del equipo.
+    - [Plantilla de matriz de riesgos](https://docs.google.com/spreadsheets/d/1kg_PnTUw6GnHll7XnYxqXmGK9umSope4nmvp1Qzt5Nc/edit?gid=414176969#gid=414176969)
+    - [Guía 08 para llenar la matriz de riesgos](../Guías/GUI08_Llenar_Matriz_de_Riesgos.md)
+
 - Agregar las actividades identificadas en el PVG, siguiendo el [PRC06 - Definir y estimar el alcance del proyecto](./PRC06.md) .
 
 ---
 
 ### 5. Planificar el manejo de los datos del proyecto [PP SP 2.3]
 
-Establecer cómo recopilar, almacenar y proteger los datos del proyecto dependiendo de su sensibilidad.
+Establecer cómo se recopilan, almacenan y protegen los datos del proyecto de acuerdo con su nivel de sensibilidad.
+
+---
 
 #### Actividades
 
-- Identificar los datos almacenados con el SRS.
-- Categorizar el nivel de sensibilidad para cada dato.
-- Definir las medidas de seguridad.
-- Actualizar el plan de datos en cada modificación a los requisitos de información.
-    - [Plantilla del plan de datos](https://docs.google.com/document/d/1w_4ONzbpQEPamMEOWhddCDMD1ZP8oKmpW9PfsBlkZfw/edit?usp=sharing)
-- Agregar las actividades identificadas en el PVG, siguiendo el [PRC06 - Definir y estimar el alcance del proyecto](./PRC06.md) .
+- Identificar los datos del proyecto a partir de artefactos como el SRS.
 
+- Categorizar el nivel de sensibilidad para cada dato:
+  - **Privado:** Datos sensibles del stakeholder (ej. datos biométricos, credenciales)
+  - **Interno:** Datos usados dentro de la organización (ej. documentación, configuraciones)
+  - **Público:** Datos de libre acceso (ej. nombre)
+
+- Definir el manejo de los datos a lo largo de su ciclo de vida:
+  - **Recopilación:** Se obtienen los datos del stakeholder o fuentes externas.
+  - **Almacenamiento:** Se guardan en bases de datos o sistemas definidos.
+  - **Procesamiento:** Se utilizan para cumplir funcionalidades del sistema.
+  - **Compartición:** Se comparten con usuarios o sistemas autorizados.
+  - **Eliminación:** Se eliminan cuando dejan de ser necesarios o por políticas definidas.
+
+- Definir las medidas de seguridad según el nivel de sensibilidad:
+
+| Nivel de sensibilidad | Medidas de seguridad recomendadas |
+|----------------------|----------------------------------|
+| **Privado** | Encriptación de datos, hasheado de contraseñas, control de acceso estricto, auditoría de accesos |
+| **Interno** | Control de acceso, respaldos periódicos, restricciones por rol |
+| **Público** | Validación básica de datos, control de integridad |
+
+- Definir un responsable del manejo de los datos.
+
+- Actualizar el plan de datos ante cada modificación a los requisitos de información:
+  - [Plantilla del plan de datos](https://docs.google.com/document/d/1w_4ONzbpQEPamMEOWhddCDMD1ZP8oKmpW9PfsBlkZfw/edit?usp=sharing)
+
+- Integrar las actividades derivadas en el PVG, siguiendo:
+  - [PRC06 - Definir y estimar el alcance del proyecto](./PRC06.md)
+  
 ---
 
 ### 6. Involucrar a los stakeholders [PP SP 2.6]
@@ -139,11 +183,11 @@ Identificar a las partes interesadas y definir una estrategia para mantenerlos c
 
 ### 7. Consolidar y establecer el plan del proyecto [PP SP 2.7]
 
-Unificar todos los planes auxiliares en un único documento.
+Unificar todos los planes auxiliares en un único espacio.
 
 #### Actividades
 
-- Recopilar el plan de recursos, matriz de riesgos, base de skills, plan de datos, plan de comunicación y plan de valor ganado.
+- Tomar en cuenta las actividades del plan de recursos, matriz de riesgos, base de skills, plan de datos, plan de comunicación y plan de valor ganado.
 - Agregar las actividades identificadas en el PVG, siguiendo el [PRC06 - Definir y estimar el alcance del proyecto](./PRC06.md).
 - Identificar fechas relevantes al proyecto, como prueba de arquitectura, entrega de MVP y MBIs.
 - Diseñar un plan de entregas con base en las fechas del PVG.
@@ -157,8 +201,9 @@ Presentar y evaluar los planes para identificar conflictos, riesgos o discrepanc
 
 #### Actividades
 
-- Preparar los planes auxiliares para su revisión.
+- Preparar los planes auxiliares (el plan de recursos, matriz de riesgos, base de skills, plan de datos, plan de comunicación y plan de valor ganado) para su revisión.
 - Revisar los planes en equipo para saber si están alineados con el objetivo.
+    - Recomendación: Se puede revisar durante el sprint planning o sprint retrospective.
 - Llevar una minuta de la sesión.
     - [Plantilla de minutas](https://docs.google.com/document/d/17hcieLfLxW1UDGGcC6GaSedEJLbDR9n_mNARWQ0G_xk/edit?usp=sharing)
 
