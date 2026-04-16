@@ -28,6 +28,7 @@ https://drive.google.com/file/d/1OYte2X37kI5-hkOIchhOD03XaP_ndZ0y/view?usp=drive
 ---
 ## Plantillas / Registros asociados
 
+- [Plantilla de registro de inconsistencias (Defect Log)](https://docs.google.com/spreadsheets/d/1_2YngOnj-QUZhHwwklvRyDOQ2DP4rZKt3DlteP2S-k8/edit?usp=drive_link)
 
 ---
 
