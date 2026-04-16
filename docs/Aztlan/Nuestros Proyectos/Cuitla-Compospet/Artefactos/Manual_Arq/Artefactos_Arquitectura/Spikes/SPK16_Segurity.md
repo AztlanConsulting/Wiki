@@ -1,0 +1,104 @@
+---
+title: "SPK16 - Seguridad (Auditoría de movimientos en el servidor)"
+sidebar_position: 16
+---
+
+**Duración:** 1 día  
+**Funcionalidad:** Implementación de seguridad para tener auditoría de movimientos en el servidor mediante auditd
+
+## Beneficios
+
+- Permite registrar qué usuarios acceden al servidor y qué acciones realizan.  
+- Proporciona trazabilidad de los comandos ejecutados.  
+- Facilita la detección de errores o actividades sospechosas.  
+- Mejora la seguridad del servidor al tener evidencia de acciones.  
+- Permite filtrar información por usuario, fecha o tipo de evento.  
+
+## Desventajas
+
+- Genera una gran cantidad de logs si no se configura correctamente.  
+- Requiere configuración inicial para definir qué se quiere auditar.  
+- Puede tener un impacto mínimo en el rendimiento.  
+- Los logs pueden ser difíciles de interpretar al inicio.  
+
+## Facilidad de aprendizaje
+
+**Fácil a Media**
+
+- Instalación sencilla.  
+- Requiere conocimientos básicos de Linux para configurarlo correctamente.  
+
+## Recursos
+
+- auditd (Linux Audit System)  
+- Comandos principales:
+  - `auditctl`
+  - `ausearch`
+  - `aureport`
+- Logs:
+  - `/var/log/audit/audit.log`
+
+## Tutorial básico
+
+### 1. Instalación
+
+```bash
+sudo apt update
+sudo apt install auditd audispd-plugins -y
+```
+
+### 2. 2. Activar el servicio
+
+```bash
+sudo systemctl enable auditd
+sudo systemctl start auditd
+```
+
+### 3. Configurar auditoría de comandos por usuario
+
+```bash
+sudo auditctl -a always,exit -F arch=b64 -S execve -F 'auid>=1000' -F 'auid!=4294967295' -k user_cmd
+sudo auditctl -a always,exit -F arch=b32 -S execve -F 'auid>=1000' -F 'auid!=4294967295' -k user_cmd
+```
+Esto permite registrar todos los comandos ejecutados por usuarios reales del sistema.
+
+### 4. Consultar logs
+Ver todos los comandos ejecutados:
+```bash
+sudo ausearch -k user_cmd
+```
+Filtrar por usuario:
+```bash
+sudo ausearch -k user_cmd -ua nombre_usuario
+```
+Filtrar por fecha:
+```bash
+    sudo ausearch -k user_cmd -ts today
+```
+### 5. Ubicación de logs
+```bash
+/var/log/audit/audit.log
+```
+
+### 6. Hacer reglas persistentes
+Crear archivo:
+```bash
+sudo nano /etc/audit/rules.d/user-commands.rules
+```
+Agregar el siguiente comando para registrar todos los comandos que ejecutan los usuarios en el servidor:
+``` bash
+-a always,exit -F arch=b64 -S execve -F 'auid>=1000' -F 'auid!=4294967295' -k user_cmd
+-a always,exit -F arch=b32 -S execve -F 'auid>=1000' -F 'auid!=4294967295' -k user_cmd
+```
+
+Reiniciar servicio de auditd:
+```bash
+sudo systemctl restart auditd
+```
+
+
+### Control de versiones
+
+| Version | Creado por: | Auditado por: | Descripción | Fecha |
+|---------|------------|--------------|---------------|-------|
+| 1.0     | Alejandra Arredondo | Yessica Lora Vázquez | Spike Seguridad del servidor  | 31/03/2026 |

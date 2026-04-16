@@ -1,6 +1,6 @@
 ---
 title: "PRC01 - Proceso para hacer políticas" # CAMBIAR AL TITULO
-sidebar_position: 1
+sidebar_position: 0
 ---
 
 _v1.0 /_ <!--Poner practicas del CMMI-->

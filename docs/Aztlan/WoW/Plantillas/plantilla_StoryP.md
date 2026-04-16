@@ -10,7 +10,9 @@ Asignar un tiempo acordado a los story points para poder estimar las tareas más
 
 ## Story Points a Tiempo
 
-| Story Points | Tiempo estimado | Descripción |
+Nota: La columna descripción no es necesaria incluirla en la plantilla, pero sirve para decidir la medida de Story Points
+
+| Story Points | Horas | Descripción |
 |--------------|--------------|--------------|
 | - |  -  |Tarea pequeña de complejidad baja. <br/> Sin dependencias. <br/> Se tienen los conocimientos técnicos necesarios.|
 | - |  -  |Tarea de complejidad media-baja. <br/> Se necesita poca investigación técnica.|  
@@ -24,3 +26,4 @@ Asignar un tiempo acordado a los story points para poder estimar las tareas más
 |---------|------------|--------------|---------------|-------|
 | 1.0     | Luisa Fernanda Valdez Guillen  | Juan Manuel Murillo  | Plantilla para story points  | 27/02/2026 |
 | 1.1     | Luisa Fernanda Valdez Guillen  | Juan Manuel Murillo | Actualización de pasos  | 09/03/2026 |
+| 1.2     | Yael Charles  | Fátima Figueroa | Cambiar la segunda columna a "horas" para hacer más claro que representa  | 06/04/2026 |
