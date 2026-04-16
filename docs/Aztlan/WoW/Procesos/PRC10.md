@@ -1,5 +1,5 @@
 ---
-title: "PRC09 - Process and Product Quality Assurance"
+title: "PRC10 Process and Product Quality Assurance"
 ---
 
 _v1.0 / PPQA_
@@ -65,7 +65,7 @@ Evaluación de los procesos y productos de trabajo, ver problemas encontrados co
 
 - Revisar las actividades relacionadas resueltas por los miembros del equipo
 - Generar un reporte de evaluación
-  - [Plantilla del reporte](../Plantillas/)
+  - [Plantilla del reporte](../Plantillas/PLA23_ReporteEvaluacion.md)
 - Usar la checklist del equipo para la evaluación del producto de trabajo
 
 ---
