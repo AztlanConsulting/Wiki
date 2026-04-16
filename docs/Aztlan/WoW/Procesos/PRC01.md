@@ -108,13 +108,17 @@ Se debe asegurar que cada requisito esté vinculado a sus productos de trabajo r
 
 ### 6. Identificar inconsistencias [REQM 1.5]
 
-Se debe verificar periódicamente la consistencia entre los requisitos y los productos de trabajo.
+Se debe verificar de manera estructurada y periódica que los productos de trabajo (diagramas, wireframes, código, casos de prueba) mantengan total consistencia e integridad respecto a las Historias de Usuario (HU) y requisitos a lo largo de todas las fases.
 
 #### Actividades
 
-- Revisar consistencia entre requisitos y artefactos.
-- Registrar inconsistencias detectadas.
-    - [Plantilla de registro de inconsistencias](https://docs.google.com/spreadsheets/d/1yY1daMZ_oXeu3huJ-2UJ9qUKr4hWooPbJ5toUc0xc0U/edit?gid=0#gid=0)
+- Definir el momento de la revisión
+- Validar consistencia entre requisitos y artefactos.
+- Registrar inconsistencias detectadas en el Defect Log. 
+    - [Plantilla de registro de inconsistencias (Defect Log)](https://docs.google.com/spreadsheets/d/1_2YngOnj-QUZhHwwklvRyDOQ2DP4rZKt3DlteP2S-k8/edit?usp=drive_link)
+
+    - [GUI22 - ¿Cómo usar el defect log?](docs\Aztlan\WoW\Guías\GUI21.md)
+
 - Iniciar una solicitud de cambio cuando sea necesario.
 
 ---
