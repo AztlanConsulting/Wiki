@@ -1,8 +1,8 @@
 ---
-title: "PRCXX - Nombre del Proceso"
+title: "PRC11 - Realizar inspecciones"
 ---
 
-_vX.X / Área(s) del CMMI_
+_vX.X / PPQA_
 
 ## Terminología
 
@@ -36,7 +36,7 @@ Describir el objetivo del proceso y qué beneficio da.
 
 ## Actividades
 
-### 1. Nombre de la actividad [Área de proceso y práctica(s) asociada(s)]
+### 1. Preparar artefacto a inspeccionar [Área de proceso y práctica(s) asociada(s)]
 
 Descripción general de la actividad.
 
@@ -46,6 +46,8 @@ Descripción general de la actividad.
     - Guía o plantilla (en caso de ser necesario)
 - Actividad específica
 - Actividad específica
+
+- Realizar una copia de la plantilla de inspección
 
 ---
 
