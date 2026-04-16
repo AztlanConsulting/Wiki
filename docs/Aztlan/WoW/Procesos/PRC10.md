@@ -9,9 +9,8 @@ _v1.0 / Área(s) del CMMI: [CM](../Glosario.md#áreas-del-cmmi)_
 
 ## Documentos relacionados
 - [PLA10 - Política de Gestión de la Configuración](../Politicas/PLA10.md)
-- [MAT01 - Matriz de Configuración](../Plantillas/MAT01.md)
 - [Matriz de configuración - Google Sheet](https://docs.google.com/spreadsheets/d/1IMX2BoLu8kWLdGDLpVG24cqgjZhmaDwYwXS06NG_oJk/edit?gid=0#gid=0)
-- [GUI22 - Convención de Versionado y Releases](../Guías/GUI22_Convencion_de_Versionado_y_Releases.md)
+- [GUI24 - Convención de Versionado y Releases](../Guías/GUI24.md)
 
 ---
 
@@ -98,7 +97,7 @@ Se debe establecer el mecanismo formal mediante el cual se gestionan, documentan
 - Todo cambio en código o documentación debe hacerse vía **Pull Request (PR)**.
 - El PR debe usar la **Plantilla Departamental** y referenciar el ID del requisito, issue o CI relacionado.
 - Los commits deben seguir el estándar: `[TAG] Descripción` (Ej: `[FIX] Corregido error en login`).
-- Toda solicitud de cambio aprobada deberá reflejarse también en la [Matriz de Configuración](../Plantillas/MAT01.md), cuando impacte un CI controlado.
+- Toda solicitud de cambio aprobada deberá reflejarse también en la [Matriz de Configuración](https://docs.google.com/spreadsheets/d/1IMX2BoLu8kWLdGDLpVG24cqgjZhmaDwYwXS06NG_oJk/edit?gid=0#gid=0), cuando impacte un CI controlado.
 - Las modificaciones a la Wiki departamental también deberán gestionarse mediante PR en GitHub.
 - Cuando se requiera formalizar la petición antes de implementar el cambio, podrá abrirse un issue vinculado al PR.
 - La responsabilidad de autorizar cambios controlados recae en la figura del Revisor del Pull Request. Al aprobar y hacer el merge de un PR, esta persona asume temporalmente la responsabilidad de asegurar que el Elemento de Configuración cumple con los estándares definidos.
