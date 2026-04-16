@@ -37,24 +37,28 @@ Completar los siguientes campos:
 
 #### 3.1 Modelo CIA (si aplica)
 
-Marcar los campos correspondientes:
+- Específicar la cantidad de letras que aplica.
 
-- **C (Confidencialidad)**
-- **I (Integridad)**
-- **A (Disponibilidad)**
+Marcar las letras que aplican:
+
+    - **C (Confidencialidad)**
+    - **I (Integridad)**
+    - **A (Disponibilidad)**
 
 ---
 
 #### 3.2 Modelo STRIDE (solo Nivel 4)
 
+- Específicar la cantidad de letras que aplica.
+
 Marcar los tipos de amenaza que aplican:
 
-- **S – Spoofing**
-- **T – Tampering**
-- **R – Repudiation**
-- **I – Information Disclosure**
-- **D – Denial of Service**
-- **E – Elevation of Privilege**
+    - **S – Spoofing**
+    - **T – Tampering**
+    - **R – Repudiation**
+    - **I – Information Disclosure**
+    - **D – Denial of Service**
+    - **E – Elevation of Privilege**
 
 
 ---
@@ -62,6 +66,7 @@ Marcar los tipos de amenaza que aplican:
 ### Paso 4: Evaluación del riesgo
 
 1. **Probabilidad (1–10)**
+    - Para la probabilidad se calcula contando el número de letras marcadas de **CIA** y el número de letras marcadas de **STRIDE**, se suman y se multiplican por 100. Después se dividen por el número de las letras que aplican. Se divide entre 10 para dejarlo en el rango de 1 a 10. Es normal que salga "DIV/0 en los campos que no tiene nada.
 2. **Impacto (1–10)**
 3. **Magnitud = Probabilidad × Impacto**
 
