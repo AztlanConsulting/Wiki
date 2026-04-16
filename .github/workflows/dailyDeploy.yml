@@ -1,0 +1,14 @@
+name: Daily deploy
+
+on:
+  schedule:
+    - cron: '0 6 * * *'  # Diariamente a las 00:00 CDMX
+
+permissions:
+  pages: write
+  id-token: write
+  contents: read
+
+jobs:
+  deploy:
+    uses: ./.github/workflows/deploy.yml
