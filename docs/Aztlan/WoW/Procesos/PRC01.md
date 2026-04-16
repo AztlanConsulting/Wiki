@@ -150,12 +150,13 @@ Se debe asegurar que cada requisito esté vinculado a sus productos de trabajo r
 
 ### 6. Identificar inconsistencias
 
-Se debe verificar periódicamente la consistencia entre los requisitos y los productos de trabajo.
+Se debe verificar de manera estructurada y periódica que los productos de trabajo (diagramas, wireframes, código, casos de prueba) mantengan total consistencia e integridad respecto a las Historias de Usuario (HU) y requisitos a lo largo de todas las fases..
 
 #### Actividades
-
-- Revisar consistencia entre requisitos y artefactos.
-- Registrar inconsistencias detectadas.
+- Definir el momento de la revisión
+- Validar consistencia entre requisitos y artefactos.
+- Registrar inconsistencias detectadas en el Defect Log.
+- 
 - Iniciar una solicitud de cambio cuando sea necesario.
 
 #### Evidencia generada
@@ -165,8 +166,8 @@ Se debe verificar periódicamente la consistencia entre los requisitos y los pro
 
 #### Guías / Plantillas asociadas
 
-- Plantilla de registro de inconsistencias [LINK].
-- Guía para revisión de consistencia [LINK].
+- Plantilla de registro de inconsistencias (Defect Log) [LINK](https://docs.google.com/spreadsheets/d/1_2YngOnj-QUZhHwwklvRyDOQ2DP4rZKt3DlteP2S-k8/edit?usp=drive_link).
+- GUI21 - ¿Cómo usar el defect log? [LINK](docs\Aztlan\WoW\Guías\GUI21.md).
 
 ---
 
