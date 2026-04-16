@@ -1,6 +1,6 @@
 ---
 title: Plan de compromisos
-sidebar_position: 12
+sidebar_position: 11
 ---
 
 _v1.0_

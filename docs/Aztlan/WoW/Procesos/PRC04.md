@@ -171,5 +171,5 @@ Debe ejecutarse cuando:
 
 | Version | Creado por: | Auditado por: | Descripción | Fecha |
 |---------|------------|--------------|---------------|-------|
-| 2.0     | Fatima Figueroa |  |  Cambio de Reestructuración y actualización de PRC01, PRC02, PRC03, PRC04 | 04/04/2026 |
-| 2.1     | Fatima Figueroa |  |  Actualización de formato | 15/04/2026 |
+| 2.0     | Fatima Figueroa | Yael Charles |  Cambio de Reestructuración y actualización de PRC01, PRC02, PRC03, PRC04 | 04/04/2026 |
+| 2.1     | Fatima Figueroa | Yael Charles |  Actualización de formato | 15/04/2026 |

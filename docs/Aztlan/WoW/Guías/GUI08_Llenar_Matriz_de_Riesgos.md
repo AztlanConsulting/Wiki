@@ -6,44 +6,135 @@ sidebar_position: 8
 # GUI08 - Guía para llenar la matriz de riesgos
 
 ## Propósito
-Llenar o actualizar correctamente la matriz de riesgos. 
+Documentar y actualizar correctamente los riesgos en la matriz, asegurando consistencia en su registro, evaluación y seguimiento.
 
 ---
 
 ## Desarrollo
 
-### Paso 1: Verificar que el riesgo no esté documentado previamente. 
-1. Revisar la matriz de riesgos para confirmar que el riesgo identificado no haya sido registrado con anterioridad.
-2. En caso de que ya exista, incrementar en uno el contador de frecuencia correspondiente en lugar de crear un nuevo registro.
+### Paso 1: Verificar duplicidad
+1. Revisar la matriz de riesgos para confirmar que el riesgo no haya sido registrado previamente.
+2. Si ya existe, actualizar su información (ej. probabilidad, impacto, fechas) en lugar de crear uno nuevo.
+
+---
+
+### Paso 2: Registrar información general del riesgo
+
+Completar los siguientes campos:
+
+1. **ID del riesgo**
+2. **Nombre del riesgo**
+3. **Consecuencia**
+4. **Categoría (Nivel NIST):**
+   - Nivel 1: Empresarial  
+   - Nivel 2: Proceso  
+   - Nivel 3: Sistema / Arquitectura  
+   - Nivel 4: Software / Seguridad  
+
+---
+
+### Paso 3: Análisis de seguridad (si aplica)
+
+#### 3.1 Modelo CIA (si aplica)
+
+- Específicar la cantidad de letras que aplica.
+
+Marcar las letras que aplican:
+
+    - **C (Confidencialidad)**
+    - **I (Integridad)**
+    - **A (Disponibilidad)**
+
+---
+
+#### 3.2 Modelo STRIDE (solo Nivel 4)
+
+- Específicar la cantidad de letras que aplica.
+
+Marcar los tipos de amenaza que aplican:
+
+    - **S – Spoofing**
+    - **T – Tampering**
+    - **R – Repudiation**
+    - **I – Information Disclosure**
+    - **D – Denial of Service**
+    - **E – Elevation of Privilege**
 
 
-### Paso 2: Documentar el riesgo.
-1. Establecer el ID del riesgo.
-2. Redactar una breve descripción del riesgo.
-3. Seleccionar cómo abarcar el riesgo. 
-4. Categorizar los riesgos identificados.
-5. Establecer la frecuencia; si el riesgo es nuevo, establecer la frecuencia en uno.
-7. Identificar si la causa del riesgo ya está registrada en el listado de causalidades; si no lo está, agregarla al listado.
-8. Elaborar el documento del plan de mitigación en caso de que aún no esté creado. En este documento se deberán definir los pasos a seguir para mitigar el riesgo. Agregar el link a dicho documento en el apartado de “Plan de Mitigación”. 
-9. Elaborar el documento del plan de contingencia en caso de que aún no esté creado. En este documento se deberán definir los pasos a seguir para contener el riesgo. Agregar el link a dicho documento en el apartado de “Plan de Contingencia”. 
-10. Establecer la probabilidad de ocurrencia en una escala del 1 al 10.
-11. Establecer el impacto del riesgo en una escala del 1 al 10.
-12. Calcular la magnitud del riesgo multiplicando la probabilidad por el impacto.
-13. Una vez que ya se tiene la magnitud, se prioriza la tabla donde la magnitud mayor va a ir hasta arriba y se ordena de forma descendente.
-14. Si el valor de la magnitud es mayor o igual a 60, se tiene que integrar dentro del plan del proyecto definido para mitigarlo.
+---
 
+### Paso 4: Evaluación del riesgo
+
+1. **Probabilidad (1–10)**
+    - Para la probabilidad se calcula contando el número de letras marcadas de **CIA** y el número de letras marcadas de **STRIDE**, se suman y se multiplican por 100. Después se dividen por el número de las letras que aplican. Se divide entre 10 para dejarlo en el rango de 1 a 10. Es normal que salga "DIV/0 en los campos que no tiene nada.
+2. **Impacto (1–10)**
+3. **Magnitud = Probabilidad × Impacto**
+
+---
+
+### Paso 5: Planes de acción
+
+1. **Plan de mitigación (obligatorio):**
+   - Crear o vincular el documento correspondiente
+
+2. **Plan de contingencia:**
+   - Obligatorio si la magnitud ≥ 60
+   - Opcional en otros casos
+
+---
+
+### Paso 6: Asignación y seguimiento
+
+1. **Responsable del riesgo**
+2. **Fecha de registro**
+3. **Fecha de revisión**
+
+> El responsable debe monitorear el riesgo periódicamente.
+
+---
+
+### Paso 7: Priorización
+
+1. Ordenar la matriz de forma descendente según la **magnitud del riesgo**.
+2. Los riesgos con mayor magnitud deben atenderse primero.
+
+---
+
+### Paso 8: Control histórico (si aplica)
+
+Registrar cambios relevantes del riesgo:
+
+- Fecha
+- Magnitud original
+- ID del riesgo
+
+> Esto permite dar seguimiento a la evolución del riesgo.
+
+---
+
+## Notas importantes
+
+- No duplicar riesgos en la matriz
+- Asegurar que todos los riesgos tengan:
+  - Nivel definido
+  - Probabilidad e impacto
+  - Responsable asignado
+- Aplicar correctamente:
+  - CIA → solo si aplica
+  - STRIDE → solo Nivel 4
 
 ---
 
 ## Recursos adicionales
 
-- **Guía de DA** – [Link del recurso](https://dab.pmi.org/#item:549)
-- **Plantilla de la matriz de riesgos** – [Link del recurso](https://docs.google.com/spreadsheets/d/1kg_PnTUw6GnHll7XnYxqXmGK9umSope4nmvp1Qzt5Nc/edit?usp=sharing)
-<!-- - Así se importa una imagen -->
-<!-- - **Nombre del recurso** – ![Imagen del recurso](ruta-o-url-de-la-imagen) -->
+- **GUI09 - Identificación de riesgos** – [Link](../Guías/GUI09_Identificar_Riesgos.md)
+- **Plantilla de matriz de riesgos** – [Link](https://docs.google.com/spreadsheets/d/1kg_PnTUw6GnHll7XnYxqXmGK9umSope4nmvp1Qzt5Nc/edit?usp=sharing)
+
+---
 
 ## Control de versiones
 
-| Version | Creado por: | Auditado por: | Descripción | Fecha |
-|---------|------------|--------------|---------------|-------|
-| 1.0     | Manuel Bajos Rivera, Alejandra | Juan Manuel Murillo | Plantilla inicial para guías.  | 02/03/2026 |
+| Version | Creado por | Auditado por | Descripción | Fecha |
+|--------|-----------|-------------|------------|------|
+| 1.0 | Manuel Bajos Rivera, Alejandra | Juan Manuel Murillo | Versión inicial | 02/03/2026 |
+| 2.0 | Manuel Bajos Rivera, Alejandra | Pendiente | Alineación con CIA, STRIDE y niveles NIST | 14/04/2026 |

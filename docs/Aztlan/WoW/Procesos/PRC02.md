@@ -83,7 +83,7 @@ Si el requisito afecta compromisos existentes o excede la capacidad disponible, 
 
 ---
 
-### 4. Formalizar el compromiso [REQM PP 1.2]
+### 4. Formalizar el compromiso [REQM 1.2]
 
 El equipo confirma formalmente su compromiso para implementar el requisito.
 
@@ -120,5 +120,5 @@ Este proceso interactúa con:
 
 | Version | Creado por: | Auditado por: | Descripción | Fecha |
 |---------|------------|--------------|---------------|-------|
-| 2.0     | Fatima Figueroa |  |  Cambio de formato y actualización de PRC17 | 04/04/2026 |
-| 2.1     | Fatima Figueroa |  |  Actualización de formato | 15/04/2026 |
+| 2.0     | Fatima Figueroa | Yael Charles |  Cambio de formato y actualización de PRC17 | 04/04/2026 |
+| 2.1     | Fatima Figueroa | Yael Charles |  Actualización de formato | 15/04/2026 |
