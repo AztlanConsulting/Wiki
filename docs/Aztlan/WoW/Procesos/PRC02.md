@@ -10,18 +10,6 @@ Asegurar que el equipo y el Product Owner acepten formalmente implementar los re
 
 ---
 
-## Área / Prácticas del CMMI
-
-Área de proceso:
-
-REQM — Gestión de Requisitos
-
-Prácticas específicas cubiertas:
-
-- REQM SP 1.2 — Obtener compromiso sobre los requisitos  
-
----
-
 ## Roles involucrados
 
 - Product Owner
@@ -53,17 +41,19 @@ El equipo revisa el requisito para asegurar que esté listo para ser evaluado pa
 - Verificar que el requisito (por ejemplo, Historia de Usuario) esté claramente definido.
 - Confirmar que cuenta con criterios de aceptación.
 - Validar que el requisito esté alineado con el alcance del proyecto.
-- Verificar que cumple con la Definición de Ready [LINK].
+- Verificar que cumple con la Definición de Ready.
+    <details>
+    <summary>Definición de Ready de los proyectos</summary>
 
-#### Evidencia generada
+    **Xólotl:** [Definición de Ready](https://docs.google.com/document/d/1aUp_aEt8Brbl4hBzX4htkx22cTn_omM3f3oPox9C2xE/edit?tab=t.0#heading=h.cxh5gryiw5ha)
 
-- Requisito revisado 
-- PVG actualizado (en caso de ser necesario)
+    **Ichan:** [Definición de Ready](https://docs.google.com/document/d/1YigM1ULQ2WP2nNX6UHSlCaimVlBM3STtDPfeNf5W1U0/edit?tab=t.a06qi1hokg4e)
 
-#### Guías / Plantillas asociadas
+    **Cuitla:** [Definición de Ready](https://docs.google.com/document/d/1zMmDlI-PBrVlylfnvHHa0fcPMwn4JKj44Rahtz5Z25Y/edit?tab=t.0#heading=h.67d0lq8w136a)
 
-- Definición de Ready [LINK].
-- Definición de Done [LINK].
+    **Huitlacuacles:** [Definición de Ready](https://docs.google.com/document/d/1jmwTxEYCs_zStUkJUmeKPSe3aN0P7a7hKly7FV_06n8/edit?tab=t.0#heading=h.67d0lq8w136a)
+
+    </details>
 
 ---
 
@@ -74,20 +64,10 @@ El equipo analiza si el requisito puede ser implementado considerando la capacid
 #### Actividades
 
 - Estimar el esfuerzo requerido para implementar el requisito (por ejemplo, Historia de Usuario).
+    - [Plantilla de estimación](../Plantillas/plantilla_StoryP.md)
 - Identificar dependencias técnicas o funcionales.
 - Revisar la capacidad disponible del equipo.
 - Determinar si el requisito es viable dentro del periodo planificado.
-
-#### Evidencia generada
-
-- Estimación del requisito
-- Registro de dependencias identificadas
-- Evaluación de capacidad del equipo
-- Decisión de viabilidad
-
-#### Guías / Plantillas asociadas
-
-- Plantilla de estimación [LINK]
 
 ---
 
@@ -101,33 +81,19 @@ Si el requisito afecta compromisos existentes o excede la capacidad disponible, 
 - Ajustar alcance o fechas cuando sea necesario.
 - Reprogramar el requisito si no puede implementarse en el periodo actual.
 
-#### Evidencia generada
-
-- Registro de negociación (minutas de reunión, acuerdos)
-- PVG actualizado
-- Plan del proyecto actualizado
-
 ---
 
-### 4. Formalizar el compromiso
+### 4. Formalizar el compromiso [REQM 1.2]
 
 El equipo confirma formalmente su compromiso para implementar el requisito.
 
 #### Actividades
 
 - Confirmar que el equipo acepta implementar el requisito.
+- Registrar el compromiso en un acta formal.
+    - [Plantilla de acta de compromiso](https://docs.google.com/document/d/1U3Xf4u492_j3Labn_bFUKl9OH12SOf43LL1bN_Lk6Vw/edit?tab=t.gzscx5xngxjb)
 - Registrar fecha comprometida.
 - Registrar el requisito (por ejemplo, Historia de Usuario) como comprometido en el PVG y plan del proyecto.
-
-#### Evidencia generada
-
-- Registro de compromiso
-- PVG actualizado
-- Plan del proyecto actualizado
-
-#### Guías / Plantillas asociadas
-
-- Plantilla de acta de compromiso [LINK]
 
 ---
 
@@ -137,9 +103,7 @@ Este proceso interactúa con:
 
 - PRC01 — Gestión de Requisitos
 - PRC03 — Manejo de cambios en requisitos
-- Proceso de planificación del proyecto (PP)
-- Proceso de gestión de riesgos
-- Proceso de aseguramiento de calidad (QA)
+- PRC06 - Definir y estimar el alcance del proyecto
 
 ---
 
@@ -156,4 +120,5 @@ Este proceso interactúa con:
 
 | Version | Creado por: | Auditado por: | Descripción | Fecha |
 |---------|------------|--------------|---------------|-------|
-| 2.0     | Fatima Figueroa |  |  Cambio de formato y actualización de PRC17 | 04/04/2026 |
+| 2.0     | Fatima Figueroa | Yael Charles |  Cambio de formato y actualización de PRC17 | 04/04/2026 |
+| 2.1     | Fatima Figueroa | Yael Charles |  Actualización de formato | 15/04/2026 |
