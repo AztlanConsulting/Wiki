@@ -109,6 +109,8 @@ Se verifica que los productos de trabajo actualizados sean consistentes con los 
 - Registrar inconsistencias detectadas.
     - [Plantilla de registro de inconsistencias](https://docs.google.com/spreadsheets/d/1yY1daMZ_oXeu3huJ-2UJ9qUKr4hWooPbJ5toUc0xc0U/edit?gid=0#gid=0)
 
+    - [GUI22 - ¿Cómo usar el defect log?](docs\Aztlan\WoW\Guías\GUI21.md)
+
 ---
 
 ## Relación con otros procesos
@@ -138,3 +140,4 @@ Este proceso interactúa con:
 |---------|------------|--------------|---------------|-------|
 | 2.0     | Fatima Figueroa | Yael Charles |  Cambio de formato y actualización de PRC18 | 04/04/2026 |
 | 2.1     | Fatima Figueroa | Yael Charles |  Actualización de formato | 15/04/2026 |
+| 2.2     | Elizabeth Orduña y Alejandro Cruz | Jorge Garzón, Fátima Figueroa | Agrega link a guía de artefacto | 16/04/2026 |

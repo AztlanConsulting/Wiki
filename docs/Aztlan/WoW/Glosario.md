@@ -54,6 +54,14 @@ Reunión individual entre una persona con responsabilidad de liderazgo y un miem
 
 ---
 
+### Checklist
+**Definición:**  
+Una checklist es una lista de verificación o chequeo. Su objetivo es garantizar que no se olvide revisar ningún aspecto importante, lo que permite reducir el error humano y facilitar la detección de fallos.
+
+Ejemplo: Al verificar que un producto cumple con la calidad esperada, se revisa, elemento por elemento, que este cumpla con todo lo estipulado en la lista de verificación.
+
+---
+
 ### Persona con responsabilidad de liderazgo
 **Definición:**  
 Persona que tiene la responsabilidad de coordinar, guiar o dar seguimiento al trabajo de otros miembros del equipo.
