@@ -85,7 +85,7 @@ Establecer y mantener planes que definan las actividades del proyecto.
         [PRC06](../Procesos/PRC06.md)
       </td>
       <td>
-        [Estrategía de desarrollo Cuitla](https://docs.google.com/document/d/1PoOLtvvigEFOjN5cPRgTm9IPhmUepv2hTL0bc0cRz4I/edit?tab=t.0#heading=h.82to2amu3d3e )
+        [Estrategía de desarrollo Cuitla](https://docs.google.com/document/d/1PoOLtvvigEFOjN5cPRgTm9IPhmUepv2hTL0bc0cRz4I/edit?tab=t.0#heading=h.82to2amu3d3e)
       </td>
       <td>
         [Estrategía de desarrollo Xolotl](https://docs.google.com/document/d/1IrLcLrhL_BlwbuCQSJwNfDiLMErx0dFlX-gS1IelSJM/edit?tab=t.0)
@@ -132,29 +132,23 @@ Establecer y mantener planes que definan las actividades del proyecto.
         [PRC05](../Procesos/PRC05.md)
       </td>
       <td>
-        []()<br/><br/>
-        []()<br/><br/>
-        []()
+        [PVG Cuitla](https://docs.google.com/spreadsheets/d/1PyHPAv7n_Ok2TyG7pxqiGVQXgGVu5A58DYE56uI0Wo4/edit?gid=484767565#gid=484767565)<br/><br/>
+        [Estrategía de desarrollo Cuitla](https://docs.google.com/document/d/1PoOLtvvigEFOjN5cPRgTm9IPhmUepv2hTL0bc0cRz4I/edit?tab=t.0#heading=h.82to2amu3d3e)
       </td>
       <td>
-        []()<br/><br/>
-        []()<br/><br/>
-        []()
+        [PVG Xolotl](https://docs.google.com/spreadsheets/d/1rQQRWQqWzgMJ_X6eNkf-8GB7miFwvbvKIsUrwZWUeDo/edit?usp=sharing)<br/><br/>
+        [Estrategía de desarrollo Xolotl](https://docs.google.com/document/d/1IrLcLrhL_BlwbuCQSJwNfDiLMErx0dFlX-gS1IelSJM/edit?tab=t.0)
       </td>
       <td>
-        []()<br/><br/>
-        []()<br/><br/>
-        []()
+        [PVG Tochan](https://docs.google.com/spreadsheets/d/1xofncYrMGXf9O-aa0wvEMnu0YgD6WFc-ntpvU49Tv-E/edit?usp=sharing)<br/><br/>
+        [Estrategía de desarrollo Tochan](../../Nuestros%20Proyectos/Ichan-RCHQ/Artefactos/CicloDeVida.md)
       </td>
       <td>
-        []()<br/><br/>
-        []()<br/><br/>
-        []()
+        [PVG Huitlacuaches](https://docs.google.com/spreadsheets/d/1A6xDpEwvAf_52CNSUBtk3VHl9GSKwC9WesF-X8bgai8/edit?usp=sharing)<br/><br/>
+        [Estrategía de desarrollo Huitlacuaches](https://docs.google.com/document/d/1g4LW_xqRRZGln0W8PWuqPA4wvrDepeeabZy1R4CxKdA/edit?usp=sharing)
       </td>
       <td>
-        []()<br/><br/>
-        []()<br/><br/>
-        []()
+        [PVG Departamental](https://docs.google.com/spreadsheets/d/1YaAwQUqQF0v36ZIDc1gVEI62uhvYS7A_JSziCBf5Q34/edit?usp=sharing)
       </td>
     </tr>
     <tr>
@@ -165,29 +159,19 @@ Establecer y mantener planes que definan las actividades del proyecto.
         [PRC05](../Procesos/PRC05.md)
       </td>
       <td>
-        []()<br/><br/>
-        []()<br/><br/>
-        []()
+        [PVG Cuitla](https://docs.google.com/spreadsheets/d/1PyHPAv7n_Ok2TyG7pxqiGVQXgGVu5A58DYE56uI0Wo4/edit?gid=484767565#gid=484767565)
       </td>
       <td>
-        []()<br/><br/>
-        []()<br/><br/>
-        []()
+        [PVG Xolotl](https://docs.google.com/spreadsheets/d/1rQQRWQqWzgMJ_X6eNkf-8GB7miFwvbvKIsUrwZWUeDo/edit?usp=sharing)
       </td>
       <td>
-        []()<br/><br/>
-        []()<br/><br/>
-        []()
+        [PVG Tochan](https://docs.google.com/spreadsheets/d/1xofncYrMGXf9O-aa0wvEMnu0YgD6WFc-ntpvU49Tv-E/edit?usp=sharing)
       </td>
       <td>
-        []()<br/><br/>
-        []()<br/><br/>
-        []()
+        [PVG Huitlacuaches](https://docs.google.com/spreadsheets/d/1A6xDpEwvAf_52CNSUBtk3VHl9GSKwC9WesF-X8bgai8/edit?usp=sharing)
       </td>
       <td>
-        []()<br/><br/>
-        []()<br/><br/>
-        []()
+        [PVG Departamental](https://docs.google.com/spreadsheets/d/1YaAwQUqQF0v36ZIDc1gVEI62uhvYS7A_JSziCBf5Q34/edit?usp=sharing)
       </td>
     </tr>
     <tr>
@@ -197,29 +181,18 @@ Establecer y mantener planes que definan las actividades del proyecto.
         [PRC07](../Procesos/PRC07.md)
       </td>
       <td>
-        []()<br/><br/>
-        []()<br/><br/>
-        []()
+        [Plan de gestión de datos Cuitla](https://docs.google.com/document/d/1w_4ONzbpQEPamMEOWhddCDMD1ZP8oKmpW9PfsBlkZfw/edit?tab=t.ukpjw9cyryp9)
       </td>
       <td>
-        []()<br/><br/>
-        []()<br/><br/>
-        []()
+        [Plan de gestión de datos Xolotl](https://docs.google.com/document/d/10BrMCsrUxs9_5MKkEHHcugD2Tb4T_bhgbkk2OZDZ-1w/edit?tab=t.0#heading=h.hscqlhigvdqc)
       </td>
       <td>
-        []()<br/><br/>
-        []()<br/><br/>
-        []()
+        [Plan de gestión de datos Tochan](https://docs.google.com/document/d/19Y-aUMTlAanotLhMcWQDS8mmn4CMHzBog1PNV3tNS3s/edit?tab=t.0#heading=h.hscqlhigvdqc)
       </td>
       <td>
-        []()<br/><br/>
-        []()<br/><br/>
-        []()
+        [Plan de gestión de datos Huitlacuaches](https://docs.google.com/document/d/12tohcm5u-ayAzYjupWUzBdDsm9keq81N6dAwppQ3a0s/edit?usp=sharing)
       </td>
       <td>
-        []()<br/><br/>
-        []()<br/><br/>
-        []()
       </td>
     </tr>
     <tr>
@@ -229,29 +202,19 @@ Establecer y mantener planes que definan las actividades del proyecto.
         [PRC07](../Procesos/PRC07.md)
       </td>
       <td>
-        []()<br/><br/>
-        []()<br/><br/>
-        []()
+        [Plan de recursos Cuitla](https://docs.google.com/document/d/1Yih3CBKonNiYRsPUfO8lJsYRYNXJTQccyRpao51t2TM/edit?usp=sharing)
       </td>
       <td>
-        []()<br/><br/>
-        []()<br/><br/>
-        []()
+        [Plan de recursos Xolotl](https://docs.google.com/document/d/14vN-y7ePfldHozCVjnzgmwYVmlwoD7Rg6rgdZzJXTJw/edit?tab=t.0#heading=h.lt250pwiymvf)
       </td>
       <td>
-        []()<br/><br/>
-        []()<br/><br/>
-        []()
+        [Plan de recursos Tochan](https://aztlanconsulting.github.io/Wiki/docs/Aztlan/Nuestros%20Proyectos/Ichan-RCHQ/Planes/PlanDeRecursos)
       </td>
       <td>
-        []()<br/><br/>
-        []()<br/><br/>
-        []()
+        [Plan de recursos Huitlacuaches](https://docs.google.com/document/d/1BE82Z-g0tDE3Wlp0raANFcLjj1XCrkpVVQev9rE8ZWk/edit?tab=t.0)
       </td>
       <td>
-        []()<br/><br/>
-        []()<br/><br/>
-        []()
+        [Plan de recursos Departamental](https://docs.google.com/document/d/1NrwIKxtcAzDT2T7WdEpVc6NrQHfKZ4J762TmYLaCZ7M/edit?usp=sharing)
       </td>
     </tr>
     <tr>
@@ -261,29 +224,19 @@ Establecer y mantener planes que definan las actividades del proyecto.
         [PRC07](../Procesos/PRC07.md)
       </td>
       <td>
-        []()<br/><br/>
-        []()<br/><br/>
-        []()
+        [Inventario de skills Cuitla](https://docs.google.com/spreadsheets/d/1fTEIn50jTNEAErV28CrP1KxcjjsE_eJUXX-Y_yDiCIM/edit?usp=sharing)
       </td>
       <td>
-        []()<br/><br/>
-        []()<br/><br/>
-        []()
+        [Inventario de skills Xolotl](https://docs.google.com/spreadsheets/d/1fTEIn50jTNEAErV28CrP1KxcjjsE_eJUXX-Y_yDiCIM/edit?usp=sharing)
       </td>
       <td>
-        []()<br/><br/>
-        []()<br/><br/>
-        []()
+        [Inventario de skills Tochan](https://docs.google.com/spreadsheets/d/1fTEIn50jTNEAErV28CrP1KxcjjsE_eJUXX-Y_yDiCIM/edit?usp=sharing)
       </td>
       <td>
-        []()<br/><br/>
-        []()<br/><br/>
-        []()
+        [Inventario de skills Huitlacuaches](https://docs.google.com/spreadsheets/d/1fTEIn50jTNEAErV28CrP1KxcjjsE_eJUXX-Y_yDiCIM/edit?usp=sharing)
       </td>
       <td>
-        []()<br/><br/>
-        []()<br/><br/>
-        []()
+        [Evidencias de aprendizaje](https://docs.google.com/document/d/1NKCQxb7KoOIRoVOJrFI87y2uPax70e16B9ARx8D-NGo/edit?usp=sharing)
       </td>
     </tr>
     <tr>
@@ -293,29 +246,22 @@ Establecer y mantener planes que definan las actividades del proyecto.
         [PRC07](../Procesos/PRC07.md)
       </td>
       <td>
-        []()<br/><br/>
-        []()<br/><br/>
-        []()
+        [Minutas Cuitla](https://drive.google.com/drive/folders/1exAhll2k76M-NXCkZD47HSKOpjQ6KL1B?usp=drive_link)<br/><br/>
+        [Plan de comunicación Cuitla](../../Nuestros%20Proyectos/Cuitla-Compospet/Artefactos/PlanDeComunicación.md)
       </td>
       <td>
-        []()<br/><br/>
-        []()<br/><br/>
-        []()
+        [Minutas Xolotl]()<br/><br/>
+        [Plan de comunicación Xolotl](../../Nuestros%20Proyectos/Xolotl-SOS/Plan_De_Comunicacion.md)
       </td>
       <td>
-        []()<br/><br/>
-        []()<br/><br/>
-        []()
+        [Minutas Tochan]()<br/><br/>
+        [Plan de comunicación Tochan](../../Nuestros%20Proyectos/Ichan-RCHQ/Planes/PlanDeComunicacion.md)
       </td>
       <td>
-        []()<br/><br/>
-        []()<br/><br/>
-        []()
+        [Minutas Huitlacuaches](https://docs.google.com/document/d/1rRA0ApL-AWsven1jbcFV6pw8JzbMx9gIzTlq2Gchg84/edit?usp=sharing)<br/><br/>
+        [Plan de comunicación Huitlacuaches](https://docs.google.com/document/d/14PEDvLqH4k45edTHRIsMY1QJHw7CDc1WToacTuUcOtw/edit?usp=sharing)
       </td>
       <td>
-        []()<br/><br/>
-        []()<br/><br/>
-        []()
       </td>
     </tr>
     <tr>
@@ -325,29 +271,23 @@ Establecer y mantener planes que definan las actividades del proyecto.
         [PRC07](../Procesos/PRC07.md)
       </td>
       <td>
-        []()<br/><br/>
-        []()<br/><br/>
-        []()
+        [PVG Cuitla](https://docs.google.com/spreadsheets/d/1PyHPAv7n_Ok2TyG7pxqiGVQXgGVu5A58DYE56uI0Wo4/edit?gid=2046364201#gid=2046364201)<br/><br/>
+        [Plan de release](https://docs.google.com/spreadsheets/d/1D7wN_ZBC2fvFOBPy1CoBxeuey1Ro2IoVJQQ8uogOLsQ/edit?gid=1588043112#gid=1588043112)
       </td>
       <td>
-        []()<br/><br/>
-        []()<br/><br/>
-        []()
+        [PVG Xolotl](https://docs.google.com/spreadsheets/d/1rQQRWQqWzgMJ_X6eNkf-8GB7miFwvbvKIsUrwZWUeDo/edit?usp=sharing)<br/><br/>
+        [Plan de release](https://docs.google.com/spreadsheets/d/1rQQRWQqWzgMJ_X6eNkf-8GB7miFwvbvKIsUrwZWUeDo/edit?gid=1476048995#gid=1476048995)
       </td>
       <td>
-        []()<br/><br/>
-        []()<br/><br/>
-        []()
+        [PVG Tochan](https://docs.google.com/spreadsheets/d/1xofncYrMGXf9O-aa0wvEMnu0YgD6WFc-ntpvU49Tv-E/edit?usp=sharing)<br/><br/>
+        [Plan de release](https://docs.google.com/spreadsheets/d/1xofncYrMGXf9O-aa0wvEMnu0YgD6WFc-ntpvU49Tv-E/edit?gid=906316976#gid=906316976)
       </td>
       <td>
-        []()<br/><br/>
-        []()<br/><br/>
-        []()
+        [PVG Huitlacuaches](https://docs.google.com/spreadsheets/d/1A6xDpEwvAf_52CNSUBtk3VHl9GSKwC9WesF-X8bgai8/edit?gid=172323796#gid=172323796)<br/><br/>
+        [Plan de release](https://docs.google.com/spreadsheets/d/1y2J-p_RSgrvlhmvdlIktD7eAMO-rfuNLS50JzfTvsH0/edit?gid=0#gid=0)
       </td>
       <td>
-        []()<br/><br/>
-        []()<br/><br/>
-        []()
+        [PVG Departamental](https://docs.google.com/spreadsheets/d/1YaAwQUqQF0v36ZIDc1gVEI62uhvYS7A_JSziCBf5Q34/edit?usp=sharing)
       </td>
     </tr>
     <!--Se incluye cada vez que haya una SG (specific goal)-->
