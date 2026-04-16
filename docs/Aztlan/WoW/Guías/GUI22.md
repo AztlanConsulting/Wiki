@@ -1,5 +1,5 @@
 ---
-title: "GUI21 - ¿Cómo usar el Defect Log?"
+title: "GUI22 - ¿Cómo usar el Defect Log?"
 ---
 
 Esta guía forma parte del proceso:
