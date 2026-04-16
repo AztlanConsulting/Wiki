@@ -23,6 +23,10 @@ sidebar_position : 1
     </tr>
   </thead>
   <tbody>
+  <!--Se incluye cada vez que haya una SG (specific goal)-->
+    <tr>
+        <td colspan= "8"></td>
+    </tr>
   <!--Por cada SP, copiar y pegar los tr's-->
     <tr>
       <td>PP(ejemplo)  SP 1.1 </td>
