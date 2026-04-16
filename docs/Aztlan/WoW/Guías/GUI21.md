@@ -16,11 +16,6 @@ Tener un proceso claro para la creación de Historias de Usuario que permita a l
 - Team Members
 - Stakeholders relevantes (cuando sea necesario)
 
-## Entradas
-- Wireframes
-- Criterios de aceptación
-- Requisitos definidos
-
 ## Actividades
 Es importante tener en cuenta que una buena historia de usuario sigue la estructura de las "3 C's": Card (Tarjeta), Conversation (Conversación) y Confirmation (Confirmación/Criterios de Aceptación). 
 
@@ -71,12 +66,12 @@ Una vez definida, la historia de usuario se añade al Product Backlog (SVG) y se
 - Valor: Qué tanto beneficia al negocio o al usuario.
 - Riesgo/Complejidad: Historias con alto valor y bajo riesgo suelen priorizarse primero.
 
-## Salidas
-- Lista de Historias de Usuario listas para estimación.
+---
 
 ## Control de versiones
 
 | Version | Creado por: | Auditado por: | Descripción | Fecha |
 |---------|------------|--------------|---------------|-------|
 | 1.0     | Fátima Figueroa | |  | 02/03/2026 |
-| 1.0     | Fátima Figueroa | | Cambio de formato y reestructuración de proceso a guía | 15/04/2026 |
+| 1.1    | Fátima Figueroa | | Cambio de formato y reestructuración de proceso a guía | 15/04/2026 |
+| 1.2    | Fátima Figueroa | | Corrección de errores | 16/04/2026 |
