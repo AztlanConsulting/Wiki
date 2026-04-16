@@ -61,21 +61,65 @@ Establecer y mantener planes que definan las actividades del proyecto.
     <tr>
       <td>PP SP 1.2</td>
       <td>Establecer las estimaciones de los atributos de los productos de trabajo y de las tareas.</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>
+        []()<br/><br/>
+        []()<br/><br/>
+        []()
+      </td>
+      <td>
+        []()<br/><br/>
+        []()<br/><br/>
+        []()
+      </td>
+      <td>
+        []()<br/><br/>
+        []()<br/><br/>
+        []()
+      </td>
+      <td>
+        []()<br/><br/>
+        []()<br/><br/>
+        []()
+      </td>
+      <td>
+        []()<br/><br/>
+        []()<br/><br/>
+        []()
+      </td>
+      <td>
+        []()<br/><br/>
+        []()<br/><br/>
+        []()
+      </td>
     </tr>
     <tr>
       <td>PP SP 1.3</td>
       <td>Definir las fases del ciclo de vida del proyecto.</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>
+        []()<br/><br/>
+        []()<br/><br/>
+        []()
+      </td>
+      <td>
+        []()<br/><br/>
+        []()<br/><br/>
+        []()
+      </td>
+      <td>
+        []()<br/><br/>
+        []()<br/><br/>
+        []()
+      </td>
+      <td>
+        []()<br/><br/>
+        []()<br/><br/>
+        []()
+      </td>
+      <td>
+        []()<br/><br/>
+        []()<br/><br/>
+        []()
+      </td>
       <td></td>
     </tr>
     <tr>
