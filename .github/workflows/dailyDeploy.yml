@@ -2,13 +2,28 @@ name: Daily deploy
 
 on:
   schedule:
-    - cron: '0 6 * * *'  # Diariamente a las 00:00 CDMX
+    - cron: "0 6 * * *" # daily (UTC)
+  workflow_dispatch:
 
 permissions:
-  pages: write
-  id-token: write
-  contents: read
+  contents: write
 
 jobs:
-  deploy:
-    uses: ./.github/workflows/deploy.yml
+  merge:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Merge develop into main
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+
+          git fetch origin develop
+          git merge origin/develop --no-edit
+
+          git push origin main
