@@ -57,8 +57,8 @@ El equipo asegura que los elementos de trabajo estén correctamente definidos, e
     - [¿Cómo realizar el Backlog Grooming?](../Guías/GUI17)
 - Dividir tareas grandes en actividades más pequeñas.
 - Estimar los elementos de trabajo.
-    - [¿Cómo convierto mi escala de Story Points a Tiempo?](.../Guías/StoryP_Guía.md)
-    - [Plantilla de estimación de horas](../Plantillas/plantilla_Horas.md)
+    - [¿Cómo convierto mi escala de Story Points a Tiempo?](../Guías/StoryP_Guía.md)
+    - [Plantilla de estimación de horas](../Plantillas/plantilla_StoryP.md)
 - Revisar historias similares previamente implementadas para apoyar la estimación.
 - Priorizar los elementos de trabajo.
 - Verificar dependencias y riesgos asociados.
