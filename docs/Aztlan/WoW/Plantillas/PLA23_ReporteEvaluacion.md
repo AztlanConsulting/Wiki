@@ -1,6 +1,5 @@
 ---
 title: "PLA23 - Reporte de evaluación"
-sidebar_position: 16
 ---
 
 # Reporte de Evaluación
