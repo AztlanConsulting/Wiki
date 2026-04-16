@@ -74,4 +74,4 @@ Una vez definida, la historia de usuario se añade al Product Backlog (SVG) y se
 |---------|------------|--------------|---------------|-------|
 | 1.0     | Fátima Figueroa | |  | 02/03/2026 |
 | 1.1    | Fátima Figueroa | | Cambio de formato y reestructuración de proceso a guía | 15/04/2026 |
-| 1.2    | Fátima Figueroa | | Corrección de errores | 16/04/2026 |
+| 1.2    | Fátima Figueroa |Yael Charles | Corrección de errores | 16/04/2026 |

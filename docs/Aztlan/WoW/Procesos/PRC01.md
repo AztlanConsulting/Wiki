@@ -142,5 +142,5 @@ Este proceso interactúa con:
 
 | Version | Creado por: | Auditado por: | Descripción | Fecha |
 |---------|------------|--------------|---------------|-------|
-| 2.0     | Fatima Figueroa |  |  Reestructuración de PRC08, PRC09, PRC17, PRC18, PRC24 | 04/04/2026 |
-| 2.1     | Fatima Figueroa |  |  Actualización de formato | 15/04/2026 |
+| 2.0     | Fatima Figueroa | Yael Charles |  Reestructuración de PRC08, PRC09, PRC17, PRC18, PRC24 | 04/04/2026 |
+| 2.1     | Fatima Figueroa | Yael Charles |  Actualización de formato | 15/04/2026 |
