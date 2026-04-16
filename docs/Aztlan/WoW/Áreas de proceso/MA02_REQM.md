@@ -60,42 +60,95 @@ Gestionar los requisitos de los productos y los componentes de producto del proy
     <tr>
       <td>REQM SP 1.2</td>
       <td>Obtener el compromiso sobre los requisitos.</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>
+        []()
+      </td>
+      <td>
+        [PVG ComposPet](https://docs.google.com/spreadsheets/d/1PyHPAv7n_Ok2TyG7pxqiGVQXgGVu5A58DYE56uI0Wo4/edit?gid=2046364201#gid=2046364201) <br/><br/>
+        [Acta de compromiso con el socio formador](https://drive.google.com/file/d/1jJPdzdQkjPzOsp4noMrVg50chPnFaYXG/view?usp=sharing)<br/><br/>
+        [Acta de compromiso interno de Compospet](https://drive.google.com/file/d/1K_6-v-ItHMCR_S6y1CxfTFRbs6YHc0m4/view?usp=sharing)
+      </td>
+      <td>
+        
+      </td>
+      <td>
+        []()<br/><br/>
+      </td>
+      <td>
+        []()<br/><br/>
+      </td>
+      <td>
+        []()<br/><br/>
+      </td>
     </tr>
     <tr>
       <td>REQM SP 1.3</td>
       <td>Gestionar los cambios a los requisitos.</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>
+        []()<br/><br/>
+      </td>
+      <td>
+        [Matriz de cambios ComposPet](https://docs.google.com/spreadsheets/d/1ATicmxAxY3uN-lOXKduDkvnTT7sftqaYMj1qZxj7tTo/edit?gid=1924085365#gid=1924085365)<br/><br/>
+        [Minutas ComposPet](https://drive.google.com/drive/u/0/folders/1exAhll2k76M-NXCkZD47HSKOpjQ6KL1B )
+      </td>
+      <td>
+        []()<br/><br/>
+      </td>
+      <td>
+        []()<br/><br/>
+      </td>
+      <td>
+        []()<br/><br/>
+      </td>
+      <td>
+        []()<br/><br/>
+      </td>
     </tr>
     <tr>
       <td>REQM SP 1.4</td>
       <td>Mantener la trazabilidad bidireccional de los requisitos.</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>
+        []()<br/><br/>
+      </td>
+      <td>
+        [RTM ComposPet](https://docs.google.com/spreadsheets/d/1ATicmxAxY3uN-lOXKduDkvnTT7sftqaYMj1qZxj7tTo/edit?gid=0#gid=0)
+      </td>
+      <td>
+        []()<br/><br/>
+      </td>
+      <td>
+        []()<br/><br/>
+      </td>
+      <td>
+        []()<br/><br/>
+      </td>
+      <td>
+        []()<br/><br/>
+      </td>
     </tr>
     <tr>
       <td>REQM SP 1.5</td>
       <td>Asegurar el alineamiento entre el trabajo del proyecto y los requisitos.</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>
+        []()<br/><br/>
+      </td>
+      <td>
+        [SRS ComposPet](https://docs.google.com/document/d/1YoU9wY4nDRIAOOuGRMDbNJV5Vhgw3qolXyaR-Va28L0/edit?tab=t.0 )<br/><br/>
+        [Checklist DefectLog](https://docs.google.com/spreadsheets/d/1PyHPAv7n_Ok2TyG7pxqiGVQXgGVu5A58DYE56uI0Wo4/edit?gid=409863157#gid=409863157) <br/><br/>
+        [DefectLog ComposPet](https://docs.google.com/spreadsheets/d/1PyHPAv7n_Ok2TyG7pxqiGVQXgGVu5A58DYE56uI0Wo4/edit?gid=1918748664#gid=1918748664)
+      </td>
+      <td>
+        []()<br/><br/>
+      </td>
+      <td>
+        []()<br/><br/>
+      </td>
+      <td>
+        []()<br/><br/>
+      </td>
+      <td>
+        []()<br/><br/>
+      </td>
     </tr>
   </tbody>
 </table>
