@@ -1,5 +1,5 @@
 ---
-title: "PLA10 - Política de Gestión de la Configuración"
+title: "Política de Gestión de la Configuración"
 sidebar_position: 10
 ---
 
