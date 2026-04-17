@@ -23,7 +23,7 @@ Gestionar los requisitos de los productos y los componentes de producto del proy
   </thead>
   <tbody>
     <tr>
-        <td align="center" colspan= "8"><strong>SG 1</strong> Gestionar los requisitos</td>
+        <td align="center" colspan= "7"><strong>SG 1</strong> Gestionar los requisitos</td>
     </tr>
   <!--Por cada SP, copiar y pegar los tr's-->
     <tr>
@@ -41,7 +41,7 @@ Gestionar los requisitos de los productos y los componentes de producto del proy
         [SRS](https://drive.google.com/file/d/1KOIKmG9fDiQIzRYrDbPWtRt-qiEgEbLS/view)
       </td>
       <td>
-        [Estrategia de desarrollo](../Nuestros Proyectos/Ichan-RCHQ/Artefactos/CicloDeVida.md) <br/><br/>
+        [Estrategia de desarrollo](../../Nuestros%20Proyectos/Ichan-RCHQ/Artefactos/CicloDeVida.md) <br/><br/>
         [SRS](https://docs.google.com/document/d/17898RNPwQUwmYck1IWSl23_PDLbHadqIKuI0BCl7mgE/edit?tab=t.0#heading=h.640msf4bf0m6) <br/>
       </td>
       <td>
