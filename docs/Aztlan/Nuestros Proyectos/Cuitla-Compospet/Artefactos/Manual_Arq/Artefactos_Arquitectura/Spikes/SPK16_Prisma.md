@@ -35,7 +35,57 @@ title: "SPK16 - Prisma"
 
 ## Tutorial básico
 
-**Instalación Prisma ORM** 
+**Instalación y configuración de Prisma ORM ** 
+
+1. Instalar instancias. 
+    - npm install prisma @types/pg --save-dev
+    - npm install @prisma/client @prisma/adapter-pg pg dotenv
+
+2. Inicializa Prisma
+
+    - npx prisma init
+    - Ajustar el .env 
+
+3. Traer el esquema desde la base de datos
+
+    - npx prisma db pull
+
+4. Generar el cliente
+    - npx prisma generate
+
+5. Crear prisma.js para establecer la comunicación con la base de datos
+
+``` javascript
+
+require("dotenv").config(); 
+const { PrismaClient } = require("../generated/prisma"); 
+const { PrismaPg } = require("@prisma/adapter-pg"); 
+const { Pool } = require("pg"); 
+
+const pool = new Pool({ 
+connectionString: process.env.DATABASE_URL, 
+}); 
+
+const adapter = new PrismaPg(pool); 
+const prisma = new PrismaClient({ adapter }); 
+module.exports = prisma;
+
+
+```
+
+6. Importar prisma al modelo
+
+    - const prisma = require('../config/prisma');
+
+7. Actualiza las consultas de tu aplicación para usar Prisma ORM.
+
+    - await prisma.user.findUnique(...)
+    - await prisma.user.findMany(...)
+    - await prisma.user.create(...)
+    - await prisma.user.update(...)
+    - await prisma.user.delete(...)
+    - await prisma.user.upsert(...)
+
 
 
 [Documentación DBeaver](https://docs.google.com/document/d/1QXJiha9g6gh5MoR-EbYLULS2_-xZbUYKRYKi7TGZhm0/edit?tab=t.1gdkgimajo7e)

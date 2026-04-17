@@ -182,7 +182,14 @@ Modelo de seguridad ABAC (Control de Acceso basado en atributos)
 
 #### Prueba Prisma
 
-1. Se instala Prisma
+1. Instalar instancias. 
+2. Inicializa Prisma
+3. Traer el esquema desde la base de datos
+4. Generar el cliente
+5. Crear prisma.js para establecer la comunicación con la base de datos
+6. Importar prisma al modelo
+7. Actualiza las consultas de tu aplicación para usar Prisma ORM.
+
 
 #### Evidencia de documentación 
 
@@ -458,4 +465,4 @@ Esto permite detectar accesos no autorizados o comportamientos sospechosos.
 | 1.1 |  Yessica Lora  |  Alejandra Arredondo| Actualización de prueba de arquitectura| 22/03/2026 |
 | 1.1 | Alejandra Arredondo | Juan Manuel Murillo | Actualización de prueba de arquitectura | 23/03/2026 |
 | 1.1 | Alejandra Arredondo | Kamila Jeanette Martínez | Actualización de prueba de arquitectura - Auditd | 01/04/2026 |
-| 1.1 | Luisa Fernanda Valdez Guillén | | Actualización de documentación de prueba de arquitectura | 02/04/2026 |
+| 1.2 | Luisa Fernanda Valdez Guillén | | Actualización de documentación de prueba de arquitectura | 02/04/2026 |

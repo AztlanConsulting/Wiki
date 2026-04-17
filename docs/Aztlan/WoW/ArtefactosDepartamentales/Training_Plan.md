@@ -51,4 +51,7 @@ Si el equipo lo considera necesario, cada miembro podrá documentar su aprendiza
 
 ## Seguimiento
 
-La validación y funcionamiento del Training Plan se realiza al revisar la cobertura de skills definida en [PRC20](../Procesos/PRC20_Proceso_Para_Identificar_Habilidades_Requeridas.md).
+El seguimiento al plan de skills deberá darse cada que ocurra alguna de estas situaciones:
+- Cada que termine un periodo establecido (ej. sprints) 
+- Cada que una nueva habilidad sea identificada y añadida al inventario de skills. 
+- Si el AO cree necesario reconsiderar el nivel de una skill, de igual manera se repite el paso.

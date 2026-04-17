@@ -6,6 +6,40 @@ Este glosario define los términos, acrónimos y abreviaturas utilizados en la W
 
 ## Términos
 
+### Iteración / Sprint:
+**Definición:**  
+Periodo de tiempo definido en el cual el equipo planifica, ejecuta y entrega un conjunto de elementos de trabajo.
+
+---
+
+### Ceremonia:
+**Definición:**  
+Reunión estructurada que se realiza durante la iteración con un propósito específico, como planificar el trabajo, dar seguimiento al progreso o identificar mejoras.
+
+Las ceremonias de la iteración incluyen:
+
+- Sprint Planning
+- Backlog Grooming
+- Daily
+- Reunión de Coordinación por Roles
+- Sprint Retrospective
+
+---
+
+### Requisito
+**Definición:**  
+Condición o capacidad que debe cumplir el sistema.
+
+En este proyecto, los requisitos pueden representarse mediante:
+
+- Historias de Usuario (HU)
+- Requisitos no funcionales
+- Restricciones del sistema
+
+Las Historias de Usuario se gestionan como requisitos dentro del proceso de Gestión de Requisitos.
+
+---
+
 ### Bloqueo
 **Definición:**  
 Cualquier situación que:
@@ -14,9 +48,30 @@ Cualquier situación que:
 - Dependa de un tercero, decisión o recurso que aún no esté disponible.
 ---
 
-### Término 2
+### One on One
 **Definición:**  
-Descripción clara y concisa del término.
+Reunión individual entre una persona con responsabilidad de liderazgo y un miembro del equipo, cuyo propósito es dar seguimiento al bienestar, desempeño y necesidades de apoyo de la persona, así como identificar oportunidades de mejora y fortalecer la comunicación dentro del equipo.
+
+---
+
+### Checklist
+**Definición:**  
+Una checklist es una lista de verificación o chequeo. Su objetivo es garantizar que no se olvide revisar ningún aspecto importante, lo que permite reducir el error humano y facilitar la detección de fallos.
+
+Ejemplo: Al verificar que un producto cumple con la calidad esperada, se revisa, elemento por elemento, que este cumpla con todo lo estipulado en la lista de verificación.
+
+---
+
+### Persona con responsabilidad de liderazgo
+**Definición:**  
+Persona que tiene la responsabilidad de coordinar, guiar o dar seguimiento al trabajo de otros miembros del equipo.
+
+Ejemplos:
+
+- Program Manager (PM)
+- Architecture Owner (AO)
+- Team Leader (TL)
+- Product Owner (PO)
 
 ---
 
@@ -29,6 +84,11 @@ Descripción clara y concisa del término.
 | TL    | [Team Leader](docs/Aztlan/WoW/Políticas/Politica_de_Comportamiento_Interno.md#31-obligaciones-por-rol)                          |                              |
 | AO    | [Arquitecture Owner](docs/Aztlan/WoW/Políticas/Politica_de_Comportamiento_Interno.md#31-obligaciones-por-rol)                          |                              |
 | TM    | [Team Member](docs/Aztlan/WoW/Políticas/Politica_de_Comportamiento_Interno.md#31-obligaciones-por-rol)                          |                              |
+|   WBS | Work Breakdown Structure (Estructura de desglose de trabajo) | Descomposición jerárquica orientada a entregables del alcance total de un proyecto |
+|  DAD  | Disciplined Agile Delivery  | Marco de trabajo ágil híbrido diseñado para cubrir todo el ciclo de vida de entrega de soluciones de TI, desde la concepción hasta la operación | 
+| SRS   | Software Requirements Specification (Especificación de Requisitos de Software) | Documento formal y detallado que define qué debe hacer un sistema de software y cómo debe comportarse |
+| PVG   | Plan de Valor Ganado | Plan que responde a la pregunta ¿Cuánto trabajo se ha ejecutado realmente según lo planificado? |
+
 ---
 
 ## Siglas Técnicas
@@ -74,3 +134,5 @@ Descripción clara y concisa del término.
 | Version | Creado por: | Auditado por: | Descripción | Fecha |
 |---------|------------|--------------|---------------|-------|
 | 1.0     |      Juan Manuel Murillo López      |             |       Plantilla del Glosario con términos iniciales        |    02/03/2026   |
+| 1.1     | Yael Charles Marin |     |  Agregados términos de WBS, SRS y DAD | 06/04/2026 |
+| 1.2     | Fatima Figueroa |     |  Agregados términos de Requisitos, | 15/04/2026 |
