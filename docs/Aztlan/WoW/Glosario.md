@@ -6,6 +6,40 @@ Este glosario define los términos, acrónimos y abreviaturas utilizados en la W
 
 ## Términos
 
+### Iteración / Sprint:
+**Definición:**  
+Periodo de tiempo definido en el cual el equipo planifica, ejecuta y entrega un conjunto de elementos de trabajo.
+
+---
+
+### Ceremonia:
+**Definición:**  
+Reunión estructurada que se realiza durante la iteración con un propósito específico, como planificar el trabajo, dar seguimiento al progreso o identificar mejoras.
+
+Las ceremonias de la iteración incluyen:
+
+- Sprint Planning
+- Backlog Grooming
+- Daily
+- Reunión de Coordinación por Roles
+- Sprint Retrospective
+
+---
+
+### Requisito
+**Definición:**  
+Condición o capacidad que debe cumplir el sistema.
+
+En este proyecto, los requisitos pueden representarse mediante:
+
+- Historias de Usuario (HU)
+- Requisitos no funcionales
+- Restricciones del sistema
+
+Las Historias de Usuario se gestionan como requisitos dentro del proceso de Gestión de Requisitos.
+
+---
+
 ### Bloqueo
 **Definición:**  
 Cualquier situación que:
@@ -17,6 +51,14 @@ Cualquier situación que:
 ### One on One
 **Definición:**  
 Reunión individual entre una persona con responsabilidad de liderazgo y un miembro del equipo, cuyo propósito es dar seguimiento al bienestar, desempeño y necesidades de apoyo de la persona, así como identificar oportunidades de mejora y fortalecer la comunicación dentro del equipo.
+
+---
+
+### Checklist
+**Definición:**  
+Una checklist es una lista de verificación o chequeo. Su objetivo es garantizar que no se olvide revisar ningún aspecto importante, lo que permite reducir el error humano y facilitar la detección de fallos.
+
+Ejemplo: Al verificar que un producto cumple con la calidad esperada, se revisa, elemento por elemento, que este cumpla con todo lo estipulado en la lista de verificación.
 
 ---
 
@@ -93,3 +135,4 @@ Ejemplos:
 |---------|------------|--------------|---------------|-------|
 | 1.0     |      Juan Manuel Murillo López      |             |       Plantilla del Glosario con términos iniciales        |    02/03/2026   |
 | 1.1     | Yael Charles Marin |     |  Agregados términos de WBS, SRS y DAD | 06/04/2026 |
+| 1.2     | Fatima Figueroa |     |  Agregados términos de Requisitos, | 15/04/2026 |

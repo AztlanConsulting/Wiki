@@ -6,45 +6,13 @@ _v2.0 / PP_
 
 ## Terminología
 
-Iteración / Sprint:
-
-Periodo de tiempo definido en el cual el equipo planifica, ejecuta y entrega un conjunto de elementos de trabajo.
-
-Ceremonia:
-
-Reunión estructurada que se realiza durante la iteración con un propósito específico, como planificar el trabajo, dar seguimiento al progreso o identificar mejoras.
-
-Las ceremonias de la iteración incluyen:
-
-- Sprint Planning
-- Backlog Grooming
-- Daily
-- Reunión de Coordinación por Roles
-- Sprint Retrospective
+[Iteración / Sprint, Ceremonia](../Glosario.md)
 
 ---
 
 ## Propósito
 
 Gestionar la planificación, ejecución, seguimiento y mejora de cada iteración del proyecto, asegurando que el trabajo se realice conforme a los planes establecidos, que se monitoree el progreso del equipo y que se implementen acciones de mejora continua.
-
----
-
-## Área / Prácticas del CMMI
-
-Área de proceso:
-
-PP — Project Planning
-
-Prácticas específicas cubiertas:
-
-- PP SP 1.2 — Establecer las estimaciones de los atributos de los productos de trabajo y de las tareas
-- PP SP 2.1 — Establecer el presupuesto y el calendario
-- PP SP 2.2 — Identificar los riesgos del proyecto
-- PP SP 2.7 — Establecer el plan de proyecto
-- PP SP 3.1 — Revisar los planes que afectan al proyecto
-- PP SP 3.2 — Conciliar los niveles de trabajo y de recursos
-- PP SP 3.3 — Obtener el compromiso con el plan
 
 ---
 
@@ -73,7 +41,7 @@ Prácticas específicas cubiertas:
 
 ## Actividades
 
-### 1. Preparar los elementos de trabajo de la iteración
+### 1. Preparar los elementos de trabajo de la iteración [PP 1.2]
 
 Ceremonia asociada: **Backlog Grooming**
 
@@ -86,41 +54,31 @@ El equipo asegura que los elementos de trabajo estén correctamente definidos, e
 #### Actividades
 
 - Refinar los elementos del backlog cuando sea necesario.
+    - [¿Cómo realizar el Backlog Grooming?](../Guías/GUI17)
 - Dividir tareas grandes en actividades más pequeñas.
 - Estimar los elementos de trabajo.
+    - [¿Cómo convierto mi escala de Story Points a Tiempo?](../Guías/StoryP_Guía.md)
+    - [Plantilla de estimación de horas](../Plantillas/plantilla_StoryP.md)
 - Revisar historias similares previamente implementadas para apoyar la estimación.
 - Priorizar los elementos de trabajo.
 - Verificar dependencias y riesgos asociados.
 - Verificar que los elementos cumplan con la Definición de Ready.
+    <details>
+    <summary>Definición de Ready de los proyectos</summary>
 
-#### Evidencia generada
+    **Xólotl:** [Definición de Ready](https://docs.google.com/document/d/1aUp_aEt8Brbl4hBzX4htkx22cTn_omM3f3oPox9C2xE/edit?tab=t.0#heading=h.cxh5gryiw5ha)
 
-- Backlog actualizado
-- Elementos de trabajo refinados y estimados
-- Registro de priorización
+    **Ichan:** [Definición de Ready](https://docs.google.com/document/d/1YigM1ULQ2WP2nNX6UHSlCaimVlBM3STtDPfeNf5W1U0/edit?tab=t.a06qi1hokg4e)
 
-#### Guías / Plantillas asociadas
+    **Cuitla:** [Definición de Ready](https://docs.google.com/document/d/1zMmDlI-PBrVlylfnvHHa0fcPMwn4JKj44Rahtz5Z25Y/edit?tab=t.0#heading=h.67d0lq8w136a)
 
-- [¿Cómo realizar el Backlog Grooming?](../Guías/GUI17)
-<details>
-<summary>Definición de Ready de los proyectos</summary>
+    **Huitlacuacles:** [Definición de Ready](https://docs.google.com/document/d/1jmwTxEYCs_zStUkJUmeKPSe3aN0P7a7hKly7FV_06n8/edit?tab=t.0#heading=h.67d0lq8w136a)
 
-**Xólotl:** [Definición de Ready](https://docs.google.com/document/d/1aUp_aEt8Brbl4hBzX4htkx22cTn_omM3f3oPox9C2xE/edit?tab=t.0#heading=h.cxh5gryiw5ha)
-
-**Ichan:** [Definición de Ready](https://docs.google.com/document/d/1YigM1ULQ2WP2nNX6UHSlCaimVlBM3STtDPfeNf5W1U0/edit?tab=t.a06qi1hokg4e)
-
-**Cuitla:** [Definición de Ready](https://docs.google.com/document/d/1zMmDlI-PBrVlylfnvHHa0fcPMwn4JKj44Rahtz5Z25Y/edit?tab=t.0#heading=h.67d0lq8w136a)
-
-**Huitlacuacles:** [Definición de Ready](https://docs.google.com/document/d/1jmwTxEYCs_zStUkJUmeKPSe3aN0P7a7hKly7FV_06n8/edit?tab=t.0#heading=h.67d0lq8w136a)
-
-</details>
-
-- [Plantilla de estimación de horas](../Plantillas/plantilla_Horas.md)
-- [¿Cómo convierto mi escala de Story Points a Tiempo?](.../Guías/StoryP_Guía.md)
+    </details>
 
 ---
 
-### 2. Planificar la iteración
+### 2. Planificar la iteración [PP 2.1, PP 3.1]
 
 Ceremonia asociada: **Sprint Planning**
 
@@ -133,25 +91,17 @@ El equipo define el objetivo del Sprint y selecciona los elementos de trabajo pr
 #### Actividades
 
 - Definir el objetivo del Sprint considerando las prioridades del proyecto.
+    - [¿Cómo realizar el Sprint Planning?](../Guías/GUI16)
 - Revisar el backlog disponible.
 - Seleccionar los elementos de trabajo que se ejecutarán durante la iteración.
 - Verificar que los elementos seleccionados estén estimados y listos para su ejecución.
 - Verificar que el plan sea realista de acuerdo con la capacidad del equipo.
 - Confirmar el compromiso del equipo con el trabajo del Sprint.
 
-#### Evidencia generada
-
-- Objetivo del Sprint definido
-- Sprint Backlog comprometido
-- Registro de planificación de la iteración
-
-#### Guías / Plantillas asociadas
-
-- [¿Cómo realizar el Sprint Planning?](../Guías/GUI16)
 
 ---
 
-### 3. Dar seguimiento al trabajo durante la iteración
+### 3. Dar seguimiento al trabajo durante la iteración  [PP 2.2]
 
 Ceremonia asociada: **Daily**
 
@@ -164,21 +114,12 @@ El equipo monitorea el progreso del trabajo y gestiona impedimentos que puedan a
 #### Actividades
 
 - Revisar el progreso de las tareas asignadas.
+    - [¿Cómo realizar la Daily?](../Guías/GUI18)
+    - [Plantilla de Daily](../Plantillas/Plantilla_Daily.md) 
 - Identificar bloqueos, dependencias o riesgos.
 - Reportar avances del trabajo.
 - Identificar desviaciones respecto al plan.
 - Definir acciones para resolver impedimentos.
-
-#### Evidencia generada
-
-- Registro de seguimiento diario
-- Lista de impedimentos identificados
-- Actualización del Sprint Backlog
-
-#### Guías / Plantillas asociadas
-
-- [¿Cómo realizar la Daily?](../Guías/GUI18)
-- [Plantilla de Daily](../Plantillas/Plantilla_Daily.md) 
 
 ---
 
@@ -195,22 +136,13 @@ El equipo de liderazgo revisa el estado del proyecto para asegurar la alineació
 #### Actividades
 
 - Revisar el progreso del proyecto.
+    - [¿Cómo realizar la Reunión de Coordinación por Roles?](../Guías/GUI20)
 - Analizar desviaciones entre el plan y el progreso real.
 - Revisar riesgos identificados.
 - Coordinar decisiones entre los roles de liderazgo.
 - Definir acciones correctivas cuando sea necesario.
+    - [Plantilla de minuta](https://docs.google.com/document/d/17hcieLfLxW1UDGGcC6GaSedEJLbDR9n_mNARWQ0G_xk/edit?usp=drive_link)
 - Alinear prioridades entre los roles del proyecto.
-
-#### Evidencia generada
-
-- Minuta de reunión de coordinación por roles
-- Lista de acuerdos
-- Actualización de riesgos
-
-#### Guías / Plantillas asociadas
-
-- [¿Cómo realizar la Reunión de Coordinación por Roles?](../Guías/GUI20)
-- [Plantilla de minuta](https://docs.google.com/document/d/17hcieLfLxW1UDGGcC6GaSedEJLbDR9n_mNARWQ0G_xk/edit?usp=drive_link)
 
 ---
 
@@ -227,20 +159,12 @@ El equipo evalúa los resultados obtenidos y define acciones de mejora para la s
 #### Actividades
 
 - Revisar el cumplimiento del objetivo del Sprint.
+    - [¿Cómo realizar el Sprint Retrospective?](../Guías/GUI19)
+    - [Plantilla de Retrospective](https://www.canva.com/design/DAHCp2M3VaY/0hL_ErZC594xHfvOum1fGw/edit?utm_content=DAHCp2M3VaY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - Analizar el desempeño del equipo.
 - Identificar oportunidades de mejora.
 - Definir acciones de mejora para la siguiente iteración.
 - Asignar responsables para implementar las acciones de mejora.
-
-#### Evidencia generada
-
-- Registro de Sprint Retrospective
-- Lista de acciones de mejora
-
-#### Guías / Plantillas asociadas
-
-- [¿Cómo realizar el Sprint Retrospective?](../Guías/GUI19)
-- [Plantilla de Retrospective](https://www.canva.com/design/DAHCp2M3VaY/0hL_ErZC594xHfvOum1fGw/edit?utm_content=DAHCp2M3VaY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ---
 
@@ -255,11 +179,6 @@ Se deben registrar los acuerdos, avances, riesgos y acciones definidas durante l
 - Registrar los acuerdos y decisiones tomadas durante la iteración.
 - Actualizar los artefactos del proyecto.
 - Almacenar los registros en la carpeta correspondiente del proyecto.
-
-#### Evidencia generada
-
-- Registros de la iteración
-- Artefactos del proyecto actualizados
 
 ---
 
@@ -282,6 +201,10 @@ Este proceso interactúa con los siguientes procesos del sistema cuando se requi
 
 - PRC03 — Manejo de Cambios en Requisitos: Se ejecuta cuando se identifica un cambio en un requisito durante la iteración que requiere evaluación y control.
 
+- PRC06 - Definir y estimar el alcance del proyecto: Se ejecuta cuando se define el alcance de la iteración y se estiman los elementos de trabajo que se incluirán en el Sprint.
+
+- PRC07 - Desarrollar planes de soporte y plan del proyecto: Se ejecuta cuando se actualizan los planes del proyecto para reflejar el trabajo planificado en la iteración. Cuando se identifican riesgos durante la iteración, se ejecuta el proceso de gestión de riesgos para evaluar y mitigar dichos riesgos.
+
 ---
 
 ## Salidas
@@ -301,3 +224,4 @@ Este proceso interactúa con los siguientes procesos del sistema cuando se requi
 |---------|------------|--------------|-------------|------|
 | 2.0 | Fatima Figueroa | Yael Charles | Reestructuración de PRC13, PRC11, PRC07, PRC14, PRC15 | 04/04/2026 |
 | 2.1 | Fatima Figueroa | Yael Charles | Actualización de los links | 06/04/2026|
+| 2.2     | Fatima Figueroa | Yael Charles |  Actualización de formato | 15/04/2026 |

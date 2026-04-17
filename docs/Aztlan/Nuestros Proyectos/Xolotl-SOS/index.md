@@ -28,12 +28,13 @@ Cumplir el 100% de los entregables del MVP para generar valor real, confianza y 
 ## Plan del Proyecto
 
 <DocCard
-  item={{
+item={{
     type: 'link',
     label: 'Plan de Valor Ganado',
-    href: 'https://docs.google.com/spreadsheets/d/1OtUU3JiI-ShuwNsPVxBTGs9G1-0PnEH7Ge06MCaN8dk/edit'
+    href: 'https://docs.google.com/spreadsheets/d/1rQQRWQqWzgMJ_X6eNkf-8GB7miFwvbvKIsUrwZWUeDo/edit?usp=sharing'
   }}
 />
+
 ---
 
 <FilteredDocCardList start = {0} end = {8} />
