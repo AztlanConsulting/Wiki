@@ -465,4 +465,4 @@ Esto permite detectar accesos no autorizados o comportamientos sospechosos.
 | 1.1 |  Yessica Lora  |  Alejandra Arredondo| Actualización de prueba de arquitectura| 22/03/2026 |
 | 1.1 | Alejandra Arredondo | Juan Manuel Murillo | Actualización de prueba de arquitectura | 23/03/2026 |
 | 1.1 | Alejandra Arredondo | Kamila Jeanette Martínez | Actualización de prueba de arquitectura - Auditd | 01/04/2026 |
-| 1.1 | Luisa Fernanda Valdez Guillén | | Actualización de prueba de arquitectura | 02/04/2026 |
+| 1.2 | Luisa Fernanda Valdez Guillén | | Actualización de documentación de prueba de arquitectura | 02/04/2026 |
