@@ -38,7 +38,7 @@ title: Plantilla PRs departamentales
 - [ ] Confirmé que el contenido es claro y entendible
 - [ ] Probé localmente la documentación en Docusaurus
 - [ ] El contenido sigue la estructura y estilo definidos para la wiki
-- [ ] Defectlog & se checó la checklist departamental
+- [ ] Consulté el Defectlog y se checó la checklist departamental
 
 ## Comentarios adicionales
 <!-- Agrega cualquier contexto extra que el revisor deba conocer -->

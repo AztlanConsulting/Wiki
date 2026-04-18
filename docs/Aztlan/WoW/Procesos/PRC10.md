@@ -97,6 +97,7 @@ Se debe establecer el mecanismo formal mediante el cual se gestionan, documentan
 - Todo cambio en código o documentación debe hacerse vía **Pull Request (PR)**.
 - El PR debe usar la **Plantilla Departamental** y referenciar el ID del requisito, issue o CI relacionado.
 - Los commits deben seguir el estándar: `[TAG] Descripción` (Ej: `[FIX] Corregido error en login`).
+- Tanto para los PR como los commits deberán de estar en el mismo idioma (sea español o ingles).
 - Toda solicitud de cambio aprobada deberá reflejarse también en la [Matriz de Configuración](https://docs.google.com/spreadsheets/d/1IMX2BoLu8kWLdGDLpVG24cqgjZhmaDwYwXS06NG_oJk/edit?gid=0#gid=0), cuando impacte un CI controlado.
 - Las modificaciones a la Wiki departamental también deberán gestionarse mediante PR en GitHub.
 - Cuando se requiera formalizar la petición antes de implementar el cambio, podrá abrirse un issue vinculado al PR.
