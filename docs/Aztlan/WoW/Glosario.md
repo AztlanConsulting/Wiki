@@ -75,6 +75,112 @@ Ejemplos:
 
 ---
 
+### Elemento de Configuración (CI)
+**Definición:** Cualquier producto de trabajo (código fuente, documentos de arquitectura, planes de proyecto, manuales) que ha sido designado para ser colocado bajo control de versiones y gestión formal.
+
+---
+
+### Estado de un Elemento de Configuración
+**Definición:**  
+Situación en la que se encuentra un Elemento de Configuración dentro de su ciclo de vida.  
+En esta Wiki, los estados permitidos son:
+- **En revisión**
+- **Vigente**
+- **Obsoleto**
+
+---
+
+### Nivel de control
+**Definición:**  
+Grado de restricción aplicado a un Elemento de Configuración para determinar cómo puede ser modificado, aprobado o liberado.  
+En esta Wiki, los niveles de control permitidos son:
+- **Dinámico**
+- **Controlado**
+- **Estático**
+
+---
+
+### En revisión
+**Definición:**  
+Estado de un Elemento de Configuración que aún está siendo validado, corregido o evaluado antes de ser aprobado como versión vigente.
+
+---
+
+### Vigente
+**Definición:**  
+Estado de un Elemento de Configuración que ha sido aprobado y es la versión válida para su uso dentro del proyecto o del departamento.
+
+---
+
+### Obsoleto
+**Definición:**  
+Estado de un Elemento de Configuración que ha sido reemplazado o retirado de uso y ya no debe utilizarse como versión actual.
+
+---
+
+### Dinámico
+**Definición:**  
+Nivel de control aplicado a un Elemento de Configuración que se encuentra en edición activa o en construcción, con posibilidad de cambios frecuentes.
+
+---
+
+### Controlado
+**Definición:**  
+Nivel de control aplicado a un Elemento de Configuración que ya fue revisado y solo puede modificarse mediante el flujo formal de cambios.
+
+---
+
+### Estático
+**Definición:**  
+Nivel de control aplicado a un Elemento de Configuración congelado o liberado como referencia oficial, el cual no debe alterarse sin generar una nueva versión o baseline.
+
+---
+
+### Línea Base (Baseline)
+**Definición:** Una especificación o producto que ha sido revisado formalmente y acordado, que sirve como base para un desarrollo posterior, y que puede cambiarse solo a través de procedimientos formales de control de cambios. En nuestro contexto, se materializa mediante *Tags* o *Releases* en GitHub.
+
+---
+
+### Auditoría de Configuración
+**Definición:** Un proceso de verificación para asegurar que los elementos de configuración en un repositorio cumplen con los estándares definidos, están completos y que los cambios realizados fueron debidamente autorizados.
+
+---
+
+### Repositorio
+**Definición:** Espacio de almacenamiento digital (GitHub) donde se resguarda el historial completo de cambios, versiones y ramas de los Elementos de Configuración de un proyecto.
+
+---
+
+### Release
+**Definición:**  
+Versión liberada de un Elemento de Configuración o conjunto de Elementos de Configuración que ha sido revisada y aprobada para su uso.
+
+---
+
+### Tag
+**Definición:**  
+Marcador inmutable en el repositorio que identifica una versión específica liberada o una línea base.
+
+---
+
+### Rollback
+**Definición:**  
+Proceso de regreso a una versión anterior aprobada y liberada cuando una versión actual presenta fallas, inconsistencias o requiere reversión.
+
+---
+
+### develop
+**Definición:**  
+Rama de integración utilizada para consolidar cambios en desarrollo antes de su liberación.
+
+---
+
+### main
+**Definición:**  
+Rama estable o controlada del repositorio que contiene únicamente versiones aprobadas o listas para liberación formal.
+
+---
+
 ## Acrónimos y Abreviaturas
 
 | Acrónimo | Significado completo                    | Descripción breve (opcional) |
@@ -136,3 +242,4 @@ Ejemplos:
 | 1.0     |      Juan Manuel Murillo López      |             |       Plantilla del Glosario con términos iniciales        |    02/03/2026   |
 | 1.1     | Yael Charles Marin |     |  Agregados términos de WBS, SRS y DAD | 06/04/2026 |
 | 1.2     | Fatima Figueroa |     |  Agregados términos de Requisitos, | 15/04/2026 |
+| 1.3 | Mauricio Olguín | | Agregar terminos de Elemento de Configuración, Línea base, Auditoría de Configuración y Repositorio | 12/04/2026 |
